@@ -1,0 +1,418 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a class="current" href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=-ability&allowed_in_frame=0">-ability</a> <a href="http://dictionary.reference.com/search?q=-ability" class="dictionary" title="Look up -ability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ability at Dictionary.com" title="Look up -ability at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element expressing ability, fitness, or capacity, from L. <span class="foreign">-abilitas</span>, forming nouns from adjectives ending in <span class="foreign">-abilis</span> (see <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>). Not etymologically related to <a href="/index.php?term=ability&allowed_in_frame=0" class="crossreference">ability</a>, though popularly connected with it.</dd>
+
+<dt><a href="/index.php?term=-able&allowed_in_frame=0">-able</a> <a href="http://dictionary.reference.com/search?q=-able" class="dictionary" title="Look up -able at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -able at Dictionary.com" title="Look up -able at Dictionary.com" /></a></dt>
+<dd>word-forming element expressing ability, capacity, fitness, from French, from L. <span class="foreign">-ibilis</span>, <span class="foreign">-abilis</span>, forming adjectives from verbs, from PIE <span class="foreign">*-tro-</span>, a suffix used to form nouns of instrument.
+<BR><BR>
+In Latin, infinitives in <span class="foreign">-are</span> took <span class="foreign">-abilis</span>, others <span class="foreign">-ibilis</span>; in English, <span class="foreign">-able</span> is used for native words, <span class="foreign">-ible</span> for words of obvious Latin origin. The Latin suffix is not etymologically connected with <a href="/index.php?term=able&allowed_in_frame=0" class="crossreference">able</a>, but it long has been popularly associated with it, and this has contributed to its survival as a living suffix. It is related to the second syllable of <a href="/index.php?term=rudder&allowed_in_frame=0" class="crossreference">rudder</a> and <a href="/index.php?term=saddle&allowed_in_frame=0" class="crossreference">saddle</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-acea&allowed_in_frame=0">-acea</a> <a href="http://dictionary.reference.com/search?q=-acea" class="dictionary" title="Look up -acea at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -acea at Dictionary.com" title="Look up -acea at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element denoting orders and classes in zoology, from L. <span class="foreign">-acea</span>, neuter plural of <span class="foreign">-aceus</span> "belonging to, of the nature of" (enlarged from adjectival suffix <span class="foreign">-ax</span>, gen. <span class="foreign">-acis</span>); neuter plural because of a presumed <span class="foreign">animalia</span>, a neuter plural noun. Thus, <span class="foreign">crustacea</span> "shellfish" are <span class="foreign">*crustacea animalia</span> "crusty animals." In botany, the suffix is <span class="foreign">-aceae</span>, from the fem. plural of <span class="foreign">-aceus</span>, with reference to L. <span class="foreign">plantae</span>, which is a fem. plural.</dd>
+
+<dt><a href="/index.php?term=-aceous&allowed_in_frame=0">-aceous</a> <a href="http://dictionary.reference.com/search?q=-aceous" class="dictionary" title="Look up -aceous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -aceous at Dictionary.com" title="Look up -aceous at Dictionary.com" /></a></dt>
+<dd>word-forming element denoting "belonging to, of the nature of," from L. <span class="foreign">-aceus</span>, enlarged form of adjectival suffix <span class="foreign">-ax</span> (gen. <span class="foreign">-acis</span>); see <a href="/index.php?term=-acea&allowed_in_frame=0" class="crossreference">-acea</a>. Especially in biology, "pertaining to X order of plants or animals."</dd>
+
+<dt class="highlight"><a href="/index.php?term=-acious&allowed_in_frame=0">-acious</a> <a href="http://dictionary.reference.com/search?q=-acious" class="dictionary" title="Look up -acious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -acious at Dictionary.com" title="Look up -acious at Dictionary.com" /></a></dt>
+<dd class="highlight">adjectival word-forming element meaning "given to, inclined to, abounding in," from L. <span class="foreign">-aci-</span> (nom. <span class="foreign">-ax</span>), noun ending used with verbal stems, + <a href="/index.php?term=-ous&allowed_in_frame=0" class="crossreference">-ous</a>.</dd>
+
+<dt><a href="/index.php?term=-ad&allowed_in_frame=0">-ad</a> <a href="http://dictionary.reference.com/search?q=-ad" class="dictionary" title="Look up -ad at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ad at Dictionary.com" title="Look up -ad at Dictionary.com" /></a></dt>
+<dd>word-forming element denoting collective numerals (cf. <span class="foreign">Olympiad</span>), plant families, and names of poems, from Gk. <span class="foreign">-as</span> (gen. <span class="foreign">-ados</span>), a suffix forming fem. nouns; also used in fem. patronymics (<span class="foreign">Dryad, Naiad</span>, also, in plural, <span class="foreign">Pleiades, Hyades</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ade&allowed_in_frame=0">-ade</a> <a href="http://dictionary.reference.com/search?q=-ade" class="dictionary" title="Look up -ade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ade at Dictionary.com" title="Look up -ade at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element denoting an action or product of an action, from L. <span class="foreign">-ata</span> (source of Fr. <span class="foreign">-ade</span>, Sp. <span class="foreign">-ada</span>, It. <span class="foreign">-ata</span>), fem. pp. ending used in forming nouns. A living prefix in French, from which many words have come into English (e.g. <a href="/index.php?term=lemonade&allowed_in_frame=0" class="crossreference">lemonade</a>). Latin <span class="foreign">-atus</span>, pp. suffix of verbs of the 1st conjugation also became <span class="foreign">-ade</span> in French (Sp. <span class="foreign">-ado</span>, It. <span class="foreign">-ato</span>) and came to be used as a suffix denoting persons or groups participating in an action (e.g. <a href="/index.php?term=brigade&allowed_in_frame=0" class="crossreference">brigade</a>, <a href="/index.php?term=desperado&allowed_in_frame=0" class="crossreference">desperado</a>).   </dd>
+
+<dt><a href="/index.php?term=-ado&allowed_in_frame=0">-ado</a> <a href="http://dictionary.reference.com/search?q=-ado" class="dictionary" title="Look up -ado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ado at Dictionary.com" title="Look up -ado at Dictionary.com" /></a></dt>
+<dd>in <a href="/index.php?term=commando&allowed_in_frame=0" class="crossreference">commando</a>, <a href="/index.php?term=desperado&allowed_in_frame=0" class="crossreference">desperado</a>, <a href="/index.php?term=tornado&allowed_in_frame=0" class="crossreference">tornado</a>, and other words of Spanish and Portuguese origin, "person or group participating in an action," from L. <span class="foreign">-atus</span>, pp. suffix of verbs of the first conjugation (cf. <a href="/index.php?term=-ade&allowed_in_frame=0" class="crossreference">-ade</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ae&allowed_in_frame=0">-ae</a> <a href="http://dictionary.reference.com/search?q=-ae" class="dictionary" title="Look up -ae at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ae at Dictionary.com" title="Look up -ae at Dictionary.com" /></a></dt>
+<dd class="highlight">occasional plural suffix of words ending in <span class="foreign">-a</span>, most of which, in English, are from Latin nominative fem. singular nouns, which in Latin form their plurals in <span class="foreign">-ae</span>. But plurals in <span class="foreign">-s</span> were established early in English for many of them (e.g. <a href="/index.php?term=idea&allowed_in_frame=0" class="crossreference">idea</a>, <a href="/index.php?term=arena&allowed_in_frame=0" class="crossreference">arena</a>) and many have crossed over since. Now it is not possible to insist on purity one way or the other without breeding monsters.</dd>
+
+<dt><a href="/index.php?term=-age&allowed_in_frame=0">-age</a> <a href="http://dictionary.reference.com/search?q=-age" class="dictionary" title="Look up -age at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -age at Dictionary.com" title="Look up -age at Dictionary.com" /></a></dt>
+<dd>word-forming element in nouns of act, process, function, condition, from Old French and French <span class="foreign">-age</span>, from L.L. <span class="foreign">-aticum</span> "belonging to, related to," originally neuter adjectival suffix, from L. <span class="foreign">-atus</span>, pp. suffix of verbs of the first conjugation.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-aholic&allowed_in_frame=0">-aholic</a> <a href="http://dictionary.reference.com/search?q=-aholic" class="dictionary" title="Look up -aholic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -aholic at Dictionary.com" title="Look up -aholic at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element abstracted from <a href="/index.php?term=alcoholic&allowed_in_frame=0" class="crossreference">alcoholic</a>; first in <span class="foreign">sugarholic</span> (1965), <span class="foreign">foodoholic</span> (sic., 1965); later in <span class="foreign">workaholic</span> (1968), <span class="foreign">golfaholic</span> (1971), <span class="foreign">chocoholic</span> (1971), and <span class="foreign">shopaholic</span> (1984).</dd>
+
+<dt><a href="/index.php?term=-al&allowed_in_frame=0">-al (1)</a> <a href="http://dictionary.reference.com/search?q=-al" class="dictionary" title="Look up -al at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -al at Dictionary.com" title="Look up -al at Dictionary.com" /></a></dt>
+<dd>suffix forming adjectives from nouns or other adjectives, "of, like, related to," Middle English <span class="foreign">-al</span>, <span class="foreign">-el</span>, from French or directly from L. <span class="foreign">-alis</span> (see <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=-al&allowed_in_frame=0">-al (2)</a> <a href="http://dictionary.reference.com/search?q=-al" class="dictionary" title="Look up -al at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -al at Dictionary.com" title="Look up -al at Dictionary.com" /></a></dt>
+<dd class="highlight">suffix forming nouns of action from verbs, mostly from Latin and French, meaning "act of ______ing" (e.g. <span class="foreign">survival</span>, <span class="foreign">referral</span>), Middle English <span class="foreign">-aille</span>, from French feminine singular <span class="foreign">-aille</span>, from L. <span class="foreign">-alia</span>, neuter plural of adjective suffix <span class="foreign">-alis</span>, also used in English as a noun suffix. Nativized in English and used with Germanic verbs (e.g. <a href="/index.php?term=bestowal&allowed_in_frame=0" class="crossreference">bestowal</a>, <a href="/index.php?term=betrothal&allowed_in_frame=0" class="crossreference">betrothal</a>).</dd>
+
+<dt><a href="/index.php?term=-al&allowed_in_frame=0">-al (3)</a> <a href="http://dictionary.reference.com/search?q=-al" class="dictionary" title="Look up -al at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -al at Dictionary.com" title="Look up -al at Dictionary.com" /></a></dt>
+<dd>word-forming element in chemistry to indicate "presence of an aldehyde group" (from <a href="/index.php?term=aldehyde&allowed_in_frame=0" class="crossreference">aldehyde</a>). The suffix also is commonly used in forming the names of drugs, often narcotics (e.g. <span class="foreign">barbital</span>), a tendency that apparently began in German and might have been suggested by <a href="/index.php?term=chloral&allowed_in_frame=0" class="crossreference">chloral</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=-algia&allowed_in_frame=0">-algia</a> <a href="http://dictionary.reference.com/search?q=-algia" class="dictionary" title="Look up -algia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -algia at Dictionary.com" title="Look up -algia at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element denoting "pain," from Gk. <span class="foreign">algos</span> "pain," <span class="foreign">algein</span> "to feel pain," of unknown origin. Related to <span class="foreign">alegein</span> "to care about," originally "to feel pain."</dd>
+
+<dt><a href="/index.php?term=-amide&allowed_in_frame=0">-amide</a> <a href="http://dictionary.reference.com/search?q=-amide" class="dictionary" title="Look up -amide at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -amide at Dictionary.com" title="Look up -amide at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">amide</span>, in chemical use, 1850, word-forming element denoting a compound obtained by replacing one hydrogen atom in ammonia with an element or radical, from Fr. <span class="foreign">amide</span>, from <a href="/index.php?term=ammonia&allowed_in_frame=0" class="crossreference">ammonia</a> + <a href="/index.php?term=-ide&allowed_in_frame=0" class="crossreference">-ide</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-an&allowed_in_frame=0">-an</a> <a href="http://dictionary.reference.com/search?q=-an" class="dictionary" title="Look up -an at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -an at Dictionary.com" title="Look up -an at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "pertaining to," from L. <span class="foreign">-anus</span>, in some cases via Fr. <span class="foreign">-ain</span>, <span class="foreign">-en</span>.</dd>
+
+<dt><a href="/index.php?term=-ana&allowed_in_frame=0">-ana</a> <a href="http://dictionary.reference.com/search?q=-ana" class="dictionary" title="Look up -ana at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ana at Dictionary.com" title="Look up -ana at Dictionary.com" /></a></dt>
+<dd>or <span class="foreign">ana</span>, word-forming element denoting "collection of sayings, gossip, etc. connected with a person or place," early 18c., originally the neuter plural ending of Latin adjectives ending in <span class="foreign">-anus</span> "pertaining to," from PIE adjectival suffix <span class="foreign">*-no-</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ance&allowed_in_frame=0">-ance</a> <a href="http://dictionary.reference.com/search?q=-ance" class="dictionary" title="Look up -ance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ance at Dictionary.com" title="Look up -ance at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element attached to verbs to form abstract nouns of process or fact (<span class="foreign">convergence</span> from <span class="foreign">converge</span>), or of state or quality (<span class="foreign">absence</span> from <span class="foreign">absent</span>); ultimately from L. <span class="foreign">-antia</span> and <span class="foreign">-entia</span>, which depended on the vowel in the stem word. As Old French evolved from Latin, these were leveled to <span class="foreign">-ance</span>, but later French borrowings from Latin (some of them subsequently passed to English) used the appropriate Latin form of the ending, as did words borrowed by English directly from Latin (<span class="foreign">diligence, absence</span>). English thus inherited a confused mass of words from French and further confused it since c.1500 by restoring <span class="foreign">-ence</span> selectively in some forms of these words to conform with Latin. Thus <span class="foreign">dependant</span>, but <span class="foreign">independence</span>, etc.</dd>
+
+<dt><a href="/index.php?term=-ancy&allowed_in_frame=0">-ancy</a> <a href="http://dictionary.reference.com/search?q=-ancy" class="dictionary" title="Look up -ancy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ancy at Dictionary.com" title="Look up -ancy at Dictionary.com" /></a></dt>
+<dd>word-forming element denoting quality or state, from L. <span class="foreign">-antia</span>, forming abstract nouns on pp. adjectives in <span class="foreign">-antem</span>, appearing in English mostly in words borrowed directly from Latin (those passing through French usually have <span class="foreign">-ance</span> or <span class="foreign">-ence</span>; see <a href="/index.php?term=-ance&allowed_in_frame=0" class="crossreference">-ance</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ane&allowed_in_frame=0">-ane</a> <a href="http://dictionary.reference.com/search?q=-ane" class="dictionary" title="Look up -ane at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ane at Dictionary.com" title="Look up -ane at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element in chemical use, indicating a chain of carbon atoms with no double bonds, proposed 1866 by German chemist August Wilhelm von Hofmann (1818-1892) to go with <a href="/index.php?term=-ene&allowed_in_frame=0" class="crossreference">-ene</a>, <a href="/index.php?term=-ine&allowed_in_frame=0" class="crossreference">-ine</a> (2), <a href="/index.php?term=-one&allowed_in_frame=0" class="crossreference">-one</a>.</dd>
+
+<dt><a href="/index.php?term=-ant&allowed_in_frame=0">-ant</a> <a href="http://dictionary.reference.com/search?q=-ant" class="dictionary" title="Look up -ant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ant at Dictionary.com" title="Look up -ant at Dictionary.com" /></a></dt>
+<dd>agent or instrumental suffix, from Old French and French <span class="foreign">-ant</span>, from L. <span class="foreign">-antem</span>, accusative of <span class="foreign">-ans</span>, prp. suffix of many Latin verbs.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ar&allowed_in_frame=0">-ar</a> <a href="http://dictionary.reference.com/search?q=-ar" class="dictionary" title="Look up -ar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ar at Dictionary.com" title="Look up -ar at Dictionary.com" /></a></dt>
+<dd class="highlight">word-formation element meaning "pertaining to, of the nature of," from L. <span class="foreign">-arem</span>, <span class="foreign">-aris</span> "of the kind of, belonging to," a secondary form of <span class="foreign">-alis</span>, dissimilated for used after syllables with an <span class="foreign">-l-</span> (e.g. <span class="foreign">insularis</span> for <span class="foreign">*insulalis</span>, <span class="foreign">stellaris</span> for <span class="foreign">*stellalis</span>).</dd>
+
+<dt><a href="/index.php?term=-arch&allowed_in_frame=0">-arch</a> <a href="http://dictionary.reference.com/search?q=-arch" class="dictionary" title="Look up -arch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -arch at Dictionary.com" title="Look up -arch at Dictionary.com" /></a></dt>
+<dd>word-forming element meaning "a ruler," from Gk. <span class="foreign">arkhos</span> "leader, chief, ruler," from <span class="foreign">arkhe</span> "beginning, origin, first place" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=-archy&allowed_in_frame=0">-archy</a> <a href="http://dictionary.reference.com/search?q=-archy" class="dictionary" title="Look up -archy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -archy at Dictionary.com" title="Look up -archy at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "rule," from L. <span class="foreign">-archia</span>, from Gk. <span class="foreign">-arkhia</span> "rule," from <span class="foreign">arkhos</span> "leader, chief, ruler," from <span class="foreign">arkhe</span> "beginning, origin, first place" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>).</dd>
+
+<dt><a href="/index.php?term=-ard&allowed_in_frame=0">-ard</a> <a href="http://dictionary.reference.com/search?q=-ard" class="dictionary" title="Look up -ard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ard at Dictionary.com" title="Look up -ard at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">-art</span>, from O.Fr. <span class="foreign">-ard</span>, <span class="foreign">-art</span>, from Ger. <span class="foreign">-hard</span>, <span class="foreign">-hart</span> "hardy," forming the second element in many personal names, often used as an intensifier, but in Middle High German and Dutch used as a pejorative element in common nouns, and thus passing into Middle English in <a href="/index.php?term=bastard&allowed_in_frame=0" class="crossreference">bastard</a>, <a href="/index.php?term=coward&allowed_in_frame=0" class="crossreference">coward</a>, <span class="foreign">blaffard</span> ("one who stammers"), etc. It thus became a living element in English, e.g. <a href="/index.php?term=buzzard&allowed_in_frame=0" class="crossreference">buzzard</a>, <a href="/index.php?term=drunkard&allowed_in_frame=0" class="crossreference">drunkard</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ary&allowed_in_frame=0">-ary</a> <a href="http://dictionary.reference.com/search?q=-ary" class="dictionary" title="Look up -ary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ary at Dictionary.com" title="Look up -ary at Dictionary.com" /></a></dt>
+<dd class="highlight">adjective and noun suffix, in most cases from L. <span class="foreign">-arius</span>, <span class="foreign">-aria</span>, <span class="foreign">-arium</span> "connected with, pertaining to; the man engaged in," from PIE relational adjective suffix <span class="foreign">*-yo-</span> "of or belonging to." It appears in words borrowed from Latin in Middle English. In later borrowings from Latin to French, it became <span class="foreign">-aire</span> and passed into Middle English as <span class="foreign">-arie</span>, subsequently <span class="foreign">-ary</span>.</dd>
+
+<dt><a href="/index.php?term=-ase&allowed_in_frame=0">-ase</a> <a href="http://dictionary.reference.com/search?q=-ase" class="dictionary" title="Look up -ase at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ase at Dictionary.com" title="Look up -ase at Dictionary.com" /></a></dt>
+<dd>word-forming element used in naming enzymes, from ending of <a href="/index.php?term=diastase&allowed_in_frame=0" class="crossreference">diastase</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ast&allowed_in_frame=0">-ast</a> <a href="http://dictionary.reference.com/search?q=-ast" class="dictionary" title="Look up -ast at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ast at Dictionary.com" title="Look up -ast at Dictionary.com" /></a></dt>
+<dd class="highlight">agential suffix, cognate with <span class="foreign">-ist</span>, from Fr. <span class="foreign">-ast</span>, from L. <span class="foreign">-asta</span>, from Gk. <span class="foreign">-astes</span>.</dd>
+
+<dt><a href="/index.php?term=-aster&allowed_in_frame=0">-aster</a> <a href="http://dictionary.reference.com/search?q=-aster" class="dictionary" title="Look up -aster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -aster at Dictionary.com" title="Look up -aster at Dictionary.com" /></a></dt>
+<dd>word-forming element expressing incomplete resemblance (e.g. <span class="foreign">poetaster</span>), usually diminutive and deprecatory, from Latin, from Gk. <span class="foreign">-aster</span>, suffix originally forming nouns from verbs ending in <span class="foreign">-azein</span>, later generalized as a pejorative suffix, e.g. Gk. <span class="foreign">patraster</span> "he who plays the father."</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ate&allowed_in_frame=0">-ate (1)</a> <a href="http://dictionary.reference.com/search?q=-ate" class="dictionary" title="Look up -ate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ate at Dictionary.com" title="Look up -ate at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element used in forming nouns from Latin words ending in <span class="foreign">-atus</span>, <span class="foreign">-atum</span> (e.g. <a href="/index.php?term=estate&allowed_in_frame=0" class="crossreference">estate</a>, <a href="/index.php?term=primate&allowed_in_frame=0" class="crossreference">primate</a>, <a href="/index.php?term=senate&allowed_in_frame=0" class="crossreference">senate</a>). Those that came to English via Old and Middle French often arrived with <span class="foreign">-at</span>, but an <span class="foreign">-e</span> was added after c.1400 to indicate the long vowel.
+<BR><BR>
+The suffix also can mark adjectives, formed from Latin past participals in <span class="foreign">-atus</span>, <span class="foreign">-ata</span> (e.g. <span class="foreign">desolate</span>, <span class="foreign">moderate</span>, <span class="foreign">separate</span>), again, they often were adopted in Middle English as <span class="foreign">-at</span>, with an <span class="foreign">-e</span> appended after c.1400.</dd>
+
+<dt><a href="/index.php?term=-ate&allowed_in_frame=0">-ate (2)</a> <a href="http://dictionary.reference.com/search?q=-ate" class="dictionary" title="Look up -ate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ate at Dictionary.com" title="Look up -ate at Dictionary.com" /></a></dt>
+<dd>verbal suffix for Latin verbs in <span class="foreign">-are</span>, identical with <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a> (1). Old English commonly made verbs from adjectives by adding a verbal ending to the word (e.g. <span class="foreign">gnornian</span> "be sad, mourn," <span class="foreign">gnorn</span> "sad, depressed"), but as the inflections wore off English words in late Old and early Middle English, there came to be no difference between the adjective and the verb in <a href="/index.php?term=dry&allowed_in_frame=0" class="crossreference">dry</a>, <a href="/index.php?term=empty&allowed_in_frame=0" class="crossreference">empty</a>, <a href="/index.php?term=warm&allowed_in_frame=0" class="crossreference">warm</a>, etc. Thus accustomed to the identity of adjectival and verbal forms of a word, the English, when they began to expand their Latin-based vocabulary after c.1500, simply made verbs from Latin past-participial adjectives without changing their form (e.g. <span class="foreign">aggravate</span>, <span class="foreign">substantiate</span>) and it became the custom that Latin verbs were anglicized from their past participle stems.</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ate&allowed_in_frame=0">-ate (3)</a> <a href="http://dictionary.reference.com/search?q=-ate" class="dictionary" title="Look up -ate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ate at Dictionary.com" title="Look up -ate at Dictionary.com" /></a></dt>
+<dd class="highlight">in chemistry, word-forming element used to form the names of salts from acids in <span class="foreign">-ic</span>; from L. <span class="foreign">-atus</span>, <span class="foreign">-atum</span>, suffix used in forming adjectives and thence nouns; identical with <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a> (1).
+<blockquote>
+The substance formed, for example, by the action of acetic acid (vinegar) on lead was described in the 18th century as <span class="foreign">plumbum acetatum</span>, i.e. acetated lead. <span class="foreign">Acetatum</span> was then taken as a noun meaning "the acetated (product)," i.e. <span class="foreign">acetate</span>. [W.E. Flood, "The Origins of Chemical Names," London, 1963]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=-athon&allowed_in_frame=0">-athon</a> <a href="http://dictionary.reference.com/search?q=-athon" class="dictionary" title="Look up -athon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -athon at Dictionary.com" title="Look up -athon at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">-thon</span>, word-forming element denoting prolonged activity and usually some measure of endurance, abstracted from <a href="/index.php?term=marathon&allowed_in_frame=0" class="crossreference">marathon</a>. E.g. <span class="foreign">walkathon</span> (1931), <span class="foreign">skatathon</span> (1933); <span class="foreign">talkathon</span> (1948); <a href="/index.php?term=telethon&allowed_in_frame=0" class="crossreference">telethon</a> (1949).
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=-ation&allowed_in_frame=0">-ation</a> <a href="http://dictionary.reference.com/search?q=-ation" class="dictionary" title="Look up -ation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ation at Dictionary.com" title="Look up -ation at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element for making nouns of action; see <a href="/index.php?term=-ion&allowed_in_frame=0" class="crossreference">-ion</a>.</dd>
+
+<dt><a href="/index.php?term=-ative&allowed_in_frame=0">-ative</a> <a href="http://dictionary.reference.com/search?q=-ative" class="dictionary" title="Look up -ative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up -ative at Dictionary.com" title="Look up -ative at Dictionary.com" /></a></dt>
+<dd>word-forming element meaning "of or related to; tending to," from L. <span class="foreign">-ativus</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=a&allowed_in_frame=0">a (1)</a> <a href="http://dictionary.reference.com/search?q=a" class="dictionary" title="Look up a at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a at Dictionary.com" title="Look up a at Dictionary.com" /></a></dt>
+<dd class="highlight">indefinite article, mid-12c., a variation of O.E. <span class="foreign">an</span> (see <a href="/index.php?term=an&allowed_in_frame=0" class="crossreference">an</a>) in which the <span class="foreign">-n-</span> began to disappear before consonants, a process mostly complete by mid-14c. The <span class="foreign">-n-</span> also was retained before words beginning with a sounded <span class="foreign">-h-</span> until c.1600; it still is retained by many writers before unaccented syllables in <span class="foreign">h-</span> or <span class="foreign">(e)u-,</span> but is now no longer normally spoken as such. The <span class="foreign">-n-</span> also lingered (especially in southern England dialect) before <span class="foreign">-w-</span> and <span class="foreign">-y-</span> through 15c.</dd>
+
+<dt><a href="/index.php?term=a&allowed_in_frame=0">a (2)</a> <a href="http://dictionary.reference.com/search?q=a" class="dictionary" title="Look up a at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a at Dictionary.com" title="Look up a at Dictionary.com" /></a></dt>
+<dd>as in <span class="foreign">twice a day,</span> etc., from O.E. <span class="foreign">an</span> "on," in this case "on each." The sense was extended from time to measure, price, place, etc. The habit of tacking <span class="foreign">a</span> onto a gerund (as in <span class="foreign">a-hunting we will go</span>) died out 18c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=a+capella&allowed_in_frame=0">a capella</a> <a href="http://dictionary.reference.com/search?q=a+capella" class="dictionary" title="Look up a capella at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a capella at Dictionary.com" title="Look up a capella at Dictionary.com" /></a></dt>
+<dd class="highlight">1876, earlier <span class="foreign">alla capella</span> (1847), from Italian, "in the manner of the chapel," lit. "according to the chapel," from <span class="foreign">cappella</span> "chapel" (see <a href="/index.php?term=chapel&allowed_in_frame=0" class="crossreference">chapel</a>). Originally in reference to older church music (pre-1600) which was written for unaccompanied voices; applied 20c. to unaccompanied vocal music generally.</dd>
+
+<dt><a href="/index.php?term=a+deux&allowed_in_frame=0">a deux</a> <a href="http://dictionary.reference.com/search?q=a+deux" class="dictionary" title="Look up a deux at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a deux at Dictionary.com" title="Look up a deux at Dictionary.com" /></a></dt>
+<dd>French, <span class="foreign">&agrave; deux</span>, lit. "for two" (see <a href="/index.php?term=deuce&allowed_in_frame=0" class="crossreference">deuce</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=a+la&allowed_in_frame=0">a la</a> <a href="http://dictionary.reference.com/search?q=a+la" class="dictionary" title="Look up a la at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a la at Dictionary.com" title="Look up a la at Dictionary.com" /></a></dt>
+<dd class="highlight">from Fr. <span class="foreign">&agrave; la</span>, "in the manner of;" used in English in French terms from fashion or cookery since late 16c.; used in native formations with English words or names from c.1800 (first attested in Jane Austen).</dd>
+
+<dt><a href="/index.php?term=a+la+carte&allowed_in_frame=0">a la carte</a> <a href="http://dictionary.reference.com/search?q=a+la+carte" class="dictionary" title="Look up a la carte at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a la carte at Dictionary.com" title="Look up a la carte at Dictionary.com" /></a></dt>
+<dd>1826, from Fr. <span class="foreign">&agrave; la carte</span>, lit. "by the card" (see <a href="/index.php?term=card&allowed_in_frame=0" class="crossreference">card</a> (n.)); in other words, "ordered by separate items." Distinguished from <span class="foreign">a table d'h&ocirc;te</span>, meal served at a fixed, inclusive price.</dd>
+
+<dt class="highlight"><a href="/index.php?term=a+la+mode&allowed_in_frame=0">a la mode</a> <a href="http://dictionary.reference.com/search?q=a+la+mode" class="dictionary" title="Look up a la mode at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a la mode at Dictionary.com" title="Look up a la mode at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from Fr. <span class="foreign">&agrave; la mode</span> (15c.), lit. "in the fashion" (see <a href="/index.php?term=mode&allowed_in_frame=0" class="crossreference">mode</a> (2)). In 17c., sometimes nativized as <span class="foreign">all-a-mode</span>. Cookery sense of a dessert served with ice cream is 1903, American English.</dd>
+
+<dt><a href="/index.php?term=a+posteriori&allowed_in_frame=0">a posteriori</a> <a href="http://dictionary.reference.com/search?q=a+posteriori" class="dictionary" title="Look up a posteriori at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a posteriori at Dictionary.com" title="Look up a posteriori at Dictionary.com" /></a></dt>
+<dd>Latin, literally "from what comes after" (see <a href="/index.php?term=posterior&allowed_in_frame=0" class="crossreference">posterior</a>). </dd>
+
+<dt class="highlight"><a href="/index.php?term=a+priori&allowed_in_frame=0">a priori</a> <a href="http://dictionary.reference.com/search?q=a+priori" class="dictionary" title="Look up a priori at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a priori at Dictionary.com" title="Look up a priori at Dictionary.com" /></a></dt>
+<dd class="highlight">1710, "from cause to effect" (a logical term, in reference to reasoning), Latin, lit. "from what comes first," from <span class="foreign">priori</span>, ablative of <span class="foreign">prior</span> "first" (see <a href="/index.php?term=prior&allowed_in_frame=0" class="crossreference">prior</a> (adj.)). Used loosely for "in accordance with previous knowledge" (1834).</dd>
+
+<dt><a href="/index.php?term=A%26P&allowed_in_frame=0">A&amp;P</a> <a href="http://dictionary.reference.com/search?q=A%26P" class="dictionary" title="Look up A&amp;P at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up A&amp;P at Dictionary.com" title="Look up A&amp;P at Dictionary.com" /></a></dt>
+<dd>U.S. grocery chain, originally <span class="foreign">The Great Atlantic and Pacific Tea Company,</span> founded 1859 by George Huntington Hartford and George Gilman.</dd>
+
+<dt class="highlight"><a href="/index.php?term=a-&allowed_in_frame=0">a- (1)</a> <a href="http://dictionary.reference.com/search?q=a-" class="dictionary" title="Look up a- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a- at Dictionary.com" title="Look up a- at Dictionary.com" /></a></dt>
+<dd class="highlight">in native (derived from Old English) words, it most commonly represents O.E. <span class="foreign">an</span> "on" (see <a href="/index.php?term=a&allowed_in_frame=0" class="crossreference">a</a> (2)), as in <span class="foreign">alive</span>, <span class="foreign">asleep</span>, <span class="foreign">abroad</span>, <span class="foreign">afoot</span>, etc., forming adjectives and adverbs from nouns; but it also can be Middle English <span class="foreign">of</span>, as in <span class="foreign">anew</span>, <span class="foreign">abreast</span> (1590s); or a reduced form of Old English past participle prefix <span class="foreign">ge-</span>, as in <span class="foreign">aware</span>; or the Old English intensive <span class="foreign">a-</span>, as in <span class="foreign">arise</span>, <span class="foreign">awake</span>, <span class="foreign">ashame</span>, marking a verb as momentary, a single event. In words from Romanic languages, often it represents L. <span class="foreign">ad-</span> "to, at."<blockquote>[I]t naturally happened that all these <span class="foreign">a-</span> prefixes were at length confusedly lumped together in idea, and the resultant <span class="foreign">a-</span> looked upon as vaguely intensive, rhetorical, euphonic, or even archaic, and wholly otiose. [OED]</blockquote></dd>
+
+<dt><a href="/index.php?term=a-&allowed_in_frame=0">a- (2)</a> <a href="http://dictionary.reference.com/search?q=a-" class="dictionary" title="Look up a- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a- at Dictionary.com" title="Look up a- at Dictionary.com" /></a></dt>
+<dd>prefix meaning "not," from L. <span class="foreign">a-</span>, short for <span class="foreign">ab</span> "away from" (e.g. <span class="foreign">avert</span>), or its cognate, Gk. <span class="foreign">a-</span>, short for <span class="foreign">apo</span> "away from, from," both cognate with Skt. <span class="foreign">apa</span> "away from," Goth. <span class="foreign">af</span>, O.E. <span class="foreign">of</span> (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=a-&allowed_in_frame=0">a- (3)</a> <a href="http://dictionary.reference.com/search?q=a-" class="dictionary" title="Look up a- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up a- at Dictionary.com" title="Look up a- at Dictionary.com" /></a></dt>
+<dd class="highlight">prefix meaning "not," from Gk. <span class="foreign">a-, an-</span> "not," from PIE root <span class="foreign">*ne</span> "not" (see <a href="/index.php?term=un-&allowed_in_frame=0" class="crossreference">un-</a>).</dd>
+
+<dt><a href="/index.php?term=A-1&allowed_in_frame=0">A-1</a> <a href="http://dictionary.reference.com/search?q=A-1" class="dictionary" title="Look up A-1 at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up A-1 at Dictionary.com" title="Look up A-1 at Dictionary.com" /></a></dt>
+<dd>in figurative sense of "first-rate," 1837, in Dickens; from Lloyd's of London designation for ships in first-class condition (with the letter referring to the condition of the ship and the number to that of the stores).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a class="current" href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657868 -->
+<!-- Page was generated in 0.157634 seconds. -->
+ </body>
+</html>
+<!-- -->

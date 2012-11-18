@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=peddler&allowed_in_frame=0">peddler (n.)</a> <a href="http://dictionary.reference.com/search?q=peddler" class="dictionary" title="Look up peddler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peddler at Dictionary.com" title="Look up peddler at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c. (c.1300 as a surname, <span class="foreign">Will. Le Pedelare</span>), from <span class="foreign">peoddere</span>, <span class="foreign">peddere</span> (c.1200, mid-12c. as a surname), of unknown origin. It has the appearance of an agent noun, but no corresponding verb is attested in Middle English. Perhaps a dim. of <span class="foreign">ped</span> "panier, basket," also of unknown origin, but this is attested only from late 14c. <span class="foreign">Pedlar</span>, preferred spelling in U.K., is attested from late 14c.</dd>
+
+<dt><a href="/index.php?term=pederast&allowed_in_frame=0">pederast (n.)</a> <a href="http://dictionary.reference.com/search?q=pederast" class="dictionary" title="Look up pederast at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pederast at Dictionary.com" title="Look up pederast at Dictionary.com" /></a></dt>
+<dd>1730s, from Fr. <span class="foreign">p&eacute;d&eacute;raste</span>, from L. <span class="foreign">paederasta</span>, from Gk. <span class="foreign">paiderastes</span> "a lover of boys" (see <a href="/index.php?term=pederasty&allowed_in_frame=0" class="crossreference">pederasty</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pederasty&allowed_in_frame=0">pederasty (n.)</a> <a href="http://dictionary.reference.com/search?q=pederasty" class="dictionary" title="Look up pederasty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pederasty at Dictionary.com" title="Look up pederasty at Dictionary.com" /></a></dt>
+<dd class="highlight">"sodomy of a man with a boy," c.1600, Fr. <span class="foreign">p&#233;d&#233;rastie</span> or directly from Mod.L. <span class="foreign">p&aelig;derastia</span>, from Gk. <span class="foreign">paiderastia</span> "love of boys," from <span class="foreign">paiderastes</span> "pederast, lover of boys," from <span class="foreign">pais</span> (gen. <span class="foreign">paidos</span>) "child, boy" (see <a href="/index.php?term=pedo-&allowed_in_frame=0" class="crossreference">pedo-</a>) + <span class="foreign">erastes</span> "lover," from <span class="foreign">erasthai</span> "to love" (see <a href="/index.php?term=Eros&allowed_in_frame=0" class="crossreference">Eros</a>).</dd>
+
+<dt><a href="/index.php?term=pedestal&allowed_in_frame=0">pedestal (n.)</a> <a href="http://dictionary.reference.com/search?q=pedestal" class="dictionary" title="Look up pedestal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedestal at Dictionary.com" title="Look up pedestal at Dictionary.com" /></a></dt>
+<dd>1560s, "base supporting a column, statue, etc.," from M.Fr. <span class="foreign">pi&eacute;destal</span> (1540s), from It. <span class="foreign">piedistallo</span> "base of a pillar," from <span class="foreign">pie</span> "foot" + <span class="foreign">di</span> "of" + <span class="foreign">stallo</span> "stall, place, seat," from a Germanic source (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). Spelling in English influenced by L. <span class="foreign">pedem</span> "foot."  An Old English word for it was <span class="foreign">fotstan</span>, lit. "foot-stone." Figurative sense of <span class="foreign">put (someone) on a pedestal</span> "regard as highly admirable" is attested from 1859.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedestrian&allowed_in_frame=0">pedestrian (adj.)</a> <a href="http://dictionary.reference.com/search?q=pedestrian" class="dictionary" title="Look up pedestrian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedestrian at Dictionary.com" title="Look up pedestrian at Dictionary.com" /></a></dt>
+<dd class="highlight">1716, "prosaic, dull" (of writing), from L. <span class="foreign">pedester</span> (gen. <span class="foreign">pedestris</span>) "plain, not versified, prosaic," lit. "on foot" (sense contrasted with <span class="foreign">equester</span> "on horseback"), from <span class="foreign">pedes</span> "one who goes on foot," from <span class="foreign">pes</span> (gen. <span class="foreign">pedis</span>) "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)). Meaning "going on foot" is first attested 1791 in English (it also was a sense of L. <span class="foreign">pedester</span>). The earlier adjective in English was <span class="foreign">pedestrial</span> (1610s).</dd>
+
+<dt><a href="/index.php?term=pedestrian&allowed_in_frame=0">pedestrian (n.)</a> <a href="http://dictionary.reference.com/search?q=pedestrian" class="dictionary" title="Look up pedestrian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedestrian at Dictionary.com" title="Look up pedestrian at Dictionary.com" /></a></dt>
+<dd>"walker," 1793, from <a href="/index.php?term=pedestrian&allowed_in_frame=0" class="crossreference">pedestrian</a> (adj.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pediatric&allowed_in_frame=0">pediatric (adj.)</a> <a href="http://dictionary.reference.com/search?q=pediatric" class="dictionary" title="Look up pediatric at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pediatric at Dictionary.com" title="Look up pediatric at Dictionary.com" /></a></dt>
+<dd class="highlight">1849, from Gk. <span class="foreign">paid-</span>, stem of <span class="foreign">pais</span> "child" (cf. <a href="/index.php?term=pedo-&allowed_in_frame=0" class="crossreference">pedo-</a>) + <a href="/index.php?term=-iatric&allowed_in_frame=0" class="crossreference">-iatric</a>.
+</dd>
+
+<dt><a href="/index.php?term=pediatrician&allowed_in_frame=0">pediatrician (n.)</a> <a href="http://dictionary.reference.com/search?q=pediatrician" class="dictionary" title="Look up pediatrician at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pediatrician at Dictionary.com" title="Look up pediatrician at Dictionary.com" /></a></dt>
+<dd>1884, from <a href="/index.php?term=pediatric&allowed_in_frame=0" class="crossreference">pediatric</a> + <a href="/index.php?term=-ian&allowed_in_frame=0" class="crossreference">-ian</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pediatrics&allowed_in_frame=0">pediatrics (n.)</a> <a href="http://dictionary.reference.com/search?q=pediatrics" class="dictionary" title="Look up pediatrics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pediatrics at Dictionary.com" title="Look up pediatrics at Dictionary.com" /></a></dt>
+<dd class="highlight">1884; from <a href="/index.php?term=pediatric&allowed_in_frame=0" class="crossreference">pediatric</a>; see <a href="/index.php?term=-ics&allowed_in_frame=0" class="crossreference">-ics</a>.</dd>
+
+<dt><a href="/index.php?term=pedicel&allowed_in_frame=0">pedicel (n.)</a> <a href="http://dictionary.reference.com/search?q=pedicel" class="dictionary" title="Look up pedicel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedicel at Dictionary.com" title="Look up pedicel at Dictionary.com" /></a></dt>
+<dd>1670s, from Mod.L. <span class="foreign">pedicellus</span>, dim. of <span class="foreign">pediculus</span> (see <a href="/index.php?term=pedicle&allowed_in_frame=0" class="crossreference">pedicle</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedicle&allowed_in_frame=0">pedicle (n.)</a> <a href="http://dictionary.reference.com/search?q=pedicle" class="dictionary" title="Look up pedicle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedicle at Dictionary.com" title="Look up pedicle at Dictionary.com" /></a></dt>
+<dd class="highlight">"footstalk of a plant," 1620s, from L. <span class="foreign">pediculus</span> "footstalk, little foot," dim. of  <span class="foreign">pedem</span> (nom. <span class="foreign">pes</span>) "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=pediculosis&allowed_in_frame=0">pediculosis (n.)</a> <a href="http://dictionary.reference.com/search?q=pediculosis" class="dictionary" title="Look up pediculosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pediculosis at Dictionary.com" title="Look up pediculosis at Dictionary.com" /></a></dt>
+<dd>"lice infestation," 1809, with <a href="/index.php?term=-osis&allowed_in_frame=0" class="crossreference">-osis</a> + <span class="foreign">pediculus</span>, dim. of <span class="foreign">pedis</span> "a louse," said in some sources to be akin to <span class="foreign">pedere</span> "to break wind" (see <a href="/index.php?term=petard&allowed_in_frame=0" class="crossreference">petard</a>) on notion of "foul-smelling insect" [Watkins].</dd>
+
+<dt class="highlight"><a href="/index.php?term=pediculous&allowed_in_frame=0">pediculous (adj.)</a> <a href="http://dictionary.reference.com/search?q=pediculous" class="dictionary" title="Look up pediculous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pediculous at Dictionary.com" title="Look up pediculous at Dictionary.com" /></a></dt>
+<dd class="highlight">"infested with lice; pertaining to lice," 1540s, from L. <span class="foreign">pediculosus</span>, from <span class="foreign">pediculus</span> "louse" (see <a href="/index.php?term=pediculosis&allowed_in_frame=0" class="crossreference">pediculosis</a>).</dd>
+
+<dt><a href="/index.php?term=pedicure&allowed_in_frame=0">pedicure (n.)</a> <a href="http://dictionary.reference.com/search?q=pedicure" class="dictionary" title="Look up pedicure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedicure at Dictionary.com" title="Look up pedicure at Dictionary.com" /></a></dt>
+<dd>1839, "one whose business is surgical care of feet" (removal of corns, bunions, etc.), from Fr. <span class="foreign">p&eacute;dicure</span>, from L. <span class="foreign">pes</span> (gen. <span class="foreign">pedis</span>) "foot"  (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)) + <span class="foreign">curare</span> "to care for," from <span class="foreign">cura</span> (see <a href="/index.php?term=care&allowed_in_frame=0" class="crossreference">care</a>). In reference to the treatment itself, attested from 1890; specifically as a beauty treatment, from 1900.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedigree&allowed_in_frame=0">pedigree (n.)</a> <a href="http://dictionary.reference.com/search?q=pedigree" class="dictionary" title="Look up pedigree at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedigree at Dictionary.com" title="Look up pedigree at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "genealogical table or chart," from Anglo-Fr. <span class="foreign">pe de gru</span>, a variant of O.Fr. <span class="foreign">pied de gru</span> "foot of a crane," from L. <span class="foreign">pedem</span> accusative of <span class="foreign">pes</span> "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)) + <span class="foreign">gruem</span> (nom. <span class="foreign">grus</span>) "crane," cognate with Gk. <span class="foreign">geranos</span>, O.E. <span class="foreign">cran</span>; see <a href="/index.php?term=crane&allowed_in_frame=0" class="crossreference">crane</a> (n.)). On old manuscripts, "descent" was indicated by a forked sign resembling the branching lines of a genealogical chart; the sign also happened to look like a bird's footprint. Form influenced in Middle English by association with <span class="foreign">degree</span>. Meaning "ancestral line" is mid-15c.; of animals, c.1600. Related: <span class="foreign">Pedigreed</span>.</dd>
+
+<dt><a href="/index.php?term=pediment&allowed_in_frame=0">pediment (n.)</a> <a href="http://dictionary.reference.com/search?q=pediment" class="dictionary" title="Look up pediment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pediment at Dictionary.com" title="Look up pediment at Dictionary.com" /></a></dt>
+<dd>triangular part of the facade of a Greek-style building, 1660s, alteration of <span class="foreign">periment</span>, <span class="foreign">peremint</span> (1590s), of unknown origin, "said to be a workmen's term" [OED]; probably a dialectal garbling of <a href="/index.php?term=pyramid&allowed_in_frame=0" class="crossreference">pyramid</a>, the connection perhaps being the triangular shape. Sometimes associated with <span class="foreign">ped-</span> "foot." Other possibilities include L. <span class="foreign">pedamentum</span> "vine-stalk, prop," and It. <span class="foreign">pedamento</span>, which at the time this word entered English meant "foundation, basework, footing." Meaning "base, foundation" is from 1726, by inflience of L. <span class="foreign">pedem</span> "foot."</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedo-&allowed_in_frame=0">pedo-</a> <a href="http://dictionary.reference.com/search?q=pedo-" class="dictionary" title="Look up pedo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedo- at Dictionary.com" title="Look up pedo- at Dictionary.com" /></a></dt>
+<dd class="highlight">before vowels <span class="foreign">ped-</span>, word-forming element meaning "boy, child," from Gk. <span class="foreign">pedo-</span>, comb. form of <span class="foreign">pais</span> "boy, child," especially a son, from PIE root <span class="foreign">*peu-</span> "small, little, few, young" (see <a href="/index.php?term=few&allowed_in_frame=0" class="crossreference">few</a> (adj.)). The British form <span class="foreign">paed-</span> is better because it avoids confusion with <span class="foreign">ped-</span>.</dd>
+
+<dt><a href="/index.php?term=pedology&allowed_in_frame=0">pedology (n.)</a> <a href="http://dictionary.reference.com/search?q=pedology" class="dictionary" title="Look up pedology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedology at Dictionary.com" title="Look up pedology at Dictionary.com" /></a></dt>
+<dd>"scientific study of the soil," 1924, from Gk. <span class="foreign">pedon</span> "ground, earth," from PIE root <span class="foreign">*ped-</span> (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)) + <a href="/index.php?term=-logy&allowed_in_frame=0" class="crossreference">-logy</a>. Related: <span class="foreign">Pedological</span>. Earlier it was a word for "the study of children" (1894), from <a href="/index.php?term=pedo-&allowed_in_frame=0" class="crossreference">pedo-</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedometer&allowed_in_frame=0">pedometer (n.)</a> <a href="http://dictionary.reference.com/search?q=pedometer" class="dictionary" title="Look up pedometer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedometer at Dictionary.com" title="Look up pedometer at Dictionary.com" /></a></dt>
+<dd class="highlight">instrument for measuring distances covered by a walker, 1723, from Fr. <span class="foreign">p&eacute;dom&egrave;tre</span> (1712), a hybrid coined from L. <span class="foreign">pedis</span> (gen. of <span class="foreign">pes</span> "foot;" see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)) + Gk. <span class="foreign">metron</span> (see <a href="/index.php?term=-meter&allowed_in_frame=0" class="crossreference">-meter</a>). At first Englished as <span class="foreign">waywiser</span>.</dd>
+
+<dt><a href="/index.php?term=pedophile&allowed_in_frame=0">pedophile (n.)</a> <a href="http://dictionary.reference.com/search?q=pedophile" class="dictionary" title="Look up pedophile at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedophile at Dictionary.com" title="Look up pedophile at Dictionary.com" /></a></dt>
+<dd>1951, derived noun from <a href="/index.php?term=pedophilia&allowed_in_frame=0" class="crossreference">pedophilia</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedophilia&allowed_in_frame=0">pedophilia (n.)</a> <a href="http://dictionary.reference.com/search?q=pedophilia" class="dictionary" title="Look up pedophilia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedophilia at Dictionary.com" title="Look up pedophilia at Dictionary.com" /></a></dt>
+<dd class="highlight">1900, from Gk. <span class="foreign">pais</span> (gen. <span class="foreign">paidos</span>) "child" (see <a href="/index.php?term=pedo-&allowed_in_frame=0" class="crossreference">pedo-</a>) + <span class="foreign">philos</span> "loving" see <a href="/index.php?term=-phile&allowed_in_frame=0" class="crossreference">-phile</a>). First attested in an abstract of a report by Krafft-Ebing.</dd>
+
+<dt><a href="/index.php?term=pedophiliac&allowed_in_frame=0">pedophiliac (adj.)</a> <a href="http://dictionary.reference.com/search?q=pedophiliac" class="dictionary" title="Look up pedophiliac at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedophiliac at Dictionary.com" title="Look up pedophiliac at Dictionary.com" /></a></dt>
+<dd>1951, from <a href="/index.php?term=pedophilia&allowed_in_frame=0" class="crossreference">pedophilia</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedophilic&allowed_in_frame=0">pedophilic (adj.)</a> <a href="http://dictionary.reference.com/search?q=pedophilic" class="dictionary" title="Look up pedophilic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedophilic at Dictionary.com" title="Look up pedophilic at Dictionary.com" /></a></dt>
+<dd class="highlight">1920, from <a href="/index.php?term=pedophilia&allowed_in_frame=0" class="crossreference">pedophilia</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt><a href="/index.php?term=peduncle&allowed_in_frame=0">peduncle (n.)</a> <a href="http://dictionary.reference.com/search?q=peduncle" class="dictionary" title="Look up peduncle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peduncle at Dictionary.com" title="Look up peduncle at Dictionary.com" /></a></dt>
+<dd>1753, from Mod.L. <span class="foreign">pedunculus</span> "footstalk," dim. of <span class="foreign">pes</span> (gen. <span class="foreign">pedis</span>) "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pedunculated&allowed_in_frame=0">pedunculated (adj.)</a> <a href="http://dictionary.reference.com/search?q=pedunculated" class="dictionary" title="Look up pedunculated at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pedunculated at Dictionary.com" title="Look up pedunculated at Dictionary.com" /></a></dt>
+<dd class="highlight">1752, from Mod.L. <span class="foreign">pedunculatus</span>, from <span class="foreign">pedunculus</span> (see <a href="/index.php?term=peduncle&allowed_in_frame=0" class="crossreference">peduncle</a>).</dd>
+
+<dt><a href="/index.php?term=pee&allowed_in_frame=0">pee (v.)</a> <a href="http://dictionary.reference.com/search?q=pee" class="dictionary" title="Look up pee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pee at Dictionary.com" title="Look up pee at Dictionary.com" /></a></dt>
+<dd>1788, "to spray with urine," euphemistic abbreviation of <a href="/index.php?term=piss&allowed_in_frame=0" class="crossreference">piss</a>. Meaning "to urinate" is from 1879. Related: <span class="foreign">Peed</span>; <span class="foreign">peeing</span>. Noun meaning "act of urination" is attested from 1902; as "urine" from 1961. Reduplicated form <span class="foreign">pee-pee</span> is attested from 1923.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peek&allowed_in_frame=0">peek (v.)</a> <a href="http://dictionary.reference.com/search?q=peek" class="dictionary" title="Look up peek at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peek at Dictionary.com" title="Look up peek at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">piken</span> "look quickly and slyly," of unknown origin. The words <span class="foreign">peek, keek,</span> and <span class="foreign">peep</span> all were used with more or less the same meaning 14c.-15c.; perhaps the ultimate source was M.Du. <span class="foreign">kieken</span>. Related: <span class="foreign">Peeked</span>; <span class="foreign">peeking</span>.</dd>
+
+<dt><a href="/index.php?term=peek&allowed_in_frame=0">peek (n.)</a> <a href="http://dictionary.reference.com/search?q=peek" class="dictionary" title="Look up peek at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peek at Dictionary.com" title="Look up peek at Dictionary.com" /></a></dt>
+<dd>"a peek, glance," 1844, from <a href="/index.php?term=peek&allowed_in_frame=0" class="crossreference">peek</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peekaboo&allowed_in_frame=0">peekaboo (n.)</a> <a href="http://dictionary.reference.com/search?q=peekaboo" class="dictionary" title="Look up peekaboo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peekaboo at Dictionary.com" title="Look up peekaboo at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">peek-a-boo</span>, as a children's game attested from 1590s; as an adjective meaning "see-through, open," it dates from 1895. From <a href="/index.php?term=peek&allowed_in_frame=0" class="crossreference">peek</a> (v.) + <a href="/index.php?term=boo&allowed_in_frame=0" class="crossreference">boo</a>.</dd>
+
+<dt><a href="/index.php?term=peel&allowed_in_frame=0">peel (v.)</a> <a href="http://dictionary.reference.com/search?q=peel" class="dictionary" title="Look up peel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peel at Dictionary.com" title="Look up peel at Dictionary.com" /></a></dt>
+<dd>"to strip off," developed from O.E. <span class="foreign">pilian</span> "to peel, skin, decorticate, strip the skin or ring," and O.Fr. <span class="foreign">pillier</span>, both from L. <span class="foreign">pilare</span> "to strip of hair," from <span class="foreign">pilus</span> "hair" (see <a href="/index.php?term=pile&allowed_in_frame=0" class="crossreference">pile</a> (n.3)). Probably also influenced by L. <span class="foreign">pellis</span> "skin, hide." Related: <span class="foreign">Peeled</span>; <span class="foreign">peeling</span>. Figurative expression <span class="foreign">keep (one's) eyes peeled</span> be observant, be on the alert" is from 1853, American English.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peel&allowed_in_frame=0">peel (n.2)</a> <a href="http://dictionary.reference.com/search?q=peel" class="dictionary" title="Look up peel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peel at Dictionary.com" title="Look up peel at Dictionary.com" /></a></dt>
+<dd class="highlight">"shovel-shaped instrument" used by bakers, etc., c.1400, from O.Fr. <span class="foreign">pele</span> (Mod.Fr. <span class="foreign">pelle</span>) "shovel," from L. <span class="foreign">pala</span> "spade, shovel, baker's peel," of unknown origin.</dd>
+
+<dt><a href="/index.php?term=peel&allowed_in_frame=0">peel (n.1)</a> <a href="http://dictionary.reference.com/search?q=peel" class="dictionary" title="Look up peel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peel at Dictionary.com" title="Look up peel at Dictionary.com" /></a></dt>
+<dd>piece of rind or skin, 1580s, from earlier <span class="foreign">pill, pile</span> (late 14c.), from <a href="/index.php?term=peel&allowed_in_frame=0" class="crossreference">peel</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peel+out&allowed_in_frame=0">peel out (v.)</a> <a href="http://dictionary.reference.com/search?q=peel+out" class="dictionary" title="Look up peel out at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peel out at Dictionary.com" title="Look up peel out at Dictionary.com" /></a></dt>
+<dd class="highlight">hot-rodders' slang, 1952, perhaps from <span class="foreign">peel</span> "blade or wash of an oar" (1875, American English), earlier "shovel-shaped instrument" (see <a href="/index.php?term=peel&allowed_in_frame=0" class="crossreference">peel</a> (n.2). Or it might be from aircraft pilot phrase <span class="foreign">peel off</span> "veer away from formation" (World War II), or from earlier American English slang <span class="foreign">peel it</span> "run away at full speed" (1860).</dd>
+
+<dt><a href="/index.php?term=peeler&allowed_in_frame=0">peeler (n.)</a> <a href="http://dictionary.reference.com/search?q=peeler" class="dictionary" title="Look up peeler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peeler at Dictionary.com" title="Look up peeler at Dictionary.com" /></a></dt>
+<dd>"policeman," 1817, British colloquial, originally a member of the Irish constabulary, named for Sir (at that time Mr.) Robert <span class="foreign">Peel</span> (1788-1850) who founded the Irish Constabulary (cf. <a href="/index.php?term=bobby&allowed_in_frame=0" class="crossreference">bobby</a>). In Middle English it meant "robber, thief" (mid-14c.). Meaning "strip-tease artist" (1951) is from <a href="/index.php?term=peel&allowed_in_frame=0" class="crossreference">peel</a> (v.) in colloquial sense of "strip off clothing" (1820).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peen&allowed_in_frame=0">peen (n.)</a> <a href="http://dictionary.reference.com/search?q=peen" class="dictionary" title="Look up peen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peen at Dictionary.com" title="Look up peen at Dictionary.com" /></a></dt>
+<dd class="highlight">1680s, "sharp or thin end of a hammer head, opposite the face," probably from a Scandinavian source (cf. Norw. dialectal <span class="foreign">penn</span> "peen," O.Swed. <span class="foreign">p&aelig;na</span> "beat iron thin with a hammer"). Earlier as a verb, "to beat thin with a hammer" (1510s).</dd>
+
+<dt><a href="/index.php?term=peep&allowed_in_frame=0">peep (v.1)</a> <a href="http://dictionary.reference.com/search?q=peep" class="dictionary" title="Look up peep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peep at Dictionary.com" title="Look up peep at Dictionary.com" /></a></dt>
+<dd>"glance" (especially through a small opening), mid-15c., perhaps alteration of M.E. <span class="foreign">piken</span> (see <a href="/index.php?term=peek&allowed_in_frame=0" class="crossreference">peek</a> (v.)). <span class="foreign">Peeping Tom</span> "a curious prying fellow" [Grose] is from 1796; connection with Lady Godiva story dates only from 1837.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peep&allowed_in_frame=0">peep (v.2)</a> <a href="http://dictionary.reference.com/search?q=peep" class="dictionary" title="Look up peep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peep at Dictionary.com" title="Look up peep at Dictionary.com" /></a></dt>
+<dd class="highlight">"make a short chirp," c.1400, probably altered from <span class="foreign">pipen</span> (mid-13c.), ultimately imitative (cf. L. <span class="foreign">pipare</span>, Fr. <span class="foreign">pepier</span>, Ger. <span class="foreign">piepen</span>, Lith. <span class="foreign">pypti</span>, Czech <span class="foreign">pipati</span>, Gk. <span class="foreign">pipos</span>). </dd>
+
+<dt><a href="/index.php?term=peep&allowed_in_frame=0">peep (n.2)</a> <a href="http://dictionary.reference.com/search?q=peep" class="dictionary" title="Look up peep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peep at Dictionary.com" title="Look up peep at Dictionary.com" /></a></dt>
+<dd>"short chirp," early 15c., from <a href="/index.php?term=peep&allowed_in_frame=0" class="crossreference">peep</a> (v.2); meaning "slightest sound or utterance" (usually in a negative context) is attested from 1903. Meaning "young chicken" is from 1680s. The marshmallow <span class="foreign">peeps</span> confection are said to date from 1950s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peep&allowed_in_frame=0">peep (n.1)</a> <a href="http://dictionary.reference.com/search?q=peep" class="dictionary" title="Look up peep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peep at Dictionary.com" title="Look up peep at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, first in sense found in <span class="foreign">peep of day</span>, from <a href="/index.php?term=peep&allowed_in_frame=0" class="crossreference">peep</a> (v.1); meaning "a furtive glance" is first recorded 1730. </dd>
+
+<dt><a href="/index.php?term=peep-hole&allowed_in_frame=0">peep-hole (n.)</a> <a href="http://dictionary.reference.com/search?q=peep-hole" class="dictionary" title="Look up peep-hole at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peep-hole at Dictionary.com" title="Look up peep-hole at Dictionary.com" /></a></dt>
+<dd>1680s, from <a href="/index.php?term=peep&allowed_in_frame=0" class="crossreference">peep</a> (v.1) + <a href="/index.php?term=hole&allowed_in_frame=0" class="crossreference">hole</a> (n.). </dd>
+
+<dt class="highlight"><a href="/index.php?term=peep-show&allowed_in_frame=0">peep-show (n.)</a> <a href="http://dictionary.reference.com/search?q=peep-show" class="dictionary" title="Look up peep-show at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peep-show at Dictionary.com" title="Look up peep-show at Dictionary.com" /></a></dt>
+<dd class="highlight">1851 (not typically salacious until c.1914), from <a href="/index.php?term=peep&allowed_in_frame=0" class="crossreference">peep</a> (v.1) + <a href="/index.php?term=show&allowed_in_frame=0" class="crossreference">show</a> (n.). </dd>
+
+<dt><a href="/index.php?term=peepee&allowed_in_frame=0">peepee</a> <a href="http://dictionary.reference.com/search?q=peepee" class="dictionary" title="Look up peepee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peepee at Dictionary.com" title="Look up peepee at Dictionary.com" /></a></dt>
+<dd>1923, childish reduplication of <a href="/index.php?term=pee&allowed_in_frame=0" class="crossreference">pee</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peeper&allowed_in_frame=0">peeper (n.)</a> <a href="http://dictionary.reference.com/search?q=peeper" class="dictionary" title="Look up peeper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peeper at Dictionary.com" title="Look up peeper at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, "one who peeps," agent noun from <a href="/index.php?term=peep&allowed_in_frame=0" class="crossreference">peep</a> (v.1). Slang meaning "eye" is c.1700. From 1590s as "young chicken" and 1857 as "tree frog" (American English), both from <span class="foreign">peep</span> (v.2).</dd>
+
+<dt><a href="/index.php?term=peer&allowed_in_frame=0">peer (n.)</a> <a href="http://dictionary.reference.com/search?q=peer" class="dictionary" title="Look up peer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peer at Dictionary.com" title="Look up peer at Dictionary.com" /></a></dt>
+<dd>c.1300, "an equal in rank or status" (early 13c. in Anglo-Latin), from Anglo-Fr. <span class="foreign">peir</span>, O.Fr. <span class="foreign">per</span> (10c.), from L. <span class="foreign">par</span> "equal" (see <a href="/index.php?term=par&allowed_in_frame=0" class="crossreference">par</a> (n.)). Sense of "a noble" (late 14c.) is from Charlemagne's <span class="foreign">Twelve Peers</span> in the old romances, who, like the Arthurian knights of the Round Table, originally were so called because all were equal. Sociological sense of "one of the same age group or social set" is from 1944. <span class="foreign">Peer review</span> attested by 1970. <span class="foreign">Peer pressure</span> is first recorded 1971.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peer&allowed_in_frame=0">peer (v.)</a> <a href="http://dictionary.reference.com/search?q=peer" class="dictionary" title="Look up peer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peer at Dictionary.com" title="Look up peer at Dictionary.com" /></a></dt>
+<dd class="highlight">"to look closely," 1590s, variant of <span class="foreign">piren</span> (late 14c.), with a long <span class="foreign">-i-</span>, probably related to or from E. Fris. <span class="foreign">piren</span> "to look," of uncertain origin. Influenced in form and sense by M.E. <span class="foreign">peren</span> (late 14c.), aphetic form of <span class="foreign">aperen</span> (see <a href="/index.php?term=appear&allowed_in_frame=0" class="crossreference">appear</a>). Related: <span class="foreign">Peered</span>; <span class="foreign">peering</span>.</dd>
+
+<dt><a href="/index.php?term=peerage&allowed_in_frame=0">peerage (n.)</a> <a href="http://dictionary.reference.com/search?q=peerage" class="dictionary" title="Look up peerage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peerage at Dictionary.com" title="Look up peerage at Dictionary.com" /></a></dt>
+<dd>mid-15c., "peers collectively," from <a href="/index.php?term=peer&allowed_in_frame=0" class="crossreference">peer</a> (n.) + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>. Probably on model of O.Fr. <span class="foreign">parage</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peerless&allowed_in_frame=0">peerless (adj.)</a> <a href="http://dictionary.reference.com/search?q=peerless" class="dictionary" title="Look up peerless at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peerless at Dictionary.com" title="Look up peerless at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from <a href="/index.php?term=peer&allowed_in_frame=0" class="crossreference">peer</a> (n.) + <a href="/index.php?term=-less&allowed_in_frame=0" class="crossreference">-less</a>.</dd>
+
+<dt><a href="/index.php?term=peeve&allowed_in_frame=0">peeve (v.)</a> <a href="http://dictionary.reference.com/search?q=peeve" class="dictionary" title="Look up peeve at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peeve at Dictionary.com" title="Look up peeve at Dictionary.com" /></a></dt>
+<dd>1907 (implied in <span class="foreign">peeved</span>), back formation from <a href="/index.php?term=peevish&allowed_in_frame=0" class="crossreference">peevish</a>. As a noun, attested by 1910. Related: <span class="foreign">Peeved</span>; <span class="foreign">peeving</span>; <span class="foreign">peeves</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peevish&allowed_in_frame=0">peevish (adj.)</a> <a href="http://dictionary.reference.com/search?q=peevish" class="dictionary" title="Look up peevish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peevish at Dictionary.com" title="Look up peevish at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">peyvesshe</span> "perverse, capricious, silly," of uncertain origin, possibly modeled on L. <span class="foreign">perversus</span> "reversed, perverse," pp. of <span class="foreign">pervertere</span> "to turn about" (see <a href="/index.php?term=pervert&allowed_in_frame=0" class="crossreference">pervert</a> (v.)). Meaning "cross, fretful" first recorded 1520s. Related: <span class="foreign">Peevishly</span>; <span class="foreign">peevishness</span>.</dd>
+
+<dt><a href="/index.php?term=peewee&allowed_in_frame=0">peewee (adj.)</a> <a href="http://dictionary.reference.com/search?q=peewee" class="dictionary" title="Look up peewee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peewee at Dictionary.com" title="Look up peewee at Dictionary.com" /></a></dt>
+<dd>1877, "small, tiny, for children," a dialect word, possibly a varied reduplication of <a href="/index.php?term=wee&allowed_in_frame=0" class="crossreference">wee</a>. Attested earlier (1848) as a noun meaning "a small marble." (Baseball Hall-of-Famer Harold <span class="foreign">"Peewee"</span> Reese got his nickname because he was a marbles champion before he became a Dodgers shortstop.) As a type of bird (variously applied on different continents) it is attested from 1886, imitative of a bird cry.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658589 -->
+<!-- Page was generated in 0.188152 seconds. -->
+ </body>
+</html>
+<!-- -->

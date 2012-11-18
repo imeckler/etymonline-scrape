@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=plasmid&allowed_in_frame=0">plasmid</a> <a href="http://dictionary.reference.com/search?q=plasmid" class="dictionary" title="Look up plasmid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plasmid at Dictionary.com" title="Look up plasmid at Dictionary.com" /></a></dt>
+<dd class="highlight">1952, from <a href="/index.php?term=plasma&allowed_in_frame=0" class="crossreference">plasma</a> + <a href="/index.php?term=-id&allowed_in_frame=0" class="crossreference">-id</a>.</dd>
+
+<dt><a href="/index.php?term=plasmodium&allowed_in_frame=0">plasmodium (n.)</a> <a href="http://dictionary.reference.com/search?q=plasmodium" class="dictionary" title="Look up plasmodium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plasmodium at Dictionary.com" title="Look up plasmodium at Dictionary.com" /></a></dt>
+<dd>1875, from Mod.L., coined 1863 from <a href="/index.php?term=plasma&allowed_in_frame=0" class="crossreference">plasma</a> + <span class="foreign">-odium</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plasmolysis&allowed_in_frame=0">plasmolysis (n.)</a> <a href="http://dictionary.reference.com/search?q=plasmolysis" class="dictionary" title="Look up plasmolysis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plasmolysis at Dictionary.com" title="Look up plasmolysis at Dictionary.com" /></a></dt>
+<dd class="highlight">1883, from Fr. <span class="foreign">plasmolysis</span> (1877), from <span class="foreign">plasmo-</span> (see <a href="/index.php?term=plasma&allowed_in_frame=0" class="crossreference">plasma</a>) + Gk. <span class="foreign">lysis</span> "a loosening" (see <a href="/index.php?term=-lysis&allowed_in_frame=0" class="crossreference">-lysis</a>).</dd>
+
+<dt><a href="/index.php?term=plaster&allowed_in_frame=0">plaster (n.)</a> <a href="http://dictionary.reference.com/search?q=plaster" class="dictionary" title="Look up plaster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plaster at Dictionary.com" title="Look up plaster at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">plaster</span> "medicinal application," from V.L. <span class="foreign">plastrum</span>, shortened from L. <span class="foreign">emplastra</span> "a plaster" (in the medical as well as the building sense), from Gk. <span class="foreign">emplastron</span> "salve, plaster" (used by Galen instead of more usual <span class="foreign">emplaston</span>), from neut. of <span class="foreign">emplastos</span> "daubed on," from <span class="foreign">en-</span> "on" + <span class="foreign">plastos</span> "molded," from <span class="foreign">plassein</span> "to mold" (see <a href="/index.php?term=plasma&allowed_in_frame=0" class="crossreference">plasma</a>). The building construction material is first recorded in English c.1300, via O.Fr. <span class="foreign">plastre</span>, from the same source.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plaster&allowed_in_frame=0">plaster (v.)</a> <a href="http://dictionary.reference.com/search?q=plaster" class="dictionary" title="Look up plaster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plaster at Dictionary.com" title="Look up plaster at Dictionary.com" /></a></dt>
+<dd class="highlight">"to coat with plaster," c.1300, from <a href="/index.php?term=plaster&allowed_in_frame=0" class="crossreference">plaster</a> (n.) or O.Fr. <span class="foreign">plastrer</span>. Related: <a href="/index.php?term=Plastered&allowed_in_frame=0" class="crossreference">Plastered</a>; <span class="foreign">plastering</span>. Meaning "to bomb (a target) heavily" is first recorded 1915.</dd>
+
+<dt><a href="/index.php?term=plaster+of+Paris&allowed_in_frame=0">plaster of Paris</a> <a href="http://dictionary.reference.com/search?q=plaster+of+Paris" class="dictionary" title="Look up plaster of Paris at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plaster of Paris at Dictionary.com" title="Look up plaster of Paris at Dictionary.com" /></a></dt>
+<dd>mid-15c.; originally it was made from the extensive gypsum deposits of Montmartre in Paris.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plastered&allowed_in_frame=0">plastered (adj.)</a> <a href="http://dictionary.reference.com/search?q=plastered" class="dictionary" title="Look up plastered at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plastered at Dictionary.com" title="Look up plastered at Dictionary.com" /></a></dt>
+<dd class="highlight">"coated with plaster," late 14c., pp. adjective from <a href="/index.php?term=plaster&allowed_in_frame=0" class="crossreference">plaster</a> (v.). Slang meaning "very drunk" attested by 1912, perhaps from <span class="foreign">plaster</span> in medical sense of "to apply a remedy to; to soothe" (see <a href="/index.php?term=plaster&allowed_in_frame=0" class="crossreference">plaster</a> (n.)), hence "to give compensation" (1891).</dd>
+
+<dt><a href="/index.php?term=plastic&allowed_in_frame=0">plastic (n.)</a> <a href="http://dictionary.reference.com/search?q=plastic" class="dictionary" title="Look up plastic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plastic at Dictionary.com" title="Look up plastic at Dictionary.com" /></a></dt>
+<dd>1905, "solid substance that can be molded," originally of dental molds, from <a href="/index.php?term=plastic&allowed_in_frame=0" class="crossreference">plastic</a> (adj.). Main current meaning, "synthetic product made from oil derivatives," first recorded 1909, coined by Leo Baekeland (see <a href="/index.php?term=bakelite&allowed_in_frame=0" class="crossreference">bakelite</a>). </dd>
+
+<dt class="highlight"><a href="/index.php?term=plastic&allowed_in_frame=0">plastic (adj.)</a> <a href="http://dictionary.reference.com/search?q=plastic" class="dictionary" title="Look up plastic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plastic at Dictionary.com" title="Look up plastic at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, "capable of shaping or molding," from L. <span class="foreign">plasticus</span>, from Gk. <span class="foreign">plastikos</span> "able to be molded, pertaining to molding," from <span class="foreign">plastos</span> "molded," from <span class="foreign">plassein</span> "to mold" (see <a href="/index.php?term=plasma&allowed_in_frame=0" class="crossreference">plasma</a>). Surgical sense of "remedying a deficiency of structure" is first recorded 1839 (in <span class="foreign">plastic surgery</span>). Picked up in counterculture slang with meaning "false, superficial" (1963).</dd>
+
+<dt><a href="/index.php?term=Plasticine&allowed_in_frame=0">Plasticine</a> <a href="http://dictionary.reference.com/search?q=Plasticine" class="dictionary" title="Look up Plasticine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Plasticine at Dictionary.com" title="Look up Plasticine at Dictionary.com" /></a></dt>
+<dd>modeling clay substitute, 1897, from <a href="/index.php?term=plastic&allowed_in_frame=0" class="crossreference">plastic</a> (adj.) + <a href="/index.php?term=-ine&allowed_in_frame=0" class="crossreference">-ine</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plasticity&allowed_in_frame=0">plasticity</a> <a href="http://dictionary.reference.com/search?q=plasticity" class="dictionary" title="Look up plasticity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plasticity at Dictionary.com" title="Look up plasticity at Dictionary.com" /></a></dt>
+<dd class="highlight">1782, from <a href="/index.php?term=plastic&allowed_in_frame=0" class="crossreference">plastic</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=plastid&allowed_in_frame=0">plastid</a> <a href="http://dictionary.reference.com/search?q=plastid" class="dictionary" title="Look up plastid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plastid at Dictionary.com" title="Look up plastid at Dictionary.com" /></a></dt>
+<dd>1876, from Ger. <span class="foreign">plastid-</span>, from Gk. <span class="foreign">plastos</span> "molded, formed" (see <a href="/index.php?term=plaster&allowed_in_frame=0" class="crossreference">plaster</a>) + <span class="foreign">-id</span> (from Greek dim. suffix <span class="foreign">-idion</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plastron&allowed_in_frame=0">plastron (n.)</a> <a href="http://dictionary.reference.com/search?q=plastron" class="dictionary" title="Look up plastron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plastron at Dictionary.com" title="Look up plastron at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1500, from Fr. <span class="foreign">plastron</span> "breastplate," from It. <span class="foreign">piastrone</span>, augmentative of  <span class="foreign">piastra</span> "breastplate, thin metal plate" (see <a href="/index.php?term=piaster&allowed_in_frame=0" class="crossreference">piaster</a>). As an animal part, from 1813; as an article of dress, 1876.</dd>
+
+<dt><a href="/index.php?term=plat&allowed_in_frame=0">plat (n.)</a> <a href="http://dictionary.reference.com/search?q=plat" class="dictionary" title="Look up plat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plat at Dictionary.com" title="Look up plat at Dictionary.com" /></a></dt>
+<dd>"piece of ground," 1517, from <a href="/index.php?term=plot&allowed_in_frame=0" class="crossreference">plot</a> (q.v.), assimilated to adj. <span class="foreign">plat</span> "flat," from O.Fr. <span class="foreign">plat</span>, perhaps from V.L. <span class="foreign">*plattus</span>, from Gk. <span class="foreign">platys</span> "flat, wide, broad" (see <a href="/index.php?term=place&allowed_in_frame=0" class="crossreference">place</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plate&allowed_in_frame=0">plate (n.)</a> <a href="http://dictionary.reference.com/search?q=plate" class="dictionary" title="Look up plate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plate at Dictionary.com" title="Look up plate at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., "flat sheet of gold or silver," also "flat, round coin," from O.Fr. <span class="foreign">plate</span> "thin piece of metal" (late 12c.), from M.L. <span class="foreign">plata</span> "plate, piece of metal," perhaps via V.L. <span class="foreign">*plattus</span> from Gk. <span class="foreign">platys</span> "flat, broad" (see <a href="/index.php?term=place&allowed_in_frame=0" class="crossreference">place</a> (n.)). The cognate in Sp. (<span class="foreign">plata</span>) and Port. (<span class="foreign">prata</span>) has become the usual word for "silver," superseding <span class="foreign">argento</span> via shortening of <span class="foreign">*plata d'argento</span> "plate of silver, coin." Meaning "table utensils" (originally of silver or gold only) is from M.E. Meaning "shallow dish for food," now usually of china or earthenware, originally of metal or wood, is from mid-15c. Baseball sense is from 1857. Geological sense is first attested 1904; <span class="foreign">plate tectonics</span> first recorded 1969. <span class="foreign">Plate-glass</span> first recorded 1727.</dd>
+
+<dt><a href="/index.php?term=plateau&allowed_in_frame=0">plateau (v.)</a> <a href="http://dictionary.reference.com/search?q=plateau" class="dictionary" title="Look up plateau at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plateau at Dictionary.com" title="Look up plateau at Dictionary.com" /></a></dt>
+<dd>1952, from <a href="/index.php?term=plateau&allowed_in_frame=0" class="crossreference">plateau</a> (n.). Related: <span class="foreign">Plateaued</span>; <span class="foreign">plateauing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plateau&allowed_in_frame=0">plateau (n.)</a> <a href="http://dictionary.reference.com/search?q=plateau" class="dictionary" title="Look up plateau at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plateau at Dictionary.com" title="Look up plateau at Dictionary.com" /></a></dt>
+<dd class="highlight">1796, "elevated tract of relatively level land," from Fr. <span class="foreign">plateau</span>, from O.Fr. <span class="foreign">platel</span> (12c.) "flat piece of metal, wood, etc.," dim. of <span class="foreign">plat</span> "flat surface or thing," noun use of adjective <span class="foreign">plat</span> (see <a href="/index.php?term=plat&allowed_in_frame=0" class="crossreference">plat</a>). Meaning "stage at which no progress is apparent" is attested from 1897, originally in psychology of learning.</dd>
+
+<dt><a href="/index.php?term=platelet&allowed_in_frame=0">platelet (n.)</a> <a href="http://dictionary.reference.com/search?q=platelet" class="dictionary" title="Look up platelet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platelet at Dictionary.com" title="Look up platelet at Dictionary.com" /></a></dt>
+<dd>1895, formed in English from <a href="/index.php?term=plate&allowed_in_frame=0" class="crossreference">plate</a> + dim. suffix <span class="foreign">-let</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=platen&allowed_in_frame=0">platen (n.)</a> <a href="http://dictionary.reference.com/search?q=platen" class="dictionary" title="Look up platen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platen at Dictionary.com" title="Look up platen at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from O.Fr. <span class="foreign">platine</span> "flat piece, metal plate," altered from <span class="foreign">patene</span>, from L. <span class="foreign">patena</span> "pan."</dd>
+
+<dt><a href="/index.php?term=platform&allowed_in_frame=0">platform (n.)</a> <a href="http://dictionary.reference.com/search?q=platform" class="dictionary" title="Look up platform at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platform at Dictionary.com" title="Look up platform at Dictionary.com" /></a></dt>
+<dd>1540s, "plan of action, scheme, design," from M.Fr. <span class="foreign">plate-forme</span>, lit. "flat form," from O.Fr. <span class="foreign">plate</span> "flat" (see <a href="/index.php?term=plat&allowed_in_frame=0" class="crossreference">plat</a>) + <span class="foreign">forme</span> "form" (see <a href="/index.php?term=form&allowed_in_frame=0" class="crossreference">form</a>). The literal sense of "raised, level surface" is first recorded 1550s. Political meaning, "statement of party policies," is from 1803, probably originally an image of a literal platform on which politicians gather, stand, and make their appeals, perhaps influenced by earlier sense of "set of rules governing church doctrine" (first attested 1570s). Railroad station sense is from 1838.</dd>
+
+<dt class="highlight"><a href="/index.php?term=platinum&allowed_in_frame=0">platinum (n.)</a> <a href="http://dictionary.reference.com/search?q=platinum" class="dictionary" title="Look up platinum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platinum at Dictionary.com" title="Look up platinum at Dictionary.com" /></a></dt>
+<dd class="highlight">metallic element, Modern Latin, from Sp. <span class="foreign">platina</span> "platinum," dim. of <span class="foreign">plata</span> "silver," from O.Fr. <span class="foreign">plate</span> or O.Prov. <span class="foreign">plata</span> "sheet of metal" (see <a href="/index.php?term=plate&allowed_in_frame=0" class="crossreference">plate</a>). The metal looks like silver, and the Spaniards at first thought it an inferior sort of silver, hence the name <span class="foreign">platina</span>. It was first obtained from Spanish colonies in Mexico and Colombia, brought to Europe in 1735, and identified as an element 1741. Taken into English as <span class="foreign">platina</span> (c.1750), it took its modern form (with element ending <span class="foreign">-ium</span>) in 1812, at the time the names of elements were being regularized. As a shade of blond hair, attested from 1931. As a designation for a recording that has sold at least one million copies, it is attested from 1971.</dd>
+
+<dt><a href="/index.php?term=platitude&allowed_in_frame=0">platitude (n.)</a> <a href="http://dictionary.reference.com/search?q=platitude" class="dictionary" title="Look up platitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platitude at Dictionary.com" title="Look up platitude at Dictionary.com" /></a></dt>
+<dd>1812, "dullness," from Fr. <span class="foreign">platitude</span> "flatness, vapidness" (late 17c.), from O.Fr. <span class="foreign">plat</span> "flat" (see <a href="/index.php?term=plate&allowed_in_frame=0" class="crossreference">plate</a>); formed on analogy of <span class="foreign">latitude, attitude,</span> etc. Meaning "a flat, dull, or commonplace remark" is recorded from 1815. Related: <span class="foreign">Platitudinous</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Platonic&allowed_in_frame=0">Platonic (adj.)</a> <a href="http://dictionary.reference.com/search?q=Platonic" class="dictionary" title="Look up Platonic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Platonic at Dictionary.com" title="Look up Platonic at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "of or pertaining to Gk. philosopher <span class="foreign">Plato</span>" (429 B.C.E.-c.347 B.C.E.). The name is Gk. <span class="foreign">Platon</span>, properly "broad-shouldered" (from <span class="foreign">platys</span> "broad;" see <a href="/index.php?term=place&allowed_in_frame=0" class="crossreference">place</a> (n.)). His original name was Aristocles. The meaning "love free of sensual desire" (1630s), which the word usually carries nowadays, is a Renaissance notion; it is based on Plato's writings in <span class="foreign">"Symposium"</span> about the kind of interest Socrates took in young men, which originally had no reference to women. Related: <span class="foreign">Platonically</span>.</dd>
+
+<dt><a href="/index.php?term=platoon&allowed_in_frame=0">platoon (n.)</a> <a href="http://dictionary.reference.com/search?q=platoon" class="dictionary" title="Look up platoon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platoon at Dictionary.com" title="Look up platoon at Dictionary.com" /></a></dt>
+<dd>1630s, from Fr. <span class="foreign">peloton</span> "platoon, group of people" (15c.), from M.Fr. <span class="foreign">peloton,</span> lit. "little ball," hence, "agglomeration," dim. of O.Fr. <span class="foreign">pelote</span> "ball" (see <a href="/index.php?term=pellet&allowed_in_frame=0" class="crossreference">pellet</a>). The verb, in baseball, "to alternate (a player) with another in the same position" is attested from 1967.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Plattdeutsch&allowed_in_frame=0">Plattdeutsch</a> <a href="http://dictionary.reference.com/search?q=Plattdeutsch" class="dictionary" title="Look up Plattdeutsch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Plattdeutsch at Dictionary.com" title="Look up Plattdeutsch at Dictionary.com" /></a></dt>
+<dd class="highlight">"Low German dialect of northern Germany," 1814, from German, from Du. <span class="foreign">platduits</span>, lit. "flat (or low) German," from <span class="foreign">plat</span> "flat, plain, clear" (see <a href="/index.php?term=plat&allowed_in_frame=0" class="crossreference">plat</a>) + <span class="foreign">duits</span> "German" (see <a href="/index.php?term=Dutch&allowed_in_frame=0" class="crossreference">Dutch</a>).</dd>
+
+<dt><a href="/index.php?term=platter&allowed_in_frame=0">platter (n.)</a> <a href="http://dictionary.reference.com/search?q=platter" class="dictionary" title="Look up platter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platter at Dictionary.com" title="Look up platter at Dictionary.com" /></a></dt>
+<dd>late 13c., <span class="foreign">platere</span>, from Anglo-Fr. <span class="foreign">plater</span>, O.Fr. <span class="foreign">plate</span> (see <a href="/index.php?term=plate&allowed_in_frame=0" class="crossreference">plate</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=platypus&allowed_in_frame=0">platypus (n.)</a> <a href="http://dictionary.reference.com/search?q=platypus" class="dictionary" title="Look up platypus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up platypus at Dictionary.com" title="Look up platypus at Dictionary.com" /></a></dt>
+<dd class="highlight">1799, from Mod.L., from Gk. <span class="foreign">platypous,</span> lit. "flat-footed," from <span class="foreign">platys</span> "broad, flat" (see <a href="/index.php?term=place&allowed_in_frame=0" class="crossreference">place</a> (n.)) + <span class="foreign">pous</span> "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a>).<blockquote>Orig. the generic name, but, having already been given to a genus of beetles, it was in 1800 changed for <span class="foreign">Ornithorhyncus</span>. [OED]</blockquote></dd>
+
+<dt><a href="/index.php?term=plaudit&allowed_in_frame=0">plaudit (n.)</a> <a href="http://dictionary.reference.com/search?q=plaudit" class="dictionary" title="Look up plaudit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plaudit at Dictionary.com" title="Look up plaudit at Dictionary.com" /></a></dt>
+<dd>1620s, short for <span class="foreign">plaudite</span> (1560s), from L. <span class="foreign">plaudite!</span> "applaud!" second person plural imperative of <span class="foreign">plaudere</span> "to clap, applaud, approve," of unknown origin (also in <a href="/index.php?term=applaud&allowed_in_frame=0" class="crossreference">applaud</a>, <a href="/index.php?term=explode&allowed_in_frame=0" class="crossreference">explode</a>). This was the customary appeal for applause that Roman actors made at the end of a play.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plausible&allowed_in_frame=0">plausible (adj.)</a> <a href="http://dictionary.reference.com/search?q=plausible" class="dictionary" title="Look up plausible at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plausible at Dictionary.com" title="Look up plausible at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, "acceptable, agreeable," from L. <span class="foreign">plausibilis</span> "deserving applause, acceptable," from pp. stem of <span class="foreign">plaudere</span> "to applaud" (see <a href="/index.php?term=plaudit&allowed_in_frame=0" class="crossreference">plaudit</a>). Meaning "having the appearance of truth" is recorded from 1560s. Related: <span class="foreign">Plausibility</span>; <span class="foreign">plausibly</span>.</dd>
+
+<dt><a href="/index.php?term=play&allowed_in_frame=0">play (v.)</a> <a href="http://dictionary.reference.com/search?q=play" class="dictionary" title="Look up play at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up play at Dictionary.com" title="Look up play at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">plegian</span> "to exercise, frolic, perform music," from W.Gmc. <span class="foreign">*plegan</span> (cf. M.Du. <span class="foreign">pleyen</span> "to rejoice, be glad"), of uncertain origin. Opposed to <a href="/index.php?term=work&allowed_in_frame=0" class="crossreference">work</a> (v.) since late 14c. Related: <span class="foreign">Played</span>; <span class="foreign">playing</span>. To <span class="foreign">play up</span> "emphasize" is from 1909; to <span class="foreign">play down</span> "minimize" is from 1930. To <span class="foreign">play with oneself</span> "masturbate" is from 1896; <span class="foreign">play for keeps</span> is from 1861, originally of marbles or other children's games with tokens. To <span class="foreign">play the (something) card</span> is attested from 1886; to <span class="foreign">play fair</span> is from mid-15c. <span class="foreign">Play-dough</span> is first recorded 1959. To <span class="foreign">play (something) safe</span> is from 1911; to <span class="foreign">play favorites</span> is attested from 1902. For <span class="foreign">play the field</span> see <a href="/index.php?term=field&allowed_in_frame=0" class="crossreference">field</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=play&allowed_in_frame=0">play (n.)</a> <a href="http://dictionary.reference.com/search?q=play" class="dictionary" title="Look up play at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up play at Dictionary.com" title="Look up play at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">plega</span> (W.Saxon), <span class="foreign">pl&aelig;ga</span> (Anglian) "recreation, exercise, any brisk activity" (the latter sense preserved in <span class="foreign">swordplay,</span> etc.), from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.). Meaning "dramatic performance" is attested from early 14c. Meaning "free or unimpeded movement" is from 1650s. Sporting sense first attested 1868. <span class="foreign">Play-by-play</span> is attested from 1927.</dd>
+
+<dt><a href="/index.php?term=playbill&allowed_in_frame=0">playbill (n.)</a> <a href="http://dictionary.reference.com/search?q=playbill" class="dictionary" title="Look up playbill at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up playbill at Dictionary.com" title="Look up playbill at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">play-bill</span>, 1670s, from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (n.) + <a href="/index.php?term=bill&allowed_in_frame=0" class="crossreference">bill</a> (n.1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=playboy&allowed_in_frame=0">playboy (n.)</a> <a href="http://dictionary.reference.com/search?q=playboy" class="dictionary" title="Look up playboy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up playboy at Dictionary.com" title="Look up playboy at Dictionary.com" /></a></dt>
+<dd class="highlight">1829, "wealthy bon vivant," from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.) + <a href="/index.php?term=boy&allowed_in_frame=0" class="crossreference">boy</a>. Fem. equivalent <span class="foreign">playgirl</span> first recorded 1934. As the name of a U.S. based magazine for men, from December 1953.</dd>
+
+<dt><a href="/index.php?term=player&allowed_in_frame=0">player (n.)</a> <a href="http://dictionary.reference.com/search?q=player" class="dictionary" title="Look up player at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up player at Dictionary.com" title="Look up player at Dictionary.com" /></a></dt>
+<dd>late 14c., agent noun from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.). As a pimp's word for himself (also <span class="foreign">playa</span>), attested from 1974.</dd>
+
+<dt class="highlight"><a href="/index.php?term=playful&allowed_in_frame=0">playful (adj.)</a> <a href="http://dictionary.reference.com/search?q=playful" class="dictionary" title="Look up playful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up playful at Dictionary.com" title="Look up playful at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.) + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>. Related: <span class="foreign">Playfully</span>; <span class="foreign">playfulness</span>.</dd>
+
+<dt><a href="/index.php?term=playground&allowed_in_frame=0">playground (n.)</a> <a href="http://dictionary.reference.com/search?q=playground" class="dictionary" title="Look up playground at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up playground at Dictionary.com" title="Look up playground at Dictionary.com" /></a></dt>
+<dd>1780, from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.) + <a href="/index.php?term=ground&allowed_in_frame=0" class="crossreference">ground</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=playmate&allowed_in_frame=0">playmate (n.)</a> <a href="http://dictionary.reference.com/search?q=playmate" class="dictionary" title="Look up playmate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up playmate at Dictionary.com" title="Look up playmate at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.) + <a href="/index.php?term=mate&allowed_in_frame=0" class="crossreference">mate</a> (n.). The sexual sense is from 1954 and the launch of "Playboy" magazine.</dd>
+
+<dt><a href="/index.php?term=plaything&allowed_in_frame=0">plaything (n.)</a> <a href="http://dictionary.reference.com/search?q=plaything" class="dictionary" title="Look up plaything at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plaything at Dictionary.com" title="Look up plaything at Dictionary.com" /></a></dt>
+<dd>1670s, from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (v.) + <a href="/index.php?term=thing&allowed_in_frame=0" class="crossreference">thing</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=playwright&allowed_in_frame=0">playwright (n.)</a> <a href="http://dictionary.reference.com/search?q=playwright" class="dictionary" title="Look up playwright at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up playwright at Dictionary.com" title="Look up playwright at Dictionary.com" /></a></dt>
+<dd class="highlight">1680s, from <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (n.) + <a href="/index.php?term=wright&allowed_in_frame=0" class="crossreference">wright</a>.</dd>
+
+<dt><a href="/index.php?term=plaza&allowed_in_frame=0">plaza (n.)</a> <a href="http://dictionary.reference.com/search?q=plaza" class="dictionary" title="Look up plaza at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plaza at Dictionary.com" title="Look up plaza at Dictionary.com" /></a></dt>
+<dd>1683, from Sp. <span class="foreign">plaza</span> "square, place," from V.L. <span class="foreign">*plattia,</span> from L. <span class="foreign">platea</span> "courtyard, broad street" (see <a href="/index.php?term=place&allowed_in_frame=0" class="crossreference">place</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plea&allowed_in_frame=0">plea (n.)</a> <a href="http://dictionary.reference.com/search?q=plea" class="dictionary" title="Look up plea at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plea at Dictionary.com" title="Look up plea at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., "lawsuit," from Anglo-Fr. <span class="foreign">plai</span> (late 12c.), O.Fr. <span class="foreign">plait</span> "lawsuit, decision, decree" (9c.), from M.L. <span class="foreign">placitum</span> "lawsuit," in classical Latin, "opinion, decree," lit. "that which pleases, thing which is agreed upon," properly neuter pp. of <span class="foreign">placere</span> (see <a href="/index.php?term=please&allowed_in_frame=0" class="crossreference">please</a>). Sense development seems to be from "something pleasant," to "something that pleases both sides," to "something that has been decided." Meaning "a pleading, an agreement in a suit" is attested from late 14c. <span class="foreign">Plea bargaining</span> is first attested 1963. <span class="foreign">Common pleas</span> (early 13c.) originally were legal proceedings over which the Crown did not claim exclusive jurisdiction (as distinct from <span class="foreign">pleas of the Crown</span>); later "actions brought by one subject against another."</dd>
+
+<dt><a href="/index.php?term=plead&allowed_in_frame=0">plead (v.)</a> <a href="http://dictionary.reference.com/search?q=plead" class="dictionary" title="Look up plead at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plead at Dictionary.com" title="Look up plead at Dictionary.com" /></a></dt>
+<dd>mid-13c., "make a plea in court," from Anglo-Fr. <span class="foreign">pleder</span>, O.Fr. <span class="foreign">pleider</span>, <span class="foreign">plaidier</span>, "agreement, discussion, lawsuit," from M.L. <span class="foreign">placitare</span>, from L.L. <span class="foreign">placitum</span> (see <a href="/index.php?term=plea&allowed_in_frame=0" class="crossreference">plea</a>). Sense of "request, beg" first recorded late 14c. Related: <span class="foreign">Pleaded</span>; <span class="foreign">pleading</span>; <span class="foreign">pleadingly</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pleasant&allowed_in_frame=0">pleasant (adj.)</a> <a href="http://dictionary.reference.com/search?q=pleasant" class="dictionary" title="Look up pleasant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleasant at Dictionary.com" title="Look up pleasant at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from O.Fr. <span class="foreign">plaisant</span>, prp. of <span class="foreign">plaisir</span> "to please" (see <a href="/index.php?term=please&allowed_in_frame=0" class="crossreference">please</a>). <a href="/index.php?term=Pleasantry&allowed_in_frame=0" class="crossreference">Pleasantry</a> has the word's modern French sense of "funny, jocular." Related: <span class="foreign">Pleasantly</span>.</dd>
+
+<dt><a href="/index.php?term=pleasantry&allowed_in_frame=0">pleasantry (n.)</a> <a href="http://dictionary.reference.com/search?q=pleasantry" class="dictionary" title="Look up pleasantry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleasantry at Dictionary.com" title="Look up pleasantry at Dictionary.com" /></a></dt>
+<dd>"sprightly humor in conversation," 1650s, from Fr. <span class="foreign">plaisanterie</span>, from O.Fr. <span class="foreign">plesanterie</span> (13c.), from <span class="foreign">plaisant</span> (see <a href="/index.php?term=pleasant&allowed_in_frame=0" class="crossreference">pleasant</a>). It has the word's modern French sense of "funny, jocular." Related: <span class="foreign">Pleasantries</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=please&allowed_in_frame=0">please (v.)</a> <a href="http://dictionary.reference.com/search?q=please" class="dictionary" title="Look up please at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up please at Dictionary.com" title="Look up please at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "to be agreeable," from O.Fr. <span class="foreign">plaisir</span> (Fr. <span class="foreign">plaire</span>) "to please," from L. <span class="foreign">placere</span> "to be acceptable, be liked, be approved," related to <span class="foreign">placare</span> "to soothe, quiet," from PIE root <span class="foreign">*p(e)lag-</span> "to smooth, make even" (cf. Gk. <span class="foreign">plax,</span> gen. <span class="foreign">plakos</span> "level surface," <span class="foreign">plakoeis</span> "flat;" Lett. <span class="foreign">plakt</span> "to become flat;" O.N. <span class="foreign">flaga</span> "layer of earth;" Norw. <span class="foreign">flag</span> "open sea;" O.E. <span class="foreign">floh</span> "piece of stone, fragment;" O.H.G. <span class="foreign">fluoh</span> "cliff"). Intransitive sense (e.g. <span class="foreign">do as you please</span>) first recorded c.1500; imperative use (e.g. <span class="foreign">please do this</span>), first recorded 1620s, was probably a shortening of <span class="foreign">if it please (you)</span> (late 14c.). Related: <span class="foreign">Pleased</span>; <span class="foreign">pleasing</span>.
+<BR><BR>
+Verbs for "please" supply the stereotype polite word ("<span class="foreign">Please</span> come in," short for <span class="foreign">may it please you to ...</span>) in many languages (French, Italian), "But more widespread is the use of the first singular of a verb for 'ask, request' " [Buck, who cites Ger. <span class="foreign">bitte</span>, Pol. <span class="foreign">prosz&#281;</span>, etc.] Sp. <span class="foreign">favor</span> is short for <span class="foreign">hace el favor</span> "do the favor." Danish has in this sense <span class="foreign">v&aelig;r saa god</span>, lit. "be so good."</dd>
+
+<dt><a href="/index.php?term=pleaser&allowed_in_frame=0">pleaser (n.)</a> <a href="http://dictionary.reference.com/search?q=pleaser" class="dictionary" title="Look up pleaser at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleaser at Dictionary.com" title="Look up pleaser at Dictionary.com" /></a></dt>
+<dd>1520s, agent noun from <a href="/index.php?term=please&allowed_in_frame=0" class="crossreference">please</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pleasurable&allowed_in_frame=0">pleasurable (adj.)</a> <a href="http://dictionary.reference.com/search?q=pleasurable" class="dictionary" title="Look up pleasurable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleasurable at Dictionary.com" title="Look up pleasurable at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, from <a href="/index.php?term=pleasure&allowed_in_frame=0" class="crossreference">pleasure</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Pleasurability</span>; <span class="foreign">pleasurably</span>.</dd>
+
+<dt><a href="/index.php?term=pleasure&allowed_in_frame=0">pleasure (n.)</a> <a href="http://dictionary.reference.com/search?q=pleasure" class="dictionary" title="Look up pleasure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleasure at Dictionary.com" title="Look up pleasure at Dictionary.com" /></a></dt>
+<dd>late 14c., "condition of enjoyment," from O.Fr. <span class="foreign">plesir</span> "enjoyment, delight" (12c.), from <span class="foreign">plaisir</span> (v.) "to please," from L. <span class="foreign">placere</span> (see <a href="/index.php?term=please&allowed_in_frame=0" class="crossreference">please</a> (v.)). Ending altered in English 14c. by influence of words in <span class="foreign">-ure</span> (<span class="foreign">measure</span>, etc.). Meaning "sensual enjoyment as the chief object of life" is attested from 1520s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pleasure&allowed_in_frame=0">pleasure (v.)</a> <a href="http://dictionary.reference.com/search?q=pleasure" class="dictionary" title="Look up pleasure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleasure at Dictionary.com" title="Look up pleasure at Dictionary.com" /></a></dt>
+<dd class="highlight">"give pleasure to," 1550s, from <a href="/index.php?term=pleasure&allowed_in_frame=0" class="crossreference">pleasure</a> (n.). Sexual sense by 1610s. Related: <span class="foreign">Pleasured</span>; <span class="foreign">pleasuring</span>.</dd>
+
+<dt><a href="/index.php?term=pleat&allowed_in_frame=0">pleat (v.)</a> <a href="http://dictionary.reference.com/search?q=pleat" class="dictionary" title="Look up pleat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pleat at Dictionary.com" title="Look up pleat at Dictionary.com" /></a></dt>
+<dd>1560s, used as the verb version of <a href="/index.php?term=plait&allowed_in_frame=0" class="crossreference">plait</a>. Later (1580s) as a noun. Related: <span class="foreign">Pleated</span>; <span class="foreign">pleating</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658613 -->
+<!-- Page was generated in 0.180687 seconds. -->
+ </body>
+</html>
+<!-- -->

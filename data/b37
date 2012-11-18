@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=b&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=b&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=b&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=b&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=b&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=b&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=b&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=b&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=b&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=b&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=b&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=b&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=b&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=b&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=b&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=b&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=b&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=b&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=b&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=b&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=b&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=b&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=b&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=b&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=b&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=b&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=b&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=b&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=b&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=b&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=b&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=b&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=b&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=b&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=b&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=b&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=b&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a class="current" href="/index.php?l=b&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=b&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=b&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=b&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=b&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=b&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=b&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=b&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=b&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=b&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=b&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=b&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=b&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=b&amp;p=50&allowed_in_frame=0">51</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=bourgeois&allowed_in_frame=0">bourgeois (adj.)</a> <a href="http://dictionary.reference.com/search?q=bourgeois" class="dictionary" title="Look up bourgeois at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bourgeois at Dictionary.com" title="Look up bourgeois at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, "of the French middle class," from Fr. <span class="foreign">bourgeois</span>, from O.Fr. <span class="foreign">burgeis, borjois</span> "town dweller" (see <a href="/index.php?term=bourgeoisie&allowed_in_frame=0" class="crossreference">bourgeoisie</a>). Sense of "socially or aesthetically conventional" is from 1764; in communist and socialist writing, as a noun, "a capitalist" (1883).<blockquote>It is better to be a good ordinary bourgeois than a bad ordinary bohemian. [Aldous Huxley, 1930]</blockquote></dd>
+
+<dt><a href="/index.php?term=bourgeoise&allowed_in_frame=0">bourgeoise</a> <a href="http://dictionary.reference.com/search?q=bourgeoise" class="dictionary" title="Look up bourgeoise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bourgeoise at Dictionary.com" title="Look up bourgeoise at Dictionary.com" /></a></dt>
+<dd>proper French fem. of <a href="/index.php?term=bourgeois&allowed_in_frame=0" class="crossreference">bourgeois</a> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bourgeoisie&allowed_in_frame=0">bourgeoisie (n.)</a> <a href="http://dictionary.reference.com/search?q=bourgeoisie" class="dictionary" title="Look up bourgeoisie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bourgeoisie at Dictionary.com" title="Look up bourgeoisie at Dictionary.com" /></a></dt>
+<dd class="highlight">1707, "body of freemen in a French town; the French middle class," from Fr. <span class="foreign">bourgeois</span>, from O.Fr. <span class="foreign">burgeis, borjois</span> (12c.) "town dweller" (as distinct from "peasant"), from <span class="foreign">borc</span> "town, village," from Frankish <span class="foreign">*burg</span> "city" (see <a href="/index.php?term=borough&allowed_in_frame=0" class="crossreference">borough</a>). Communist use for "the capitalist class generally" attested from 1886. </dd>
+
+<dt><a href="/index.php?term=bourn&allowed_in_frame=0">bourn (n.1)</a> <a href="http://dictionary.reference.com/search?q=bourn" class="dictionary" title="Look up bourn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bourn at Dictionary.com" title="Look up bourn at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bourne</span>, "small stream," especially of the winter torrents of the chalk downs, O.E. <span class="foreign">brunna, burna</span> "brook, stream," from P.Gmc. <span class="foreign">*brunnoz</span> "spring, fountain" (cf. O.H.G. <span class="foreign">brunno</span>, O.N. <span class="foreign">brunnr</span>, O.Fris. <span class="foreign">burna</span>, Ger. <span class="foreign">Brunnen</span> "fountain," Goth. <span class="foreign">brunna</span> "well"), ultimately from PIE root <span class="foreign">*bhreue-</span> "to boil, bubble, effervesce, burn" (see <a href="/index.php?term=brew&allowed_in_frame=0" class="crossreference">brew</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bourn&allowed_in_frame=0">bourn (n.2)</a> <a href="http://dictionary.reference.com/search?q=bourn" class="dictionary" title="Look up bourn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bourn at Dictionary.com" title="Look up bourn at Dictionary.com" /></a></dt>
+<dd class="highlight">"destination," 1520s, from Fr. <span class="foreign">borne</span>, apparently a variant of <span class="foreign">bodne</span> (see <a href="/index.php?term=bound&allowed_in_frame=0" class="crossreference">bound</a> (n.)), used by Shakespeare in Hamlet's soliloquy (1602), from which it entered into English poetic speech. He meant it probably in the correct sense of "boundary," but it has been taken to mean "goal" (Wordsworth, Matthew Arnold) or sometimes "realm" (Keats).<blockquote>The dread of something after death, The vndiscouered Countrey; from whose Borne No Traueller returnes. ["Hamlet" III.i.79]</blockquote></dd>
+
+<dt><a href="/index.php?term=bourse&allowed_in_frame=0">bourse (n.)</a> <a href="http://dictionary.reference.com/search?q=bourse" class="dictionary" title="Look up bourse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bourse at Dictionary.com" title="Look up bourse at Dictionary.com" /></a></dt>
+<dd>"stock exchange," 1570s, <span class="foreign">burse</span>, from O.Fr. <span class="foreign">borse</span> "money bag, purse" (12c.), from M.L. <span class="foreign">bursa</span> "a bag" (see <a href="/index.php?term=purse&allowed_in_frame=0" class="crossreference">purse</a>). Fr. spelling and modern sense of "exchange for merchants" is first recorded 1845, from the name of the Paris stock exchange. The term originated because in 13c. Bruges the sign of a purse (or perhaps three purses), hung on the front of the house where merchants met.</dd>
+
+<dt class="highlight"><a href="/index.php?term=boustrophedon&allowed_in_frame=0">boustrophedon (n.)</a> <a href="http://dictionary.reference.com/search?q=boustrophedon" class="dictionary" title="Look up boustrophedon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boustrophedon at Dictionary.com" title="Look up boustrophedon at Dictionary.com" /></a></dt>
+<dd class="highlight">1783, ancient form of writing with lines alternately written left-to-right and right-to-left, from Greek, lit. "turning as an ox in plowing," from <span class="foreign">bous</span> "ox" (see <a href="/index.php?term=cow&allowed_in_frame=0" class="crossreference">cow</a> (n.)) + <span class="foreign">strephein</span> "to turn" (see <a href="/index.php?term=strophe&allowed_in_frame=0" class="crossreference">strophe</a>).</dd>
+
+<dt><a href="/index.php?term=bout&allowed_in_frame=0">bout (n.)</a> <a href="http://dictionary.reference.com/search?q=bout" class="dictionary" title="Look up bout at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bout at Dictionary.com" title="Look up bout at Dictionary.com" /></a></dt>
+<dd>1540s, from M.E. <span class="foreign">bught</span>, probably from an unrecorded O.E. variant of <span class="foreign">byht</span> "a bend," from P.Gmc. <span class="foreign">*bukhta-</span>. Sense evolved from "a circuit of any kind" (as of a plow) to "a round at any kind of exercise" (1570s), "a round at fighting" (1590s), "a fit of drinking" (1660s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=boutique&allowed_in_frame=0">boutique (n.)</a> <a href="http://dictionary.reference.com/search?q=boutique" class="dictionary" title="Look up boutique at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boutique at Dictionary.com" title="Look up boutique at Dictionary.com" /></a></dt>
+<dd class="highlight">"fashion shop," 1953, earlier "small shop of any sort" (1767), from Fr. <span class="foreign">boutique</span> (14c.), from O.Prov. <span class="foreign">botica</span>, from Gk. <span class="foreign">apotheke</span> (see <a href="/index.php?term=apothecary&allowed_in_frame=0" class="crossreference">apothecary</a>).</dd>
+
+<dt><a href="/index.php?term=boutonniere&allowed_in_frame=0">boutonniere (n.)</a> <a href="http://dictionary.reference.com/search?q=boutonniere" class="dictionary" title="Look up boutonniere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boutonniere at Dictionary.com" title="Look up boutonniere at Dictionary.com" /></a></dt>
+<dd>1877, from Fr. <span class="foreign">boutonni&egrave;re</span>, from <span class="foreign">bouton</span> (see <a href="/index.php?term=button&allowed_in_frame=0" class="crossreference">button</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bovine&allowed_in_frame=0">bovine (adj.)</a> <a href="http://dictionary.reference.com/search?q=bovine" class="dictionary" title="Look up bovine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bovine at Dictionary.com" title="Look up bovine at Dictionary.com" /></a></dt>
+<dd class="highlight">1817, from Fr. <span class="foreign">bovin</span> (14c.), from L.L. <span class="foreign">bovinus</span>, from L. <span class="foreign">bos</span> (gen. <span class="foreign">bovis</span>) "ox, cow," from PIE <span class="foreign">*gwous-</span> (see <a href="/index.php?term=cow&allowed_in_frame=0" class="crossreference">cow</a>). Figurative sense of "inert and stupid" is from 1855.</dd>
+
+<dt><a href="/index.php?term=bovver&allowed_in_frame=0">bovver</a> <a href="http://dictionary.reference.com/search?q=bovver" class="dictionary" title="Look up bovver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bovver at Dictionary.com" title="Look up bovver at Dictionary.com" /></a></dt>
+<dd>1969, Cockney pronunciation of <a href="/index.php?term=bother&allowed_in_frame=0" class="crossreference">bother</a> "trouble" (q.v.), given wide extended usage in skinhead slang.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bow&allowed_in_frame=0">bow (v.)</a> <a href="http://dictionary.reference.com/search?q=bow" class="dictionary" title="Look up bow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bow at Dictionary.com" title="Look up bow at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">bugan</span> "to bend, to bow down, to bend the body in condescension," also "to turn back" (class II strong verb; past tense <span class="foreign">beag</span>, pp. <span class="foreign">bogen</span>), from P.Gmc. <span class="foreign">*bugon</span> (cf. Du. <span class="foreign">buigen</span>, M.L.G. <span class="foreign">bugen</span>, O.H.G. <span class="foreign">biogan</span>, Ger. <span class="foreign">biegen</span>, Goth. <span class="foreign">biugan</span> "to bend," O.N. <span class="foreign">boginn</span> "bent"), from <span class="foreign">*beugen</span>, from PIE root <span class="foreign">*bheug-</span> (3) "to bend," with derivatives referring to bent, pliable, or curved objects (cf. Skt. <span class="foreign">bhujati</span> "bends, thrusts aside;" O.H.G. <span class="foreign">boug</span>, O.E. <span class="foreign">beag</span> "a ring"). The noun is first recorded 1650s. <span class="foreign">Bow out</span> "withdraw" is from 1942.
+
+
+</dd>
+
+<dt><a href="/index.php?term=bow&allowed_in_frame=0">bow (n.1)</a> <a href="http://dictionary.reference.com/search?q=bow" class="dictionary" title="Look up bow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bow at Dictionary.com" title="Look up bow at Dictionary.com" /></a></dt>
+<dd>weapon for shooting arrows, O.E. <span class="foreign">boga</span> "archery bow, arch, rainbow," from P.Gmc. <span class="foreign">*bugon</span> (cf. O.N. <span class="foreign">bogi</span>, O.Fris. <span class="foreign">boga</span>, Du. <span class="foreign">boog</span>, Ger. <span class="foreign">Bogen</span> "bow;" see <a href="/index.php?term=bow&allowed_in_frame=0" class="crossreference">bow</a> (v.)). The sense of "a looped knot" is from 1540s. The musician's <span class="foreign">bow</span> (1570s) formerly was curved like the archer's. <span class="foreign">Bowlegged</span> is attested from 1550s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bow&allowed_in_frame=0">bow (n.2)</a> <a href="http://dictionary.reference.com/search?q=bow" class="dictionary" title="Look up bow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bow at Dictionary.com" title="Look up bow at Dictionary.com" /></a></dt>
+<dd class="highlight">"front of a ship," mid-14c., from O.N. <span class="foreign">bogr</span> or M.Du. <span class="foreign">boech</span> "bow of a ship," lit. "shoulder (of an animal)," the connecting notion being "the shoulders of the ship." See <a href="/index.php?term=bough&allowed_in_frame=0" class="crossreference">bough</a>.</dd>
+
+<dt><a href="/index.php?term=bow+tie&allowed_in_frame=0">bow tie (n.)</a> <a href="http://dictionary.reference.com/search?q=bow+tie" class="dictionary" title="Look up bow tie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bow tie at Dictionary.com" title="Look up bow tie at Dictionary.com" /></a></dt>
+<dd>by 1887, from <a href="/index.php?term=bow&allowed_in_frame=0" class="crossreference">bow</a> (n.) in the sense "ribbon or other fabric tied in a bow-knot" (by 1874) + <a href="/index.php?term=tie&allowed_in_frame=0" class="crossreference">tie</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bow-wow&allowed_in_frame=0">bow-wow</a> <a href="http://dictionary.reference.com/search?q=bow-wow" class="dictionary" title="Look up bow-wow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bow-wow at Dictionary.com" title="Look up bow-wow at Dictionary.com" /></a></dt>
+<dd class="highlight">imitative of a dog's barking, first recorded 1570s.</dd>
+
+<dt><a href="/index.php?term=bowdlerize&allowed_in_frame=0">bowdlerize (v.)</a> <a href="http://dictionary.reference.com/search?q=bowdlerize" class="dictionary" title="Look up bowdlerize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowdlerize at Dictionary.com" title="Look up bowdlerize at Dictionary.com" /></a></dt>
+<dd>1836, from Thomas <span class="foreign">Bowdler</span> (1754-1825), English editor who in 1818 published a notorious expurgated Shakespeare, in which, according to his frontispiece, "nothing is added to the original text; but those words and expressions omitted which cannot with propriety be read aloud in a family." Related: <span class="foreign">Bowdlerized</span>; <span class="foreign">bowdlerizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowel&allowed_in_frame=0">bowel (n.)</a> <a href="http://dictionary.reference.com/search?q=bowel" class="dictionary" title="Look up bowel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowel at Dictionary.com" title="Look up bowel at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">boele</span> "intestines, bowels, innards" (12c., Mod.Fr. <span class="foreign">boyau</span>), from M.L. <span class="foreign">botellus</span> "small intestine," originally "sausage," dim. of <span class="foreign">botulus</span> "sausage," a word borrowed from Oscan-Umbrian, from PIE <span class="foreign">*gwet-/*geut-</span> "intestine" (cf. L. <span class="foreign">guttur</span> "throat," O.E. <span class="foreign">cwi&eth;</span>, Goth. <span class="foreign">qi&thorn;us</span> "belly, womb," Ger. <span class="foreign">kutteln</span> "guts, chitterlings"). Greek <span class="foreign">splankhnon</span> (from the same PIE root as <a href="/index.php?term=spleen&allowed_in_frame=0" class="crossreference">spleen</a>) was a word for the principal internal organs, which also were felt in ancient times to be the seat of various emotions. Greek poets, from Aeschylus down, regarded the bowels as the seat of the more violent passions such as anger and love, but by the Hebrews they were seen as the seat of tender affections, especially kindness, benevolence, and compassion. <span class="foreign">Splankhnon</span> was used in Septuagint to translate a Hebrew word, and from thence early Bibles in English rendered it in its literal sense as <span class="foreign">bowels</span>, which thus acquired in English a secondary meaning of "pity, compassion" (late 14c.). But in later editions the word often was translated as <span class="foreign">heart</span>. <a href="/index.php?term=Bowel movement&allowed_in_frame=0" class="crossreference">Bowel movement</a> is attested by 1874.
+</dd>
+
+<dt><a href="/index.php?term=bower&allowed_in_frame=0">bower (n.)</a> <a href="http://dictionary.reference.com/search?q=bower" class="dictionary" title="Look up bower at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bower at Dictionary.com" title="Look up bower at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">bur</span> "room, hut, dwelling, chamber," from P.Gmc. <span class="foreign">*buraz</span> (cf. O.N. <span class="foreign">bur</span> "chamber," Swed. <span class="foreign">bur</span> "cage," O.H.G. <span class="foreign">bur</span> "dwelling, chamber," Ger. <span class="foreign">Bauer</span> "birdcage"), from <span class="foreign">*bu-</span> "to dwell," from PIE root <span class="foreign">*bheue-</span> "to be, exist, dwell" (see <a href="/index.php?term=be&allowed_in_frame=0" class="crossreference">be</a>). Modern spelling developed after mid-14c. Sense of "leafy arbor" (place closed in by trees) is first attested 1520s. Hence, too, Australia's <span class="foreign">bower-bird</span> (1847).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowery&allowed_in_frame=0">bowery (n.)</a> <a href="http://dictionary.reference.com/search?q=bowery" class="dictionary" title="Look up bowery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowery at Dictionary.com" title="Look up bowery at Dictionary.com" /></a></dt>
+<dd class="highlight">"farm, plantation," from Du. <span class="foreign">bowerij</span> "homestead farm" (from the same source as <a href="/index.php?term=bower&allowed_in_frame=0" class="crossreference">bower</a>); a Du. word probably little used in America outside New York, and there soon limited to one road, <span class="foreign">The Bowery</span>, that ran from the built-up part of the city out to the plantations in middle Manhattan, attested from 1787; the city's growth soon overran it, and it was noted by 1840 as a commercial district notorious for squalor, rowdiness, and low life.
+<blockquote>
+<b>Bowery Boy</b>, the typical New York tough of a generation or two ago, named from the street which he chiefly affected .... He rather prided himself on his uncouthness, his ignorance, and his desperado readiness to fight, but he also loved to have attention called to his courage, his gallantry to women, his patriotic enthusiasm, and his innate tenderness of heart. A fire and a thrilling melodrama called out all his energies and emotions. [Walsh, 1892]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=bowie+knife&allowed_in_frame=0">bowie knife</a> <a href="http://dictionary.reference.com/search?q=bowie+knife" class="dictionary" title="Look up bowie knife at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowie knife at Dictionary.com" title="Look up bowie knife at Dictionary.com" /></a></dt>
+<dd>1827, named for its inventor, U.S. fighter and frontiersman Col. James "Jim" <span class="foreign">Bowie</span> (1799-1836), and properly pronounced "boo-ee."</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowl&allowed_in_frame=0">bowl (n.)</a> <a href="http://dictionary.reference.com/search?q=bowl" class="dictionary" title="Look up bowl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowl at Dictionary.com" title="Look up bowl at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">bolla</span> "pot, cup, bowl," from P.Gmc. <span class="foreign">*bul-</span> "a round vessel" (cf. O.N. <span class="foreign">bolle</span>, O.H.G. <span class="foreign">bolla</span>), from PIE <span class="foreign">*bhl-</span>, from root <span class="foreign">*bhel-</span> (2) "to blow, inflate, swell" (see <a href="/index.php?term=bole&allowed_in_frame=0" class="crossreference">bole</a>).</dd>
+
+<dt><a href="/index.php?term=bowler&allowed_in_frame=0">bowler (n.1)</a> <a href="http://dictionary.reference.com/search?q=bowler" class="dictionary" title="Look up bowler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowler at Dictionary.com" title="Look up bowler at Dictionary.com" /></a></dt>
+<dd>"hard round hat," 1861, said to be from a J. <span class="foreign">Bowler</span>, 19c. London hat manufacturer; but perhaps simply from <a href="/index.php?term=bowl&allowed_in_frame=0" class="crossreference">bowl</a> (q.v.); cf. O.E. <span class="foreign">heafodbolla</span> "brainpan, skull." The earliest usages are with a lower-case <span class="foreign">b-</span>. A John Bowler of Surrey, hat manufacturer, was active from the 1820s to the 1840s, and a William Bowler, hat-manufacturer, of Southwark Bridge Road, Surrey, sought a patent in 1854 for "improvements in hats and other coverings for the head."</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowler&allowed_in_frame=0">bowler (n.2)</a> <a href="http://dictionary.reference.com/search?q=bowler" class="dictionary" title="Look up bowler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowler at Dictionary.com" title="Look up bowler at Dictionary.com" /></a></dt>
+<dd class="highlight">"player at <a href="/index.php?term=bowls&allowed_in_frame=0" class="crossreference">bowls</a>," c.1500.</dd>
+
+<dt><a href="/index.php?term=bowling&allowed_in_frame=0">bowling (n.)</a> <a href="http://dictionary.reference.com/search?q=bowling" class="dictionary" title="Look up bowling at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowling at Dictionary.com" title="Look up bowling at Dictionary.com" /></a></dt>
+<dd>1530s, "playing at <a href="/index.php?term=bowls&allowed_in_frame=0" class="crossreference">bowls</a>." <span class="foreign">Bowling alley</span> is from 1550s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowls&allowed_in_frame=0">bowls (n.)</a> <a href="http://dictionary.reference.com/search?q=bowls" class="dictionary" title="Look up bowls at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowls at Dictionary.com" title="Look up bowls at Dictionary.com" /></a></dt>
+<dd class="highlight">game played with balls, mid-15c. (implied in <span class="foreign">bowlyn</span>), from gerund of <span class="foreign">bowl</span> "wooden ball" (early 15c.), from O.Fr. <span class="foreign">bole</span> (13c., Mod.Fr. <span class="foreign">boule</span>) "ball," ultimately from L. <span class="foreign">bulla</span> "bubble, knob, round thing" (see <a href="/index.php?term=bull&allowed_in_frame=0" class="crossreference">bull</a> (n.2)).
+<blockquote>Noon apprentice ... [shall] play ... at the Tenys, Closshe, Dise, Cardes, Bowles nor any other unlawfull game. [Act 11, Henry VII, 1495]</blockquote></dd>
+
+<dt><a href="/index.php?term=Bowman%27s+capsule&allowed_in_frame=0">Bowman&#039;s capsule</a> <a href="http://dictionary.reference.com/search?q=Bowman%27s+capsule" class="dictionary" title="Look up Bowman&#039;s capsule at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Bowman&#039;s capsule at Dictionary.com" title="Look up Bowman&#039;s capsule at Dictionary.com" /></a></dt>
+<dd>1882, named for English surgeon William Bowman (1816-1892).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowser&allowed_in_frame=0">bowser (n.)</a> <a href="http://dictionary.reference.com/search?q=bowser" class="dictionary" title="Look up bowser at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowser at Dictionary.com" title="Look up bowser at Dictionary.com" /></a></dt>
+<dd class="highlight">Australian/New Zealand for "fuel oil pump," 1921, from S.F. Bowser & Co., Fort Wayne, Indiana, U.S., founded by the inventor of the gasoline pump, whose product predominated Down Under. As a dog's name, attested from 1806, perhaps imitative of baying.</dd>
+
+<dt><a href="/index.php?term=bowsprit&allowed_in_frame=0">bowsprit (n.)</a> <a href="http://dictionary.reference.com/search?q=bowsprit" class="dictionary" title="Look up bowsprit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowsprit at Dictionary.com" title="Look up bowsprit at Dictionary.com" /></a></dt>
+<dd>"spar extending from the bow of a ship," late 13c., probably from M.L.G. <span class="foreign">bochspret</span>, from <span class="foreign">boch</span> "bow of a ship" (see <a href="/index.php?term=bow&allowed_in_frame=0" class="crossreference">bow</a> (n.2)) + <span class="foreign">spret</span> "pole" (cf. O.E. <span class="foreign">spreot</span> "pole," Du. <span class="foreign">spriet</span> "spear;" see <a href="/index.php?term=sprit&allowed_in_frame=0" class="crossreference">sprit</a>). French <span class="foreign">beaupre</span> is a Dutch loan word.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bowyer&allowed_in_frame=0">bowyer (n.)</a> <a href="http://dictionary.reference.com/search?q=bowyer" class="dictionary" title="Look up bowyer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bowyer at Dictionary.com" title="Look up bowyer at Dictionary.com" /></a></dt>
+<dd class="highlight">"maker of bows," attested late 12c. as a surname, from <a href="/index.php?term=bow&allowed_in_frame=0" class="crossreference">bow</a> (n.1) + <a href="/index.php?term=-yer&allowed_in_frame=0" class="crossreference">-yer</a>.
+</dd>
+
+<dt><a href="/index.php?term=box&allowed_in_frame=0">box (n.1.)</a> <a href="http://dictionary.reference.com/search?q=box" class="dictionary" title="Look up box at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up box at Dictionary.com" title="Look up box at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">box</span> "a wooden container," also "type of shrub," from L.L. <span class="foreign">buxis,</span> from Gk. <span class="foreign">pyxis</span> "boxwood box," from <span class="foreign">pyxos</span> "box tree," of uncertain origin. Ger. <span class="foreign">B&uuml;chse</span> also is a Latin loan word. Slang meaning "vulva" is attested 17c., according to "Dictionary of American Slang;" modern use seems to date from c.WWII, perhaps originally Australian, and on notion of "box of tricks." <span class="foreign">Box office</span> is 1786; in the figurative sense of "financial element of a performance" it is first recorded 1904.</dd>
+
+<dt class="highlight"><a href="/index.php?term=box&allowed_in_frame=0">box (n.2.)</a> <a href="http://dictionary.reference.com/search?q=box" class="dictionary" title="Look up box at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up box at Dictionary.com" title="Look up box at Dictionary.com" /></a></dt>
+<dd class="highlight">"a blow," c.1300, of uncertain origin, possibly related to M.Du. <span class="foreign">boke,</span> M.H.G. <span class="foreign">buc</span> and Dan. <span class="foreign">bask,</span> all meaning "a blow," perhaps imitative. The verb meaning "to fight with the fists" is from 1560s. <span class="foreign">Boxing</span> as a sport is first recorded 1711.</dd>
+
+<dt><a href="/index.php?term=boxcar&allowed_in_frame=0">boxcar (n.)</a> <a href="http://dictionary.reference.com/search?q=boxcar" class="dictionary" title="Look up boxcar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boxcar at Dictionary.com" title="Look up boxcar at Dictionary.com" /></a></dt>
+<dd>1856, American English, from <a href="/index.php?term=box&allowed_in_frame=0" class="crossreference">box</a> (n.1) + <a href="/index.php?term=car&allowed_in_frame=0" class="crossreference">car</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=boxer&allowed_in_frame=0">boxer (n.)</a> <a href="http://dictionary.reference.com/search?q=boxer" class="dictionary" title="Look up boxer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boxer at Dictionary.com" title="Look up boxer at Dictionary.com" /></a></dt>
+<dd class="highlight">"fighter," late 15c., from <a href="/index.php?term=box&allowed_in_frame=0" class="crossreference">box</a> (n.2). The name of the breed of dog (1934), is from German (the breed originated in Germany), itself taken from English <span class="foreign">boxer</span> "fighter;" the dog so called for its pugnaciousness. <span class="foreign">Boxer shorts</span> (1943) so called from their resemblance to the attire worn in the ring.</dd>
+
+<dt><a href="/index.php?term=Boxer+Rebellion&allowed_in_frame=0">Boxer Rebellion</a> <a href="http://dictionary.reference.com/search?q=Boxer+Rebellion" class="dictionary" title="Look up Boxer Rebellion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Boxer Rebellion at Dictionary.com" title="Look up Boxer Rebellion at Dictionary.com" /></a></dt>
+<dd>1900, a name based on mistranslation of Chinese xenophobic society <span class="foreign">I-He-T'uan</span>, "Righteous Harmony Band," rendered by British as <span class="foreign">I-He-Ch'uan</span> "Righteous Uniting Fists," and so associated with the pugilistic <a href="/index.php?term=boxer&allowed_in_frame=0" class="crossreference">boxer</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Boxing+Day&allowed_in_frame=0">Boxing Day</a> <a href="http://dictionary.reference.com/search?q=Boxing+Day" class="dictionary" title="Look up Boxing Day at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Boxing Day at Dictionary.com" title="Look up Boxing Day at Dictionary.com" /></a></dt>
+<dd class="highlight">1809, "first weekday after Christmas," on which postmen and others expect to receive a Christmas present, originally in reference to the custom of distributing the contents of the <span class="foreign">Christmas box</span>, which was placed in the church for charity collections. The custom is older than the phrase.</dd>
+
+<dt><a href="/index.php?term=boxy&allowed_in_frame=0">boxy (adj.)</a> <a href="http://dictionary.reference.com/search?q=boxy" class="dictionary" title="Look up boxy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boxy at Dictionary.com" title="Look up boxy at Dictionary.com" /></a></dt>
+<dd>1858, from <a href="/index.php?term=box&allowed_in_frame=0" class="crossreference">box</a> (n.1) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Boxiness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=boy&allowed_in_frame=0">boy (n.)</a> <a href="http://dictionary.reference.com/search?q=boy" class="dictionary" title="Look up boy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boy at Dictionary.com" title="Look up boy at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., <span class="foreign">boie</span> "servant, commoner, knave, boy," of unknown origin. Possibly from O.Fr. <span class="foreign">embuie</span> "one fettered," from V.L. <span class="foreign">*imboiare</span>, from L. <span class="foreign">boia</span> "leg iron, yoke, leather collar," from Gk. <span class="foreign">boeiai dorai</span> "ox hides." But it also appears to be identical with E.Fris. <span class="foreign">boi</span> "young gentleman," and perhaps with Du. <span class="foreign">boef</span> "knave," from M.Du. <span class="foreign">boeve</span>, perhaps from M.L.G. <span class="foreign">buobe</span>. This suggests a gradational relationship to <a href="/index.php?term=babe&allowed_in_frame=0" class="crossreference">babe</a>. For a different conjecture:
+<blockquote>
+In Old English, only the proper name <span class="foreign">Boia</span> has been recorded. ME <span class="foreign">boi</span> meant 'churl, servant' and (rarely) 'devil.' In texts, the meaning 'male child' does not antedate 1400. ModE <span class="foreign">boy</span> looks like a semantic blend of an onomatopoeic word for an evil spirit (<span class="foreign">*boi</span>) and a baby word for 'brother' (<span class="foreign">*bo</span>). [Liberman]
+<BR><BR>
+<hr>
+<BR>
+A noticable number of the modern words for 'boy', 'girl', and 'child' were originally colloquial nicknames, derogatory or whimsical, in part endearing, and finally commonplace. These, as is natural, are of the most diverse, and in part obscure, origin. [Buck]
+</blockquote>
+Used slightingly of young men in Middle English; meaning "male negro slave or Asian personal servant of any age" attested from c.1600. (Words for "boy" double as "servant, attendant" across the Indo-European map -- e.g. It. <span class="foreign">ragazzo</span>, Fr. <span class="foreign">gar&ccedil;on</span>, Gk. <span class="foreign">pais</span>, M.E. <span class="foreign">knave</span>, O.C.S. <span class="foreign">otroku</span> -- and often it is difficult to say which meaning came first.) Exclamation <span class="foreign">oh, boy</span> attested from 1892.</dd>
+
+<dt><a href="/index.php?term=boyar&allowed_in_frame=0">boyar (n.)</a> <a href="http://dictionary.reference.com/search?q=boyar" class="dictionary" title="Look up boyar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boyar at Dictionary.com" title="Look up boyar at Dictionary.com" /></a></dt>
+<dd>1590s, "member of a Russian aristocratic class (abolished by Peter the Great)," from Rus. <span class="foreign">boyarin</span>, perhaps from <span class="foreign">boji</span> "struggle," or from O.Slav. root <span class="foreign">bol-</span> "great."</dd>
+
+<dt class="highlight"><a href="/index.php?term=boycott&allowed_in_frame=0">boycott</a> <a href="http://dictionary.reference.com/search?q=boycott" class="dictionary" title="Look up boycott at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boycott at Dictionary.com" title="Look up boycott at Dictionary.com" /></a></dt>
+<dd class="highlight">1880, noun and verb, from Irish Land League ostracism of Capt. Charles C. <span class="foreign">Boycott</span> (1832-1897), land agent of Lough-Mask in County Mayo, who refused to lower rents for his tenant farmers. Quickly adopted by newspapers in languages as far afield as Japanese (<span class="foreign">boikotto</span>). The family name is from a place in England.</dd>
+
+<dt><a href="/index.php?term=Boyd&allowed_in_frame=0">Boyd</a> <a href="http://dictionary.reference.com/search?q=Boyd" class="dictionary" title="Look up Boyd at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Boyd at Dictionary.com" title="Look up Boyd at Dictionary.com" /></a></dt>
+<dd>in many cases, the family name represents Gaelic or Irish <span class="foreign">buidhe</span> "yellow," suggesting blond hair, cf. Manx name <span class="foreign">Mac Giolla Buidhe</span> (c.1100).</dd>
+
+<dt class="highlight"><a href="/index.php?term=boyfriend&allowed_in_frame=0">boyfriend (n.)</a> <a href="http://dictionary.reference.com/search?q=boyfriend" class="dictionary" title="Look up boyfriend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boyfriend at Dictionary.com" title="Look up boyfriend at Dictionary.com" /></a></dt>
+<dd class="highlight">"woman's paramour," 1909, from <a href="/index.php?term=boy&allowed_in_frame=0" class="crossreference">boy</a> + <a href="/index.php?term=friend&allowed_in_frame=0" class="crossreference">friend</a> (n.).</dd>
+
+<dt><a href="/index.php?term=boyish&allowed_in_frame=0">boyish (adj.)</a> <a href="http://dictionary.reference.com/search?q=boyish" class="dictionary" title="Look up boyish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boyish at Dictionary.com" title="Look up boyish at Dictionary.com" /></a></dt>
+<dd>1540s, "pertaining to boys," from <a href="/index.php?term=boy&allowed_in_frame=0" class="crossreference">boy</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. Meaning "puerile" is from 1570s. Related: <span class="foreign">Boyishly</span>; <span class="foreign">boyishness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Boyle%27s+law&allowed_in_frame=0">Boyle&#039;s law</a> <a href="http://dictionary.reference.com/search?q=Boyle%27s+law" class="dictionary" title="Look up Boyle&#039;s law at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Boyle&#039;s law at Dictionary.com" title="Look up Boyle&#039;s law at Dictionary.com" /></a></dt>
+<dd class="highlight">named for Irish-born chemist and physicist Robert Boyle (1627-1691), who first published it in 1662.</dd>
+
+<dt><a href="/index.php?term=boysenberry&allowed_in_frame=0">boysenberry (n.)</a> <a href="http://dictionary.reference.com/search?q=boysenberry" class="dictionary" title="Look up boysenberry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up boysenberry at Dictionary.com" title="Look up boysenberry at Dictionary.com" /></a></dt>
+<dd>1935, developed early 1900s by California botanist Rudolf <span class="foreign">Boysen</span> (1895-1950) and named for him.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bozo&allowed_in_frame=0">bozo (n.)</a> <a href="http://dictionary.reference.com/search?q=bozo" class="dictionary" title="Look up bozo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bozo at Dictionary.com" title="Look up bozo at Dictionary.com" /></a></dt>
+<dd class="highlight">"muscular low-I.Q. male," c.1910, perhaps from Sp. <span class="foreign">bozal</span>, used in the slave trade and also to mean "one who speaks Spanish poorly." <span class="foreign">Bozo</span> the clown was created 1940 at Capitol Records as the voice in a series of story-telling records for children ["Wall Street Journal," Oct. 31, 1983].</dd>
+
+<dt><a href="/index.php?term=bra&allowed_in_frame=0">bra (n.)</a> <a href="http://dictionary.reference.com/search?q=bra" class="dictionary" title="Look up bra at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bra at Dictionary.com" title="Look up bra at Dictionary.com" /></a></dt>
+<dd>by 1923, shortening of <a href="/index.php?term=brassiere&allowed_in_frame=0" class="crossreference">brassiere</a> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Brabant&allowed_in_frame=0">Brabant</a> <a href="http://dictionary.reference.com/search?q=Brabant" class="dictionary" title="Look up Brabant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Brabant at Dictionary.com" title="Look up Brabant at Dictionary.com" /></a></dt>
+<dd class="highlight">region in eastern Belgium (in Middle Ages much more extensive), from O.H.G. <span class="foreign">brahha</span> "newly broken land" + <span class="foreign">bant</span> "region."</dd>
+
+<dt><a href="/index.php?term=brace&allowed_in_frame=0">brace (n.)</a> <a href="http://dictionary.reference.com/search?q=brace" class="dictionary" title="Look up brace at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brace at Dictionary.com" title="Look up brace at Dictionary.com" /></a></dt>
+<dd>early 14c., "piece of armor for the arms," also "thong, strap for fastening," from O.Fr. <span class="foreign">brace</span>, <span class="foreign">braz</span> "arms," also "length measured by two arms" (12c., Mod.Fr. <span class="foreign">bras</span> "arm, power;" <span class="foreign">brasse</span> "fathom, armful, breaststroke"), from L. <span class="foreign">bracchia</span> plural of <span class="foreign">bracchium</span> "an arm, a forearm," from Gk. <span class="foreign">brakhion</span> "arm" (see <a href="/index.php?term=brachio-&allowed_in_frame=0" class="crossreference">brachio-</a>). Applied to various devices for fastening and tightening on notion of clasping arms. Of dogs, "a couple, a pair" from c.1400.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=b&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=b&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=b&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=b&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=b&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=b&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=b&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=b&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=b&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=b&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=b&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=b&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=b&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=b&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=b&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=b&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=b&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=b&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=b&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=b&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=b&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=b&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=b&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=b&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=b&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=b&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=b&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=b&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=b&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=b&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=b&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=b&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=b&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=b&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=b&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=b&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=b&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a class="current" href="/index.php?l=b&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=b&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=b&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=b&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=b&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=b&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=b&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=b&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=b&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=b&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=b&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=b&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=b&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=b&amp;p=50&allowed_in_frame=0">51</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658040 -->
+<!-- Page was generated in 0.182830 seconds. -->
+ </body>
+</html>
+<!-- -->

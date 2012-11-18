@@ -1,0 +1,417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=appurtenance&allowed_in_frame=0">appurtenance (n.)</a> <a href="http://dictionary.reference.com/search?q=appurtenance" class="dictionary" title="Look up appurtenance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appurtenance at Dictionary.com" title="Look up appurtenance at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "right, privilege or possession subsidiary to a principal one," from Anglo-Fr. <span class="foreign">apurtenance</span> (12c.), O.Fr. <span class="foreign">apartenance</span>, prp. of <span class="foreign">apartenir</span> "be related to," from L. <span class="foreign">appertinere</span> "to pertain to," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">pertinere</span> "belong to" (see <a href="/index.php?term=pertain&allowed_in_frame=0" class="crossreference">pertain</a>).</dd>
+
+<dt><a href="/index.php?term=appurtenances&allowed_in_frame=0">appurtenances (n.)</a> <a href="http://dictionary.reference.com/search?q=appurtenances" class="dictionary" title="Look up appurtenances at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appurtenances at Dictionary.com" title="Look up appurtenances at Dictionary.com" /></a></dt>
+<dd>"apparatus, gear," late 14c.; see <a href="/index.php?term=appurtenance&allowed_in_frame=0" class="crossreference">appurtenance</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appurtenant&allowed_in_frame=0">appurtenant (adj.)</a> <a href="http://dictionary.reference.com/search?q=appurtenant" class="dictionary" title="Look up appurtenant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appurtenant at Dictionary.com" title="Look up appurtenant at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Anglo-Fr. <span class="foreign">apurtenant</span>, O.Fr. <span class="foreign">apartenant</span>, prp. of <span class="foreign">apartenir</span> "be related to" (see <a href="/index.php?term=appurtenance&allowed_in_frame=0" class="crossreference">appurtenance</a>).</dd>
+
+<dt><a href="/index.php?term=apraxia&allowed_in_frame=0">apraxia (n.)</a> <a href="http://dictionary.reference.com/search?q=apraxia" class="dictionary" title="Look up apraxia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apraxia at Dictionary.com" title="Look up apraxia at Dictionary.com" /></a></dt>
+<dd>1877, medical Latin, from Ger. <span class="foreign">apraxie</span> (H. Steinthal, 1871), from Gk. <span class="foreign">apraxia</span> "inaction," from privative prefix <span class="foreign">a-</span> (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3)) + <span class="foreign">praxis</span> "a doing, action, business" (see <a href="/index.php?term=praxis&allowed_in_frame=0" class="crossreference">praxis</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apricate&allowed_in_frame=0">apricate (v.)</a> <a href="http://dictionary.reference.com/search?q=apricate" class="dictionary" title="Look up apricate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apricate at Dictionary.com" title="Look up apricate at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, "to bask in the sun," from L. <span class="foreign">apricatus</span>, pp. of <span class="foreign">apricari</span> "to bask in the sun," from <span class="foreign">apricus</span> "exposed" (to the sun); perhaps contracted from <span class="foreign">*apericus</span>, from <span class="foreign">aperire</span> "to open." Transitive sense is recorded from 1851.</dd>
+
+<dt><a href="/index.php?term=apricot&allowed_in_frame=0">apricot (n.)</a> <a href="http://dictionary.reference.com/search?q=apricot" class="dictionary" title="Look up apricot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apricot at Dictionary.com" title="Look up apricot at Dictionary.com" /></a></dt>
+<dd>1550s, <span class="foreign">abrecock</span>, from Catalan <span class="foreign">abercoc</span>, related to Port. <span class="foreign">albricoque</span>, from Arabic <span class="foreign">al-birquq</span>, through Byzantine Gk. <span class="foreign">berikokkia</span> from L. <span class="foreign">(malum) praecoquum</span> "early-ripening (fruit)" (see <a href="/index.php?term=precocious&allowed_in_frame=0" class="crossreference">precocious</a>). Form assimilated to Fr. <span class="foreign">abricot</span>.
+<blockquote>
+Latin <span class="foreign">praecoquis</span> early-ripe, can probably be attributed to the fact that the fruit was considered a variety of peach that ripened sooner than other peaches .... [Barnhart]
+</blockquote>
+ The older Latin name for it was <span class="foreign">prunum Armeniacum</span> or <span class="foreign">malum Armeniacum</span>, in reference to supposed origin in Armenia. As a color name, first attested 1906.</dd>
+
+<dt class="highlight"><a href="/index.php?term=April&allowed_in_frame=0">April</a> <a href="http://dictionary.reference.com/search?q=April" class="dictionary" title="Look up April at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up April at Dictionary.com" title="Look up April at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, <span class="foreign">aueril</span>, from O.Fr. <span class="foreign">avril</span> (11c.), from L. <span class="foreign">(mensis) Aprilis</span> "(month) of Venus," second month of the ancient Roman calendar, dedicated to the goddess Venus and perhaps based on <span class="foreign">Apru</span>, an Etruscan borrowing of Gk. <a href="/index.php?term=Aphrodite&allowed_in_frame=0" class="crossreference">Aphrodite</a>. In English in Latin form from mid-12c. Replaced O.E. <span class="foreign">Eastermona&eth;</span>, which was similarly named for a fertility goddess. Re-spelled in Middle English on Latin model (<span class="foreign">apprile</span> first attested late 14c.).</dd>
+
+<dt><a href="/index.php?term=April+fool&allowed_in_frame=0">April fool (n.)</a> <a href="http://dictionary.reference.com/search?q=April+fool" class="dictionary" title="Look up April fool at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up April fool at Dictionary.com" title="Look up April fool at Dictionary.com" /></a></dt>
+<dd>1680s; <span class="foreign">April-gowk</span> (from O.N. <span class="foreign">gaukr</span> "a cuckoo") is a northern variant. <span class="foreign">April Fool's Day</span> customs of sending people on false errands seem to have come to England from France late 17c.; originally <span class="foreign">All Fool's Day</span> (1712). In Cumberland, Westmorland and northern parts of Lancashire and Yorkshire, however, May 1 was the day for hoaxing, and the fool was a <span class="foreign">May gosling</span>. That custom was first attested 1791.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apron&allowed_in_frame=0">apron (n.)</a> <a href="http://dictionary.reference.com/search?q=apron" class="dictionary" title="Look up apron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apron at Dictionary.com" title="Look up apron at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., faulty separation (cf. <a href="/index.php?term=adder&allowed_in_frame=0" class="crossreference">adder</a>, <a href="/index.php?term=umpire&allowed_in_frame=0" class="crossreference">umpire</a>) of <span class="foreign">a napron</span> (c.1300), from O.Fr. <span class="foreign">naperon</span> "small table-cloth," dim. of <span class="foreign">nappe</span> "cloth," from L. <span class="foreign">mappa</span> "napkin." <span class="foreign">Napron</span> was still in use as recently as late 16c. The shift of Latin <span class="foreign">-m-</span> to <span class="foreign">-n-</span> was a tendency in Old French (e.g. <span class="foreign">conter</span> from <span class="foreign">computare</span>, <span class="foreign">printemps</span> from <span class="foreign">primum</span>, <span class="foreign">natte</span> "mat, matting," from <span class="foreign">matta</span>). Symbolic of "wife's business" from 1610s. <span class="foreign">Apron-string tenure</span> was in reference to property held in virtue of one's wife, or during her lifetime only.<blockquote>Even at <span class="foreign">his</span> age, he ought not to be always tied to his mother's apron string. [Anne Brontë, "The Tenant of Wildfell Hall," 1848]</blockquote></dd>
+
+<dt><a href="/index.php?term=apropos&allowed_in_frame=0">apropos</a> <a href="http://dictionary.reference.com/search?q=apropos" class="dictionary" title="Look up apropos at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apropos at Dictionary.com" title="Look up apropos at Dictionary.com" /></a></dt>
+<dd>1660s, "opportunely" (adv.), from Fr. <span class="foreign">&agrave; propos</span> "to the purpose," from <span class="foreign">propos</span> "purpose, plan," from L. <span class="foreign">propositium</span> "purpose," pp. of <span class="foreign">proponere</span> "to set forth, propose" (see <a href="/index.php?term=propound&allowed_in_frame=0" class="crossreference">propound</a>). Meaning "as regards" is 1761, from French. As an adjective, "to the point or purpose," from 1690s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apse&allowed_in_frame=0">apse (n.)</a> <a href="http://dictionary.reference.com/search?q=apse" class="dictionary" title="Look up apse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apse at Dictionary.com" title="Look up apse at Dictionary.com" /></a></dt>
+<dd class="highlight">"semicircular extension at the end of a church," 1846, from L. <span class="foreign">apsis</span> "an arch, a vault," from Gk. <span class="foreign">hapsis</span> (Ionic <span class="foreign">apsis</span>) "loop, arch," originally "a fastening, felloe of a wheel," from <span class="foreign">haptein</span> "fasten together," of unknown origin. The original sense in Greek seems to have been the joining of the arcs to form a circle, especially in making a wheel. The architectural term is earlier attested in English in the Latin form (1706).</dd>
+
+<dt><a href="/index.php?term=apsis&allowed_in_frame=0">apsis (n.)</a> <a href="http://dictionary.reference.com/search?q=apsis" class="dictionary" title="Look up apsis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apsis at Dictionary.com" title="Look up apsis at Dictionary.com" /></a></dt>
+<dd>"perigree of the moon, perihelion of a planet" (plural <span class="foreign">apsides</span>), 1650s, from L. <span class="foreign">apsis</span> "arch, vault" (see <a href="/index.php?term=apse&allowed_in_frame=0" class="crossreference">apse</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apt&allowed_in_frame=0">apt (adj.)</a> <a href="http://dictionary.reference.com/search?q=apt" class="dictionary" title="Look up apt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apt at Dictionary.com" title="Look up apt at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "inclined, disposed;" late 14c., "suited, fitted, adapted," from O.Fr. <span class="foreign">ate</span> (13c., Mod.Fr. <span class="foreign">apte</span>), or directly L. <span class="foreign">aptus</span> "fit, suited," adjectival use of pp. of <span class="foreign">*apere</span> "to attach, join, tie to," from PIE root <span class="foreign">*ap-</span> "to grasp, take, reach" (cf. Skt. <span class="foreign">apnoti</span> "he reaches," L. <span class="foreign">apisci</span> "to reach after, attain," Hittite <span class="foreign">epmi</span> "I seize"). Elliptical sense of "becoming, appropriate" is from 1560s.</dd>
+
+<dt><a href="/index.php?term=aptitude&allowed_in_frame=0">aptitude (n.)</a> <a href="http://dictionary.reference.com/search?q=aptitude" class="dictionary" title="Look up aptitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aptitude at Dictionary.com" title="Look up aptitude at Dictionary.com" /></a></dt>
+<dd>early 15c., "tendency, likelihood," from M.Fr. <span class="foreign">aptitude</span> (14c.) or directly from L.L. <span class="foreign">aptitudo</span> (gen. <span class="foreign">aptitudinis</span>) "fitness," noun of quality from L. <span class="foreign">aptus</span> "joined, fitted" (see <a href="/index.php?term=apt&allowed_in_frame=0" class="crossreference">apt</a>). Meaning "natural capacity to learn" is 1540s; that of "quality of being fit (for a purpose or position)" is from 1640s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aptly&allowed_in_frame=0">aptly (adv.)</a> <a href="http://dictionary.reference.com/search?q=aptly" class="dictionary" title="Look up aptly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aptly at Dictionary.com" title="Look up aptly at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "by natural means," from <a href="/index.php?term=apt&allowed_in_frame=0" class="crossreference">apt</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=aptness&allowed_in_frame=0">aptness (n.)</a> <a href="http://dictionary.reference.com/search?q=aptness" class="dictionary" title="Look up aptness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aptness at Dictionary.com" title="Look up aptness at Dictionary.com" /></a></dt>
+<dd>1530s, from <a href="/index.php?term=apt&allowed_in_frame=0" class="crossreference">apt</a> + <a href="/index.php?term=-ness&allowed_in_frame=0" class="crossreference">-ness</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aqua&allowed_in_frame=0">aqua (n.)</a> <a href="http://dictionary.reference.com/search?q=aqua" class="dictionary" title="Look up aqua at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqua at Dictionary.com" title="Look up aqua at Dictionary.com" /></a></dt>
+<dd class="highlight">"water," late 14c.; see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>. Used in late Middle English in combinations to mean "decoction, solution" (cf. <span class="foreign">aqua regia</span>, a mix of concentrated acids, lit. "royal water," so called for its power to dissolve gold and other "noble" metals). As the name of a light greenish-blue color, 1936.</dd>
+
+<dt><a href="/index.php?term=aqua+fortis&allowed_in_frame=0">aqua fortis (n.)</a> <a href="http://dictionary.reference.com/search?q=aqua+fortis" class="dictionary" title="Look up aqua fortis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqua fortis at Dictionary.com" title="Look up aqua fortis at Dictionary.com" /></a></dt>
+<dd>old name for "concentrated nitric acid," c.1600, Latin, lit. "strong water;" see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a> + <a href="/index.php?term=fort&allowed_in_frame=0" class="crossreference">fort</a>. So called for its power of dissolving metals (copper, silver) unaffected by other agents.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aqua+vitae&allowed_in_frame=0">aqua vitae (n.)</a> <a href="http://dictionary.reference.com/search?q=aqua+vitae" class="dictionary" title="Look up aqua vitae at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqua vitae at Dictionary.com" title="Look up aqua vitae at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., Latin, lit. "water of life," an alchemical term for unrefined alcohol. Applied to brandy, whiskey, etc. from 1540s. Cf. <a href="/index.php?term=whiskey&allowed_in_frame=0" class="crossreference">whiskey</a>, also Fr. <span class="foreign">eau-de-vie</span> "spirits, brandy," lit. "water of life."</dd>
+
+<dt><a href="/index.php?term=aqua-&allowed_in_frame=0">aqua-</a> <a href="http://dictionary.reference.com/search?q=aqua-" class="dictionary" title="Look up aqua- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqua- at Dictionary.com" title="Look up aqua- at Dictionary.com" /></a></dt>
+<dd>word-forming element meaning "water," from L. <span class="foreign">aqua</span> "water; the sea; rain," cognate with P.Gmc. <span class="foreign">*akhwo</span>, source of O.E. <span class="foreign">ea</span> "river," Goth. <span class="foreign">ahua</span> "river, waters," O.N. <span class="foreign">&AElig;gir</span>, name of the sea-god, O.E. <span class="foreign">ieg</span> "island;" all from PIE <span class="foreign">*akwa-</span> "water" (cf. Skt. <span class="foreign">ap</span> "water," Hitt. <span class="foreign">akwanzi</span> "they drink," Lith. <span class="foreign">uppe</span> "a river").</dd>
+
+<dt class="highlight"><a href="/index.php?term=aquacade&allowed_in_frame=0">aquacade (n.)</a> <a href="http://dictionary.reference.com/search?q=aquacade" class="dictionary" title="Look up aquacade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquacade at Dictionary.com" title="Look up aquacade at Dictionary.com" /></a></dt>
+<dd class="highlight">"aquatic entertainment," 1937, American English, from <a href="/index.php?term=aqua&allowed_in_frame=0" class="crossreference">aqua</a>- + <span class="foreign">-cade,</span> from <a href="/index.php?term=cavalcade&allowed_in_frame=0" class="crossreference">cavalcade</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=aquaculture&allowed_in_frame=0">aquaculture (n.)</a> <a href="http://dictionary.reference.com/search?q=aquaculture" class="dictionary" title="Look up aquaculture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquaculture at Dictionary.com" title="Look up aquaculture at Dictionary.com" /></a></dt>
+<dd>1869, from <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a> + <a href="/index.php?term=culture&allowed_in_frame=0" class="crossreference">culture</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aqualung&allowed_in_frame=0">aqualung (n.)</a> <a href="http://dictionary.reference.com/search?q=aqualung" class="dictionary" title="Look up aqualung at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqualung at Dictionary.com" title="Look up aqualung at Dictionary.com" /></a></dt>
+<dd class="highlight">1950, from L. <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>) + <a href="/index.php?term=lung&allowed_in_frame=0" class="crossreference">lung</a>. Developed 1943 by Jacques Cousteau and Emile Gagnan.</dd>
+
+<dt><a href="/index.php?term=aquamarine&allowed_in_frame=0">aquamarine (n.)</a> <a href="http://dictionary.reference.com/search?q=aquamarine" class="dictionary" title="Look up aquamarine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquamarine at Dictionary.com" title="Look up aquamarine at Dictionary.com" /></a></dt>
+<dd>1590s, <span class="foreign">agmarine</span>, "bluish-green type of beryl," from French or Proven&ccedil;al, from L. <span class="foreign">aqua marina</span> "sea water," from <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>) + <span class="foreign">marina</span>, fem. of <span class="foreign">marinus</span> "of the sea" (see <a href="/index.php?term=marine&allowed_in_frame=0" class="crossreference">marine</a> (adj.)). Apparently first used as a description of a bluish-green color by John Ruskin, 1846. Abbreviation <span class="foreign">aqua</span> is attested from 1936.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aquanaut&allowed_in_frame=0">aquanaut (n.)</a> <a href="http://dictionary.reference.com/search?q=aquanaut" class="dictionary" title="Look up aquanaut at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquanaut at Dictionary.com" title="Look up aquanaut at Dictionary.com" /></a></dt>
+<dd class="highlight">1881, from <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a> + ending from Gk. <span class="foreign">nautes</span> "sailor" (see <a href="/index.php?term=naval&allowed_in_frame=0" class="crossreference">naval</a>).
+</dd>
+
+<dt><a href="/index.php?term=aquarelle&allowed_in_frame=0">aquarelle</a> <a href="http://dictionary.reference.com/search?q=aquarelle" class="dictionary" title="Look up aquarelle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquarelle at Dictionary.com" title="Look up aquarelle at Dictionary.com" /></a></dt>
+<dd>1855, from Fr. <span class="foreign">aquarelle</span> (18c.), from It. <span class="foreign">acquerella</span> "water-color," dim. of <span class="foreign">acqua</span>, from L. <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Aquarian&allowed_in_frame=0">Aquarian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Aquarian" class="dictionary" title="Look up Aquarian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aquarian at Dictionary.com" title="Look up Aquarian at Dictionary.com" /></a></dt>
+<dd class="highlight">1940, in the astrological/New Age sense; see <a href="/index.php?term=Aquarius&allowed_in_frame=0" class="crossreference">Aquarius</a> + <a href="/index.php?term=-ian&allowed_in_frame=0" class="crossreference">-ian</a>.</dd>
+
+<dt><a href="/index.php?term=aquarium&allowed_in_frame=0">aquarium (n.)</a> <a href="http://dictionary.reference.com/search?q=aquarium" class="dictionary" title="Look up aquarium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquarium at Dictionary.com" title="Look up aquarium at Dictionary.com" /></a></dt>
+<dd>1830, noun use of neuter of L. <span class="foreign">aquarius</span> "pertaining to water," as a noun, "water-carrier," genitive of <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>). The word existed in Latin, but there it meant "drinking place for cattle." Originally especially for growing aquatic plants; An earlier attempt at a name for "fish tank" was <span class="foreign">marine vivarium</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Aquarius&allowed_in_frame=0">Aquarius</a> <a href="http://dictionary.reference.com/search?q=Aquarius" class="dictionary" title="Look up Aquarius at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aquarius at Dictionary.com" title="Look up Aquarius at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., faint constellation and 11th zodiac sign, Latin, lit. "water carrier," properly an adjective, "pertaining to water" (see <a href="/index.php?term=aquarium&allowed_in_frame=0" class="crossreference">aquarium</a>); a loan-translation of Gk. <span class="foreign">Hydrokhoos</span> "the water-pourer," old Greek name of this constellation. <span class="foreign">Aquarians</span> were a former Christian sect that used water instead of wine at the Lord's Supper. <span class="foreign">Age of Aquarius</span> (1940) is an astrological epoch supposed to have begun in the 1960s, embodying the traits of this sign and characterized by world peace and human brotherhood. The term and the concept probably got a boost in popular use when <span class="foreign">An Aquarian Exposition</span> was used as the sub-name of the Woodstock Music & Art Fair (1969).</dd>
+
+<dt><a href="/index.php?term=aquatic&allowed_in_frame=0">aquatic (adj.)</a> <a href="http://dictionary.reference.com/search?q=aquatic" class="dictionary" title="Look up aquatic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquatic at Dictionary.com" title="Look up aquatic at Dictionary.com" /></a></dt>
+<dd>late 15c., from Middle French and O.Fr. <span class="foreign">aquatique</span> (13c.), from L. <span class="foreign">aquaticus</span> "growing in water; bringing rain," from <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua&allowed_in_frame=0" class="crossreference">aqua</a>-)</dd>
+
+<dt class="highlight"><a href="/index.php?term=aquatint&allowed_in_frame=0">aquatint (n.)</a> <a href="http://dictionary.reference.com/search?q=aquatint" class="dictionary" title="Look up aquatint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquatint at Dictionary.com" title="Look up aquatint at Dictionary.com" /></a></dt>
+<dd class="highlight">1782, "engraving made with <span class="foreign">aqua fortis</span>," from It. <span class="foreign">acquatinta</span>, from L. <span class="foreign">aqua tincta</span> "dyed water;" see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a> + <a href="/index.php?term=tinct&allowed_in_frame=0" class="crossreference">tinct</a>.</dd>
+
+<dt><a href="/index.php?term=aqueduct&allowed_in_frame=0">aqueduct (n.)</a> <a href="http://dictionary.reference.com/search?q=aqueduct" class="dictionary" title="Look up aqueduct at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqueduct at Dictionary.com" title="Look up aqueduct at Dictionary.com" /></a></dt>
+<dd>1530s, from L. <span class="foreign">aquaeductus</span> "conveyance of water," from <span class="foreign">aquae</span>, gen. of <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>), + <span class="foreign">ductus</span> "a leading, conducting," pp. of <span class="foreign">ducere</span> "to lead" (see <a href="/index.php?term=duke&allowed_in_frame=0" class="crossreference">duke</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aqueous&allowed_in_frame=0">aqueous (adj.)</a> <a href="http://dictionary.reference.com/search?q=aqueous" class="dictionary" title="Look up aqueous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aqueous at Dictionary.com" title="Look up aqueous at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from L. <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>) on analogy of Fr. <span class="foreign">aqueux</span> "watery" (16c., which, however, is from L.L. <span class="foreign">aquosus</span> "abounding in water"). Or by analogy of L. <span class="foreign">terreus</span> "earthy," from <span class="foreign">terra</span> "earth." <span class="foreign">Aqueous humor</span> is the original use in English.</dd>
+
+<dt><a href="/index.php?term=aquifer&allowed_in_frame=0">aquifer (n.)</a> <a href="http://dictionary.reference.com/search?q=aquifer" class="dictionary" title="Look up aquifer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquifer at Dictionary.com" title="Look up aquifer at Dictionary.com" /></a></dt>
+<dd>1897, coined from L. <span class="foreign">aqui-</span>, comb. form of <span class="foreign">aqua</span> "water" (see <a href="/index.php?term=aqua-&allowed_in_frame=0" class="crossreference">aqua-</a>) + <span class="foreign">-fer</span> "bearing," from <span class="foreign">ferre</span> "to bear" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aquiline&allowed_in_frame=0">aquiline (adj.)</a> <a href="http://dictionary.reference.com/search?q=aquiline" class="dictionary" title="Look up aquiline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquiline at Dictionary.com" title="Look up aquiline at Dictionary.com" /></a></dt>
+<dd class="highlight">"curved like an eagle's beak," 1640s, originally in English in reference to long, hooked noses, from L. <span class="foreign">aquilinus</span> "of or like an eagle," from <span class="foreign">aquila</span> "eagle," of uncertain origin, usually explained as "the dark bird;" cf. <span class="foreign">aquilus</span> "blackish, of the color of darkness." </dd>
+
+<dt><a href="/index.php?term=aquiver&allowed_in_frame=0">aquiver (adv.)</a> <a href="http://dictionary.reference.com/search?q=aquiver" class="dictionary" title="Look up aquiver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aquiver at Dictionary.com" title="Look up aquiver at Dictionary.com" /></a></dt>
+<dd>1864, from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + <a href="/index.php?term=quiver&allowed_in_frame=0" class="crossreference">quiver</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Arab&allowed_in_frame=0">Arab (n.)</a> <a href="http://dictionary.reference.com/search?q=Arab" class="dictionary" title="Look up Arab at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arab at Dictionary.com" title="Look up Arab at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c. (<span class="foreign">Arabes</span>, a plural form), from O.Fr. <span class="foreign">Arabi</span>, from L. <span class="foreign">Arabs</span> (acc. <span class="foreign">Arabem</span>), from Gk. <span class="foreign">Araps</span> (gen. <span class="foreign">Arabos</span>), from Arabic <span class="foreign">'arab</span>, indigenous name of the people, perhaps lit. "inhabitant of the desert" and related to Heb. <span class="foreign">arabha</span> "desert." Meaning "homeless little wanderer, child of the street" is from 1848 (originally <span class="foreign">Arab of the city</span>), in reference to nomadic ways. <span class="foreign">Arab League</span> formed in Cairo, March 22, 1945.</dd>
+
+<dt><a href="/index.php?term=arabesque&allowed_in_frame=0">arabesque (n.)</a> <a href="http://dictionary.reference.com/search?q=arabesque" class="dictionary" title="Look up arabesque at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arabesque at Dictionary.com" title="Look up arabesque at Dictionary.com" /></a></dt>
+<dd>1610s, "Moorish or Arabic ornamental design," from Fr. <span class="foreign">arabesque</span> (16c.), from It. <span class="foreign">arabesco</span>, from <span class="foreign">Arabo</span> "Arab," with reference to Moorish architecture. As a ballet pose, first attested 1830. Musical sense, in reference to an ornamented theme, is from 1864, originally the title given by Robert Schumann to one of his piano pieces.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Arabia&allowed_in_frame=0">Arabia</a> <a href="http://dictionary.reference.com/search?q=Arabia" class="dictionary" title="Look up Arabia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arabia at Dictionary.com" title="Look up Arabia at Dictionary.com" /></a></dt>
+<dd class="highlight">1711; see <a href="/index.php?term=Arab&allowed_in_frame=0" class="crossreference">Arab</a> + <a href="/index.php?term=-ia&allowed_in_frame=0" class="crossreference">-ia</a>. The older name for "the country of Arabia" was <span class="foreign">Araby</span> (late 13c.).</dd>
+
+<dt><a href="/index.php?term=Arabian&allowed_in_frame=0">Arabian</a> <a href="http://dictionary.reference.com/search?q=Arabian" class="dictionary" title="Look up Arabian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arabian at Dictionary.com" title="Look up Arabian at Dictionary.com" /></a></dt>
+<dd>c.1300, adjective and noun; see <a href="/index.php?term=Arab&allowed_in_frame=0" class="crossreference">Arab</a> + <a href="/index.php?term=-ian&allowed_in_frame=0" class="crossreference">-ian</a>. As a prized type of horse, it is attested from 1660s. The <span class="foreign">Arabian bird</span> was the phoenix.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Arabic&allowed_in_frame=0">Arabic (adj.)</a> <a href="http://dictionary.reference.com/search?q=Arabic" class="dictionary" title="Look up Arabic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arabic at Dictionary.com" title="Look up Arabic at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from O.Fr. <span class="foreign">Arabique</span> (13c.), from L. <span class="foreign">Arabicus</span> "Arabic" (see <a href="/index.php?term=Arab&allowed_in_frame=0" class="crossreference">Arab</a>). Old English used <span class="foreign">Arabisc</span> "Arabish." Originally in reference to <span class="foreign">gum arabic</span>; noun meaning "Arabic language" is from late 14c.
+<BR><BR>
+<span class="foreign">Arabic numerals</span> (actually Indian) first attested 1727; they were introduced in Europe by Gerbert of Aurillac (later Pope Sylvester II) after a visit to Islamic Spain in 967-970. A prominent man of science, he taught in the diocesan school at Reims, but the numbers made little headway against conservative opposition in the Church until after the Crusades. The earliest depiction of them in English, in "The Crafte of Nombrynge" (c.1350) correctly identifies them as "teen figurys of Inde."</dd>
+
+<dt><a href="/index.php?term=arable&allowed_in_frame=0">arable (adj.)</a> <a href="http://dictionary.reference.com/search?q=arable" class="dictionary" title="Look up arable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arable at Dictionary.com" title="Look up arable at Dictionary.com" /></a></dt>
+<dd>early 15c., "suitable for plowing" (as opposed to pasture- or wood-land), from O.Fr. <span class="foreign">arable</span> (12c.), from L. <span class="foreign">arabilis</span>, from <span class="foreign">arare</span> "to plow," from PIE <span class="foreign">*are-</span> "to plow" (cf. Gk. <span class="foreign">aroun</span>, O.C.S. <span class="foreign">orja</span>, Lith. <span class="foreign">ariu</span> "to plow;" Goth. <span class="foreign">arjan</span>, O.E. <span class="foreign">erian</span>, M.Ir. <span class="foreign">airim</span>, Welsh <span class="foreign">arddu</span> "to plow;" O.N. <span class="foreign">ar&thorn;r</span> "a plow"). Replaced by late 18c. native <span class="foreign">erable</span>, from O.E. <span class="foreign">erian</span> "to plow," from the same PIE source.</dd>
+
+<dt class="highlight"><a href="/index.php?term=arachnid&allowed_in_frame=0">arachnid (n.)</a> <a href="http://dictionary.reference.com/search?q=arachnid" class="dictionary" title="Look up arachnid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arachnid at Dictionary.com" title="Look up arachnid at Dictionary.com" /></a></dt>
+<dd class="highlight">"a spider," 1869, from Fr. <span class="foreign">arachnide</span> (1806) or Mod.L. <span class="foreign">Arachnida</span>, introduced as name for this class of arthropods 1815 by French biologist Jean Baptiste Pierre Antoine de Monet de Lamarck (1744-1829), from Gk. <span class="foreign">arakhne</span> (fem.) "spider; spider's web," which probably is cognate with L. <span class="foreign">aranea</span> "spider, spider's web," from <span class="foreign">aracsna</span> [Buck]. An earlier noun form was <span class="foreign">arachnidian</span> (1828).</dd>
+
+<dt><a href="/index.php?term=arachnoid&allowed_in_frame=0">arachnoid (adj.)</a> <a href="http://dictionary.reference.com/search?q=arachnoid" class="dictionary" title="Look up arachnoid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arachnoid at Dictionary.com" title="Look up arachnoid at Dictionary.com" /></a></dt>
+<dd>"cobweb-like," especially of the membrane around the brain and spinal cord, 1789, from Mod.L. <span class="foreign">arachnoides</span>, from Gk. <span class="foreign">arakhnoeides</span> "cobweb-like," from <span class="foreign">arakhne</span> "cobweb" (see <a href="/index.php?term=arachnid&allowed_in_frame=0" class="crossreference">arachnid</a>) + <span class="foreign">-oeides</span> (see <a href="/index.php?term=-oid&allowed_in_frame=0" class="crossreference">-oid</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=arachnologist&allowed_in_frame=0">arachnologist (n.)</a> <a href="http://dictionary.reference.com/search?q=arachnologist" class="dictionary" title="Look up arachnologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arachnologist at Dictionary.com" title="Look up arachnologist at Dictionary.com" /></a></dt>
+<dd class="highlight">student of spiders, 1806; see <a href="/index.php?term=arachnid&allowed_in_frame=0" class="crossreference">arachnid</a> + <a href="/index.php?term=-ology&allowed_in_frame=0" class="crossreference">-ology</a>. Related: <span class="foreign">Arachnology</span>.</dd>
+
+<dt><a href="/index.php?term=arachnophobia&allowed_in_frame=0">arachnophobia (n.)</a> <a href="http://dictionary.reference.com/search?q=arachnophobia" class="dictionary" title="Look up arachnophobia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arachnophobia at Dictionary.com" title="Look up arachnophobia at Dictionary.com" /></a></dt>
+<dd>1925, from comb. form of <a href="/index.php?term=arachnid&allowed_in_frame=0" class="crossreference">arachnid</a> + <a href="/index.php?term=-phobia&allowed_in_frame=0" class="crossreference">-phobia</a> "fear."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Aragon&allowed_in_frame=0">Aragon</a> <a href="http://dictionary.reference.com/search?q=Aragon" class="dictionary" title="Look up Aragon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aragon at Dictionary.com" title="Look up Aragon at Dictionary.com" /></a></dt>
+<dd class="highlight">medieval Spanish kingdom, named for a river that runs through it, probably from a PIE root meaning "water."</dd>
+
+<dt><a href="/index.php?term=Aramaic&allowed_in_frame=0">Aramaic</a> <a href="http://dictionary.reference.com/search?q=Aramaic" class="dictionary" title="Look up Aramaic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aramaic at Dictionary.com" title="Look up Aramaic at Dictionary.com" /></a></dt>
+<dd>northern branch of Semitic language group, 1834, from biblical land of <span class="foreign">Aram</span>, roughly corresponding to modern Syria; probably related to Hebrew and Aramaic <span class="foreign">rum</span> "to be high," thus originally "highland."</dd>
+
+<dt class="highlight"><a href="/index.php?term=arational&allowed_in_frame=0">arational (adj.)</a> <a href="http://dictionary.reference.com/search?q=arational" class="dictionary" title="Look up arational at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arational at Dictionary.com" title="Look up arational at Dictionary.com" /></a></dt>
+<dd class="highlight">"not purporting to be governed by laws of reason," 1935; see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (2) + <a href="/index.php?term=rational&allowed_in_frame=0" class="crossreference">rational</a>.</dd>
+
+<dt><a href="/index.php?term=arbalest&allowed_in_frame=0">arbalest (n.)</a> <a href="http://dictionary.reference.com/search?q=arbalest" class="dictionary" title="Look up arbalest at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arbalest at Dictionary.com" title="Look up arbalest at Dictionary.com" /></a></dt>
+<dd>"crossbow," c.1300, from O.Fr. <span class="foreign">arbaleste</span> "large crossbow with a crank" (12c., Mod.Fr. <span class="foreign">arbal&egrave;te</span>), from V.L. <span class="foreign">arbalista</span>, from L.L. <span class="foreign">arcuballista</span> "catapult," from L. <span class="foreign">arcus</span> "bow" (see <a href="/index.php?term=arc&allowed_in_frame=0" class="crossreference">arc</a> (n.)) + <span class="foreign">ballista</span> "machine for throwing projectiles" (see <a href="/index.php?term=ballistic&allowed_in_frame=0" class="crossreference">ballistic</a>). Ger. <span class="foreign">armbrust</span> is from the same French word but mangled by folk etymology.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657969 -->
+<!-- Page was generated in 0.177009 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=perfunctory&allowed_in_frame=0">perfunctory (adj.)</a> <a href="http://dictionary.reference.com/search?q=perfunctory" class="dictionary" title="Look up perfunctory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perfunctory at Dictionary.com" title="Look up perfunctory at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, from L.L. <span class="foreign">perfunctorius</span> "careless, negligent," lit. "like one who wishes to get through a thing," from L. <span class="foreign">perfungus</span>, pp. of <span class="foreign">perfungi</span> "discharge, busy oneself, get through," from <span class="foreign">per-</span> "through" + <span class="foreign">fungi</span> "perform" (see <a href="/index.php?term=function&allowed_in_frame=0" class="crossreference">function</a> (n.)). Related: <span class="foreign">Perfunctorily</span>.</dd>
+
+<dt><a href="/index.php?term=perfuse&allowed_in_frame=0">perfuse (v.)</a> <a href="http://dictionary.reference.com/search?q=perfuse" class="dictionary" title="Look up perfuse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perfuse at Dictionary.com" title="Look up perfuse at Dictionary.com" /></a></dt>
+<dd>1520s, from L. <span class="foreign">perfusus</span>, pp. of <span class="foreign">perfundere</span> "to pour over, besprinkle," from <span class="foreign">per-</span> + <span class="foreign">fundere</span> (see <a href="/index.php?term=found&allowed_in_frame=0" class="crossreference">found</a> (v.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=perfusion&allowed_in_frame=0">perfusion (n.)</a> <a href="http://dictionary.reference.com/search?q=perfusion" class="dictionary" title="Look up perfusion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perfusion at Dictionary.com" title="Look up perfusion at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, from M.Fr. <span class="foreign">perfusion</span> and directly from L. <span class="foreign">perfusionem</span> (nom. <span class="foreign">perfusio</span>) "a pouring over," noun of action from pp. stem of <span class="foreign">perfundere</span> "pour out," from <span class="foreign">per-</span> "throughout" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <span class="foreign">fundere</span> "pour" (see <a href="/index.php?term=found&allowed_in_frame=0" class="crossreference">found</a> (v.2)).</dd>
+
+<dt><a href="/index.php?term=pergola&allowed_in_frame=0">pergola (n.)</a> <a href="http://dictionary.reference.com/search?q=pergola" class="dictionary" title="Look up pergola at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pergola at Dictionary.com" title="Look up pergola at Dictionary.com" /></a></dt>
+<dd>latticework structure for climbing plants, 1670s, from It. <span class="foreign">pergola</span>, from L. <span class="foreign">pergula</span> "school, lecture room; projecting roof, vine arbor," of uncertain origin; perhaps from <span class="foreign">pergere</span> "to come forward."</dd>
+
+<dt class="highlight"><a href="/index.php?term=perhaps&allowed_in_frame=0">perhaps (adv.)</a> <a href="http://dictionary.reference.com/search?q=perhaps" class="dictionary" title="Look up perhaps at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perhaps at Dictionary.com" title="Look up perhaps at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, formed from M.E. <span class="foreign">per</span>, <span class="foreign">par</span> "by, through" (see <a href="/index.php?term=per-&allowed_in_frame=0" class="crossreference">per-</a>) + plural of <span class="foreign">hap</span> "chance" (see <a href="/index.php?term=happen&allowed_in_frame=0" class="crossreference">happen</a>), on model of <span class="foreign">peradventure</span>, <span class="foreign">perchance</span>, etc. which now have been superseded by this word. <span class="foreign">Perhappons</span> "possibly, by chance" is recorded from late 15c.</dd>
+
+<dt><a href="/index.php?term=peri&allowed_in_frame=0">peri (n.)</a> <a href="http://dictionary.reference.com/search?q=peri" class="dictionary" title="Look up peri at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peri at Dictionary.com" title="Look up peri at Dictionary.com" /></a></dt>
+<dd>1777, from Pers. <span class="foreign">pari</span>, from Avestan <span class="foreign">pairika</span>. Race of superhuman female beings originally represented as malevolent, later as angelic genii (cf. sense evolution of English <a href="/index.php?term=fairy&allowed_in_frame=0" class="crossreference">fairy</a>, to which it is not related).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peri-&allowed_in_frame=0">peri-</a> <a href="http://dictionary.reference.com/search?q=peri-" class="dictionary" title="Look up peri- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peri- at Dictionary.com" title="Look up peri- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "around, about, enclosing," from Gk. <span class="foreign">peri</span> (prep.) "around, about, beyond," cognate with Skt. <span class="foreign">pari</span> "around, about, through," L. <span class="foreign">per</span> (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>).</dd>
+
+<dt><a href="/index.php?term=perianth&allowed_in_frame=0">perianth (n.)</a> <a href="http://dictionary.reference.com/search?q=perianth" class="dictionary" title="Look up perianth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perianth at Dictionary.com" title="Look up perianth at Dictionary.com" /></a></dt>
+<dd>"envelope of a flower," 1706, from Fr. <span class="foreign">p&eacute;rianthe</span>, from Mod.L. <span class="foreign">perianthium</span> (17c.), lit. "that which is round the flower," from <span class="foreign">peri-</span> (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + Gk. <span class="foreign">anthos</span> "flower" (see <a href="/index.php?term=anther&allowed_in_frame=0" class="crossreference">anther</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pericarditis&allowed_in_frame=0">pericarditis (n.)</a> <a href="http://dictionary.reference.com/search?q=pericarditis" class="dictionary" title="Look up pericarditis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pericarditis at Dictionary.com" title="Look up pericarditis at Dictionary.com" /></a></dt>
+<dd class="highlight">1799, from <a href="/index.php?term=pericardium&allowed_in_frame=0" class="crossreference">pericardium</a> + <a href="/index.php?term=-itis&allowed_in_frame=0" class="crossreference">-itis</a>.</dd>
+
+<dt><a href="/index.php?term=pericardium&allowed_in_frame=0">pericardium (n.)</a> <a href="http://dictionary.reference.com/search?q=pericardium" class="dictionary" title="Look up pericardium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pericardium at Dictionary.com" title="Look up pericardium at Dictionary.com" /></a></dt>
+<dd>early 15c., Latinized form of Gk. <span class="foreign">perikardion</span> "(membrane) around the heart" (Galen), from <span class="foreign">peri</span> (prep.) "around, about" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">kardia</span> "heart" (see <a href="/index.php?term=heart&allowed_in_frame=0" class="crossreference">heart</a>). Related: <span class="foreign">Pericardiac</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pericles&allowed_in_frame=0">Pericles</a> <a href="http://dictionary.reference.com/search?q=Pericles" class="dictionary" title="Look up Pericles at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pericles at Dictionary.com" title="Look up Pericles at Dictionary.com" /></a></dt>
+<dd class="highlight">Athenian statesman (c.495-429 B.C.E.), from Gk. <span class="foreign">Perikles</span>, lit. "far-famed," from <span class="foreign">peri</span> "all around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">-kles</span> "fame" (see <a href="/index.php?term=Damocles&allowed_in_frame=0" class="crossreference">Damocles</a>). His leadership of Athens marks its intellectual and material zenith. Related: <span class="foreign">Periclean</span>.</dd>
+
+<dt><a href="/index.php?term=pericope&allowed_in_frame=0">pericope (n.)</a> <a href="http://dictionary.reference.com/search?q=pericope" class="dictionary" title="Look up pericope at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pericope at Dictionary.com" title="Look up pericope at Dictionary.com" /></a></dt>
+<dd>1650s, from L.L. <span class="foreign">pericope</span> "section of a book," from Gk. <span class="foreign">perikope</span> "a section" of a book, lit. "a cutting all round," from <span class="foreign">peri-</span> "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">kope</span> "a cutting" (see <a href="/index.php?term=hatchet&allowed_in_frame=0" class="crossreference">hatchet</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peridot&allowed_in_frame=0">peridot (n.)</a> <a href="http://dictionary.reference.com/search?q=peridot" class="dictionary" title="Look up peridot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peridot at Dictionary.com" title="Look up peridot at Dictionary.com" /></a></dt>
+<dd class="highlight">type of gemstone, mid-14c. (mid-13c. in Anglo-Latin), from O.Fr. <span class="foreign">peritot</span> (early 13c., Mod.Fr. <span class="foreign">p&eacute;ridot</span>), of unknown origin.</dd>
+
+<dt><a href="/index.php?term=perigee&allowed_in_frame=0">perigee (n.)</a> <a href="http://dictionary.reference.com/search?q=perigee" class="dictionary" title="Look up perigee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perigee at Dictionary.com" title="Look up perigee at Dictionary.com" /></a></dt>
+<dd>"point at which a celestial body is nearest the Earth," 1590s, from Mod.L. <span class="foreign">perigeum</span> (15c.), from Late Gk. <span class="foreign">peregeion</span>, used by Ptolemy as a noun, properly neuter of adjective <span class="foreign">perigeios</span> "near the earth," from <span class="foreign">peri ges</span>, from <span class="foreign">peri</span> "near" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">ges</span>, gen. of <span class="foreign">ge</span> "earth"  (see <a href="/index.php?term=Gaia&allowed_in_frame=0" class="crossreference">Gaia</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=perihelion&allowed_in_frame=0">perihelion (n.)</a> <a href="http://dictionary.reference.com/search?q=perihelion" class="dictionary" title="Look up perihelion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perihelion at Dictionary.com" title="Look up perihelion at Dictionary.com" /></a></dt>
+<dd class="highlight">"point at which a celestial body is nearest the Sun," 1680s, coined in Modern Latin (<span class="foreign">perihelium</span>) by Kepler (1596) from Latinizations of Gk. <span class="foreign">peri</span> "near" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">helios</span> "sun" (see <a href="/index.php?term=sol&allowed_in_frame=0" class="crossreference">sol</a>). Subsequently re-Greeked.</dd>
+
+<dt><a href="/index.php?term=peril&allowed_in_frame=0">peril (n.)</a> <a href="http://dictionary.reference.com/search?q=peril" class="dictionary" title="Look up peril at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peril at Dictionary.com" title="Look up peril at Dictionary.com" /></a></dt>
+<dd>c.1200, from O.Fr. <span class="foreign">peril</span> "danger, risk" (10c.), from L. <span class="foreign">periculum</span> "an attempt, trial, experiment; risk, danger," with instrumentive suffix <span class="foreign">-culum</span> and element also found in <span class="foreign">experiri</span> "to try," cognate with Gk. <span class="foreign">peria</span> "trial, attempt, experience," <span class="foreign">empeiros</span> "experienced," O.Ir. <span class="foreign">aire</span> "vigilance," Goth. <span class="foreign">ferja</span> "watcher," O.E. <span class="foreign">f&aelig;r</span> "danger, fear" (see <a href="/index.php?term=fear&allowed_in_frame=0" class="crossreference">fear</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=perilous&allowed_in_frame=0">perilous (adj.)</a> <a href="http://dictionary.reference.com/search?q=perilous" class="dictionary" title="Look up perilous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perilous at Dictionary.com" title="Look up perilous at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">perillos</span> "perilous, dangerous" (Mod.Fr. <span class="foreign">p&eacute;rilleux</span>) "dangerous, hazardous," from L. <span class="foreign">periculosus</span> "dangerous, hazardous," from <span class="foreign">periculum</span> "a danger, attempt, risk" (see <a href="/index.php?term=peril&allowed_in_frame=0" class="crossreference">peril</a>). Related: <span class="foreign">Perilously</span>; <span class="foreign">perilousness</span>.</dd>
+
+<dt><a href="/index.php?term=perimeter&allowed_in_frame=0">perimeter (n.)</a> <a href="http://dictionary.reference.com/search?q=perimeter" class="dictionary" title="Look up perimeter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perimeter at Dictionary.com" title="Look up perimeter at Dictionary.com" /></a></dt>
+<dd>early 15c., "line around a figure or surface," from L. <span class="foreign">perimetros</span>, from Gk. <span class="foreign">perimetron</span> "circumference," from <span class="foreign">peri-</span>  "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">metron</span> "measure" (see <a href="/index.php?term=meter&allowed_in_frame=0" class="crossreference">meter</a> (n.2)). Military sense of "boundary of a defended position" is attested from 1943.</dd>
+
+<dt class="highlight"><a href="/index.php?term=perinatal&allowed_in_frame=0">perinatal (adj.)</a> <a href="http://dictionary.reference.com/search?q=perinatal" class="dictionary" title="Look up perinatal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perinatal at Dictionary.com" title="Look up perinatal at Dictionary.com" /></a></dt>
+<dd class="highlight">1952, from <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a> + <a href="/index.php?term=natal&allowed_in_frame=0" class="crossreference">natal</a>.</dd>
+
+<dt><a href="/index.php?term=perineum&allowed_in_frame=0">perineum (n.)</a> <a href="http://dictionary.reference.com/search?q=perineum" class="dictionary" title="Look up perineum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perineum at Dictionary.com" title="Look up perineum at Dictionary.com" /></a></dt>
+<dd>"region of the body between the anus and the genital organs" (jocularly called a <span class="foreign">taint</span>), early 15c., from M.L. <span class="foreign">perinaeon</span>, L.L. <span class="foreign">perineum</span>, from Gk. <span class="foreign">perinaion, perinaios</span>, from <span class="foreign">peri-</span> "near" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">inan</span> "to carry off by evacuation," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=period&allowed_in_frame=0">period (n.)</a> <a href="http://dictionary.reference.com/search?q=period" class="dictionary" title="Look up period at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up period at Dictionary.com" title="Look up period at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "course or extent of time," from M.Fr. <span class="foreign">periode</span> (14c.) and directly from M.L. <span class="foreign">periodus</span> "recurring portion, cycle," from L. <span class="foreign">periodus</span> "a complete sentence," also "cycle of the Greek games," from Gk. <span class="foreign">periodos</span> "cycle, circuit, period of time," lit. "a going around," from <span class="foreign">peri-</span> "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">hodos</span> "a going, way, journey" (see <a href="/index.php?term=cede&allowed_in_frame=0" class="crossreference">cede</a>).
+<BR><BR>
+Sense of "repeated cycle of events" led to that of "interval of time." Meaning "dot marking end of a sentence" first recorded c.1600, from similar use in Medieval Latin (in late 16c. English it meant "full pause at the end of a sentence"). Sense of "menstruation" dates from 1822. Educational sense of "portion of time set apart for a lesson" is from 1876. Sporting sense attested from 1898. As an adjective from 1905; <span class="foreign">period piece</span> attested from 1911.</dd>
+
+<dt><a href="/index.php?term=periodic&allowed_in_frame=0">periodic (adj.)</a> <a href="http://dictionary.reference.com/search?q=periodic" class="dictionary" title="Look up periodic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodic at Dictionary.com" title="Look up periodic at Dictionary.com" /></a></dt>
+<dd>1640s, from Fr. <span class="foreign">p&eacute;riodique</span> (14c.), from L. <span class="foreign">periodicus</span>, from <span class="foreign">periodus</span> (see <a href="/index.php?term=period&allowed_in_frame=0" class="crossreference">period</a>). <span class="foreign">Periodic table</span> in chemistry (1889) is from notion of the arrangement, in which similar properties recur at intervals in elements in the same area as you read down the rows of the table. This sense of the word is attested from 1872 (<span class="foreign">periodic law</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=periodical&allowed_in_frame=0">periodical (adj.)</a> <a href="http://dictionary.reference.com/search?q=periodical" class="dictionary" title="Look up periodical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodical at Dictionary.com" title="Look up periodical at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from <a href="/index.php?term=periodic&allowed_in_frame=0" class="crossreference">periodic</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). As a noun meaning "magazine published at regular intervals," attested from 1798. Related: <span class="foreign">Periodically</span>.</dd>
+
+<dt><a href="/index.php?term=periodicity&allowed_in_frame=0">periodicity (n.)</a> <a href="http://dictionary.reference.com/search?q=periodicity" class="dictionary" title="Look up periodicity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodicity at Dictionary.com" title="Look up periodicity at Dictionary.com" /></a></dt>
+<dd>1805, from Fr. <span class="foreign">p&eacute;riodicit&eacute;</span> (1796), from <span class="foreign">p&eacute;riodique</span>, from L. <span class="foreign">periodicus</span> (see <a href="/index.php?term=periodic&allowed_in_frame=0" class="crossreference">periodic</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=periodontal&allowed_in_frame=0">periodontal (adj.)</a> <a href="http://dictionary.reference.com/search?q=periodontal" class="dictionary" title="Look up periodontal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodontal at Dictionary.com" title="Look up periodontal at Dictionary.com" /></a></dt>
+<dd class="highlight">1848, lit. "around the tooth," from <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a> + Gk. <span class="foreign">odon</span> (gen. <span class="foreign">odontos</span>) "tooth" (see <a href="/index.php?term=tooth&allowed_in_frame=0" class="crossreference">tooth</a>).</dd>
+
+<dt><a href="/index.php?term=periodontics&allowed_in_frame=0">periodontics (n.)</a> <a href="http://dictionary.reference.com/search?q=periodontics" class="dictionary" title="Look up periodontics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodontics at Dictionary.com" title="Look up periodontics at Dictionary.com" /></a></dt>
+<dd>1948, from <span class="foreign">periodontia</span> (1914; see <a href="/index.php?term=periodontal&allowed_in_frame=0" class="crossreference">periodontal</a>) + <a href="/index.php?term=-ics&allowed_in_frame=0" class="crossreference">-ics</a>. <span class="foreign">Periodontic</span> (adj.) is attested by 1889.</dd>
+
+<dt class="highlight"><a href="/index.php?term=periodontist&allowed_in_frame=0">periodontist (n.)</a> <a href="http://dictionary.reference.com/search?q=periodontist" class="dictionary" title="Look up periodontist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodontist at Dictionary.com" title="Look up periodontist at Dictionary.com" /></a></dt>
+<dd class="highlight">1913; see <a href="/index.php?term=periodontal&allowed_in_frame=0" class="crossreference">periodontal</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=periodontitis&allowed_in_frame=0">periodontitis (n.)</a> <a href="http://dictionary.reference.com/search?q=periodontitis" class="dictionary" title="Look up periodontitis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodontitis at Dictionary.com" title="Look up periodontitis at Dictionary.com" /></a></dt>
+<dd>1842; see <a href="/index.php?term=periodontal&allowed_in_frame=0" class="crossreference">periodontal</a> + <a href="/index.php?term=-itis&allowed_in_frame=0" class="crossreference">-itis</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=periodontium&allowed_in_frame=0">periodontium (n.)</a> <a href="http://dictionary.reference.com/search?q=periodontium" class="dictionary" title="Look up periodontium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periodontium at Dictionary.com" title="Look up periodontium at Dictionary.com" /></a></dt>
+<dd class="highlight">1828; see <a href="/index.php?term=periodontal&allowed_in_frame=0" class="crossreference">periodontal</a>.</dd>
+
+<dt><a href="/index.php?term=periorbital&allowed_in_frame=0">periorbital (adj.)</a> <a href="http://dictionary.reference.com/search?q=periorbital" class="dictionary" title="Look up periorbital at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periorbital at Dictionary.com" title="Look up periorbital at Dictionary.com" /></a></dt>
+<dd>1838, from medical L. <span class="foreign">periorbita</span>, a hybrid from Gk. <span class="foreign">peri</span> (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + L. <span class="foreign">orbita</span> (see <a href="/index.php?term=orbit&allowed_in_frame=0" class="crossreference">orbit</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=periosteum&allowed_in_frame=0">periosteum (n.)</a> <a href="http://dictionary.reference.com/search?q=periosteum" class="dictionary" title="Look up periosteum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periosteum at Dictionary.com" title="Look up periosteum at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from Mod.L. <span class="foreign">periosteum</span>, L.L. <span class="foreign">periosteon</span>, from Gk. <span class="foreign">periosteon</span>, neuter of <span class="foreign">periosteos</span> "round the bones," from <span class="foreign">peri-</span> (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">osteon</span> (see <a href="/index.php?term=osseous&allowed_in_frame=0" class="crossreference">osseous</a>).</dd>
+
+<dt><a href="/index.php?term=peripatetic&allowed_in_frame=0">peripatetic (n.)</a> <a href="http://dictionary.reference.com/search?q=peripatetic" class="dictionary" title="Look up peripatetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peripatetic at Dictionary.com" title="Look up peripatetic at Dictionary.com" /></a></dt>
+<dd>c.1400, "disciple of Aristotle," from O.Fr. <span class="foreign">perypatetique</span> (14c.), from L. <span class="foreign">peripateticus</span> "pertaining to the disciples or philosophy of Aristotle," from Gk. <span class="foreign">peripatetikos</span> "given to walking about" (especially while teaching), from <span class="foreign">peripatein</span> "walk up and down, walk about," from <span class="foreign">peri-</span> "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">patein</span> "to walk, tread," from PIE root <span class="foreign">*pent-</span> "to tread, go" (see <a href="/index.php?term=find&allowed_in_frame=0" class="crossreference">find</a> (v.)). Aristotle's custom was to teach while strolling through the Lyceum in Athens. In English, the philosophical meaning is older than that of "person who wanders about" (1610s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peripatetic&allowed_in_frame=0">peripatetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=peripatetic" class="dictionary" title="Look up peripatetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peripatetic at Dictionary.com" title="Look up peripatetic at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s in the philosophical sense, 1640s in the literal sense; see <a href="/index.php?term=peripatetic&allowed_in_frame=0" class="crossreference">peripatetic</a> (n.).</dd>
+
+<dt><a href="/index.php?term=peripeteia&allowed_in_frame=0">peripeteia (n.)</a> <a href="http://dictionary.reference.com/search?q=peripeteia" class="dictionary" title="Look up peripeteia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peripeteia at Dictionary.com" title="Look up peripeteia at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">peripetia</span>, 1590s, from Gk. <span class="foreign">peripeteia</span> "a turn right about; a sudden change" (of fortune, in a tragedy), from <span class="foreign">peri-</span> "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + stem of <span class="foreign">piptein</span> "to fall" (see <a href="/index.php?term=petition&allowed_in_frame=0" class="crossreference">petition</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peripheral&allowed_in_frame=0">peripheral (adj.)</a> <a href="http://dictionary.reference.com/search?q=peripheral" class="dictionary" title="Look up peripheral at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peripheral at Dictionary.com" title="Look up peripheral at Dictionary.com" /></a></dt>
+<dd class="highlight">1803, from <a href="/index.php?term=periphery&allowed_in_frame=0" class="crossreference">periphery</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). An earlier formation was <span class="foreign">peripherial</span> (1670s). Related: <span class="foreign">Peripherally</span>. As a noun, <span class="foreign">peripherals</span>, "peripheral devices of a computer," is from 1966.</dd>
+
+<dt><a href="/index.php?term=periphery&allowed_in_frame=0">periphery (n.)</a> <a href="http://dictionary.reference.com/search?q=periphery" class="dictionary" title="Look up periphery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periphery at Dictionary.com" title="Look up periphery at Dictionary.com" /></a></dt>
+<dd>late 14c., "atmosphere around the earth," from O.Fr. <span class="foreign">periferie</span> (Mod.Fr. <span class="foreign">p&#233;riph&#233;rie</span>), from M.L. <span class="foreign">periferia</span>, from L.L. <span class="foreign">peripheria</span>, from Gk. <span class="foreign">peripheria</span> "circumference, outer surface, line round a circular body," lit. "a carrying around," from <span class="foreign">peripheres</span> "rounded, moving round, revolving," <span class="foreign">peripherein</span> "carry or move round," from <span class="foreign">peri-</span> "round about" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">pherein</span> "to carry" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>). Meaning "outside boundary of a surface" attested in English from 1570s; general sense of "boundary" is from 1660s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=periphrasis&allowed_in_frame=0">periphrasis (n.)</a> <a href="http://dictionary.reference.com/search?q=periphrasis" class="dictionary" title="Look up periphrasis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periphrasis at Dictionary.com" title="Look up periphrasis at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from L. <span class="foreign">periphrasis</span> "circumlocution," from Gk. <span class="foreign">periphrasis,</span> from <span class="foreign">periphrazein</span> "speak in a roundabout way," from <span class="foreign">peri-</span> "round about" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">phrazein</span> "to express" (see <a href="/index.php?term=phrase&allowed_in_frame=0" class="crossreference">phrase</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=periphrastic&allowed_in_frame=0">periphrastic (adj.)</a> <a href="http://dictionary.reference.com/search?q=periphrastic" class="dictionary" title="Look up periphrastic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periphrastic at Dictionary.com" title="Look up periphrastic at Dictionary.com" /></a></dt>
+<dd>1805, from Fr. <span class="foreign">p&#233;riphrastique</span> and directly from Gk. <span class="foreign">periphrastikos</span>, from <span class="foreign">periphrazein</span> (see <a href="/index.php?term=periphrasis&allowed_in_frame=0" class="crossreference">periphrasis</a>). Related: <span class="foreign">Periphrastical</span> (1630s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=periscope&allowed_in_frame=0">periscope (n.)</a> <a href="http://dictionary.reference.com/search?q=periscope" class="dictionary" title="Look up periscope at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periscope at Dictionary.com" title="Look up periscope at Dictionary.com" /></a></dt>
+<dd class="highlight">viewing apparatus on a submarine, 1899, formed in English from <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a> "around" + <a href="/index.php?term=-scope&allowed_in_frame=0" class="crossreference">-scope</a> "instrument for viewing." Earlier (1865) a technical term in photography. Related: <span class="foreign">Periscopic</span>.</dd>
+
+<dt><a href="/index.php?term=perish&allowed_in_frame=0">perish (v.)</a> <a href="http://dictionary.reference.com/search?q=perish" class="dictionary" title="Look up perish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perish at Dictionary.com" title="Look up perish at Dictionary.com" /></a></dt>
+<dd>mid-13c., from <span class="foreign">periss-</span> prp. stem of O.Fr. <span class="foreign">perir</span> "perish, be lost, be shipwrecked" (12c.), from L. <span class="foreign">perire</span> "to be lost, perish," lit. "to go through," from <span class="foreign">per-</span> "through, completely, to destruction" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <span class="foreign">ire</span> "to go" (see <a href="/index.php?term=ion&allowed_in_frame=0" class="crossreference">ion</a>). Related: <span class="foreign">Perished</span>; <span class="foreign">perishing</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=perishable&allowed_in_frame=0">perishable (adj.)</a> <a href="http://dictionary.reference.com/search?q=perishable" class="dictionary" title="Look up perishable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perishable at Dictionary.com" title="Look up perishable at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., <span class="foreign">perysabyl</span>, from M.Fr. <span class="foreign">p&#233;rissable</span>, and later (in modern form), 1610s, directly from <a href="/index.php?term=perish&allowed_in_frame=0" class="crossreference">perish</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. As a noun, <span class="foreign">perishables</span>, in reference to foodstuffs, is attested from 1895.</dd>
+
+<dt><a href="/index.php?term=peristalsis&allowed_in_frame=0">peristalsis (n.)</a> <a href="http://dictionary.reference.com/search?q=peristalsis" class="dictionary" title="Look up peristalsis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peristalsis at Dictionary.com" title="Look up peristalsis at Dictionary.com" /></a></dt>
+<dd>1859, Mod.L. <span class="foreign">peristalsis</span>; see <a href="/index.php?term=peristaltic&allowed_in_frame=0" class="crossreference">peristaltic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peristaltic&allowed_in_frame=0">peristaltic (adj.)</a> <a href="http://dictionary.reference.com/search?q=peristaltic" class="dictionary" title="Look up peristaltic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peristaltic at Dictionary.com" title="Look up peristaltic at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from Modern Latin, from Gk. <span class="foreign">peristaltikos</span> (Galen), lit. "contracting around," from <span class="foreign">peri</span> (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) "around, about" + <span class="foreign">stalsis</span> "checking, constriction," related to <span class="foreign">stellein</span> "draw in, bring together; set in order" (see <a href="/index.php?term=diastole&allowed_in_frame=0" class="crossreference">diastole</a>).</dd>
+
+<dt><a href="/index.php?term=peristyle&allowed_in_frame=0">peristyle (n.)</a> <a href="http://dictionary.reference.com/search?q=peristyle" class="dictionary" title="Look up peristyle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peristyle at Dictionary.com" title="Look up peristyle at Dictionary.com" /></a></dt>
+<dd>1610s, from Fr. <span class="foreign">p&eacute;ristyle</span> "row of columns surrounding a building" (mid-16c.), from L. <span class="foreign">peristylum</span>, from Gk. <span class="foreign">peristylon</span> "colonnade around a temple or court," noun use of neuter of <span class="foreign">peristylos</span> "surrounded with a colonnade," from <span class="foreign">peri-</span> "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">stylos</span> "pillar" (see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=peritoneum&allowed_in_frame=0">peritoneum (n.)</a> <a href="http://dictionary.reference.com/search?q=peritoneum" class="dictionary" title="Look up peritoneum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peritoneum at Dictionary.com" title="Look up peritoneum at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from L.L. <span class="foreign">peritonaeum</span>, from Gk. <span class="foreign">peritonaion</span> "abdominal membrane," lit. "part stretched over," noun use of neuter of <span class="foreign">peritonaios</span> "stretched over," from <span class="foreign">peri-</span> "around" (see <a href="/index.php?term=peri-&allowed_in_frame=0" class="crossreference">peri-</a>) + <span class="foreign">teinein</span> "to stretch" (see <a href="/index.php?term=tenet&allowed_in_frame=0" class="crossreference">tenet</a>). Related: <span class="foreign">Peritoneal</span>.</dd>
+
+<dt><a href="/index.php?term=peritonitis&allowed_in_frame=0">peritonitis (n.)</a> <a href="http://dictionary.reference.com/search?q=peritonitis" class="dictionary" title="Look up peritonitis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peritonitis at Dictionary.com" title="Look up peritonitis at Dictionary.com" /></a></dt>
+<dd>1776, medical Latin, coined c.1750 by French pathologist Fran&#231;ois-Boissier de la Croix de Sauvages (1706-1767) from Gk. <span class="foreign">peritonos</span> (from <span class="foreign">peritonaion</span>; see <a href="/index.php?term=peritoneum&allowed_in_frame=0" class="crossreference">peritoneum</a>) + <a href="/index.php?term=-itis&allowed_in_frame=0" class="crossreference">-itis</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=periwig&allowed_in_frame=0">periwig (n.)</a> <a href="http://dictionary.reference.com/search?q=periwig" class="dictionary" title="Look up periwig at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periwig at Dictionary.com" title="Look up periwig at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, <span class="foreign">perwyke</span>, popular corruption of <span class="foreign">perruck</span>, from M.Fr. <span class="foreign">perruque</span> (see <a href="/index.php?term=peruke&allowed_in_frame=0" class="crossreference">peruke</a>).</dd>
+
+<dt><a href="/index.php?term=periwinkle&allowed_in_frame=0">periwinkle (n.1)</a> <a href="http://dictionary.reference.com/search?q=periwinkle" class="dictionary" title="Look up periwinkle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periwinkle at Dictionary.com" title="Look up periwinkle at Dictionary.com" /></a></dt>
+<dd>evergreen plant, c.1500, dim. of <span class="foreign">parvink</span> (12c.), from O.E. <span class="foreign">perwince</span>, from L.L. <span class="foreign">pervinca</span> "periwinkle" (4c.), from Latin, perhaps from <span class="foreign">pervincire</span> "to entwine, bind," from <span class="foreign">per-</span> "thoroughly" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <span class="foreign">vincire</span> "to bind, fetter" (see <a href="/index.php?term=wind&allowed_in_frame=0" class="crossreference">wind</a> (v.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=periwinkle&allowed_in_frame=0">periwinkle (n.2)</a> <a href="http://dictionary.reference.com/search?q=periwinkle" class="dictionary" title="Look up periwinkle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up periwinkle at Dictionary.com" title="Look up periwinkle at Dictionary.com" /></a></dt>
+<dd class="highlight">kind of sea snail, 1520s, apparently an alteration of O.E. <span class="foreign">pinewincle</span> (probably by influence of M.E. <span class="foreign">parvink</span>; see <a href="/index.php?term=periwinkle&allowed_in_frame=0" class="crossreference">periwinkle</a> (n.1)); from O.E. <span class="foreign">pine-</span>, which probably is from L. <span class="foreign">pina</span> "mussel," from Gk. <span class="foreign">pine</span>. The second element is <span class="foreign">wincel</span> "corner; spiral shell," from P.Gmc. <span class="foreign">*winkil-</span>, from PIE root <span class="foreign">*weng-</span> "to bend, curve" (see <a href="/index.php?term=wink&allowed_in_frame=0" class="crossreference">wink</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=perjure&allowed_in_frame=0">perjure (v.)</a> <a href="http://dictionary.reference.com/search?q=perjure" class="dictionary" title="Look up perjure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perjure at Dictionary.com" title="Look up perjure at Dictionary.com" /></a></dt>
+<dd>mid-15c. "swear falsely" (implied in <span class="foreign">perjured</span>; late 13c. in Anglo-French), from O.Fr. <span class="foreign">parjurer</span> "to break one's word, renege on a promise" (11c.), from L. <span class="foreign">periurare</span> "to swear falsely, break one's oath" (see <a href="/index.php?term=perjury&allowed_in_frame=0" class="crossreference">perjury</a>). Reflexive sense is from 18c.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658595 -->
+<!-- Page was generated in 0.173335 seconds. -->
+ </body>
+</html>
+<!-- -->

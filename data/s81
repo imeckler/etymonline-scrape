@@ -1,0 +1,465 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sweet&allowed_in_frame=0">sweet (n.)</a> <a href="http://dictionary.reference.com/search?q=sweet" class="dictionary" title="Look up sweet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sweet at Dictionary.com" title="Look up sweet at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "something sweet to the taste," also "beloved one," from <a href="/index.php?term=sweet&allowed_in_frame=0" class="crossreference">sweet</a> (adj.); the meaning "candy drop" is 1851 (earlier <a href="/index.php?term=sweetie&allowed_in_frame=0" class="crossreference">sweetie</a>, 1721). </dd>
+
+<dt><a href="/index.php?term=Sweet+Adeline&allowed_in_frame=0">Sweet Adeline</a> <a href="http://dictionary.reference.com/search?q=Sweet+Adeline" class="dictionary" title="Look up Sweet Adeline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sweet Adeline at Dictionary.com" title="Look up Sweet Adeline at Dictionary.com" /></a></dt>
+<dd>"female barbershop singing group," 1947, from the name of a popular close harmony song by Armstrong & Gerard, prop. "You're the Flower of my Heart, Sweet Adeline" (1903).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sweet+tooth&allowed_in_frame=0">sweet tooth</a> <a href="http://dictionary.reference.com/search?q=sweet+tooth" class="dictionary" title="Look up sweet tooth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sweet tooth at Dictionary.com" title="Look up sweet tooth at Dictionary.com" /></a></dt>
+<dd class="highlight">"fondness for sugary stuff," late 14c., from <a href="/index.php?term=sweet&allowed_in_frame=0" class="crossreference">sweet</a> (adj.) + <span class="foreign">tooth</span> in the sense of "taste, liking" (see <a href="/index.php?term=toothsome&allowed_in_frame=0" class="crossreference">toothsome</a>).</dd>
+
+<dt><a href="/index.php?term=sweetbread&allowed_in_frame=0">sweetbread</a> <a href="http://dictionary.reference.com/search?q=sweetbread" class="dictionary" title="Look up sweetbread at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sweetbread at Dictionary.com" title="Look up sweetbread at Dictionary.com" /></a></dt>
+<dd>"pancreas used as food" 1560s, from <a href="/index.php?term=sweet&allowed_in_frame=0" class="crossreference">sweet</a>(adj.); the <span class="foreign">-bread</span> element may be from O.E. <span class="foreign">br&aelig;d</span> "flesh."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sweeten&allowed_in_frame=0">sweeten</a> <a href="http://dictionary.reference.com/search?q=sweeten" class="dictionary" title="Look up sweeten at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sweeten at Dictionary.com" title="Look up sweeten at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, from <a href="/index.php?term=sweet&allowed_in_frame=0" class="crossreference">sweet</a> (adj.) + verbal ending <a href="/index.php?term=-en&allowed_in_frame=0" class="crossreference">-en</a> (1). The M.E. form of the verb was simply <span class="foreign">sweet</span>, from O.E. <span class="foreign">swetan</span>.</dd>
+
+<dt><a href="/index.php?term=sweetheart&allowed_in_frame=0">sweetheart</a> <a href="http://dictionary.reference.com/search?q=sweetheart" class="dictionary" title="Look up sweetheart at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sweetheart at Dictionary.com" title="Look up sweetheart at Dictionary.com" /></a></dt>
+<dd>late 13c. as a form of address, 1570s as a synonym for "loved one;" from <a href="/index.php?term=sweet&allowed_in_frame=0" class="crossreference">sweet</a> (adj.) + <a href="/index.php?term=heart&allowed_in_frame=0" class="crossreference">heart</a>. As an adj., with ref. to labor contracts, it is attested from 1959.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sweetie&allowed_in_frame=0">sweetie</a> <a href="http://dictionary.reference.com/search?q=sweetie" class="dictionary" title="Look up sweetie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sweetie at Dictionary.com" title="Look up sweetie at Dictionary.com" /></a></dt>
+<dd class="highlight">1721, “lollipop;” 1778, “lover, sweetheart,” from <a href="/index.php?term=sweet&allowed_in_frame=0" class="crossreference">sweet</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (3).</dd>
+
+<dt><a href="/index.php?term=swell&allowed_in_frame=0">swell (v.)</a> <a href="http://dictionary.reference.com/search?q=swell" class="dictionary" title="Look up swell at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swell at Dictionary.com" title="Look up swell at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">swellan</span> "grow or make bigger" (past tense <span class="foreign">sweall,</span> pp. <span class="foreign">swollen</span>), from P.Gmc. <span class="foreign">*swelnanan</span> (cf. O.S. <span class="foreign">swellan</span>, O.N. <span class="foreign">svella</span>, O.Fris. <span class="foreign">swella</span>, M.Du. <span class="foreign">swellen</span>, Du. <span class="foreign">zwellen</span>, O.H.G. <span class="foreign">swellan</span>, Ger. <span class="foreign">schwellen</span>), of unknown origin. </dd>
+
+<dt class="highlight"><a href="/index.php?term=swell&allowed_in_frame=0">swell (n.)</a> <a href="http://dictionary.reference.com/search?q=swell" class="dictionary" title="Look up swell at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swell at Dictionary.com" title="Look up swell at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., "a morbid swelling," from <a href="/index.php?term=swell&allowed_in_frame=0" class="crossreference">swell</a> (v.). In ref. to a rise of the sea, it is attested from c.1600. The meaning "wealthy, elegant person" is first recorded 1786; hence the adj. meaning "fashionably dressed or equipped" (1810), both from the notion of "puffed-up, pompous" behavior. The sense of "good, excellent" first occurs 1897, and as a stand-alone expression of satisfaction it is recorded from 1930 in Amer.Eng.</dd>
+
+<dt><a href="/index.php?term=swelter&allowed_in_frame=0">swelter</a> <a href="http://dictionary.reference.com/search?q=swelter" class="dictionary" title="Look up swelter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swelter at Dictionary.com" title="Look up swelter at Dictionary.com" /></a></dt>
+<dd>c.1400, frequentative of <span class="foreign">swelten</span> "be faint (especially with heat)," late 14c., from O.E. <span class="foreign">sweltan</span> "to die," from P.Gmc. <span class="foreign">*swel-</span> (cf. O.S. <span class="foreign">sweltan</span> "to die," O.N. <span class="foreign">svelta</span> "to put to death, starve," Goth. <span class="foreign">sviltan</span> "to die"), originally "to burn slowly," hence "to be overcome with heat or fever;" also the source of O.E. <span class="foreign">swelan</span> "to burn," from PIE root <span class="foreign">*swel-</span> "to shine, burn" (see <a href="/index.php?term=Selene&allowed_in_frame=0" class="crossreference">Selene</a>). For specialization of words meaning "to die," cf. <a href="/index.php?term=starve&allowed_in_frame=0" class="crossreference">starve</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swerve&allowed_in_frame=0">swerve (v.)</a> <a href="http://dictionary.reference.com/search?q=swerve" class="dictionary" title="Look up swerve at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swerve at Dictionary.com" title="Look up swerve at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., "to depart, make off;" early 14c., "to turn aside, deviate from a straight course," probably from O.E. <span class="foreign">sweorfan</span> "to rub, scour, file" (but sense development is difficult to trace), from P.Gmc. <span class="foreign">*swerbanan</span> (cf O.N. <span class="foreign">sverfa</span> "to scour, file," O.S. <span class="foreign">swebran</span> "to wipe off"), from PIE root <span class="foreign">*swerbh-</span>. Cognate words in other Germanic languages (cf. O.Fris. <span class="foreign">swerva</span> "to creep," M.Du. <span class="foreign">swerven</span> "to rove, stray") suggests the sense of "go off, turn aside" may have existed in Old English, though unrecorded.</dd>
+
+<dt><a href="/index.php?term=swerve&allowed_in_frame=0">swerve (n.)</a> <a href="http://dictionary.reference.com/search?q=swerve" class="dictionary" title="Look up swerve at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swerve at Dictionary.com" title="Look up swerve at Dictionary.com" /></a></dt>
+<dd>1741, from <a href="/index.php?term=swerve&allowed_in_frame=0" class="crossreference">swerve</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=swift&allowed_in_frame=0">swift (adj.)</a> <a href="http://dictionary.reference.com/search?q=swift" class="dictionary" title="Look up swift at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swift at Dictionary.com" title="Look up swift at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">swift</span> "moving quickly," related to <span class="foreign">swifan</span> "move in a course, sweep" (see <a href="/index.php?term=swivel&allowed_in_frame=0" class="crossreference">swivel</a>). The bird (several species of the family <span class="foreign">Cypselid&aelig;</span>, resembling swallows), noted for its "swift" flight, was so called from at least 1660s. Regarded as a bird of ill-omen, if not downright demonic, probably for its shrill cry. The name earlier had been given to several small fast lizards (1520s).</dd>
+
+<dt><a href="/index.php?term=swig&allowed_in_frame=0">swig</a> <a href="http://dictionary.reference.com/search?q=swig" class="dictionary" title="Look up swig at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swig at Dictionary.com" title="Look up swig at Dictionary.com" /></a></dt>
+<dd>1540s, "drink, liquor," later "big or hearty drink of liquor" (1620s), of unknown origin. The verb is first attested 1650s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swill&allowed_in_frame=0">swill (v.)</a> <a href="http://dictionary.reference.com/search?q=swill" class="dictionary" title="Look up swill at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swill at Dictionary.com" title="Look up swill at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">swilian, swillan</span> "to wash, gargle," with no certain cognates, but probably from P.Gmc. <span class="foreign">*sweljanan</span>, related to the root of <a href="/index.php?term=swallow&allowed_in_frame=0" class="crossreference">swallow</a> (v.). Meaning "drink greedily" is from 1530s; the noun sense of "liquid kitchen refuse fed to pigs" is 1550s, from the verb. Related: <span class="foreign">Swilled</span>; <span class="foreign">swilling</span>.</dd>
+
+<dt><a href="/index.php?term=swim&allowed_in_frame=0">swim (v.)</a> <a href="http://dictionary.reference.com/search?q=swim" class="dictionary" title="Look up swim at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swim at Dictionary.com" title="Look up swim at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">swimman</span> "to move in or on the water, float" (class III strong verb; past tense <span class="foreign">swamm</span>, pp. <span class="foreign">swummen</span>), from P.Gmc. <span class="foreign">*swemjanan</span> (cf. O.S., O.H.G. <span class="foreign">swimman</span>, O.N. <span class="foreign">svimma</span>, Du. <span class="foreign">zwemmen</span>, Ger. <span class="foreign">schwimmen</span>), from PIE root <span class="foreign">*swem-</span> "to be in motion," sometimes said to be restricted to Germanic, but possible cognates are Welsh <span class="foreign">chwyf</span> "motion," O.Ir. <span class="foreign">do-sennaim</span> "I hunt," Lith. <span class="foreign">sundyti</span> "to chase." For the usual IE word, see <a href="/index.php?term=natatorium&allowed_in_frame=0" class="crossreference">natatorium</a>. Sense of "reel or move unsteadily" first recorded 1670s; of the head or brain, from 1702. Figurative phrase <span class="foreign">sink or swim</span> is attested from mid-15c., often with reference to ordeals of suspected witches.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swim&allowed_in_frame=0">swim (n.)</a> <a href="http://dictionary.reference.com/search?q=swim" class="dictionary" title="Look up swim at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swim at Dictionary.com" title="Look up swim at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, "the clear part of any liquid" (above the sediment), from <a href="/index.php?term=swim&allowed_in_frame=0" class="crossreference">swim</a> (v.). Meaning "part of a river or stream frequented by fish" (and hence fishermen) is from 1828, and is probably the source of the figurative meaning "the current of the latest affairs or events" (1869).</dd>
+
+<dt><a href="/index.php?term=swimmeret&allowed_in_frame=0">swimmeret</a> <a href="http://dictionary.reference.com/search?q=swimmeret" class="dictionary" title="Look up swimmeret at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swimmeret at Dictionary.com" title="Look up swimmeret at Dictionary.com" /></a></dt>
+<dd>1840, from agent noun from <a href="/index.php?term=swim&allowed_in_frame=0" class="crossreference">swim</a> (v.) + dim. suffix. Related: <span class="foreign">Swimmerets</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swimming&allowed_in_frame=0">swimming</a> <a href="http://dictionary.reference.com/search?q=swimming" class="dictionary" title="Look up swimming at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swimming at Dictionary.com" title="Look up swimming at Dictionary.com" /></a></dt>
+<dd class="highlight">prp. of <a href="/index.php?term=swim&allowed_in_frame=0" class="crossreference">swim</a> (v.). <span class="foreign">Swimming hole</span> is from 1867; <span class="foreign">swimming pool</span> is from 1899.</dd>
+
+<dt><a href="/index.php?term=swimmingly&allowed_in_frame=0">swimmingly (adj.)</a> <a href="http://dictionary.reference.com/search?q=swimmingly" class="dictionary" title="Look up swimmingly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swimmingly at Dictionary.com" title="Look up swimmingly at Dictionary.com" /></a></dt>
+<dd>"with steady, smooth progress," 1620s, from <a href="/index.php?term=swimming&allowed_in_frame=0" class="crossreference">swimming</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=swimsuit&allowed_in_frame=0">swimsuit</a> <a href="http://dictionary.reference.com/search?q=swimsuit" class="dictionary" title="Look up swimsuit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swimsuit at Dictionary.com" title="Look up swimsuit at Dictionary.com" /></a></dt>
+<dd class="highlight">1934, from <a href="/index.php?term=swim&allowed_in_frame=0" class="crossreference">swim</a> + <a href="/index.php?term=suit&allowed_in_frame=0" class="crossreference">suit</a>.</dd>
+
+<dt><a href="/index.php?term=swindle&allowed_in_frame=0">swindle</a> <a href="http://dictionary.reference.com/search?q=swindle" class="dictionary" title="Look up swindle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swindle at Dictionary.com" title="Look up swindle at Dictionary.com" /></a></dt>
+<dd>1782 (v.); 1833 (n.), back formation from <a href="/index.php?term=swindler&allowed_in_frame=0" class="crossreference">swindler</a>. Related: <span class="foreign">Swindled</span>; <span class="foreign">swindling</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swindler&allowed_in_frame=0">swindler</a> <a href="http://dictionary.reference.com/search?q=swindler" class="dictionary" title="Look up swindler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swindler at Dictionary.com" title="Look up swindler at Dictionary.com" /></a></dt>
+<dd class="highlight">1774, from Ger. <span class="foreign">Schwindler</span> "giddy person, extravagant speculator, cheat," from <span class="foreign">schwindeln</span> "to be giddy, act extravagantly, swindle," from O.H.G. <span class="foreign">swintilon</span> "be giddy," frequentative form of <span class="foreign">swintan</span> "to languish, disappear;" cognate with O.E. <span class="foreign">swindan,</span> and probably with <span class="foreign">swima</span> "dizziness." Said to have been introduced in London by German Jews c.1762.</dd>
+
+<dt><a href="/index.php?term=swine&allowed_in_frame=0">swine (n.)</a> <a href="http://dictionary.reference.com/search?q=swine" class="dictionary" title="Look up swine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swine at Dictionary.com" title="Look up swine at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">swin</span> "pig, hog," from P.Gmc. <span class="foreign">*swinan</span> (cf. O.S., O.Fris. M.L.G., O.H.G. <span class="foreign">swin</span>, M.Du. <span class="foreign">swijn</span>, Du. <span class="foreign">zwijn</span>, Ger. <span class="foreign">Schwein</span>), neuter adjective (with suffix <span class="foreign">*-ino-</span>) from PIE <span class="foreign">*su-</span> (see <a href="/index.php?term=sow&allowed_in_frame=0" class="crossreference">sow</a> (n.)). The native word, largely ousted by <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a>. Applied to persons from late 14c. Phrase <span class="foreign">pearls before swine</span> (mid-14c.) is from Matt. vii:6; an early English formation of it was:
+<blockquote>Ne ge ne wurpen eowre meregrotu toforan eo wrum swynon. [c.1000]
+</blockquote>
+The Latin word was confused in French with <span class="foreign">marguerite</span> "daisy" (the "pearl" of the field), and in Dutch the expression became "roses before swine."</dd>
+
+<dt class="highlight"><a href="/index.php?term=swineherd&allowed_in_frame=0">swineherd</a> <a href="http://dictionary.reference.com/search?q=swineherd" class="dictionary" title="Look up swineherd at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swineherd at Dictionary.com" title="Look up swineherd at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1100, <span class="foreign">swynhyrde</span>; see <a href="/index.php?term=swine&allowed_in_frame=0" class="crossreference">swine</a> + <a href="/index.php?term=herd&allowed_in_frame=0" class="crossreference">herd</a>.</dd>
+
+<dt><a href="/index.php?term=swing&allowed_in_frame=0">swing (v.)</a> <a href="http://dictionary.reference.com/search?q=swing" class="dictionary" title="Look up swing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swing at Dictionary.com" title="Look up swing at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">swingan</span> "to rush, fling oneself," from P.Gmc. <span class="foreign">*swenganan</span> (cf. O.S., O.H.G. <span class="foreign">swingan</span>, O.Fris. <span class="foreign">swinga</span>, Ger. <span class="foreign">schwingen</span> "to swing, swingle, oscillate") denoting "violent circulatory motion." The meaning "move freely back and forth" is first recorded 1540s. The noun meaning "a stroke with a weapon" is from late 14c.; sense of "an apparatus that swings" is first recorded 1680s. Meaning "shift of public opinion" is from 1899. The meaning "variety of big dance-band music with a swinging rhythm" is first recorded 1933, though the sense has been traced back to 1888; its heyday was from mid-30s to mid-40s. <span class="foreign">Swinging</span> "uninhibited" dates from 1958; and <span class="foreign">swinger</span> "person who is lively in an unrestrained way" is from 1965. Both had various other slang senses traceable to 1590s. <span class="foreign">Swing shift</span> first recorded 1941, typically 4 p.m. to midnight. Phrase <span class="foreign">in full swing</span> "in total effect or operation" (1560s) probably is from bell-ringing.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swingle&allowed_in_frame=0">swingle (n.)</a> <a href="http://dictionary.reference.com/search?q=swingle" class="dictionary" title="Look up swingle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swingle at Dictionary.com" title="Look up swingle at Dictionary.com" /></a></dt>
+<dd class="highlight">"instrument for beating flax," early 14c., from M.Du. <span class="foreign">swinghel</span> "swingle for flax," cognate with O.E. <span class="foreign">swingel</span> "beating, stick to beat," from <span class="foreign">swingan</span> "to beat, strike, whip" (see <a href="/index.php?term=swing&allowed_in_frame=0" class="crossreference">swing</a>) + instrumental suffix <span class="foreign">-le</span>. Or perhaps directly from the O.E. word, with narrowing of sense.</dd>
+
+<dt><a href="/index.php?term=swinish&allowed_in_frame=0">swinish</a> <a href="http://dictionary.reference.com/search?q=swinish" class="dictionary" title="Look up swinish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swinish at Dictionary.com" title="Look up swinish at Dictionary.com" /></a></dt>
+<dd>c.1200, from <a href="/index.php?term=swine&allowed_in_frame=0" class="crossreference">swine</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=swipe&allowed_in_frame=0">swipe (n.)</a> <a href="http://dictionary.reference.com/search?q=swipe" class="dictionary" title="Look up swipe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swipe at Dictionary.com" title="Look up swipe at Dictionary.com" /></a></dt>
+<dd class="highlight">1807, "a driving stroke made with the arms in full swing," perhaps a dialectal variant of <span class="foreign">sweep,</span> or in part from obsolete <span class="foreign">swip</span> "a stroke, blow" (c.1200), from P.Gmc. <span class="foreign">*swip-</span>, related to O.E. <span class="foreign">swipu</span> "a stick, whip." Other possible sources or influences are M.E. <span class="foreign">swope</span> "to sweep with broad movements" (in ref. to brooms, swords, etc.), from O.E. <span class="foreign">swapan;</span> obsolete <span class="foreign">swaip</span> "stroke, blow;" or obsolete <span class="foreign">swape</span> "oar, pole." The verb is from 1825. The slang sense of "steal, pilfer" appeared 1889, Amer.Eng., said originally to be theatrical jargon for performers stealing jokes or stage routines from one another. Meaning "run a credit card" is 1990s.</dd>
+
+<dt><a href="/index.php?term=swirl&allowed_in_frame=0">swirl (n.)</a> <a href="http://dictionary.reference.com/search?q=swirl" class="dictionary" title="Look up swirl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swirl at Dictionary.com" title="Look up swirl at Dictionary.com" /></a></dt>
+<dd>early 15c., "whirlpool, eddy," originally Scottish, perhaps related to dialectal Norw. <span class="foreign">svirla</span> or Du. <span class="foreign">zwirrelen</span> "to whirl." The meaning "whirling movement" is from 1818. The verb is attested from 1510s, with an isolated instance from 14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swish&allowed_in_frame=0">swish (v.)</a> <a href="http://dictionary.reference.com/search?q=swish" class="dictionary" title="Look up swish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swish at Dictionary.com" title="Look up swish at Dictionary.com" /></a></dt>
+<dd class="highlight">1756, probably imitative of the sound made by something brushing against or through something. The noun is from 1820; sense of "effeminate homosexual" is 1930s in homosexual slang, probably from notion of mincing motion.</dd>
+
+<dt><a href="/index.php?term=Swiss&allowed_in_frame=0">Swiss</a> <a href="http://dictionary.reference.com/search?q=Swiss" class="dictionary" title="Look up Swiss at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Swiss at Dictionary.com" title="Look up Swiss at Dictionary.com" /></a></dt>
+<dd>1510s, from M.Fr. <span class="foreign">Suisse</span>, from M.H.G. <span class="foreign">Suizer</span>, from <span class="foreign">Suiz</span> "Switzerland" (see <a href="/index.php?term=Switzerland&allowed_in_frame=0" class="crossreference">Switzerland</a> and cf. <span class="foreign">Switzer</span>, archaic word for "a Swiss," and Ger. <span class="foreign">Schweiz</span>). Swiss banks noted for anonymity and security by 1949. <span class="foreign">Swiss cheese</span> is attested from 1822; as a type of something full of holes, from 1924.</dd>
+
+<dt class="highlight"><a href="/index.php?term=switch&allowed_in_frame=0">switch (n.)</a> <a href="http://dictionary.reference.com/search?q=switch" class="dictionary" title="Look up switch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up switch at Dictionary.com" title="Look up switch at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "slender riding whip," probably from a Flemish or Low German word akin to Hanoverian <span class="foreign">swutsche</span>, a variant of Low Ger. <span class="foreign">zwukse</span> "long thin stick, switch," from Germanic base <span class="foreign">*swih-</span> (cf. O.H.G. <span class="foreign">zwec</span> "wooden peg," Ger. <span class="foreign">Zweck</span> "aim, design," originally "peg as a target," <span class="foreign">Zwick</span> "wooden peg"), perhaps connected with PIE root <span class="foreign">*swei-</span> "to swing, bend, to turn." The meaning "device for changing the direction of something or making or breaking a connection" is first recorded 1797. "The peg sense suits the mech(anical) applications" [Weekley], and these senses may be a direct borrowing from those senses in Continantal Germanic languages rather than a continuation of the "pliant wand" sense. The meaning "a change, a reversal, an exchange, a substitution" is first recorded 1920. </dd>
+
+<dt><a href="/index.php?term=switch&allowed_in_frame=0">switch (v.)</a> <a href="http://dictionary.reference.com/search?q=switch" class="dictionary" title="Look up switch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up switch at Dictionary.com" title="Look up switch at Dictionary.com" /></a></dt>
+<dd>1610s, "to strike with a switch," from <a href="/index.php?term=switch&allowed_in_frame=0" class="crossreference">switch</a> (n.). Related: <span class="foreign">Switched</span>; <span class="foreign">switching</span>. The meaning "turn off or on" is first recorded 1853, of trains on tracks, 1881 of electricity, 1932 of radio or (later) television. Sense of "shift, divert" is from 1860. Meaning "to change one thing for another" is recorded from 1919. <span class="foreign">Switch-hitter</span> is 1930s in baseball slang, 1956 in the sense of "bisexual person." <span class="foreign">Switchback</span> in ref. to zig-zag railways is recorded from 1863.</dd>
+
+<dt class="highlight"><a href="/index.php?term=switchblade&allowed_in_frame=0">switchblade</a> <a href="http://dictionary.reference.com/search?q=switchblade" class="dictionary" title="Look up switchblade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up switchblade at Dictionary.com" title="Look up switchblade at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">switch-blade</span>, type of folding pocket knife, 1932, from <a href="/index.php?term=switch&allowed_in_frame=0" class="crossreference">switch</a> (n.) + <a href="/index.php?term=blade&allowed_in_frame=0" class="crossreference">blade</a>. So called for the "switch" which is pressed to spring the knife open. Earlier a similar tool was known as an <span class="foreign">Arkansas toothpick</span> (1837).</dd>
+
+<dt><a href="/index.php?term=switchboard&allowed_in_frame=0">switchboard</a> <a href="http://dictionary.reference.com/search?q=switchboard" class="dictionary" title="Look up switchboard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up switchboard at Dictionary.com" title="Look up switchboard at Dictionary.com" /></a></dt>
+<dd>1873, from <a href="/index.php?term=switch&allowed_in_frame=0" class="crossreference">switch</a> (n.) + <a href="/index.php?term=board&allowed_in_frame=0" class="crossreference">board</a> (n.1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Switzerland&allowed_in_frame=0">Switzerland</a> <a href="http://dictionary.reference.com/search?q=Switzerland" class="dictionary" title="Look up Switzerland at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Switzerland at Dictionary.com" title="Look up Switzerland at Dictionary.com" /></a></dt>
+<dd class="highlight">named for <span class="foreign">Schwyz</span>, one of its original cantons. On postage stamps, etc., identified by the Roman name for the region, <span class="foreign">Helvetia</span>, to avoid having to print the four different forms of the name in the country’s four official languages: <span class="foreign">Suisse</span>, <span class="foreign">Schweiz</span>, <span class="foreign">Svizzera</span>, <span class="foreign">Svizra</span>.</dd>
+
+<dt><a href="/index.php?term=swivel&allowed_in_frame=0">swivel (n.)</a> <a href="http://dictionary.reference.com/search?q=swivel" class="dictionary" title="Look up swivel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swivel at Dictionary.com" title="Look up swivel at Dictionary.com" /></a></dt>
+<dd>c.1300, from frequentative form of stem of O.E. verb <span class="foreign">swifan</span> "to move in a course, sweep" (a class I strong verb), from P.Gmc. <span class="foreign">*swipanan</span> (cf. O.Fris. <span class="foreign">swiva</span> "to be uncertain," O.N. <span class="foreign">svifa</span> "to rove, ramble, drift"), from PIE root <span class="foreign">*swei-</span> "swing, bend, move in a sweeping manner." M.E. <span class="foreign">swive</span> was the principal slang for "to have sexual intercourse with," a sense that developed c.1300. This probably explains why, though the root is verbal, the verb <span class="foreign">swivel</span> is not attested in Mod.Eng. until 1794.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swivet&allowed_in_frame=0">swivet</a> <a href="http://dictionary.reference.com/search?q=swivet" class="dictionary" title="Look up swivet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swivet at Dictionary.com" title="Look up swivet at Dictionary.com" /></a></dt>
+<dd class="highlight">1892, U.S. dialect, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=swizzle&allowed_in_frame=0">swizzle</a> <a href="http://dictionary.reference.com/search?q=swizzle" class="dictionary" title="Look up swizzle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swizzle at Dictionary.com" title="Look up swizzle at Dictionary.com" /></a></dt>
+<dd>1813, name for various kinds of liquor drinks, or for intoxicating drinks generally, possibly a variant of <span class="foreign">switchel</span> "a drink of molasses and water" (often mixed with rum,) first attested 1790, of uncertain origin. <span class="foreign">Swizzle-stick</span> attested by 1859.</dd>
+
+<dt class="highlight"><a href="/index.php?term=swollen&allowed_in_frame=0">swollen (adj.)</a> <a href="http://dictionary.reference.com/search?q=swollen" class="dictionary" title="Look up swollen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swollen at Dictionary.com" title="Look up swollen at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., pp. of <a href="/index.php?term=swell&allowed_in_frame=0" class="crossreference">swell</a> (v.); from O.E. <span class="foreign">geswollen</span>, pp. of <span class="foreign">swellan</span>.</dd>
+
+<dt><a href="/index.php?term=swoon&allowed_in_frame=0">swoon</a> <a href="http://dictionary.reference.com/search?q=swoon" class="dictionary" title="Look up swoon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swoon at Dictionary.com" title="Look up swoon at Dictionary.com" /></a></dt>
+<dd>late 13c., <span class="foreign">swogene</span>, probably from O.E. <span class="foreign">geswogen</span> "in a faint," pp. of a lost verb, perhaps <span class="foreign">*swogan,</span> as in <span class="foreign">aswogan</span> "to choke," of uncertain origin. Cf. Low Ger. <span class="foreign">swogen</span> "to sigh."</dd>
+
+<dt class="highlight"><a href="/index.php?term=swoop&allowed_in_frame=0">swoop (v.)</a> <a href="http://dictionary.reference.com/search?q=swoop" class="dictionary" title="Look up swoop at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swoop at Dictionary.com" title="Look up swoop at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, "to move or walk in a stately manner," apparently from a dialectal survival of O.E. <span class="foreign">swapan</span> "to sweep, brandish, dash," from P.Gmc. <span class="foreign">*swaipanan</span>, from PIE root <span class="foreign">*swei-</span> "to swing, bend, to turn." Meaning "pounce upon with a sweeping movement" first recorded 1630s. Spelling with <span class="foreign">-oo-</span> may have been influenced by Scottish and northern England dialectal <span class="foreign">soop</span> "to sweep," from O.N. <span class="foreign">sopa</span> "to sweep." Related: <span class="foreign">Swooped</span>; <span class="foreign">swooping</span>. The noun is attested from 1540s. Phrase <span class="foreign">one fell swoop</span> is from Shakespeare.
+<blockquote>
+Oh, Hell-Kite! All? What, All my pretty Chickens, and their Damme, At one fell swoope? ["Macbeth," IV.iii.219]</blockquote></dd>
+
+<dt><a href="/index.php?term=swoosh&allowed_in_frame=0">swoosh</a> <a href="http://dictionary.reference.com/search?q=swoosh" class="dictionary" title="Look up swoosh at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swoosh at Dictionary.com" title="Look up swoosh at Dictionary.com" /></a></dt>
+<dd>1867, imitative of the sound intended. The Nike corporate logo so called from 1989.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sword&allowed_in_frame=0">sword</a> <a href="http://dictionary.reference.com/search?q=sword" class="dictionary" title="Look up sword at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sword at Dictionary.com" title="Look up sword at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sweord</span>, from P.Gmc. <span class="foreign">*swerdan</span> (cf. O.S., O.Fris. <span class="foreign">swerd</span>, O.N. <span class="foreign">sver&eth;</span>, Swed. <span class="foreign">sv&auml;rd</span>, M.Du. <span class="foreign">swaert</span>, Du. <span class="foreign">zwaard</span>, O.H.G. <span class="foreign">swert</span>, Ger. <span class="foreign">Schwert</span>), related to O.H.G. <span class="foreign">sweran</span> "to hurt," from <span class="foreign">*swertha-</span>, lit. "the cutting weapon," from PIE root <span class="foreign">*swer-</span> "to cut." Contrast with <span class="foreign">plowshare</span> is from the Old Testament (e.g. Isaiah ii:4, Micah iv:3). Phrase <span class="foreign">put</span> (originally <span class="foreign">do</span>) <span class="foreign">to the sword</span> "kill, slaughter" is recorded from mid-14c.</dd>
+
+<dt><a href="/index.php?term=swordfish&allowed_in_frame=0">swordfish</a> <a href="http://dictionary.reference.com/search?q=swordfish" class="dictionary" title="Look up swordfish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swordfish at Dictionary.com" title="Look up swordfish at Dictionary.com" /></a></dt>
+<dd>c.1400, from <a href="/index.php?term=sword&allowed_in_frame=0" class="crossreference">sword</a> + <a href="/index.php?term=fish&allowed_in_frame=0" class="crossreference">fish</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=swordplay&allowed_in_frame=0">swordplay (n.)</a> <a href="http://dictionary.reference.com/search?q=swordplay" class="dictionary" title="Look up swordplay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up swordplay at Dictionary.com" title="Look up swordplay at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sweordplege</span>; see <a href="/index.php?term=sword&allowed_in_frame=0" class="crossreference">sword</a> + <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a> (n.).</dd>
+
+<dt><a href="/index.php?term=sybarite&allowed_in_frame=0">sybarite (n.)</a> <a href="http://dictionary.reference.com/search?q=sybarite" class="dictionary" title="Look up sybarite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sybarite at Dictionary.com" title="Look up sybarite at Dictionary.com" /></a></dt>
+<dd>"person devoted to pleasure," 1610s (implied in <span class="foreign">Sybaritical</span>), lit. "inhabitant of <span class="foreign">Sybaris</span>," ancient Gk. town in southern Italy, whose people were noted for their love of luxury. From L. <span class="foreign">Sybarita</span>, from Gk. <span class="foreign">Sybarites</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sybaritic&allowed_in_frame=0">sybaritic (adj.)</a> <a href="http://dictionary.reference.com/search?q=sybaritic" class="dictionary" title="Look up sybaritic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sybaritic at Dictionary.com" title="Look up sybaritic at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from L. <span class="foreign">sybariticus</span>, from Gk. <span class="foreign">sybaritikos</span>, from <span class="foreign">Sybarites</span> (see <a href="/index.php?term=Sybarite&allowed_in_frame=0" class="crossreference">Sybarite</a>).</dd>
+
+<dt><a href="/index.php?term=sycamore&allowed_in_frame=0">sycamore (n.)</a> <a href="http://dictionary.reference.com/search?q=sycamore" class="dictionary" title="Look up sycamore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sycamore at Dictionary.com" title="Look up sycamore at Dictionary.com" /></a></dt>
+<dd>mid-14c., from O.Fr. <span class="foreign">sicamor</span>, from L. <span class="foreign">sycomorus</span>, from Gk. <span class="foreign">sykomoros</span>, from <span class="foreign">sykon</span> "fig" + <span class="foreign">moron</span> "mulberry." Or perhaps a folk-etymology for Heb. <span class="foreign">shiqmah</span> "mulberry." A Biblical word, originally used for a species of fig tree (<span class="foreign">Ficus sycomorus</span>) common in Egypt, Syria, etc., whose leaves somewhat resemble those of the mulberry; applied from 1580s to <span class="foreign">Acer pseudoplatanus</span>, a large species of European maple, and from 1814 to the North American shade tree that is also called <span class="foreign">buttonwood</span> (<span class="foreign">Platanus occidentalis</span>, introduced to Europe from Virginia 1637 by Filius Tradescant). Some writers have used the more Hellenic <span class="foreign">sycomore</span> in reference to the Biblical tree for the sake of clarity.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658789 -->
+<!-- Page was generated in 0.205641 seconds. -->
+ </body>
+</html>
+<!-- -->

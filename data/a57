@@ -1,0 +1,417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=ave&allowed_in_frame=0">ave</a> <a href="http://dictionary.reference.com/search?q=ave" class="dictionary" title="Look up ave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ave at Dictionary.com" title="Look up ave at Dictionary.com" /></a></dt>
+<dd class="highlight">"hail," also "farewell," early 13c. (in reference to the <a href="/index.php?term=Ave Maria&allowed_in_frame=0" class="crossreference">Ave Maria</a>), from L. <span class="foreign">ave</span>, 2nd person singular imperative of <span class="foreign">avere</span> "to be or fare well."</dd>
+
+<dt><a href="/index.php?term=Ave+Maria&allowed_in_frame=0">Ave Maria</a> <a href="http://dictionary.reference.com/search?q=Ave+Maria" class="dictionary" title="Look up Ave Maria at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ave Maria at Dictionary.com" title="Look up Ave Maria at Dictionary.com" /></a></dt>
+<dd>modified form of the angelic salutation to the Virgin (Luke i:28) used as a devotional recitation, early 13c., from the opening words (<span class="foreign">"Ave [Maria] gratia plena"</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=avenge&allowed_in_frame=0">avenge (v.)</a> <a href="http://dictionary.reference.com/search?q=avenge" class="dictionary" title="Look up avenge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avenge at Dictionary.com" title="Look up avenge at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Anglo-Fr. <span class="foreign">avenger</span>, O.Fr. <span class="foreign">avengier</span>, from <span class="foreign">a-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">vengier</span> "take revenge" (Mod.Fr. <span class="foreign">venger</span>), from L. <span class="foreign">vindicare</span> "to claim, avenge, punish" (see <a href="/index.php?term=vindicate&allowed_in_frame=0" class="crossreference">vindicate</a>). Related: <span class="foreign">Avenged</span>; <span class="foreign">avenging</span>.</dd>
+
+<dt><a href="/index.php?term=avenger&allowed_in_frame=0">avenger (n.)</a> <a href="http://dictionary.reference.com/search?q=avenger" class="dictionary" title="Look up avenger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avenger at Dictionary.com" title="Look up avenger at Dictionary.com" /></a></dt>
+<dd>1530s, agent noun from <a href="/index.php?term=avenge&allowed_in_frame=0" class="crossreference">avenge</a> (v.). Spenser (1596) has <span class="foreign">avengeress</span> but no mention of Mrs. Peel.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=avenue&allowed_in_frame=0">avenue (n.)</a> <a href="http://dictionary.reference.com/search?q=avenue" class="dictionary" title="Look up avenue at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avenue at Dictionary.com" title="Look up avenue at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, "a way of approach" (originally a military word), from M.Fr. <span class="foreign">avenue</span> "way of access," from O.Fr. <span class="foreign">avenue</span> "act of approaching, arrival," noun use of fem. of <span class="foreign">avenu</span>, pp. of <span class="foreign">avenir</span> "to come to, arrive," from L. <span class="foreign">advenire</span> "to come to," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">venire</span> "to come" (see <a href="/index.php?term=venue&allowed_in_frame=0" class="crossreference">venue</a>). Meaning shifted to "a way of approach to a country-house," usually bordered by trees, hence, "a broad, tree-lined roadway" (1650s), then to "wide, main street" (by 1846, especially in U.S.).</dd>
+
+<dt><a href="/index.php?term=aver&allowed_in_frame=0">aver (v.)</a> <a href="http://dictionary.reference.com/search?q=aver" class="dictionary" title="Look up aver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aver at Dictionary.com" title="Look up aver at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">averer</span> "verify," from V.L. <span class="foreign">*adverare</span> "make true, prove to be true," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">verus</span> "true" (see <a href="/index.php?term=very&allowed_in_frame=0" class="crossreference">very</a>). Related: <span class="foreign">Averred</span>; <span class="foreign">averring</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=average&allowed_in_frame=0">average (n.)</a> <a href="http://dictionary.reference.com/search?q=average" class="dictionary" title="Look up average at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up average at Dictionary.com" title="Look up average at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "financial loss incurred through damage to goods in transit," from Fr. <span class="foreign">avarie</span> "damage to ship," and It. <span class="foreign">avaria</span>; a word from 12c. Mediterranean maritime trade (cf. Sp. <span class="foreign">averia</span>; other Germanic forms, Du. <span class="foreign">avarij</span>, Ger. <span class="foreign">haferei</span>, etc., also are from Romanic languages), of uncertain origin. Sometimes traced to Arabic <span class="foreign">'arwariya</span> "damaged merchandise," but this might as easily be a borrowing of the word from the Franks. Meaning shifted to "equal sharing of such loss by the interested parties." Transferred sense of "statement of a medial estimate" is first recorded 1735. The mathematical extension is from 1755.</dd>
+
+<dt><a href="/index.php?term=average&allowed_in_frame=0">average (adj.)</a> <a href="http://dictionary.reference.com/search?q=average" class="dictionary" title="Look up average at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up average at Dictionary.com" title="Look up average at Dictionary.com" /></a></dt>
+<dd>1770; see <a href="/index.php?term=average&allowed_in_frame=0" class="crossreference">average</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=average&allowed_in_frame=0">average (v.)</a> <a href="http://dictionary.reference.com/search?q=average" class="dictionary" title="Look up average at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up average at Dictionary.com" title="Look up average at Dictionary.com" /></a></dt>
+<dd class="highlight">1769, from <a href="/index.php?term=average&allowed_in_frame=0" class="crossreference">average</a> (n.). Related: <span class="foreign">Averaged</span>; <span class="foreign">averaging</span>.</dd>
+
+<dt><a href="/index.php?term=Averroes&allowed_in_frame=0">Averroes</a> <a href="http://dictionary.reference.com/search?q=Averroes" class="dictionary" title="Look up Averroes at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Averroes at Dictionary.com" title="Look up Averroes at Dictionary.com" /></a></dt>
+<dd>Latinization of name of <span class="foreign">Ibn Rushd</span> (1126-1198) Arab philosopher and physician of Spain and Morocco.</dd>
+
+<dt class="highlight"><a href="/index.php?term=averse&allowed_in_frame=0">averse (adj.)</a> <a href="http://dictionary.reference.com/search?q=averse" class="dictionary" title="Look up averse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up averse at Dictionary.com" title="Look up averse at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "turned away in mind or feeling," from O.Fr. <span class="foreign">avers</span> and directly from L. <span class="foreign">aversus</span> "turned away, turned back," pp. of <span class="foreign">avertere</span> (see <a href="/index.php?term=avert&allowed_in_frame=0" class="crossreference">avert</a>). Originally and usually in English in the mental sense, while <span class="foreign">avert</span> is used in a physical sense.</dd>
+
+<dt><a href="/index.php?term=aversion&allowed_in_frame=0">aversion (n.)</a> <a href="http://dictionary.reference.com/search?q=aversion" class="dictionary" title="Look up aversion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aversion at Dictionary.com" title="Look up aversion at Dictionary.com" /></a></dt>
+<dd>"a turning away from," 1590s; figurative sense of "mental attitude of repugnance" is from 1650s, from M.Fr. <span class="foreign">aversion</span> and directly from L. <span class="foreign">aversionem</span> (nom. <span class="foreign">aversio</span>), noun of action from pp. stem of <span class="foreign">aversus</span> "turned away, backwards, behind, hostile," itself pp. of <span class="foreign">avertere</span> (see <a href="/index.php?term=avert&allowed_in_frame=0" class="crossreference">avert</a>). Earlier in the literal sense of "a turning away from" (1590s). <span class="foreign">Aversion therapy</span> in psychology is from 1950.</dd>
+
+<dt class="highlight"><a href="/index.php?term=avert&allowed_in_frame=0">avert (v.)</a> <a href="http://dictionary.reference.com/search?q=avert" class="dictionary" title="Look up avert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avert at Dictionary.com" title="Look up avert at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from O.Fr. <span class="foreign">avertir</span> (12c.), "turn, direct; avert; make aware," from V.L. <span class="foreign">*advertire</span>, from L. <span class="foreign">avertere</span> "to turn away, to drive away," from <span class="foreign">ab-</span> "from, away" (see <a href="/index.php?term=ab-&allowed_in_frame=0" class="crossreference">ab-</a>) + <span class="foreign">vertere</span> "to turn" (see <a href="/index.php?term=versus&allowed_in_frame=0" class="crossreference">versus</a>). Related: <span class="foreign">Averted</span>; <span class="foreign">averting</span>.</dd>
+
+<dt><a href="/index.php?term=Avestan&allowed_in_frame=0">Avestan</a> <a href="http://dictionary.reference.com/search?q=Avestan" class="dictionary" title="Look up Avestan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Avestan at Dictionary.com" title="Look up Avestan at Dictionary.com" /></a></dt>
+<dd>Eastern Iranian language that survived in sacred texts centuries after it went extinct, from Persian <span class="foreign">Avesta</span> "sacred books of the Parsees," earlier <span class="foreign">Avistak</span>, lit. "books."</dd>
+
+<dt class="highlight"><a href="/index.php?term=avian&allowed_in_frame=0">avian (adj.)</a> <a href="http://dictionary.reference.com/search?q=avian" class="dictionary" title="Look up avian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avian at Dictionary.com" title="Look up avian at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to birds," 1870, from L. <span class="foreign">avis</span> "bird" (see <a href="/index.php?term=aviary&allowed_in_frame=0" class="crossreference">aviary</a>) + <a href="/index.php?term=-an&allowed_in_frame=0" class="crossreference">-an</a>.</dd>
+
+<dt><a href="/index.php?term=aviary&allowed_in_frame=0">aviary (n.)</a> <a href="http://dictionary.reference.com/search?q=aviary" class="dictionary" title="Look up aviary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aviary at Dictionary.com" title="Look up aviary at Dictionary.com" /></a></dt>
+<dd>1570s, from L. <span class="foreign">aviarium</span> "place in which birds are kept," neuter of <span class="foreign">aviarius</span> "of birds," from <span class="foreign">avis</span> "bird," from PIE <span class="foreign">*awi-</span> "bird" (cf. Skt. <span class="foreign">vih</span>, Avestan <span class="foreign">vish</span> "bird," Gk. <span class="foreign">aietos</span> "eagle").</dd>
+
+<dt class="highlight"><a href="/index.php?term=aviation&allowed_in_frame=0">aviation (n.)</a> <a href="http://dictionary.reference.com/search?q=aviation" class="dictionary" title="Look up aviation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aviation at Dictionary.com" title="Look up aviation at Dictionary.com" /></a></dt>
+<dd class="highlight">1866, from Fr. <span class="foreign">aviation</span>, noun of action from stem of L. <span class="foreign">avis</span> "bird" (see <a href="/index.php?term=aviary&allowed_in_frame=0" class="crossreference">aviary</a>). Coined 1863 by French aviation pioneer Guillaume Joseph Gabriel de La Landelle (1812-1886) in <span class="foreign">"Aviation ou Navigation a&eacute;rienne."</span></dd>
+
+<dt><a href="/index.php?term=aviator&allowed_in_frame=0">aviator (n.)</a> <a href="http://dictionary.reference.com/search?q=aviator" class="dictionary" title="Look up aviator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aviator at Dictionary.com" title="Look up aviator at Dictionary.com" /></a></dt>
+<dd>"aircraft pilot," 1887, from Fr. <span class="foreign">aviateur</span>, from L. <span class="foreign">avis</span> (see <a href="/index.php?term=aviary&allowed_in_frame=0" class="crossreference">aviary</a>) + <span class="foreign">-ateur</span>. Also used c.1891 in a sense of "aircraft." Feminine form <span class="foreign">aviatrix</span> is from 1927; earlier <span class="foreign">aviatrice</span> (1910), <span class="foreign">aviatress</span> (1911).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Avicenna&allowed_in_frame=0">Avicenna</a> <a href="http://dictionary.reference.com/search?q=Avicenna" class="dictionary" title="Look up Avicenna at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Avicenna at Dictionary.com" title="Look up Avicenna at Dictionary.com" /></a></dt>
+<dd class="highlight">Latinization of name of <span class="foreign">Ibn Sina</span> (980-1037), Persian philosopher and physician. Full name <span class="foreign">Ab&#363; ‘Al&#299; al-Husayn ibn ‘Abd All&#257;h ibn S&#299;n&#257; al-Balkh&#299;</span>.</dd>
+
+<dt><a href="/index.php?term=aviculture&allowed_in_frame=0">aviculture (n.)</a> <a href="http://dictionary.reference.com/search?q=aviculture" class="dictionary" title="Look up aviculture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aviculture at Dictionary.com" title="Look up aviculture at Dictionary.com" /></a></dt>
+<dd>1876, from Fr. <span class="foreign">aviculture</span>, from L. <span class="foreign">avis</span> "bird" (see <a href="/index.php?term=aviary&allowed_in_frame=0" class="crossreference">aviary</a>) + L. <span class="foreign">cultura</span> "cultivation" (see <a href="/index.php?term=culture&allowed_in_frame=0" class="crossreference">culture</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=avid&allowed_in_frame=0">avid (adj.)</a> <a href="http://dictionary.reference.com/search?q=avid" class="dictionary" title="Look up avid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avid at Dictionary.com" title="Look up avid at Dictionary.com" /></a></dt>
+<dd class="highlight">1769, from Fr. <span class="foreign">avide</span> (15c.), from L. <span class="foreign">avidus</span> "longing eagerly, desirous, greedy," from <span class="foreign">avere</span> "to desire eagerly." Also in part a back-formation from <a href="/index.php?term=avidity&allowed_in_frame=0" class="crossreference">avidity</a>. Related: <span class="foreign">Avidly</span>.</dd>
+
+<dt><a href="/index.php?term=avidity&allowed_in_frame=0">avidity (n.)</a> <a href="http://dictionary.reference.com/search?q=avidity" class="dictionary" title="Look up avidity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avidity at Dictionary.com" title="Look up avidity at Dictionary.com" /></a></dt>
+<dd>mid-15c., "eagerness, zeal," from O.Fr. <span class="foreign">avidite</span> "avidity, greed," from L. <span class="foreign">aviditatem</span> (nom. <span class="foreign">aviditas</span>) "eagerness, avidity," noun of quality from <span class="foreign">avidus</span> (see <a href="/index.php?term=avid&allowed_in_frame=0" class="crossreference">avid</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=avionics&allowed_in_frame=0">avionics (n.)</a> <a href="http://dictionary.reference.com/search?q=avionics" class="dictionary" title="Look up avionics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avionics at Dictionary.com" title="Look up avionics at Dictionary.com" /></a></dt>
+<dd class="highlight">1949, from <a href="/index.php?term=aviation&allowed_in_frame=0" class="crossreference">aviation</a> + <a href="/index.php?term=electronics&allowed_in_frame=0" class="crossreference">electronics</a>.</dd>
+
+<dt><a href="/index.php?term=Avis&allowed_in_frame=0">Avis</a> <a href="http://dictionary.reference.com/search?q=Avis" class="dictionary" title="Look up Avis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Avis at Dictionary.com" title="Look up Avis at Dictionary.com" /></a></dt>
+<dd>U.S. car rental company, according to company history, founded 1946 at Willow Run Airport in Detroit by Warren <span class="foreign">Avis</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=avocado&allowed_in_frame=0">avocado (n.)</a> <a href="http://dictionary.reference.com/search?q=avocado" class="dictionary" title="Look up avocado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avocado at Dictionary.com" title="Look up avocado at Dictionary.com" /></a></dt>
+<dd class="highlight">1763, from Sp. <span class="foreign">avocado</span>, altered (by folk etymology influence of earlier Sp. <span class="foreign">avocado</span> "lawyer," from same Latin source as <a href="/index.php?term=advocate&allowed_in_frame=0" class="crossreference">advocate</a> (n.)) from earlier <span class="foreign">aguacate</span>, from Nahuatl <span class="foreign">ahuakatl</span> "avocado, testicle." So called for its shape. As a color, first attested 1945. The English corruption <span class="foreign">alligator (pear)</span> is 1763, from Mexican Sp. <span class="foreign">alvacata</span>, <span class="foreign">alligato</span>.</dd>
+
+<dt><a href="/index.php?term=avocation&allowed_in_frame=0">avocation (n.)</a> <a href="http://dictionary.reference.com/search?q=avocation" class="dictionary" title="Look up avocation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avocation at Dictionary.com" title="Look up avocation at Dictionary.com" /></a></dt>
+<dd>1520s, "a calling away from one's occupation," from L. <span class="foreign">avocationem</span> (nom. <span class="foreign">avocatio</span>) "a calling away, distraction, diversion," noun of action from pp. stem of <span class="foreign">avocare</span>, from <span class="foreign">ab-</span> "off, away from" (see <a href="/index.php?term=ab-&allowed_in_frame=0" class="crossreference">ab-</a>) + <span class="foreign">vocare</span> "to call" (see <a href="/index.php?term=voice&allowed_in_frame=0" class="crossreference">voice</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=avoid&allowed_in_frame=0">avoid (v.)</a> <a href="http://dictionary.reference.com/search?q=avoid" class="dictionary" title="Look up avoid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avoid at Dictionary.com" title="Look up avoid at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from Anglo-Fr. <span class="foreign">avoider</span> "to clear out, withdraw (oneself)," partially anglicized from O.Fr. <span class="foreign">esvuidier</span> "to empty out," from <span class="foreign">es-</span> "out" (see <a href="/index.php?term=ex-&allowed_in_frame=0" class="crossreference">ex-</a>) + <span class="foreign">vuidier</span> "to be empty," from <span class="foreign">voide</span> "empty, vast, wide, hollow, waste" (see <a href="/index.php?term=void&allowed_in_frame=0" class="crossreference">void</a> (adj.)). Originally a law term; modern sense of "have nothing to do with" also was in Middle English and corresponds to O.Fr. <span class="foreign">eviter</span> with which it was perhaps confused. Meaning "escape, evade" first attested 1520s. Related: <span class="foreign">Avoided</span>; <span class="foreign">avoiding</span>.</dd>
+
+<dt><a href="/index.php?term=avoidable&allowed_in_frame=0">avoidable (adj.)</a> <a href="http://dictionary.reference.com/search?q=avoidable" class="dictionary" title="Look up avoidable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avoidable at Dictionary.com" title="Look up avoidable at Dictionary.com" /></a></dt>
+<dd>1630s, from <a href="/index.php?term=avoid&allowed_in_frame=0" class="crossreference">avoid</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Avoidably</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=avoidance&allowed_in_frame=0">avoidance (n.)</a> <a href="http://dictionary.reference.com/search?q=avoidance" class="dictionary" title="Look up avoidance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avoidance at Dictionary.com" title="Look up avoidance at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "action of emptying," from <a href="/index.php?term=avoid&allowed_in_frame=0" class="crossreference">avoid</a> + <a href="/index.php?term=-ance&allowed_in_frame=0" class="crossreference">-ance</a>. Sense of "action of dodging or shunning" is recorded from early 15c.; it also meant "action of making legally invalid," 1620s; "becoming vacant" (of an office, etc.), mid-15c.</dd>
+
+<dt><a href="/index.php?term=avoirdupois&allowed_in_frame=0">avoirdupois (n.)</a> <a href="http://dictionary.reference.com/search?q=avoirdupois" class="dictionary" title="Look up avoirdupois at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avoirdupois at Dictionary.com" title="Look up avoirdupois at Dictionary.com" /></a></dt>
+<dd>1650s, misspelling of M.E. <span class="foreign">avoir-de-peise</span> (c.1300), from O.Fr. <span class="foreign">avoir de pois</span> "goods of weight," from <span class="foreign">aveir</span> "property, goods" (noun use of <span class="foreign">aveir</span> "have") + <span class="foreign">peis</span> "weight," from L. <span class="foreign">pensum</span>, neut. of <span class="foreign">pendere</span> "to weigh" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). After late 15c., the standard system of weights used in England for all goods except precious metals, precious stones, and medicine.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Avon&allowed_in_frame=0">Avon</a> <a href="http://dictionary.reference.com/search?q=Avon" class="dictionary" title="Look up Avon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Avon at Dictionary.com" title="Look up Avon at Dictionary.com" /></a></dt>
+<dd class="highlight">river in southwestern England, from Celtic <span class="foreign">abona</span> "river" (see <a href="/index.php?term=afanc&allowed_in_frame=0" class="crossreference">afanc</a>).</dd>
+
+<dt><a href="/index.php?term=avouch&allowed_in_frame=0">avouch (v.)</a> <a href="http://dictionary.reference.com/search?q=avouch" class="dictionary" title="Look up avouch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avouch at Dictionary.com" title="Look up avouch at Dictionary.com" /></a></dt>
+<dd>late 15c., from M.Fr. <span class="foreign">avochier</span> "call upon as authority," in Old French "call (to court), advocate, plead (a case)," from L. <span class="foreign">advocare</span> "call to" as a witness (see <a href="/index.php?term=advocate&allowed_in_frame=0" class="crossreference">advocate</a>).
+<blockquote>
+<span class="foreign">Avouch</span>, which is no longer in common use, means guarantee, solemnly aver, prove by assertion, maintain the truth or existence of, vouch for .... <span class="foreign">Avow</span> means own publicly to, make no secret of, not shrink from admitting, acknowledge one's responsibility for .... <span class="foreign">Vouch</span> is now common only in the phrase <span class="foreign">vouch for</span>, which has taken the place of <span class="foreign">avouch</span> in ordinary use, & means pledge one's word for .... [Fowler]
+</blockquote>
+Related: <span class="foreign">Avouched</span>; <span class="foreign">avouching</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=avow&allowed_in_frame=0">avow (v.)</a> <a href="http://dictionary.reference.com/search?q=avow" class="dictionary" title="Look up avow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avow at Dictionary.com" title="Look up avow at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., from Anglo-Fr. <span class="foreign">avouer</span>, O.Fr. <span class="foreign">avoer</span> "acknowledge, accept, recognize," especially as a protector (Mod.Fr. <span class="foreign">avouer</span>), from L. <span class="foreign">advocare</span> (see <a href="/index.php?term=advocate&allowed_in_frame=0" class="crossreference">advocate</a>). A synonym of <a href="/index.php?term=avouch&allowed_in_frame=0" class="crossreference">avouch</a> (q.v.), which tends to contain the more technical, legal aspect of the word. Related: <span class="foreign">Avowed</span>; <span class="foreign">avowing</span>.</dd>
+
+<dt><a href="/index.php?term=avowal&allowed_in_frame=0">avowal (n.)</a> <a href="http://dictionary.reference.com/search?q=avowal" class="dictionary" title="Look up avowal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avowal at Dictionary.com" title="Look up avowal at Dictionary.com" /></a></dt>
+<dd>1727, from <a href="/index.php?term=avow&allowed_in_frame=0" class="crossreference">avow</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=avuncular&allowed_in_frame=0">avuncular (adj.)</a> <a href="http://dictionary.reference.com/search?q=avuncular" class="dictionary" title="Look up avuncular at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up avuncular at Dictionary.com" title="Look up avuncular at Dictionary.com" /></a></dt>
+<dd class="highlight">1789, from L. <span class="foreign">avunculus</span> "maternal uncle," dim. of <span class="foreign">avus</span> (see <a href="/index.php?term=uncle&allowed_in_frame=0" class="crossreference">uncle</a>) + <a href="/index.php?term=-ar&allowed_in_frame=0" class="crossreference">-ar</a>. Used humorously for "of a pawnbroker" (<span class="foreign">uncle</span> was slang for "pawnbroker" from c.1600 through 19c.).<blockquote>My only good suit is at present under the avuncular protection. ["Fraser's Magazine," 1832]</blockquote></dd>
+
+<dt><a href="/index.php?term=aw&allowed_in_frame=0">aw</a> <a href="http://dictionary.reference.com/search?q=aw" class="dictionary" title="Look up aw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aw at Dictionary.com" title="Look up aw at Dictionary.com" /></a></dt>
+<dd>expresion of mild disappointment, sympathy, etc., first recorded in this form by 1888.</dd>
+
+<dt class="highlight"><a href="/index.php?term=AWACS&allowed_in_frame=0">AWACS</a> <a href="http://dictionary.reference.com/search?q=AWACS" class="dictionary" title="Look up AWACS at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up AWACS at Dictionary.com" title="Look up AWACS at Dictionary.com" /></a></dt>
+<dd class="highlight">1966, acronym for "<span class="foreign">A</span>irborne <span class="foreign">W</span>arning <span class="foreign">a</span>nd <span class="foreign">C</span>ontrol <span class="foreign">S</span>ystems."</dd>
+
+<dt><a href="/index.php?term=await&allowed_in_frame=0">await (v.)</a> <a href="http://dictionary.reference.com/search?q=await" class="dictionary" title="Look up await at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up await at Dictionary.com" title="Look up await at Dictionary.com" /></a></dt>
+<dd>early 13c., <span class="foreign">awaiten</span>, from O.N.Fr. <span class="foreign">awaitier</span> (O.Fr. <span class="foreign">agaitier</span>) "to lie in wait for, watch, observe," from <span class="foreign">a-</span> "to" + <span class="foreign">waitier</span> "to watch" (see <a href="/index.php?term=wait&allowed_in_frame=0" class="crossreference">wait</a> (v.)). Originally especially with a hostile sense. Related: <span class="foreign">Awaited</span>; <span class="foreign">awaiting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=awake&allowed_in_frame=0">awake (v.)</a> <a href="http://dictionary.reference.com/search?q=awake" class="dictionary" title="Look up awake at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awake at Dictionary.com" title="Look up awake at Dictionary.com" /></a></dt>
+<dd class="highlight">a merger of two Middle English verbs: 1. <span class="foreign">awaken</span>, from O.E. <span class="foreign">aw&aelig;cnan</span> (earlier <span class="foreign">onw&aelig;cnan</span>; strong, past tense <span class="foreign">awoc</span>, pp. <span class="foreign">awacen</span>) "to awake, arise, originate," from <span class="foreign">a</span> "on" + <span class="foreign">wacan</span> "to arise, become awake" (see <a href="/index.php?term=wake&allowed_in_frame=0" class="crossreference">wake</a> (v.)); and 2. <span class="foreign">awakien</span>, from O.E. <span class="foreign">awacian</span> (weak, p.p. <span class="foreign">awacode</span>) "to awaken, revive; arise; originate, spring from," from <span class="foreign">a</span> "on" + <span class="foreign">wacian</span> "to be awake, remain awake, watch" (see <a href="/index.php?term=watch&allowed_in_frame=0" class="crossreference">watch</a> (v.)). Both originally were intransitive only; the transitive sense being expressed by M.E. <span class="foreign">awecchen</span> (from O.E. <span class="foreign">aweccan</span>) until later M.E. In Modern English, the tendency has been to restrict the strong past tense and pp. (<span class="foreign">awoke</span>, <span class="foreign">awoken</span>) to the original intransitive sense and the weak inflection (<span class="foreign">awakened</span>) to the transitive, but this never has been complete (see <a href="/index.php?term=wake&allowed_in_frame=0" class="crossreference">wake</a>; also cf. <a href="/index.php?term=awaken&allowed_in_frame=0" class="crossreference">awaken</a>).</dd>
+
+<dt><a href="/index.php?term=awake&allowed_in_frame=0">awake (adj.)</a> <a href="http://dictionary.reference.com/search?q=awake" class="dictionary" title="Look up awake at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awake at Dictionary.com" title="Look up awake at Dictionary.com" /></a></dt>
+<dd>"not asleep," c.1300, shortened from <span class="foreign">awaken</span>, pp. of O.E. <span class="foreign">aw&aelig;cnan</span> (see <a href="/index.php?term=awaken&allowed_in_frame=0" class="crossreference">awaken</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=awaken&allowed_in_frame=0">awaken (v.)</a> <a href="http://dictionary.reference.com/search?q=awaken" class="dictionary" title="Look up awaken at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awaken at Dictionary.com" title="Look up awaken at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">aw&aelig;cnan</span> (intrans.), "to spring into being, arise, originate," also, less often, "to wake up;" earlier <span class="foreign">onw&aelig;cnan</span>, from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) "on" + <span class="foreign">w&aelig;cnan</span> (see <a href="/index.php?term=waken&allowed_in_frame=0" class="crossreference">waken</a>). Transitive meaning "to rouse from sleep" is recorded from 1510s; figurative sense of "to stir up, rouse to activity" is from c.1600.
+<BR><BR>
+Originally strong declension (p.t. <span class="foreign">awoc</span>, pp. <span class="foreign">awacen</span>), already in O.E. it was confused with <a href="/index.php?term=awake&allowed_in_frame=0" class="crossreference">awake</a> (v.) and a weak p.t. <span class="foreign">aw&aelig;cnede</span> (modern <span class="foreign">awakened</span>) emerged and has since become the accepted form, with <span class="foreign">awoke</span> and <span class="foreign">awoken</span> transferred to <span class="foreign">awake</span>. Subtle shades of distinction determine the use of <span class="foreign">awake</span> or <span class="foreign">awaken</span> in modern English. Related: <span class="foreign">Awakening</span>.</dd>
+
+<dt><a href="/index.php?term=award&allowed_in_frame=0">award (v.)</a> <a href="http://dictionary.reference.com/search?q=award" class="dictionary" title="Look up award at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up award at Dictionary.com" title="Look up award at Dictionary.com" /></a></dt>
+<dd>late 14c., "decide after careful observation," from Anglo-Fr. <span class="foreign">awarder</span>, from O.N.Fr. <span class="foreign">eswarder</span> (O.Fr. <span class="foreign">esguarder</span>) "decide, examine" (after careful consideration), from <span class="foreign">es-</span> "out" + <span class="foreign">guarder</span> "to watch" (see <a href="/index.php?term=guard&allowed_in_frame=0" class="crossreference">guard</a> (n.)). Related: <span class="foreign">Awarded</span>; <span class="foreign">awarding</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=award&allowed_in_frame=0">award (n.)</a> <a href="http://dictionary.reference.com/search?q=award" class="dictionary" title="Look up award at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up award at Dictionary.com" title="Look up award at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "decision after consideration," from Anglo-Fr. <span class="foreign">award</span>, O.Fr. <span class="foreign">esguard</span>, from <span class="foreign">esguarder</span> (see <a href="/index.php?term=award&allowed_in_frame=0" class="crossreference">award</a> (v.)). Meaning "something awarded" is first attested 1590s.</dd>
+
+<dt><a href="/index.php?term=aware&allowed_in_frame=0">aware (adj.)</a> <a href="http://dictionary.reference.com/search?q=aware" class="dictionary" title="Look up aware at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aware at Dictionary.com" title="Look up aware at Dictionary.com" /></a></dt>
+<dd>late O.E. <span class="foreign">gew&aelig;r</span>, from P.Gmc. <span class="foreign">*ga-waraz</span> (cf. O.S. <span class="foreign">giwar</span>, M.Du. <span class="foreign">gheware</span>, O.H.G. <span class="foreign">giwar</span>, Ger. <span class="foreign">gewahr</span>), from <span class="foreign">*ga-</span> intensive prefix + <span class="foreign">w&aelig;r</span> "wary, cautious" (see <a href="/index.php?term=wary&allowed_in_frame=0" class="crossreference">wary</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=awareness&allowed_in_frame=0">awareness (n.)</a> <a href="http://dictionary.reference.com/search?q=awareness" class="dictionary" title="Look up awareness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awareness at Dictionary.com" title="Look up awareness at Dictionary.com" /></a></dt>
+<dd class="highlight">1828, from <a href="/index.php?term=aware&allowed_in_frame=0" class="crossreference">aware</a> + <a href="/index.php?term=-ness&allowed_in_frame=0" class="crossreference">-ness</a>.</dd>
+
+<dt><a href="/index.php?term=awash&allowed_in_frame=0">awash (adj.)</a> <a href="http://dictionary.reference.com/search?q=awash" class="dictionary" title="Look up awash at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awash at Dictionary.com" title="Look up awash at Dictionary.com" /></a></dt>
+<dd>1825, originally nautical, "on the level of, flush with," from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) "on" + <a href="/index.php?term=wash&allowed_in_frame=0" class="crossreference">wash</a>. Figurative use by 1912.</dd>
+
+<dt class="highlight"><a href="/index.php?term=away&allowed_in_frame=0">away (adv.)</a> <a href="http://dictionary.reference.com/search?q=away" class="dictionary" title="Look up away at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up away at Dictionary.com" title="Look up away at Dictionary.com" /></a></dt>
+<dd class="highlight">late O.E. <span class="foreign">aweg</span>, earlier <span class="foreign">on weg</span> "on from this (that) place;" see <a href="/index.php?term=way&allowed_in_frame=0" class="crossreference">way</a>. Colloquial use for "without delay" (<span class="foreign">fire away</span>, also <span class="foreign">right away</span>) is from earlier sense of "onward in time" (16c.). Intensive use (e.g. <span class="foreign">away back</span>) is American English, first attested 1818.</dd>
+
+<dt><a href="/index.php?term=awe&allowed_in_frame=0">awe (n.)</a> <a href="http://dictionary.reference.com/search?q=awe" class="dictionary" title="Look up awe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awe at Dictionary.com" title="Look up awe at Dictionary.com" /></a></dt>
+<dd>c.1300, earlier <span class="foreign">aghe</span>, c.1200, from a Scandinavian source, cf. O.N. <span class="foreign">agi</span> "fright," from P.Gmc. <span class="foreign">*agiz-</span> (cf. O.E. <span class="foreign">ege</span> "fear," O.H.G. <span class="foreign">agiso</span> "fright, terror," Goth. <span class="foreign">agis</span> "fear, anguish"), from PIE <span class="foreign">*agh-es-</span> (cf. Gk. <span class="foreign">akhos</span> "pain, grief"), from root <span class="foreign">*agh-</span> "to be depressed, be afraid" (see <a href="/index.php?term=ail&allowed_in_frame=0" class="crossreference">ail</a>). Current sense of "dread mixed with veneration" is due to biblical use with reference to the Supreme Being. <span class="foreign">Awe-inspiring</span> is recorded from 1814.</dd>
+
+<dt class="highlight"><a href="/index.php?term=awe&allowed_in_frame=0">awe (v.)</a> <a href="http://dictionary.reference.com/search?q=awe" class="dictionary" title="Look up awe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up awe at Dictionary.com" title="Look up awe at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from <a href="/index.php?term=awe&allowed_in_frame=0" class="crossreference">awe</a> (n.); O.E. had <span class="foreign">egan</span> (v.). Related: <span class="foreign">Awed</span>; <span class="foreign">awing</span>.</dd>
+
+<dt><a href="/index.php?term=aweigh&allowed_in_frame=0">aweigh (adj.)</a> <a href="http://dictionary.reference.com/search?q=aweigh" class="dictionary" title="Look up aweigh at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aweigh at Dictionary.com" title="Look up aweigh at Dictionary.com" /></a></dt>
+<dd>"raised, perpendicular," 1620s, nautical, from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + <a href="/index.php?term=weigh&allowed_in_frame=0" class="crossreference">weigh</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657991 -->
+<!-- Page was generated in 0.185535 seconds. -->
+ </body>
+</html>
+<!-- -->

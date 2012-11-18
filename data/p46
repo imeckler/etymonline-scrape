@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=portray&allowed_in_frame=0">portray (v.)</a> <a href="http://dictionary.reference.com/search?q=portray" class="dictionary" title="Look up portray at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portray at Dictionary.com" title="Look up portray at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from Anglo-Fr. <span class="foreign">purtraire</span>, O.Fr. <span class="foreign">portraire</span> "to draw, to paint, portray" (12c.), lit. "trace, draw forth," from <span class="foreign">por-</span> "forth" (from L. <span class="foreign">pro-</span>) + <span class="foreign">traire</span> "trace, draw," from L. <span class="foreign">trahere</span> "to drag, draw" (see <a href="/index.php?term=tract&allowed_in_frame=0" class="crossreference">tract</a> (n.1)). Related: <span class="foreign">Portrayed</span>; <span class="foreign">portraying</span>.</dd>
+
+<dt><a href="/index.php?term=portrayal&allowed_in_frame=0">portrayal (n.)</a> <a href="http://dictionary.reference.com/search?q=portrayal" class="dictionary" title="Look up portrayal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portrayal at Dictionary.com" title="Look up portrayal at Dictionary.com" /></a></dt>
+<dd>1834, from <a href="/index.php?term=portray&allowed_in_frame=0" class="crossreference">portray</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=portsider&allowed_in_frame=0">portsider (n.)</a> <a href="http://dictionary.reference.com/search?q=portsider" class="dictionary" title="Look up portsider at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portsider at Dictionary.com" title="Look up portsider at Dictionary.com" /></a></dt>
+<dd class="highlight">"left-handed person," 1926, American English, from <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1) in the nautical sense.</dd>
+
+<dt><a href="/index.php?term=Portugal&allowed_in_frame=0">Portugal</a> <a href="http://dictionary.reference.com/search?q=Portugal" class="dictionary" title="Look up Portugal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Portugal at Dictionary.com" title="Look up Portugal at Dictionary.com" /></a></dt>
+<dd>late 14c., <span class="foreign">Portyngale,</span> from M.L. <span class="foreign">Portus Cale</span> (Roman name of modern Oporto), "the port of Gaya." Alfonso, Count of Portucale, became the first king of Portugal.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Portuguese&allowed_in_frame=0">Portuguese</a> <a href="http://dictionary.reference.com/search?q=Portuguese" class="dictionary" title="Look up Portuguese at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Portuguese at Dictionary.com" title="Look up Portuguese at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, from Port. <span class="foreign">Portuguez</span> (see <a href="/index.php?term=Portugal&allowed_in_frame=0" class="crossreference">Portugal</a>).</dd>
+
+<dt><a href="/index.php?term=posable&allowed_in_frame=0">posable (adj.)</a> <a href="http://dictionary.reference.com/search?q=posable" class="dictionary" title="Look up posable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up posable at Dictionary.com" title="Look up posable at Dictionary.com" /></a></dt>
+<dd>1972 of questions; 1975 of action figures; from <a href="/index.php?term=pose&allowed_in_frame=0" class="crossreference">pose</a> (v.1 and 2) + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pose&allowed_in_frame=0">pose (v.1)</a> <a href="http://dictionary.reference.com/search?q=pose" class="dictionary" title="Look up pose at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pose at Dictionary.com" title="Look up pose at Dictionary.com" /></a></dt>
+<dd class="highlight">"put in a certain position," late 14c., "suggest, propose, suppose, assume," from O.Fr. <span class="foreign">poser</span> "put, place, propose," a term in debating, from L.L. <span class="foreign">pausare</span> "to halt, rest, pause" (see <a href="/index.php?term=pause&allowed_in_frame=0" class="crossreference">pause</a>). The Old French verb acquired the sense of L. <span class="foreign">ponere</span> "to put, place," by confusion of the similar stems. Sense of "to assume a certain attitude" is from 1850; the trans. sense (as an artist's model, etc.) is from 1859. Related: <span class="foreign">Posed</span>; <span class="foreign">posing</span>.</dd>
+
+<dt><a href="/index.php?term=pose&allowed_in_frame=0">pose (v.2)</a> <a href="http://dictionary.reference.com/search?q=pose" class="dictionary" title="Look up pose at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pose at Dictionary.com" title="Look up pose at Dictionary.com" /></a></dt>
+<dd>"to puzzle, confuse, perplex," 1590s, earlier "question, interrogate" (1520s), probably from M.Fr. <span class="foreign">poser</span> "suppose, assume," from O.Fr. <span class="foreign">poser</span> (see <a href="/index.php?term=pose&allowed_in_frame=0" class="crossreference">pose</a> (v.1)). Also in some cases a shortening of English <span class="foreign">appose</span> "examine closely," and <span class="foreign">oppose</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pose&allowed_in_frame=0">pose (n.)</a> <a href="http://dictionary.reference.com/search?q=pose" class="dictionary" title="Look up pose at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pose at Dictionary.com" title="Look up pose at Dictionary.com" /></a></dt>
+<dd class="highlight">"act of posing the body," 1818, from <a href="/index.php?term=pose&allowed_in_frame=0" class="crossreference">pose</a> (v.1). Sense of "attitudinize" is from 1840.</dd>
+
+<dt><a href="/index.php?term=Poseidon&allowed_in_frame=0">Poseidon</a> <a href="http://dictionary.reference.com/search?q=Poseidon" class="dictionary" title="Look up Poseidon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Poseidon at Dictionary.com" title="Look up Poseidon at Dictionary.com" /></a></dt>
+<dd>Greek god of the sea and earthquakes, Gk. <span class="foreign">Poseidon</span> (Doric <span class="foreign">Poteidan</span>), of uncertain origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=poser&allowed_in_frame=0">poser (n.)</a> <a href="http://dictionary.reference.com/search?q=poser" class="dictionary" title="Look up poser at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poser at Dictionary.com" title="Look up poser at Dictionary.com" /></a></dt>
+<dd class="highlight">"one who practices an affected attitude," 1881,  agent noun from <a href="/index.php?term=pose&allowed_in_frame=0" class="crossreference">pose</a> (v.1); revived in teen-ager slang by 1983. Meaning "question that puzzles" is from 1793 from <a href="/index.php?term=pose&allowed_in_frame=0" class="crossreference">pose</a> (v.2).</dd>
+
+<dt><a href="/index.php?term=poseur&allowed_in_frame=0">poseur (n.)</a> <a href="http://dictionary.reference.com/search?q=poseur" class="dictionary" title="Look up poseur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poseur at Dictionary.com" title="Look up poseur at Dictionary.com" /></a></dt>
+<dd>"one who practices affected attitudes," 1872, from Fr. <span class="foreign">poseur</span>, from verb <span class="foreign">poser</span> "affect an attitude or pose," from O.Fr. <span class="foreign">poser</span> "to put or place" (see <a href="/index.php?term=pose&allowed_in_frame=0" class="crossreference">pose</a> (v.1)). The word is English <span class="foreign">poser</span> in French garb, and thus could itself be considered an affectation.</dd>
+
+<dt class="highlight"><a href="/index.php?term=posh&allowed_in_frame=0">posh (adj.)</a> <a href="http://dictionary.reference.com/search?q=posh" class="dictionary" title="Look up posh at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up posh at Dictionary.com" title="Look up posh at Dictionary.com" /></a></dt>
+<dd class="highlight">1914, of uncertain origin; no evidence for the common derivation from an acronym of <span class="foreign">port outward, starboard home</span>, supposedly the shipboard accommodations of wealthy British traveling to India on the P & O Lines (to keep their cabins out of the sun); see objections outlined in G. Chowdharay-Best, "Mariner's Mirror," Jan. 1971. More likely from slang <span class="foreign">posh</span> "a dandy" (1890), from thieves' slang meaning "money" (1830), originally "coin of small value, halfpenny," possibly from Romany <span class="foreign">posh</span> "half."
+<blockquote>
+The cavalryman, far more than the infantryman, makes a point of wearing "posh" clothing on every possible occasion -- "posh" being a term used to designate superior clothing, or articles of attire other than those issued by and strictly conforming to the regulations. [E. Charles Vivian, "The British Army From Within," London, 1914]
+</blockquote>
+</dd>
+
+<dt><a href="/index.php?term=posit&allowed_in_frame=0">posit</a> <a href="http://dictionary.reference.com/search?q=posit" class="dictionary" title="Look up posit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up posit at Dictionary.com" title="Look up posit at Dictionary.com" /></a></dt>
+<dd>1640s, from L. <span class="foreign">positus,</span> pp. of <span class="foreign">ponere</span> "put, place" (see <a href="/index.php?term=position&allowed_in_frame=0" class="crossreference">position</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=position&allowed_in_frame=0">position (n.)</a> <a href="http://dictionary.reference.com/search?q=position" class="dictionary" title="Look up position at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up position at Dictionary.com" title="Look up position at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., as a term in logic and philosophy, from O.Fr. <span class="foreign">posicion</span>, from L. <span class="foreign">positionem</span> (nom. <span class="foreign">positio</span>) "act or fact of placing, position, affirmation," from <span class="foreign">posit-</span>, pp. stem of <span class="foreign">ponere</span> "put, place," from PIE <span class="foreign">*po-s(i)nere</span>, from <span class="foreign">*apo-</span> "off, away" (see <a href="/index.php?term=apo&allowed_in_frame=0" class="crossreference">apo</a>-) + <span class="foreign">*sinere</span> "to leave, let," of obscure origin. Meaning "manner in which a body is arranged or posed" first recorded 1703; specifically in ref. to dance steps, 1778, sexual intercourse, 1883. Meaning "official station, employment" is from 1890. The verb meaning "to put in a particular position" is recorded from 1817.</dd>
+
+<dt><a href="/index.php?term=positive&allowed_in_frame=0">positive (adj.)</a> <a href="http://dictionary.reference.com/search?q=positive" class="dictionary" title="Look up positive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up positive at Dictionary.com" title="Look up positive at Dictionary.com" /></a></dt>
+<dd>c.1300, a legal term meaning "formally laid down," from O.Fr. <span class="foreign">positif</span> (13c.), from L. <span class="foreign">positivus</span> "settled by arbitrary agreement, positive" (opposed to <span class="foreign">naturalis</span> "natural"), from <span class="foreign">positus,</span> pp. of <span class="foreign">ponere</span> "put, place" (see <a href="/index.php?term=position&allowed_in_frame=0" class="crossreference">position</a>). Sense broadened to "expressed without qualification" (1590s), then "confident in opinion" (1660s); mathematical use is from 1704; in electricity, 1755. Psychological sense of "concentrating on what is constructive and good" is recorded from 1916.</dd>
+
+<dt class="highlight"><a href="/index.php?term=positively&allowed_in_frame=0">positively (adv.)</a> <a href="http://dictionary.reference.com/search?q=positively" class="dictionary" title="Look up positively at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up positively at Dictionary.com" title="Look up positively at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from <a href="/index.php?term=positive&allowed_in_frame=0" class="crossreference">positive</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=positivism&allowed_in_frame=0">positivism (n.)</a> <a href="http://dictionary.reference.com/search?q=positivism" class="dictionary" title="Look up positivism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up positivism at Dictionary.com" title="Look up positivism at Dictionary.com" /></a></dt>
+<dd>1847, the philosophy of Auguste Comte, who published <span class="foreign">"Philosophie positive"</span> in 1830; see <a href="/index.php?term=positive&allowed_in_frame=0" class="crossreference">positive</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. Related: <span class="foreign">Positivist</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=positivity&allowed_in_frame=0">positivity (n.)</a> <a href="http://dictionary.reference.com/search?q=positivity" class="dictionary" title="Look up positivity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up positivity at Dictionary.com" title="Look up positivity at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from <a href="/index.php?term=positive&allowed_in_frame=0" class="crossreference">positive</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=positron&allowed_in_frame=0">positron (n.)</a> <a href="http://dictionary.reference.com/search?q=positron" class="dictionary" title="Look up positron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up positron at Dictionary.com" title="Look up positron at Dictionary.com" /></a></dt>
+<dd>1933, coined from <span class="foreign">posi(tive) (elec)tron</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=posse&allowed_in_frame=0">posse (n.)</a> <a href="http://dictionary.reference.com/search?q=posse" class="dictionary" title="Look up posse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up posse at Dictionary.com" title="Look up posse at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s (in Anglo-Latin from early 14c.), shortening of <span class="foreign">posse comitatus</span> "the force of the county" (1620s, in Anglo-Latin from late 13c.), from M.L. <span class="foreign">posse</span> "body of men, power," from L. <span class="foreign">posse</span> "have power, be able" + <span class="foreign">comitatus</span> "of the county," genitive of Late Latin word for "court palace" (see <a href="/index.php?term=comitatus&allowed_in_frame=0" class="crossreference">comitatus</a>). Modern slang meaning "small gang" is probably from Western movies.</dd>
+
+<dt><a href="/index.php?term=possess&allowed_in_frame=0">possess (v.)</a> <a href="http://dictionary.reference.com/search?q=possess" class="dictionary" title="Look up possess at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possess at Dictionary.com" title="Look up possess at Dictionary.com" /></a></dt>
+<dd>mid-15c., "to hold, occupy, reside in" (without regard to ownership), from O.Fr. <span class="foreign">possessier</span> (mid-13c.), from L. <span class="foreign">possess-</span>, pp. stem of <span class="foreign">possidere</span> "to possess." Meaning "to hold as property" is recorded from c.1500. Demonic sense is recorded from 1530s (implied in <span class="foreign">possessed</span>). Related: <span class="foreign">Possessing</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=possession&allowed_in_frame=0">possession (n.)</a> <a href="http://dictionary.reference.com/search?q=possession" class="dictionary" title="Look up possession at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possession at Dictionary.com" title="Look up possession at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "act or fact of possessing," also "that which is possessed," from L. <span class="foreign">possessionem</span> (nom. <span class="foreign">possessio</span>), from pp. stem of <span class="foreign">possidere</span> "to possess." Legal property sense is earliest; demonic sense first recorded 1580s.</dd>
+
+<dt><a href="/index.php?term=possessive&allowed_in_frame=0">possessive (adj.)</a> <a href="http://dictionary.reference.com/search?q=possessive" class="dictionary" title="Look up possessive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possessive at Dictionary.com" title="Look up possessive at Dictionary.com" /></a></dt>
+<dd>1520s (grammatical); 1550s (in general use), from L. <span class="foreign">possessivus</span>, from <span class="foreign">possess-</span>, pp. stem of <span class="foreign">possidere</span> "to possess." Related: <span class="foreign">Possessiveness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=posset&allowed_in_frame=0">posset</a> <a href="http://dictionary.reference.com/search?q=posset" class="dictionary" title="Look up posset at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up posset at Dictionary.com" title="Look up posset at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., of unknown origin.</dd>
+
+<dt><a href="/index.php?term=possibility&allowed_in_frame=0">possibility (n.)</a> <a href="http://dictionary.reference.com/search?q=possibility" class="dictionary" title="Look up possibility at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possibility at Dictionary.com" title="Look up possibility at Dictionary.com" /></a></dt>
+<dd>late 14c., "condition of being possible," from O.Fr. <span class="foreign">possibilit&eacute;</span> (13c.), from L. <span class="foreign">possibilitas</span>, from <span class="foreign">possibilis</span> (see <a href="/index.php?term=possible&allowed_in_frame=0" class="crossreference">possible</a>). Meaning "a possible thing or substance" is from c.1400. Related: <span class="foreign">Possibilities</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=possible&allowed_in_frame=0">possible (adj.)</a> <a href="http://dictionary.reference.com/search?q=possible" class="dictionary" title="Look up possible at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possible at Dictionary.com" title="Look up possible at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from L. <span class="foreign">possibilis</span> "that can be done," from <span class="foreign">posse</span> "be able" (see <a href="/index.php?term=potent&allowed_in_frame=0" class="crossreference">potent</a>).</dd>
+
+<dt><a href="/index.php?term=possibly&allowed_in_frame=0">possibly (adv.)</a> <a href="http://dictionary.reference.com/search?q=possibly" class="dictionary" title="Look up possibly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possibly at Dictionary.com" title="Look up possibly at Dictionary.com" /></a></dt>
+<dd>late 14c., from <a href="/index.php?term=possible&allowed_in_frame=0" class="crossreference">possible</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=POSSLQ&allowed_in_frame=0">POSSLQ</a> <a href="http://dictionary.reference.com/search?q=POSSLQ" class="dictionary" title="Look up POSSLQ at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up POSSLQ at Dictionary.com" title="Look up POSSLQ at Dictionary.com" /></a></dt>
+<dd class="highlight">1979, acronym of <span class="foreign">person of opposite sex sharing living quarters</span>; but it was never an official category.</dd>
+
+<dt><a href="/index.php?term=possum&allowed_in_frame=0">possum (n.)</a> <a href="http://dictionary.reference.com/search?q=possum" class="dictionary" title="Look up possum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up possum at Dictionary.com" title="Look up possum at Dictionary.com" /></a></dt>
+<dd>1610s, shortened form of <a href="/index.php?term=opossum&allowed_in_frame=0" class="crossreference">opossum</a>. Phrase <span class="foreign">play possum</span> is first recorded 1822.</dd>
+
+<dt class="highlight"><a href="/index.php?term=post&allowed_in_frame=0">post (n.1)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd class="highlight">"upright timber," O.E. <span class="foreign">post</span> "pillar, doorpost," and O.Fr. <span class="foreign">post</span>, both from L. <span class="foreign">postis</span> "post," perhaps from <span class="foreign">por-</span> "forth" + <span class="foreign">stare</span> "to stand" (see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>). Similar compound in Skt. <span class="foreign">prstham</span> "back, roof, peak," Avestan <span class="foreign">parshti</span> "back," Gk. <span class="foreign">pastas</span> "porch in front of a house, colonnade," M.H.G. <span class="foreign">virst</span> "ridepole," Lith. <span class="foreign">pirstas</span>, O.C.S. <span class="foreign">pristu</span> "finger" (PIE <span class="foreign">*por-st-i-</span>).</dd>
+
+<dt><a href="/index.php?term=post&allowed_in_frame=0">post (n.2)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd>"place when on duty," 1590s, from M.Fr. <span class="foreign">poste</span> "place where one is stationed," also, "station for post horses" (16c.), from It. <span class="foreign">posto</span> "post, station," from V.L. <span class="foreign">*postum</span>, from L. <span class="foreign">positum</span>, neuter pp. of <span class="foreign">ponere</span> "to place, to put" (see <a href="/index.php?term=position&allowed_in_frame=0" class="crossreference">position</a> (n.)). Earliest sense in English was military; meaning "job, position" is attested 1690s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=post&allowed_in_frame=0">post (n.3)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd class="highlight">"mail system," c.1500, from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.2) on notion of riders and horses posted at intervals along a route to speed mail in relays, from M.Fr. <span class="foreign">poste</span> in this sense (late 15c.).</dd>
+
+<dt><a href="/index.php?term=post&allowed_in_frame=0">post (v.4)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd>"to put up bail money," 1781, from one of the nouns <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a>, but which one is uncertain.</dd>
+
+<dt class="highlight"><a href="/index.php?term=post&allowed_in_frame=0">post (v.1)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd class="highlight">"to affix (a paper, etc.) to a post" (in a public place), 1630s, from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.1). Related: <span class="foreign">Posted</span>; <span class="foreign">posting</span>.
+</dd>
+
+<dt><a href="/index.php?term=post&allowed_in_frame=0">post (v.2)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd>in bookkeeping, "to transfer from a day book to a formal account," 1620s, from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.2) via a figurative sense of "carrying" by post horses. Related: <span class="foreign">Posted</span>; <span class="foreign">posting</span>. To <span class="foreign">keep (someone) posted</span> "supply with news" is 1847, American English.</dd>
+
+<dt class="highlight"><a href="/index.php?term=post&allowed_in_frame=0">post (v.3)</a> <a href="http://dictionary.reference.com/search?q=post" class="dictionary" title="Look up post at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post at Dictionary.com" title="Look up post at Dictionary.com" /></a></dt>
+<dd class="highlight">"to send through the postal system," 1837, from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.3). Related: <span class="foreign">Posted</span>; <span class="foreign">posting</span>.</dd>
+
+<dt><a href="/index.php?term=post+factum&allowed_in_frame=0">post factum</a> <a href="http://dictionary.reference.com/search?q=post+factum" class="dictionary" title="Look up post factum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post factum at Dictionary.com" title="Look up post factum at Dictionary.com" /></a></dt>
+<dd>Latin, lit. "after the fact."</dd>
+
+<dt class="highlight"><a href="/index.php?term=post+hoc%2C+ergo+propter+hoc&allowed_in_frame=0">post hoc, ergo propter hoc</a> <a href="http://dictionary.reference.com/search?q=post+hoc%2C+ergo+propter+hoc" class="dictionary" title="Look up post hoc, ergo propter hoc at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post hoc, ergo propter hoc at Dictionary.com" title="Look up post hoc, ergo propter hoc at Dictionary.com" /></a></dt>
+<dd class="highlight">1704, logical fallacy, from Latin, lit. "after this, therefore because of this."</dd>
+
+<dt><a href="/index.php?term=post+meridiem&allowed_in_frame=0">post meridiem</a> <a href="http://dictionary.reference.com/search?q=post+meridiem" class="dictionary" title="Look up post meridiem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post meridiem at Dictionary.com" title="Look up post meridiem at Dictionary.com" /></a></dt>
+<dd>"after noon," 1640s, Latin, from <span class="foreign">post</span> "after" (see <a href="/index.php?term=post-&allowed_in_frame=0" class="crossreference">post-</a>) + acc. of <span class="foreign">meridies</span> "midday, noon."</dd>
+
+<dt class="highlight"><a href="/index.php?term=post+office&allowed_in_frame=0">post office</a> <a href="http://dictionary.reference.com/search?q=post+office" class="dictionary" title="Look up post office at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post office at Dictionary.com" title="Look up post office at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, "public department in charge of letter-carrying," from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.3) + <a href="/index.php?term=office&allowed_in_frame=0" class="crossreference">office</a>. Meaning "building where postal business is carried on" is from 1650s. In slang or euphemistic sense of "sexual game" it refers to a parlor game first attested early 1850s in which pretend "letters" were paid for by kisses.</dd>
+
+<dt><a href="/index.php?term=post-&allowed_in_frame=0">post-</a> <a href="http://dictionary.reference.com/search?q=post-" class="dictionary" title="Look up post- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post- at Dictionary.com" title="Look up post- at Dictionary.com" /></a></dt>
+<dd>word-forming element meaning "after," from L. <span class="foreign">post</span> "behind, after, afterward," from <span class="foreign">*pos-ti</span> (cf. Arcadian <span class="foreign">pos</span>, Doric <span class="foreign">poti</span> "toward, to, near, close by;" O.C.S. <span class="foreign">po</span> "behind, after," <span class="foreign">pozdu</span> "late;" Lith. <span class="foreign">pas</span> "at, by"), from PIE <span class="foreign">*po-</span> (cf. Gk. <span class="foreign">apo</span> "from," L. <span class="foreign">ab</span> "away from").</dd>
+
+<dt class="highlight"><a href="/index.php?term=post-impressionism&allowed_in_frame=0">post-impressionism (n.)</a> <a href="http://dictionary.reference.com/search?q=post-impressionism" class="dictionary" title="Look up post-impressionism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post-impressionism at Dictionary.com" title="Look up post-impressionism at Dictionary.com" /></a></dt>
+<dd class="highlight">1910, from <a href="/index.php?term=post-&allowed_in_frame=0" class="crossreference">post-</a> + <span class="foreign">impressionism</span> (see <a href="/index.php?term=impressionist&allowed_in_frame=0" class="crossreference">impressionist</a>).</dd>
+
+<dt><a href="/index.php?term=Post-it&allowed_in_frame=0">Post-it</a> <a href="http://dictionary.reference.com/search?q=Post-it" class="dictionary" title="Look up Post-it at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Post-it at Dictionary.com" title="Look up Post-it at Dictionary.com" /></a></dt>
+<dd>1975, proprietary name.</dd>
+
+<dt class="highlight"><a href="/index.php?term=post-millennial&allowed_in_frame=0">post-millennial (adj.)</a> <a href="http://dictionary.reference.com/search?q=post-millennial" class="dictionary" title="Look up post-millennial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post-millennial at Dictionary.com" title="Look up post-millennial at Dictionary.com" /></a></dt>
+<dd class="highlight">1851, from <a href="/index.php?term=post-&allowed_in_frame=0" class="crossreference">post-</a> "after" + <a href="/index.php?term=millennial&allowed_in_frame=0" class="crossreference">millennial</a>; chiefly in reference to the Protestant doctrine that the second coming of Christ will occur after, not at, the Christian millennium.</dd>
+
+<dt><a href="/index.php?term=post-modern&allowed_in_frame=0">post-modern (adj.)</a> <a href="http://dictionary.reference.com/search?q=post-modern" class="dictionary" title="Look up post-modern at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post-modern at Dictionary.com" title="Look up post-modern at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">post-modern</span>, <span class="foreign">post modern</span>, by 1919, from <a href="/index.php?term=post-&allowed_in_frame=0" class="crossreference">post-</a> + <a href="/index.php?term=modern&allowed_in_frame=0" class="crossreference">modern</a>.
+<blockquote>
+But it has been only during the later decades of the modern era -- during that time interval that might fairly be called the post-modern era -- that this mechanistic conception of things has begun seriously to affect the current system of knowledge and belief; and it has not hitherto seriously taken effect except in technology and in the material sciences. [Thorstein Veblen, "The Vested Interests and the Common Man," 1919]
+<BR><BR>
+<hr>
+<BR>
+So much for the misapplied theory which has helped set the artist's nerves a-quiver and incited him to the extremes of post modern art, literary and other. [Wilson Follett, "Literature and Bad Nerves," "Harper's," June 1921]
+</blockquote>
+Of architecture from 1940s; specific sense in the arts emerged 1960s (see <a href="/index.php?term=postmodernism&allowed_in_frame=0" class="crossreference">postmodernism</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=post-mortem&allowed_in_frame=0">post-mortem (adj.)</a> <a href="http://dictionary.reference.com/search?q=post-mortem" class="dictionary" title="Look up post-mortem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post-mortem at Dictionary.com" title="Look up post-mortem at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">postmortem</span>, 1734, from L. <span class="foreign">post mortem</span>, from <span class="foreign">post</span> "after"  (see <a href="/index.php?term=post-&allowed_in_frame=0" class="crossreference">post-</a>) + <span class="foreign">mortem</span>, accusative of <span class="foreign">mors</span> "death" (see <a href="/index.php?term=mortal&allowed_in_frame=0" class="crossreference">mortal</a> (adj.)). As a noun, shortening of <span class="foreign">post-mortem examination</span>, it is recorded from 1850.</dd>
+
+<dt><a href="/index.php?term=post-operative&allowed_in_frame=0">post-operative (adj.)</a> <a href="http://dictionary.reference.com/search?q=post-operative" class="dictionary" title="Look up post-operative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up post-operative at Dictionary.com" title="Look up post-operative at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">postoperative</span>, "occurring after a surgical operation," 1889, from <a href="/index.php?term=post-&allowed_in_frame=0" class="crossreference">post-</a> + <a href="/index.php?term=operative&allowed_in_frame=0" class="crossreference">operative</a>. Short form <span class="foreign">post-op</span> is attested from 1971.</dd>
+
+<dt class="highlight"><a href="/index.php?term=postage&allowed_in_frame=0">postage (n.)</a> <a href="http://dictionary.reference.com/search?q=postage" class="dictionary" title="Look up postage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up postage at Dictionary.com" title="Look up postage at Dictionary.com" /></a></dt>
+<dd class="highlight">"cost of sending something by mail," 1650s, from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.3) + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>. <span class="foreign">Postage stamp</span> is attested from 1840; they were recorded as being collected in albums by 1862.</dd>
+
+<dt><a href="/index.php?term=postal&allowed_in_frame=0">postal (adj.)</a> <a href="http://dictionary.reference.com/search?q=postal" class="dictionary" title="Look up postal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up postal at Dictionary.com" title="Look up postal at Dictionary.com" /></a></dt>
+<dd>"pertaining to the mail system," 1843, on model of Fr. <span class="foreign">postale</span> (1836), from <a href="/index.php?term=post&allowed_in_frame=0" class="crossreference">post</a> (n.3). Noun meaning "state of irrational and violent anger" (usually in phrase <span class="foreign">going postal</span>) attested by 1997, in reference to a cluster of news-making workplace shootings in U.S. by what were commonly described as "disgruntled postal workers" (the cliche itself, though not the phrase, goes back to at least 1994).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658625 -->
+<!-- Page was generated in 0.188158 seconds. -->
+ </body>
+</html>
+<!-- -->

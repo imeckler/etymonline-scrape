@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=pimp&allowed_in_frame=0">pimp (n.)</a> <a href="http://dictionary.reference.com/search?q=pimp" class="dictionary" title="Look up pimp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pimp at Dictionary.com" title="Look up pimp at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, of unknown origin, perhaps from M.Fr. <span class="foreign">pimpant</span> "alluring in dress, seductive," prp. of <span class="foreign">pimper</span> "to dress elegantly" (16c.), from O.Fr. <span class="foreign">pimpelorer</span>, <span class="foreign">pipelorer</span> "decorate, color, beautify." Weekley suggests M.Fr. <span class="foreign">pimpreneau</span>, defined in Cotgrave (1611) as "a knave, rascall, varlet, scoundrell," but Liberman is against this.
+<blockquote>
+Judging by such recorded meanings of <span class="foreign">pimp</span> as 'helper in mines; servant in logging camps,' this word was originally applied to boys and servants. [Liberman]
+</blockquote>
+The word also means "informer, stool pigeon" in Australia and New Zealand and in South Africa, where by early 1960s it existed in Swahili form <span class="foreign">impimpsi</span>. <span class="foreign">Pimpmobile</span> first recorded 1973 (six years before <span class="foreign">Popemobile</span>).</dd>
+
+<dt><a href="/index.php?term=pimp&allowed_in_frame=0">pimp (v.)</a> <a href="http://dictionary.reference.com/search?q=pimp" class="dictionary" title="Look up pimp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pimp at Dictionary.com" title="Look up pimp at Dictionary.com" /></a></dt>
+<dd>1630s (intrans.) "to act as a pimp," from <a href="/index.php?term=pimp&allowed_in_frame=0" class="crossreference">pimp</a> (n.). Related: <span class="foreign">Pimped</span>; <span class="foreign">pimping</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pimpernel&allowed_in_frame=0">pimpernel (n.)</a> <a href="http://dictionary.reference.com/search?q=pimpernel" class="dictionary" title="Look up pimpernel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pimpernel at Dictionary.com" title="Look up pimpernel at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from O.Fr. <span class="foreign">pimprenelle</span>, earlier <span class="foreign">piprenelle</span> (12c.) and directly from M.L. <span class="foreign">pipinella</span> name of a medicinal plant. This is perhaps from <span class="foreign">*piperinus</span> "pepper-like" (so called because its fruits resemble peppercorns), a derivative of L. <span class="foreign">piper</span> "pepper" (see <a href="/index.php?term=pepper&allowed_in_frame=0" class="crossreference">pepper</a> (n.)); or else it is a corruption of <span class="foreign">bipinnella</span>, from <span class="foreign">bipennis</span> "two-winged." <span class="foreign">The Scarlet Pimpernel</span> was the code name of the hero in an adventure novel of that name published 1905.</dd>
+
+<dt><a href="/index.php?term=pimple&allowed_in_frame=0">pimple (n.)</a> <a href="http://dictionary.reference.com/search?q=pimple" class="dictionary" title="Look up pimple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pimple at Dictionary.com" title="Look up pimple at Dictionary.com" /></a></dt>
+<dd>late 14c. (early 14c. as a surname), of unknown origin; perhaps related to O.E. <span class="foreign">pipligende</span> "having shingles;" also cf. L. <span class="foreign">papula</span>, <span class="foreign">papilla</span> (see <a href="/index.php?term=pap&allowed_in_frame=0" class="crossreference">pap</a> (n.2)). As a verb from c.1600. Related: <span class="foreign">Pimples</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pimply&allowed_in_frame=0">pimply (adj.)</a> <a href="http://dictionary.reference.com/search?q=pimply" class="dictionary" title="Look up pimply at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pimply at Dictionary.com" title="Look up pimply at Dictionary.com" /></a></dt>
+<dd class="highlight">1748, from <a href="/index.php?term=pimple&allowed_in_frame=0" class="crossreference">pimple</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Pimpliness</span>.</dd>
+
+<dt><a href="/index.php?term=pin&allowed_in_frame=0">pin (n.)</a> <a href="http://dictionary.reference.com/search?q=pin" class="dictionary" title="Look up pin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pin at Dictionary.com" title="Look up pin at Dictionary.com" /></a></dt>
+<dd>late O.E. <span class="foreign">pinn</span> "peg, bolt," from P.Gmc. <span class="foreign">*penn-</span> "jutting point or peak" (cf. O.S. <span class="foreign">pin</span> "peg," O.N. <span class="foreign">pinni</span> "peg, tack," M.Du. <span class="foreign">pin</span> "pin, peg," O.H.G. <span class="foreign">pfinn</span>, Ger. <span class="foreign">Pinne</span> "pin, tack") from L. <span class="foreign">pinna</span> "wing, feather," which also was used in a sense "pointed peak" (e.g. in Luke iv:9 in Vulgate) and so applied to "points" of various sorts, from PIE <span class="foreign">*pet-</span> (see <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (n.1)).
+<BR><BR>
+The modern slender wire pin is first attested by this name late 14c. Transferred sense of "leg" is recorded from 1520s and hold the older sense. <span class="foreign">Pin-stripe</span> (adj.) is attested from 1882. <span class="foreign">Pin-money</span> "annual sum allotted to a woman for personal expenses on dress, etc." is attested from 1620s. <span class="foreign">Pins and needles</span> "tingling sensation" is from 1810. The sound of a pin dropping as a type of something all but silent is from 1775.</dd>
+
+<dt class="highlight"><a href="/index.php?term=PIN&allowed_in_frame=0">PIN</a> <a href="http://dictionary.reference.com/search?q=PIN" class="dictionary" title="Look up PIN at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up PIN at Dictionary.com" title="Look up PIN at Dictionary.com" /></a></dt>
+<dd class="highlight">acronym for <span class="foreign">personal identification number,</span> 1981, from the first reference used with redundant <span class="foreign">number</span>.</dd>
+
+<dt><a href="/index.php?term=pin&allowed_in_frame=0">pin (v.)</a> <a href="http://dictionary.reference.com/search?q=pin" class="dictionary" title="Look up pin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pin at Dictionary.com" title="Look up pin at Dictionary.com" /></a></dt>
+<dd>mid-14c., "to affix with a pin," from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.). Figurative use from 1570s. Related: <span class="foreign">Pinned</span>; <span class="foreign">pinning</span>. Sense of "to hold someone or something down so he or it cannot escape" is attested from 1740. In U.S., as a reference to the bestowal of a fraternity pin on a female student as an indication of a relationship, it is attested by 1938. Phrase <span class="foreign">pin down</span> "define" is from 1951.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pin-up&allowed_in_frame=0">pin-up (adj.)</a> <a href="http://dictionary.reference.com/search?q=pin-up" class="dictionary" title="Look up pin-up at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pin-up at Dictionary.com" title="Look up pin-up at Dictionary.com" /></a></dt>
+<dd class="highlight">1940, in reference to pictures of "winsome young ladies in daring undress" ("Life," May 6, 1940) such as soldiers pinned up on their dugout walls, etc., from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (v.) + <a href="/index.php?term=up&allowed_in_frame=0" class="crossreference">up</a>. The thing itself is older than the name. The noun is recorded from 1943. </dd>
+
+<dt><a href="/index.php?term=pina+colada&allowed_in_frame=0">pina colada (n.)</a> <a href="http://dictionary.reference.com/search?q=pina+colada" class="dictionary" title="Look up pina colada at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pina colada at Dictionary.com" title="Look up pina colada at Dictionary.com" /></a></dt>
+<dd>1942, from Sp. <span class="foreign">pi&ntilde;a colada</span>, lit. "strained pineapple." First element from L. <span class="foreign">pinea</span> (see <a href="/index.php?term=pineapple&allowed_in_frame=0" class="crossreference">pineapple</a>). For second element, see <a href="/index.php?term=colander&allowed_in_frame=0" class="crossreference">colander</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinafore&allowed_in_frame=0">pinafore (n.)</a> <a href="http://dictionary.reference.com/search?q=pinafore" class="dictionary" title="Look up pinafore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinafore at Dictionary.com" title="Look up pinafore at Dictionary.com" /></a></dt>
+<dd class="highlight">"sleeveless apron worn by children," 1782, from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (v.) + <a href="/index.php?term=afore&allowed_in_frame=0" class="crossreference">afore</a> "on the front." So called because it was originally pinned to a dress front.</dd>
+
+<dt><a href="/index.php?term=pinata&allowed_in_frame=0">pinata (n.)</a> <a href="http://dictionary.reference.com/search?q=pinata" class="dictionary" title="Look up pinata at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinata at Dictionary.com" title="Look up pinata at Dictionary.com" /></a></dt>
+<dd>1887, from Mex.Sp. <span class="foreign">pi&ntilde;ata</span>, in Spanish lit. "jug, pot," ultimately from L. <span class="foreign">pinea</span> "pine cone," from <span class="foreign">pinus</span> (see <a href="/index.php?term=pine&allowed_in_frame=0" class="crossreference">pine</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinball&allowed_in_frame=0">pinball (n.)</a> <a href="http://dictionary.reference.com/search?q=pinball" class="dictionary" title="Look up pinball at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinball at Dictionary.com" title="Look up pinball at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">pin-ball</span>, game played on a sloping surface, 1911, from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.) + <a href="/index.php?term=ball&allowed_in_frame=0" class="crossreference">ball</a> (n.1). Earlier it meant "a pincushion" (1803).</dd>
+
+<dt><a href="/index.php?term=pince-nez&allowed_in_frame=0">pince-nez (n.)</a> <a href="http://dictionary.reference.com/search?q=pince-nez" class="dictionary" title="Look up pince-nez at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pince-nez at Dictionary.com" title="Look up pince-nez at Dictionary.com" /></a></dt>
+<dd>folding eyeglasses, 1876, French, lit. "pinch-nose," from <span class="foreign">pincer</span> "to pinch" (see <a href="/index.php?term=pinch&allowed_in_frame=0" class="crossreference">pinch</a> (v.)) + <span class="foreign">nez</span> "nose" (see <a href="/index.php?term=nose&allowed_in_frame=0" class="crossreference">nose</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pincers&allowed_in_frame=0">pincers (n.)</a> <a href="http://dictionary.reference.com/search?q=pincers" class="dictionary" title="Look up pincers at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pincers at Dictionary.com" title="Look up pincers at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "tool for grasping or nipping," from O.Fr. <span class="foreign">pinceure</span> "pincers, tongs," from <span class="foreign">pincier</span> "to pinch" (see <a href="/index.php?term=pinch&allowed_in_frame=0" class="crossreference">pinch</a>). Applied to animal parts from 1650s. Related: <span class="foreign">Pincer</span>.</dd>
+
+<dt><a href="/index.php?term=pinch&allowed_in_frame=0">pinch (v.)</a> <a href="http://dictionary.reference.com/search?q=pinch" class="dictionary" title="Look up pinch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinch at Dictionary.com" title="Look up pinch at Dictionary.com" /></a></dt>
+<dd>early 13c., from O.N.Fr. <span class="foreign">*pinchier</span> "to pinch, squeeze, nip; steal" (O.Fr. <span class="foreign">pincier</span>, Mod.Fr. <span class="foreign">pincer</span>), of uncertain origin, possibly from V.L. <span class="foreign">*punctiare</span> "to pierce," which might be a blend of L. <span class="foreign">punctum</span> "point" + <span class="foreign">*piccare</span> "to pierce." Meaning "to steal" in English is from 1650s. Sense of "to be stingy" is recorded from early 14c. Related: <span class="foreign">Pinched</span>; <span class="foreign">pinching</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinch&allowed_in_frame=0">pinch (n.)</a> <a href="http://dictionary.reference.com/search?q=pinch" class="dictionary" title="Look up pinch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinch at Dictionary.com" title="Look up pinch at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "critical juncture" (as in baseball <span class="foreign">pinch hitter</span>, attested from 1912), from <a href="/index.php?term=pinch&allowed_in_frame=0" class="crossreference">pinch</a> (v.). This figurative sense is attested earlier than the literal sense of "act of pinching" (1590s) or that of "small quantity" (as much as can be pinched between a thumb and finger), which is from 1580s. There is a use of the noun from mid-15c. apparently meaning "fold or pleat of fabric." </dd>
+
+<dt><a href="/index.php?term=pincushion&allowed_in_frame=0">pincushion (n.)</a> <a href="http://dictionary.reference.com/search?q=pincushion" class="dictionary" title="Look up pincushion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pincushion at Dictionary.com" title="Look up pincushion at Dictionary.com" /></a></dt>
+<dd>1630s, from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.) + <a href="/index.php?term=cushion&allowed_in_frame=0" class="crossreference">cushion</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pindaric&allowed_in_frame=0">Pindaric (adj.)</a> <a href="http://dictionary.reference.com/search?q=Pindaric" class="dictionary" title="Look up Pindaric at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pindaric at Dictionary.com" title="Look up Pindaric at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, pertaining to or in the style of <span class="foreign">Pindar</span>, from L. <span class="foreign">Pindaricus</span>, from Gk. <span class="foreign">Pindaros</span>, Greek lyric poet (c.522-443 B.C.E.).</dd>
+
+<dt><a href="/index.php?term=pine&allowed_in_frame=0">pine (n.)</a> <a href="http://dictionary.reference.com/search?q=pine" class="dictionary" title="Look up pine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pine at Dictionary.com" title="Look up pine at Dictionary.com" /></a></dt>
+<dd>"coniferous tree," O.E. <span class="foreign">pin</span> (in compounds), from O.Fr. <span class="foreign">pin</span> and directly from L. <span class="foreign">pinus</span> "pine, pine-tree, fir-tree," perhaps in reference to the sap or pitch, from PIE <span class="foreign">*peie-</span> "to be fat, swell" (see <a href="/index.php?term=fat&allowed_in_frame=0" class="crossreference">fat</a> (adj.)). Cf. Skt. <span class="foreign">pituh</span> "juice, sap, resin," <span class="foreign">pitudaruh</span> "pine tree," Gk. <span class="foreign">pitys</span> "pine tree." <span class="foreign">Pine-top</span> "cheap illicit whiskey," first recorded 1858, Southern U.S. slang. <span class="foreign">Pine-needle</span> (n.) attested from 1866.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pine&allowed_in_frame=0">pine (v.)</a> <a href="http://dictionary.reference.com/search?q=pine" class="dictionary" title="Look up pine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pine at Dictionary.com" title="Look up pine at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">pinian</span> "to torture, torment, afflict, cause to suffer," from <span class="foreign">*pine</span> "pain, torture, punishment," possibly ultimately from L. <span class="foreign">poena</span> "punishment, penalty," from Gk. <span class="foreign">poine</span> (see <a href="/index.php?term=penal&allowed_in_frame=0" class="crossreference">penal</a>). A Latin word borrowed into Germanic (cf. M.Du. <span class="foreign">pinen</span>, O.H.G. <span class="foreign">pinon</span>, Ger. <span class="foreign">Pein</span>, O.N. <span class="foreign">pina</span>) with Christianity. Intransitive sense of "to languish, waste away," the main modern meaning, is first recorded early 14c. Related: <span class="foreign">Pined</span>; <span class="foreign">pining</span>.</dd>
+
+<dt><a href="/index.php?term=pine+cone&allowed_in_frame=0">pine cone (n.)</a> <a href="http://dictionary.reference.com/search?q=pine+cone" class="dictionary" title="Look up pine cone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pine cone at Dictionary.com" title="Look up pine cone at Dictionary.com" /></a></dt>
+<dd>1690s, from <a href="/index.php?term=pine&allowed_in_frame=0" class="crossreference">pine</a> (n.) + <a href="/index.php?term=cone&allowed_in_frame=0" class="crossreference">cone</a> (n.). An earlier word for it was <span class="foreign">pine nut</span> (O.E. <span class="foreign">pinhnyte</span>); also see <a href="/index.php?term=pineapple&allowed_in_frame=0" class="crossreference">pineapple</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pine-tree&allowed_in_frame=0">pine-tree (n.)</a> <a href="http://dictionary.reference.com/search?q=pine-tree" class="dictionary" title="Look up pine-tree at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pine-tree at Dictionary.com" title="Look up pine-tree at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">pintreow</span>; see <a href="/index.php?term=pine&allowed_in_frame=0" class="crossreference">pine</a> (n.) + <a href="/index.php?term=tree&allowed_in_frame=0" class="crossreference">tree</a> (n.).</dd>
+
+<dt><a href="/index.php?term=pineal&allowed_in_frame=0">pineal (adj.)</a> <a href="http://dictionary.reference.com/search?q=pineal" class="dictionary" title="Look up pineal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pineal at Dictionary.com" title="Look up pineal at Dictionary.com" /></a></dt>
+<dd>1680s, in reference to the gland in the brain, from Fr. <span class="foreign">pin&eacute;al</span>, lit. "like a pine cone," from L. <span class="foreign">pinea</span> "pine cone," from <span class="foreign">pinus</span> "pine tree" (see <a href="/index.php?term=pine&allowed_in_frame=0" class="crossreference">pine</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pineapple&allowed_in_frame=0">pineapple (n.)</a> <a href="http://dictionary.reference.com/search?q=pineapple" class="dictionary" title="Look up pineapple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pineapple at Dictionary.com" title="Look up pineapple at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "pine cone," from <a href="/index.php?term=pine&allowed_in_frame=0" class="crossreference">pine</a> (n.) + <a href="/index.php?term=apple&allowed_in_frame=0" class="crossreference">apple</a>. The reference to the fruit of the tropical plant (from resemblance of shape) is first recorded 1660s, and <span class="foreign">pine cone</span> emerged 1690s to replace <span class="foreign">pineapple</span> in its original sense except in dialect. For "pine cone," Old English also used <span class="foreign">pinhnyte</span> "pine nut."</dd>
+
+<dt><a href="/index.php?term=ping&allowed_in_frame=0">ping (n.)</a> <a href="http://dictionary.reference.com/search?q=ping" class="dictionary" title="Look up ping at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ping at Dictionary.com" title="Look up ping at Dictionary.com" /></a></dt>
+<dd>1835, imitative of the sound of a bullet striking something sharply. Meaning "short, high-pitched electronic pulse" is attested from 1943. Verb use, in computer sense, is from at least 1981.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ping-pong&allowed_in_frame=0">ping-pong (n.)</a> <a href="http://dictionary.reference.com/search?q=ping-pong" class="dictionary" title="Look up ping-pong at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ping-pong at Dictionary.com" title="Look up ping-pong at Dictionary.com" /></a></dt>
+<dd class="highlight">1900, as <span class="foreign">Ping-Pong,</span> trademark for table tennis equipment (Parker Brothers). Both words are imitative of the sound of the ball hitting the paddle; from <a href="/index.php?term=ping&allowed_in_frame=0" class="crossreference">ping</a> + <span class="foreign">pong</span> (attested from 1823). The verb is from 1901; in the figurative sense, 1952.</dd>
+
+<dt><a href="/index.php?term=pinguid&allowed_in_frame=0">pinguid (adj.)</a> <a href="http://dictionary.reference.com/search?q=pinguid" class="dictionary" title="Look up pinguid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinguid at Dictionary.com" title="Look up pinguid at Dictionary.com" /></a></dt>
+<dd>1630s, from L. <span class="foreign">pinguis</span> "fat," from stem of <span class="foreign">pinguere,</span> from PIE <span class="foreign">*pei-</span> "fat, sap, juice" (see <a href="/index.php?term=pine&allowed_in_frame=0" class="crossreference">pine</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinhead&allowed_in_frame=0">pinhead (n.)</a> <a href="http://dictionary.reference.com/search?q=pinhead" class="dictionary" title="Look up pinhead at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinhead at Dictionary.com" title="Look up pinhead at Dictionary.com" /></a></dt>
+<dd class="highlight">"person of small intelligence," 1896, from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.) + <a href="/index.php?term=head&allowed_in_frame=0" class="crossreference">head</a> (n.). </dd>
+
+<dt><a href="/index.php?term=pinion&allowed_in_frame=0">pinion (n.1)</a> <a href="http://dictionary.reference.com/search?q=pinion" class="dictionary" title="Look up pinion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinion at Dictionary.com" title="Look up pinion at Dictionary.com" /></a></dt>
+<dd>"wing joint," mid-15c., from M.Fr. <span class="foreign">pignon</span> (c.1400), from V.L. <span class="foreign">*pinnionem</span>, from L. <span class="foreign">penna</span> "wing" (see <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinion&allowed_in_frame=0">pinion (n.2)</a> <a href="http://dictionary.reference.com/search?q=pinion" class="dictionary" title="Look up pinion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinion at Dictionary.com" title="Look up pinion at Dictionary.com" /></a></dt>
+<dd class="highlight">"small gear with teeth" (as in <span class="foreign">rack and pinion</span>), 1650s, from Fr. <span class="foreign">pignon</span>, from O.Fr. <span class="foreign">pignon</span> "crenellation, battlement," augmentative of L. <span class="foreign">pinna</span> "battlement, pinnacle;" confused with (but perhaps ultimately a variant of) <span class="foreign">penna</span> "wing, feather, peak" (see <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=pinion&allowed_in_frame=0">pinion (v.)</a> <a href="http://dictionary.reference.com/search?q=pinion" class="dictionary" title="Look up pinion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinion at Dictionary.com" title="Look up pinion at Dictionary.com" /></a></dt>
+<dd>"disable by binding the arms," 1550s, older than literal sense "cut the pinions of a wing to prevent a bird from flying" (1570s); from <a href="/index.php?term=pinion&allowed_in_frame=0" class="crossreference">pinion</a> (n.). Related: <span class="foreign">Pinioned</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pink&allowed_in_frame=0">pink (n., adj.)</a> <a href="http://dictionary.reference.com/search?q=pink" class="dictionary" title="Look up pink at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pink at Dictionary.com" title="Look up pink at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, common name of <span class="foreign">Dianthus</span>, a garden plant of various colors. Attribution to "pale rose color" first recorded 1733 (<span class="foreign">pink-coloured</span> is recorded from 1681). The plant name is perhaps from <a href="/index.php?term=pink&allowed_in_frame=0" class="crossreference">pink</a> (v.) via notion of "perforated" petals, or from Du. <span class="foreign">pink</span> "small" (see <a href="/index.php?term=pinkie&allowed_in_frame=0" class="crossreference">pinkie</a>), from the term <span class="foreign">pinck oogen</span> "half-closed eyes," lit. "small eyes," which was borrowed into English (1570s) and may have been used as a name for <span class="foreign">Dianthus</span>, which sometimes has pale red flowers.
+<BR><BR>
+The flower meaning led to a figurative use for "the flower" or finest example of anything (e.g. Mercutio's "Nay, I am the very pinck of curtesie," Rom. & Jul. II.iv.61). <span class="foreign">Pink slip</span> "discharge notice" is first recorded 1915. <span class="foreign">Pink-eye</span> "contagious eye infection" first recorded 1882, American English. <span class="foreign">Pink collar</span> in reference to jobs generally held by women first attested 1977. To see <span class="foreign">pink elephants</span> "hallucinate from alcoholism" first recorded 1913 in Jack London's "John Barleycorn."</dd>
+
+<dt><a href="/index.php?term=pink&allowed_in_frame=0">pink (v.)</a> <a href="http://dictionary.reference.com/search?q=pink" class="dictionary" title="Look up pink at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pink at Dictionary.com" title="Look up pink at Dictionary.com" /></a></dt>
+<dd>c.1300, "pierce, stab, make holes in," perhaps from a Romanic stem <span class="foreign">*pinc-</span> (cf. Fr. <span class="foreign">piquer</span>, Sp. <span class="foreign">picar</span>), from L. <span class="foreign">pungere</span> "to pierce, prick" (see <a href="/index.php?term=pungent&allowed_in_frame=0" class="crossreference">pungent</a>). Surviving mainly in <span class="foreign">pinking shears</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pinkerton&allowed_in_frame=0">Pinkerton</a> <a href="http://dictionary.reference.com/search?q=Pinkerton" class="dictionary" title="Look up Pinkerton at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pinkerton at Dictionary.com" title="Look up Pinkerton at Dictionary.com" /></a></dt>
+<dd class="highlight">"semi-official detective," 1888, from the detective agency begun in U.S. 1850 by Allan <span class="foreign">Pinkerton</span> (1819-1884).</dd>
+
+<dt><a href="/index.php?term=pinkie&allowed_in_frame=0">pinkie (n.)</a> <a href="http://dictionary.reference.com/search?q=pinkie" class="dictionary" title="Look up pinkie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinkie at Dictionary.com" title="Look up pinkie at Dictionary.com" /></a></dt>
+<dd>"the little finger," 1808, in Scottish, from Du. <span class="foreign">pinkje</span>, dim. of <span class="foreign">pink</span> "little finger," of uncertain origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinko&allowed_in_frame=0">pinko</a> <a href="http://dictionary.reference.com/search?q=pinko" class="dictionary" title="Look up pinko at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinko at Dictionary.com" title="Look up pinko at Dictionary.com" /></a></dt>
+<dd class="highlight">1936, derogatory slang form of <a href="/index.php?term=pink&allowed_in_frame=0" class="crossreference">pink</a> (n., adj.), used of people whose social or political views "have a tendency toward 'red;' " a metaphor that had existed since at least 1837.</dd>
+
+<dt><a href="/index.php?term=pinky&allowed_in_frame=0">pinky (adj.)</a> <a href="http://dictionary.reference.com/search?q=pinky" class="dictionary" title="Look up pinky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinky at Dictionary.com" title="Look up pinky at Dictionary.com" /></a></dt>
+<dd>"pinkish," late 18c., from <a href="/index.php?term=pink&allowed_in_frame=0" class="crossreference">pink</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinnace&allowed_in_frame=0">pinnace (n.)</a> <a href="http://dictionary.reference.com/search?q=pinnace" class="dictionary" title="Look up pinnace at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinnace at Dictionary.com" title="Look up pinnace at Dictionary.com" /></a></dt>
+<dd class="highlight">"small, light vessel," 1540s, earlier <span class="foreign">spinace</span> (15c.), from O.Fr. <span class="foreign">espinace</span>, also attested as Anglo-L. <span class="foreign">spinachium</span> (mid-14c.); of unknown origin.</dd>
+
+<dt><a href="/index.php?term=pinnacle&allowed_in_frame=0">pinnacle (n.)</a> <a href="http://dictionary.reference.com/search?q=pinnacle" class="dictionary" title="Look up pinnacle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinnacle at Dictionary.com" title="Look up pinnacle at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">pinacle</span> (1261), from L.L. <span class="foreign">pinnaculum</span> "gable," dim. of <span class="foreign">pinna</span> "peak, point," confused often with <span class="foreign">penna</span> "wing, feather" (unless they are identical;  see <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.)). Figurative use is attested from c.1400.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinnate&allowed_in_frame=0">pinnate (adj.)</a> <a href="http://dictionary.reference.com/search?q=pinnate" class="dictionary" title="Look up pinnate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinnate at Dictionary.com" title="Look up pinnate at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, from L. <span class="foreign">pinnatus</span> "feathered, winged," from <span class="foreign">pinna</span> "feather, wing."</dd>
+
+<dt><a href="/index.php?term=pinniped&allowed_in_frame=0">pinniped (n.)</a> <a href="http://dictionary.reference.com/search?q=pinniped" class="dictionary" title="Look up pinniped at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinniped at Dictionary.com" title="Look up pinniped at Dictionary.com" /></a></dt>
+<dd>1842, from Mod.L. <span class="foreign">pinnipedia</span>, suborder of aquatic carnivorous mammals (seals and walruses), lit. "having feet as fins," from L. <span class="foreign">pinna</span> "fin" + <span class="foreign">pes</span>, gen. <span class="foreign">pedis</span> "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinochle&allowed_in_frame=0">pinochle (n.)</a> <a href="http://dictionary.reference.com/search?q=pinochle" class="dictionary" title="Look up pinochle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinochle at Dictionary.com" title="Look up pinochle at Dictionary.com" /></a></dt>
+<dd class="highlight">1864, <span class="foreign">Peaknuckle,</span> perhaps from Swiss dialect <span class="foreign">Binokel</span> (Ger.), <span class="foreign">binocle</span> (Fr.), from Fr. <span class="foreign">binocle</span> "pince-nez," from M.L. <span class="foreign">binoculus</span> "binoculars." Taken as a synonym for <span class="foreign">b&eacute;sigue</span> "bezique," the card game, and wrongly identified with <span class="foreign">besicles</span> "spectacles," probably because the game is played with a double deck. Pinochle was popularized in U.S. late 1800s by German immigrants.</dd>
+
+<dt><a href="/index.php?term=pinocytosis&allowed_in_frame=0">pinocytosis (n.)</a> <a href="http://dictionary.reference.com/search?q=pinocytosis" class="dictionary" title="Look up pinocytosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinocytosis at Dictionary.com" title="Look up pinocytosis at Dictionary.com" /></a></dt>
+<dd>from Gk. <span class="foreign">pinein</span> "to drink" (see <a href="/index.php?term=imbibe&allowed_in_frame=0" class="crossreference">imbibe</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinot&allowed_in_frame=0">pinot (n.)</a> <a href="http://dictionary.reference.com/search?q=pinot" class="dictionary" title="Look up pinot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinot at Dictionary.com" title="Look up pinot at Dictionary.com" /></a></dt>
+<dd class="highlight">type of grape vine used in wine-making, 1912, American English variant spelling of Fr. <span class="foreign">pineau</span> (attested in English from 1763), name of a family of wine grapes, from <span class="foreign">pin</span> "pine (tree)" + dim. suffix <span class="foreign">-eau</span>. So called from the shape of the grape clusters. Variants are <span class="foreign">pinot noir</span>, "black," <span class="foreign">pinot blanc</span>, "white," and <span class="foreign">pinot gris</span>, "gray."</dd>
+
+<dt><a href="/index.php?term=pinpoint&allowed_in_frame=0">pinpoint (v.)</a> <a href="http://dictionary.reference.com/search?q=pinpoint" class="dictionary" title="Look up pinpoint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinpoint at Dictionary.com" title="Look up pinpoint at Dictionary.com" /></a></dt>
+<dd>"locate precisely," 1917, from <span class="foreign">pin</span> (n.) + <span class="foreign">point</span>; originally aviators' slang. Related: <span class="foreign">Pinpointed</span>; <span class="foreign">pinpointing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pinprick&allowed_in_frame=0">pinprick (n.)</a> <a href="http://dictionary.reference.com/search?q=pinprick" class="dictionary" title="Look up pinprick at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinprick at Dictionary.com" title="Look up pinprick at Dictionary.com" /></a></dt>
+<dd class="highlight">1862, from <a href="/index.php?term=pin&allowed_in_frame=0" class="crossreference">pin</a> (n.) + <a href="/index.php?term=prick&allowed_in_frame=0" class="crossreference">prick</a> (n.). Used figuratively of petty irritations from 1885.</dd>
+
+<dt><a href="/index.php?term=pinscher&allowed_in_frame=0">pinscher (n.)</a> <a href="http://dictionary.reference.com/search?q=pinscher" class="dictionary" title="Look up pinscher at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinscher at Dictionary.com" title="Look up pinscher at Dictionary.com" /></a></dt>
+<dd>1926, from Ger. <span class="foreign">Pinscher</span>, probably from English <a href="/index.php?term=pinch&allowed_in_frame=0" class="crossreference">pinch</a>, in reference to its "clipped" ears.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pint&allowed_in_frame=0">pint (n.)</a> <a href="http://dictionary.reference.com/search?q=pint" class="dictionary" title="Look up pint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pint at Dictionary.com" title="Look up pint at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">pinte</span> (13c.), from V.L. <span class="foreign">*pincta</span> (cf. O.Prov., Sp., It. <span class="foreign">pinta</span>), perhaps ultimately from L. <span class="foreign">picta</span> "painted," fem. pp. of <span class="foreign">pingere</span> (see <a href="/index.php?term=paint&allowed_in_frame=0" class="crossreference">paint</a> (v.)), on notion of a painted mark on a vessel indicating this measure. Used elliptically for "pint of ale" (or beer) from 1742. <span class="foreign">Pint-sized</span> "small" (especially in reference to children) is recorded from 1938.</dd>
+
+<dt><a href="/index.php?term=pinto&allowed_in_frame=0">pinto</a> <a href="http://dictionary.reference.com/search?q=pinto" class="dictionary" title="Look up pinto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pinto at Dictionary.com" title="Look up pinto at Dictionary.com" /></a></dt>
+<dd>1860, "marked black and white," from Amer.Sp. <span class="foreign">pinto</span>, lit. "painted, spotted," from Spanish, from V.L. <span class="foreign">*pinctus</span>, from L. <span class="foreign">pictus</span> "painted," pp. of <span class="foreign">pingere</span> "to paint" (see <a href="/index.php?term=paint&allowed_in_frame=0" class="crossreference">paint</a> (v.)). <span class="foreign">Pinto bean</span> is attested from 1916.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658611 -->
+<!-- Page was generated in 0.193285 seconds. -->
+ </body>
+</html>
+<!-- -->

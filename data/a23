@@ -1,0 +1,413 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=Amaretto&allowed_in_frame=0">Amaretto</a> <a href="http://dictionary.reference.com/search?q=Amaretto" class="dictionary" title="Look up Amaretto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amaretto at Dictionary.com" title="Look up Amaretto at Dictionary.com" /></a></dt>
+<dd class="highlight">Italian almond-flavored liqueur, 1945 (the original brand, <span class="foreign">Amaretto di Saronno</span>, dates to 1851), from the Italian word for <a href="/index.php?term=almond&allowed_in_frame=0" class="crossreference">almond</a> (q.v.), which did not acquire the excrescent <span class="foreign">-l-</span> of the English word. Sometimes confused with <a href="/index.php?term=amoretto&allowed_in_frame=0" class="crossreference">amoretto</a>. <span class="foreign">Amoroso</span> (lit. "lover"), a type of sweetened sherry, is attested from c.1870.</dd>
+
+<dt><a href="/index.php?term=amarillo&allowed_in_frame=0">amarillo (n.)</a> <a href="http://dictionary.reference.com/search?q=amarillo" class="dictionary" title="Look up amarillo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amarillo at Dictionary.com" title="Look up amarillo at Dictionary.com" /></a></dt>
+<dd>name given to several species of American trees, from Spanish, from Arabic <span class="foreign">anbari</span> "yellow, amber-colored," from <span class="foreign">anbar</span> "amber" (see <a href="/index.php?term=amber&allowed_in_frame=0" class="crossreference">amber</a>). The city <span class="foreign">Amarillo</span> in Texas, U.S., may be so called from the color of the banks of a nearby stream.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amaryllis&allowed_in_frame=0">amaryllis (n.)</a> <a href="http://dictionary.reference.com/search?q=amaryllis" class="dictionary" title="Look up amaryllis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amaryllis at Dictionary.com" title="Look up amaryllis at Dictionary.com" /></a></dt>
+<dd class="highlight">autumn-flowering bulbs, 1794, adopted by Linnaeus from Latin, from Gk. <span class="foreign">Amaryllis</span>, typical name of a country girl or shepherdess (in Theocritus, Virgil, Ovid, etc.).</dd>
+
+<dt><a href="/index.php?term=amass&allowed_in_frame=0">amass (v.)</a> <a href="http://dictionary.reference.com/search?q=amass" class="dictionary" title="Look up amass at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amass at Dictionary.com" title="Look up amass at Dictionary.com" /></a></dt>
+<dd>late 15c., "to heap up for oneself," from O.Fr. <span class="foreign">amasser</span>, from <span class="foreign">&agrave;</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">masser</span> (see <a href="/index.php?term=mass&allowed_in_frame=0" class="crossreference">mass</a> (1)). Related: <span class="foreign">Amassed</span>; <span class="foreign">amassing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amastia&allowed_in_frame=0">amastia</a> <a href="http://dictionary.reference.com/search?q=amastia" class="dictionary" title="Look up amastia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amastia at Dictionary.com" title="Look up amastia at Dictionary.com" /></a></dt>
+<dd class="highlight">medical Latin, from Gk. <span class="foreign">amastos</span> "without breasts," from privative prefix <span class="foreign">a-</span> + <span class="foreign">mastos</span> "breast" (see <a href="/index.php?term=masto-&allowed_in_frame=0" class="crossreference">masto-</a>).</dd>
+
+<dt><a href="/index.php?term=amateur&allowed_in_frame=0">amateur (n.)</a> <a href="http://dictionary.reference.com/search?q=amateur" class="dictionary" title="Look up amateur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amateur at Dictionary.com" title="Look up amateur at Dictionary.com" /></a></dt>
+<dd>1784, "one who has a taste for (something)," from Fr. <span class="foreign">amateur</span> "lover of," from L. <span class="foreign">amatorem</span> (nom. <span class="foreign">amator</span>) "lover," agent noun from <span class="foreign">amatus</span>, pp. of <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>). Meaning "dabbler" (as opposed to <span class="foreign">professional</span>) is from 1786. As an adjective, by 1838.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amateurish&allowed_in_frame=0">amateurish (adj.)</a> <a href="http://dictionary.reference.com/search?q=amateurish" class="dictionary" title="Look up amateurish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amateurish at Dictionary.com" title="Look up amateurish at Dictionary.com" /></a></dt>
+<dd class="highlight">1863; from <a href="/index.php?term=amateur&allowed_in_frame=0" class="crossreference">amateur</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. Related: <span class="foreign">Amateurishly</span>; <span class="foreign">amateurishness</span>.</dd>
+
+<dt><a href="/index.php?term=amative&allowed_in_frame=0">amative (adj.)</a> <a href="http://dictionary.reference.com/search?q=amative" class="dictionary" title="Look up amative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amative at Dictionary.com" title="Look up amative at Dictionary.com" /></a></dt>
+<dd>1630s, "pertaining to love," from L. <span class="foreign">amat-</span>, pp. stem of <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>) + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amatory&allowed_in_frame=0">amatory (adj.)</a> <a href="http://dictionary.reference.com/search?q=amatory" class="dictionary" title="Look up amatory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amatory at Dictionary.com" title="Look up amatory at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "pertaining to love" (especially sexual love), from L. <span class="foreign">amatorius</span> "loving," from <span class="foreign">amatus</span>, pp. of <span class="foreign">amare</span> (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>).</dd>
+
+<dt><a href="/index.php?term=amaze&allowed_in_frame=0">amaze (v.)</a> <a href="http://dictionary.reference.com/search?q=amaze" class="dictionary" title="Look up amaze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amaze at Dictionary.com" title="Look up amaze at Dictionary.com" /></a></dt>
+<dd>early 13c., <span class="foreign">amasian</span> "stupefy, make crazy," from <span class="foreign">a-</span>, probably used here as an intensive prefix, + <span class="foreign">-masian</span>, related to <a href="/index.php?term=maze&allowed_in_frame=0" class="crossreference">maze</a> (q.v.). Sense of "overwhelm with wonder" is from 1580s. Related: <span class="foreign">Amazed</span>; <a href="/index.php?term=amazing&allowed_in_frame=0" class="crossreference">amazing</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amazement&allowed_in_frame=0">amazement (n.)</a> <a href="http://dictionary.reference.com/search?q=amazement" class="dictionary" title="Look up amazement at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amazement at Dictionary.com" title="Look up amazement at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "mental stupefaction," early use of the Latin suffix with a native verb, from <a href="/index.php?term=amaze&allowed_in_frame=0" class="crossreference">amaze</a> + <a href="/index.php?term=-ment&allowed_in_frame=0" class="crossreference">-ment</a>. Meaning "overwhelming wonder" is c.1600.</dd>
+
+<dt><a href="/index.php?term=amazing&allowed_in_frame=0">amazing (adj.)</a> <a href="http://dictionary.reference.com/search?q=amazing" class="dictionary" title="Look up amazing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amazing at Dictionary.com" title="Look up amazing at Dictionary.com" /></a></dt>
+<dd>early 15c., "stupefactive;" 1590s, "dreadful;" prp. adjective from <a href="/index.php?term=amaze&allowed_in_frame=0" class="crossreference">amaze</a>. Sense of "wonderful" is recorded from 1704. Related: <span class="foreign">Amazingly</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amazon&allowed_in_frame=0">Amazon</a> <a href="http://dictionary.reference.com/search?q=Amazon" class="dictionary" title="Look up Amazon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amazon at Dictionary.com" title="Look up Amazon at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Gk. <span class="foreign">Amazon</span> (mostly in plural <span class="foreign">Amazones</span>) "one of a race of female warriors in Scythia," probably from an unknown non-I.E. word, possibly from an Iranian compound <span class="foreign">*ha-maz-an-</span> "(one) fighting together" [Watkins], but in folk etymology long derived from <span class="foreign">a-</span> "without" + <span class="foreign">mazos</span> "breasts," hence the story that the Amazons cut or burned off one breast so they could draw bowstrings more efficiently. The river in South America (originally called by the Sp. <span class="foreign">Rio Santa Maria de la Mar Dulce</span>) rechristened by Francisco de Orellana, 1541, after an encounter with female warriors of the Tapuyas (or, as some say, beardless, long-haired male tribesmen; still others hold that the name is a corruption of a native word in Tupi or Guarani meaning "wave").</dd>
+
+<dt><a href="/index.php?term=ambagious&allowed_in_frame=0">ambagious (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambagious" class="dictionary" title="Look up ambagious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambagious at Dictionary.com" title="Look up ambagious at Dictionary.com" /></a></dt>
+<dd>1650s, from Fr. <span class="foreign">ambagieux</span>, from L. <span class="foreign">ambagiosus</span>, from <span class="foreign">ambages</span> "circuits, circumlocutions," from <span class="foreign">amb-</span> "about" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">agere</span> "to drive" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambassador&allowed_in_frame=0">ambassador (n.)</a> <a href="http://dictionary.reference.com/search?q=ambassador" class="dictionary" title="Look up ambassador at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambassador at Dictionary.com" title="Look up ambassador at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., also <span class="foreign">embassador</span>, from M.Fr. <span class="foreign">ambassadeur</span>, from O.Fr. <span class="foreign">embassator</span>, via Proven&ccedil;al or Old Spanish from L. <span class="foreign">ambactus</span> "a servant, vassal," from Celt. <span class="foreign">amb(i)actos</span> "a messenger, servant," from PIE <span class="foreign">*ambhi-</span> "about" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">*ag-</span> "drive, lead" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (v.)). Cf. <a href="/index.php?term=embassy&allowed_in_frame=0" class="crossreference">embassy</a>. Forms in <span class="foreign">am-</span> and <span class="foreign">em-</span> were used indiscriminately 17c.-18c.</dd>
+
+<dt><a href="/index.php?term=ambassadorial&allowed_in_frame=0">ambassadorial (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambassadorial" class="dictionary" title="Look up ambassadorial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambassadorial at Dictionary.com" title="Look up ambassadorial at Dictionary.com" /></a></dt>
+<dd>1759, from <a href="/index.php?term=ambassador&allowed_in_frame=0" class="crossreference">ambassador</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amber&allowed_in_frame=0">amber (n.)</a> <a href="http://dictionary.reference.com/search?q=amber" class="dictionary" title="Look up amber at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amber at Dictionary.com" title="Look up amber at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "ambergris, perfume made from ambergris," from O.Fr. <span class="foreign">ambre</span>, from M.L. <span class="foreign">ambar</span> "ambergris," from Arabic <span class="foreign">'anbar</span> "ambergris." In Europe, the sense was extended, inexplicably, to fossil resins from the Baltic (late 13c. in Anglo-Latin; c.1400 in English), which has become the main sense as the use of ambergris has waned. This formerly was known as <span class="foreign">white</span> or <span class="foreign">yellow amber</span> to distinguish it from <a href="/index.php?term=ambergris&allowed_in_frame=0" class="crossreference">ambergris</a>, which word entered English early 15c. from French, which distinguished the two substances as <span class="foreign">ambre gris</span> and <span class="foreign">amber jaune</span>. The classical word for Baltic amber was <span class="foreign">electrum</span> (cf. <a href="/index.php?term=electric&allowed_in_frame=0" class="crossreference">electric</a>).</dd>
+
+<dt><a href="/index.php?term=ambergris&allowed_in_frame=0">ambergris (n.)</a> <a href="http://dictionary.reference.com/search?q=ambergris" class="dictionary" title="Look up ambergris at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambergris at Dictionary.com" title="Look up ambergris at Dictionary.com" /></a></dt>
+<dd>early 15c., from M.Fr. <span class="foreign">ambre gris</span> "gray amber" (see <a href="/index.php?term=amber&allowed_in_frame=0" class="crossreference">amber</a>), "a wax-like substance of ashy colour, found floating in tropical seas, and as a morbid secretion in the intestines of the sperm-whale. Used in perfumery, and formerly in cookery" [OED]. King Charles II's favorite dish was said to be eggs and ambergris [Macauley, "History of England"]. Fr. <span class="foreign">gris</span> is from Frankish <span class="foreign">*gris</span> or some other Germanic source (cf. Du. <span class="foreign">grijs</span>, O.H.G. <span class="foreign">gris</span>; see <a href="/index.php?term=gray&allowed_in_frame=0" class="crossreference">gray</a>). <blockquote>Praise is like ambergris; a little whiff of it, by snatches, is very agreeable; but when a man holds a whole lump of it to his nose, it is a stink and strikes you down. [Pope, c.1720]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=ambi-&allowed_in_frame=0">ambi-</a> <a href="http://dictionary.reference.com/search?q=ambi-" class="dictionary" title="Look up ambi- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambi- at Dictionary.com" title="Look up ambi- at Dictionary.com" /></a></dt>
+<dd class="highlight">combining form meaning "both, on both sides," from L. <span class="foreign">ambi-</span> "around, round about," from PIE <span class="foreign">*ambhi</span> "around" (cf. Gk. <span class="foreign">amphi</span> "round about," Skt. <span class="foreign">abhitah</span> "on both sides," Avestan <span class="foreign">aibi</span>, O.E. <span class="foreign">ymbe</span>, Ger. <span class="foreign">um</span>, Gaul. <span class="foreign">ambi-,</span> O.Ir. <span class="foreign">imb-</span> "round about, about," O.C.S. <span class="foreign">oba</span>, Lith. <span class="foreign">abu</span> "both"). The PIE root probably is an ablative plural of <span class="foreign">*ant-bhi</span> "from both sides," from <span class="foreign">*ant-</span> "front, forehead" (see <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>).</dd>
+
+<dt><a href="/index.php?term=ambiance&allowed_in_frame=0">ambiance (n.)</a> <a href="http://dictionary.reference.com/search?q=ambiance" class="dictionary" title="Look up ambiance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambiance at Dictionary.com" title="Look up ambiance at Dictionary.com" /></a></dt>
+<dd>1923, a reborrowing of the French form of <a href="/index.php?term=ambience&allowed_in_frame=0" class="crossreference">ambience</a>, used in art writing as a term meaning "atmospheric effect of an arrangement" (see <a href="/index.php?term=ambient&allowed_in_frame=0" class="crossreference">ambient</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambidexterity&allowed_in_frame=0">ambidexterity (n.)</a> <a href="http://dictionary.reference.com/search?q=ambidexterity" class="dictionary" title="Look up ambidexterity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambidexterity at Dictionary.com" title="Look up ambidexterity at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from obsolete adjective <span class="foreign">ambidexter</span> "two-sided, using both hands with equal facility," also "double-dealing," from M.L. <span class="foreign">ambidexter</span> (see <a href="/index.php?term=ambidextrous&allowed_in_frame=0" class="crossreference">ambidextrous</a>) + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=ambidextrous&allowed_in_frame=0">ambidextrous (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambidextrous" class="dictionary" title="Look up ambidextrous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambidextrous at Dictionary.com" title="Look up ambidextrous at Dictionary.com" /></a></dt>
+<dd>1640s, with <a href="/index.php?term=-ous&allowed_in_frame=0" class="crossreference">-ous</a>, from <span class="foreign">ambidexter</span> (adj.) "double-dealing" (1610s), from Fr. <span class="foreign">ambidextre</span> or directly from L. <span class="foreign">ambidexter</span>, lit. "right-handed on both sides," from <span class="foreign">ambi</span>- "both" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">dexter</span> "right-handed" (see <a href="/index.php?term=dexterity&allowed_in_frame=0" class="crossreference">dexterity</a>). Its opposite, <span class="foreign">ambilevous</span> "left-handed on both sides, clumsy" (1640s) is rare. <span class="foreign">Ambidexter</span> as a noun, "one who takes bribes from both sides," is attested from 1530s and is the earliest form of the word in English; its sense of "one who uses both hands equally well" appears by 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Ambien&allowed_in_frame=0">Ambien</a> <a href="http://dictionary.reference.com/search?q=Ambien" class="dictionary" title="Look up Ambien at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ambien at Dictionary.com" title="Look up Ambien at Dictionary.com" /></a></dt>
+<dd class="highlight">trade name for prescription medication Zolpidem, registered 1993 in U.S., no doubt suggested by <a href="/index.php?term=ambient&allowed_in_frame=0" class="crossreference">ambient</a> or words like it in French.</dd>
+
+<dt><a href="/index.php?term=ambience&allowed_in_frame=0">ambience (n.)</a> <a href="http://dictionary.reference.com/search?q=ambience" class="dictionary" title="Look up ambience at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambience at Dictionary.com" title="Look up ambience at Dictionary.com" /></a></dt>
+<dd>1797, from Fr. <span class="foreign">ambiance</span> (see <a href="/index.php?term=ambient&allowed_in_frame=0" class="crossreference">ambient</a>). Cf. <a href="/index.php?term=ambiance&allowed_in_frame=0" class="crossreference">ambiance</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambient&allowed_in_frame=0">ambient (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambient" class="dictionary" title="Look up ambient at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambient at Dictionary.com" title="Look up ambient at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "surrounding, encircling," from L. <span class="foreign">ambientem</span> (nom. <span class="foreign">ambiens</span>) "going round," prp. of <span class="foreign">ambire</span> "to go around," from <span class="foreign">amb-</span> "around" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">ire</span> "go" (see <a href="/index.php?term=ion&allowed_in_frame=0" class="crossreference">ion</a>). The ground sense of "revolving" led to "encircling, lying all around."</dd>
+
+<dt><a href="/index.php?term=ambiguity&allowed_in_frame=0">ambiguity (n.)</a> <a href="http://dictionary.reference.com/search?q=ambiguity" class="dictionary" title="Look up ambiguity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambiguity at Dictionary.com" title="Look up ambiguity at Dictionary.com" /></a></dt>
+<dd>c.1400, "uncertainty, doubt, indecision, hesitation," also from M.L. <span class="foreign">ambiguitatem</span> (nom. <span class="foreign">ambiguitas</span>) "double meaning, equivocalness, double sense," noun of state from <span class="foreign">ambiguus</span> (see <a href="/index.php?term=ambiguous&allowed_in_frame=0" class="crossreference">ambiguous</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambiguous&allowed_in_frame=0">ambiguous (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambiguous" class="dictionary" title="Look up ambiguous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambiguous at Dictionary.com" title="Look up ambiguous at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from L. <span class="foreign">ambiguus</span> "having double meaning, shifting, changeable, doubtful," adjective derived from <span class="foreign">ambigere</span> "to dispute about," lit. "to wander," from <span class="foreign">ambi-</span> "about" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">agere</span> "drive, lead, act" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a>). Sir Thomas More (1528) seems to have first used it in English, but <a href="/index.php?term=ambiguity&allowed_in_frame=0" class="crossreference">ambiguity</a> dates back to c.1400. Related: <span class="foreign">Ambiguously</span>; <span class="foreign">ambiguousness</span>.</dd>
+
+<dt><a href="/index.php?term=ambisexual&allowed_in_frame=0">ambisexual (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambisexual" class="dictionary" title="Look up ambisexual at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambisexual at Dictionary.com" title="Look up ambisexual at Dictionary.com" /></a></dt>
+<dd>"unisex" (of clothing), also "bisexual," 1938 (<span class="foreign">ambisexuality</span> is recorded from 1924), from <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a> + <a href="/index.php?term=sexual&allowed_in_frame=0" class="crossreference">sexual</a>. As a humorous coinage based on <span class="foreign">ambidextrous</span>, <span class="foreign">ambisextrous</span> is recorded from 1929.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambit&allowed_in_frame=0">ambit (n.)</a> <a href="http://dictionary.reference.com/search?q=ambit" class="dictionary" title="Look up ambit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambit at Dictionary.com" title="Look up ambit at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "space surrouinding a building or town; precinct;" 1590s, "a circuit," from L. <span class="foreign">ambitus</span> "a going round," pp. of <span class="foreign">ambire</span> "to go round, to go about" (see <a href="/index.php?term=ambient&allowed_in_frame=0" class="crossreference">ambient</a>).</dd>
+
+<dt><a href="/index.php?term=ambition&allowed_in_frame=0">ambition (n.)</a> <a href="http://dictionary.reference.com/search?q=ambition" class="dictionary" title="Look up ambition at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambition at Dictionary.com" title="Look up ambition at Dictionary.com" /></a></dt>
+<dd>mid-14c., from M.Fr. <span class="foreign">ambition</span> or directly from L. <span class="foreign">ambitionem</span> (nom. <span class="foreign">ambitio</span>) "a going around," especially to solicit votes, hence "a striving for favor, courting, flattery; a desire for honor, thirst for popularity," noun of action from pp. stem of <span class="foreign">ambire</span> "to go around" (see <a href="/index.php?term=ambient&allowed_in_frame=0" class="crossreference">ambient</a>). Rarely used in the literal sense in English, where it carries the secondary Latin sense of "eager or inordinate desire of honor or preferment." In early use always pejorative, of inordinate or overreaching desire; <span class="foreign">ambition</span> was grouped with <span class="foreign">pride</span> and <span class="foreign">vainglory</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambitious&allowed_in_frame=0">ambitious (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambitious" class="dictionary" title="Look up ambitious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambitious at Dictionary.com" title="Look up ambitious at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from L. <span class="foreign">ambitiosus</span> "going around to canvass for office," from <span class="foreign">ambitio</span> (see <a href="/index.php?term=ambition&allowed_in_frame=0" class="crossreference">ambition</a>). Related: <span class="foreign">Ambitiously</span>.</dd>
+
+<dt><a href="/index.php?term=ambivalence&allowed_in_frame=0">ambivalence (n.)</a> <a href="http://dictionary.reference.com/search?q=ambivalence" class="dictionary" title="Look up ambivalence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambivalence at Dictionary.com" title="Look up ambivalence at Dictionary.com" /></a></dt>
+<dd>"simultaneous conflicting feelings," 1924 (1912 as <span class="foreign">ambivalency</span>), from Ger. <span class="foreign">Ambivalenz</span>, coined 1910 by Swiss psychologist Eugen Bleuler (1857-1939) on model of Ger. <span class="foreign">Equivalenz</span> "equivalence," etc., from L. <span class="foreign">ambi-</span> "both" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">valentia</span> "strength," from prp. of <span class="foreign">valere</span> "be strong" (see <a href="/index.php?term=valiant&allowed_in_frame=0" class="crossreference">valiant</a>). A psychological term that by 1929 had taken on a broader literary and general sense.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambivalent&allowed_in_frame=0">ambivalent (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambivalent" class="dictionary" title="Look up ambivalent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambivalent at Dictionary.com" title="Look up ambivalent at Dictionary.com" /></a></dt>
+<dd class="highlight">1916, originally a term in psychology; back formation from <a href="/index.php?term=ambivalence&allowed_in_frame=0" class="crossreference">ambivalence</a>. In general use by 1929.</dd>
+
+<dt><a href="/index.php?term=ambivert&allowed_in_frame=0">ambivert (n.)</a> <a href="http://dictionary.reference.com/search?q=ambivert" class="dictionary" title="Look up ambivert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambivert at Dictionary.com" title="Look up ambivert at Dictionary.com" /></a></dt>
+<dd>"person exhibiting features of an extrovert and an introvert," coined by Kimball Young in "Source Book for Social Psychology" (1927), from <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a> "about, around" + L. <span class="foreign">vertere</span>, as in <a href="/index.php?term=introvert&allowed_in_frame=0" class="crossreference">introvert</a>. Related: <span class="foreign">Ambiversion</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amble&allowed_in_frame=0">amble (v.)</a> <a href="http://dictionary.reference.com/search?q=amble" class="dictionary" title="Look up amble at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amble at Dictionary.com" title="Look up amble at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from O.Fr. <span class="foreign">ambler</span> "walk as a horse does," from L. <span class="foreign">ambulare</span> "to walk, to go about, take a walk," perhaps a compound of <span class="foreign">ambi-</span> "around" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) and <span class="foreign">-ulare</span>, from PIE root <span class="foreign">*el-</span> "to go" (cf. Gk. <span class="foreign">ale</span> "wandering," <span class="foreign">alaomai</span> "wander about;" Latvian <span class="foreign">aluot</span> "go around or astray"). Until 1590s used only of horses or persons on horseback. Related: <span class="foreign">Ambled</span>; <span class="foreign">ambling</span>. As a noun, from late 14c.</dd>
+
+<dt><a href="/index.php?term=ambler&allowed_in_frame=0">ambler (n.)</a> <a href="http://dictionary.reference.com/search?q=ambler" class="dictionary" title="Look up ambler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambler at Dictionary.com" title="Look up ambler at Dictionary.com" /></a></dt>
+<dd>late 14c., agent noun from <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amblosis&allowed_in_frame=0">amblosis (n.)</a> <a href="http://dictionary.reference.com/search?q=amblosis" class="dictionary" title="Look up amblosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amblosis at Dictionary.com" title="Look up amblosis at Dictionary.com" /></a></dt>
+<dd class="highlight">"abortion, miscarriage," 1706, Modern Latin, from Gk. <span class="foreign">amblosis</span> "abortion," noun of action from <span class="foreign">ambloesthai</span> "to come to nought." Related: <span class="foreign">Amblotic</span>.</dd>
+
+<dt><a href="/index.php?term=amblyopia&allowed_in_frame=0">amblyopia (n.)</a> <a href="http://dictionary.reference.com/search?q=amblyopia" class="dictionary" title="Look up amblyopia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amblyopia at Dictionary.com" title="Look up amblyopia at Dictionary.com" /></a></dt>
+<dd>1706, "weakening of the eyesight," medical Latin, from Gk. <span class="foreign">amblyopia</span> "dim-sightedness," noun of action from <span class="foreign">amblys</span> "dulled, blunt" + <span class="foreign">ops</span> "eye" (see <a href="/index.php?term=eye&allowed_in_frame=0" class="crossreference">eye</a>). Related: <span class="foreign">Amblyopic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Ambrose&allowed_in_frame=0">Ambrose</a> <a href="http://dictionary.reference.com/search?q=Ambrose" class="dictionary" title="Look up Ambrose at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ambrose at Dictionary.com" title="Look up Ambrose at Dictionary.com" /></a></dt>
+<dd class="highlight">masc. proper name, from L. <span class="foreign">Ambrosius</span>, from Gk. <span class="foreign">ambrosios</span> "immortal, belonging to the immortals" (see <a href="/index.php?term=ambrosia&allowed_in_frame=0" class="crossreference">ambrosia</a>). The <span class="foreign">Ambrosian</span> Library in Milan is named for Saint Ambrose (d.397), bishop of Milan.</dd>
+
+<dt><a href="/index.php?term=ambrosia&allowed_in_frame=0">ambrosia (n.)</a> <a href="http://dictionary.reference.com/search?q=ambrosia" class="dictionary" title="Look up ambrosia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambrosia at Dictionary.com" title="Look up ambrosia at Dictionary.com" /></a></dt>
+<dd>1550s, "favored food or drink of the gods," from L. <span class="foreign">ambrosia</span>, from Gk. <span class="foreign">ambrosia</span> "food of the gods," fem. of <span class="foreign">ambrosios</span>, probably lit. "of the immortals," from <span class="foreign">a-</span> "not" + <span class="foreign">mbrotos</span>, related to <span class="foreign">mortos</span> "mortal," from PIE <span class="foreign">*mer-</span> "to die" (see <a href="/index.php?term=mortal&allowed_in_frame=0" class="crossreference">mortal</a> (adj.)). Applied to certain herbs by Pliny and Dioscorides; used of various foods for mortals since 1680s (originally of fruit drinks); used figuratively for "anything delightful" by 1731.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambrosial&allowed_in_frame=0">ambrosial (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambrosial" class="dictionary" title="Look up ambrosial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambrosial at Dictionary.com" title="Look up ambrosial at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "immortal, divine," from L. <span class="foreign">ambrosius</span>, from Gk. <span class="foreign">ambrosios</span> (see <a href="/index.php?term=ambrosia&allowed_in_frame=0" class="crossreference">ambrosia</a>).</dd>
+
+<dt><a href="/index.php?term=ambrotype&allowed_in_frame=0">ambrotype (n.)</a> <a href="http://dictionary.reference.com/search?q=ambrotype" class="dictionary" title="Look up ambrotype at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambrotype at Dictionary.com" title="Look up ambrotype at Dictionary.com" /></a></dt>
+<dd>1855, American English, apparently from Gk. <span class="foreign">ambrotos</span> "immortal, imperishable" (see <a href="/index.php?term=ambrosia&allowed_in_frame=0" class="crossreference">ambrosia</a>), with second element from <a href="/index.php?term=daguerreotype&allowed_in_frame=0" class="crossreference">daguerreotype</a>. A type of photograph on glass with lights given by silver and shades by a dark background showing through.
+<blockquote>
+This invention consists in an improved process of taking photographic pictures upon glass, and also of beautifying and preserving the same, which process I have styled "ambrotype." My improved process has reference to the art of taking pictures photographically on a film of collodion upon the surface of a sheet of glass, the collodion being suitably prepared for the purpose. By the use of the said process, the beauty and permanency of such pictures are greatly increased, and I have on this account styled the process "ambrotype," from the Greek word ambrotos, immortal. ["Specification of the Patent granted to James A. Cutting, of Boston, in the United States of America, Photographer, for an Improved Process of taking Photographic Pictures upon Glass and also of Beautifying and Preserving the same. Dated London, July 26, 1854," printed in "Journal of the Franklin Institute," September 1855]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=ambulance&allowed_in_frame=0">ambulance (n.)</a> <a href="http://dictionary.reference.com/search?q=ambulance" class="dictionary" title="Look up ambulance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambulance at Dictionary.com" title="Look up ambulance at Dictionary.com" /></a></dt>
+<dd class="highlight">1809, "mobile or field hospital," from Fr. <span class="foreign">(h&ocirc;pital) ambulant</span>, lit. "walking (hospital)," from L. <span class="foreign">ambulantem</span> (nom. <span class="foreign">ambulans</span>), prp. of <span class="foreign">ambulare</span> "to walk" (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>). The word was not common in English until the meaning transferred from "field hospital" to "vehicle for conveying wounded from field" (1854) during the Crimean War. In late 19c. U.S. the word was used dialectally to mean "prairie wagon." <span class="foreign">Ambulance-chaser</span> as a contemptuous term for a type of lawyer dates from 1897.</dd>
+
+<dt><a href="/index.php?term=ambulant&allowed_in_frame=0">ambulant (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambulant" class="dictionary" title="Look up ambulant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambulant at Dictionary.com" title="Look up ambulant at Dictionary.com" /></a></dt>
+<dd>1610s, from L. <span class="foreign">ambulantem</span> (nom. <span class="foreign">ambulans</span>), prp. of <span class="foreign">ambulare</span> (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>). Of diseases, denoting cases in which the patient may be up and around, by 1913.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambulate&allowed_in_frame=0">ambulate (v.)</a> <a href="http://dictionary.reference.com/search?q=ambulate" class="dictionary" title="Look up ambulate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambulate at Dictionary.com" title="Look up ambulate at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from L. <span class="foreign">ambulatus</span>, pp. of <span class="foreign">ambulare</span> "to walk" (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>). Related: <span class="foreign">Ambulated</span>; <span class="foreign">ambulating</span>.</dd>
+
+<dt><a href="/index.php?term=ambulation&allowed_in_frame=0">ambulation (n.)</a> <a href="http://dictionary.reference.com/search?q=ambulation" class="dictionary" title="Look up ambulation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambulation at Dictionary.com" title="Look up ambulation at Dictionary.com" /></a></dt>
+<dd>1540s, from L. <span class="foreign">ambulationem</span> (nom. <span class="foreign">ambulatio</span>), noun of action from pp. stem of <span class="foreign">ambulare</span> (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambulatory&allowed_in_frame=0">ambulatory (adj.)</a> <a href="http://dictionary.reference.com/search?q=ambulatory" class="dictionary" title="Look up ambulatory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambulatory at Dictionary.com" title="Look up ambulatory at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to walking;" also "shifting, not permanent," 1620s, from L. <span class="foreign">ambulatorius</span> "of or pertaining to a walker; movable," from <span class="foreign">ambulator</span>, agent noun from pp. stem of <span class="foreign">ambulare</span> "to walk" (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>). Middle English had <span class="foreign">ambulary</span> "movable" (mid-15c.).</dd>
+
+<dt><a href="/index.php?term=ambulatory&allowed_in_frame=0">ambulatory (n.)</a> <a href="http://dictionary.reference.com/search?q=ambulatory" class="dictionary" title="Look up ambulatory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambulatory at Dictionary.com" title="Look up ambulatory at Dictionary.com" /></a></dt>
+<dd>from M.L. <span class="foreign">ambulatorium</span>, noun from L. <span class="foreign">ambulatorius</span> "movable," from <span class="foreign">ambulare</span> (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ambuscade&allowed_in_frame=0">ambuscade (n.)</a> <a href="http://dictionary.reference.com/search?q=ambuscade" class="dictionary" title="Look up ambuscade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambuscade at Dictionary.com" title="Look up ambuscade at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, essentially a variant form of <a href="/index.php?term=ambush&allowed_in_frame=0" class="crossreference">ambush</a> (n.), representing a reborrowing of that French word after it had been Italianized. <span class="foreign">Ambuscade</span> is from Fr. <span class="foreign">embuscade</span> (16c.), Gallicized from It. <span class="foreign">imboscata</span>, lit. "a hiding in the bush," compounded from the same elements as O.Fr. <span class="foreign">embuscher</span>. Sometimes in English as <span class="foreign">ambuscado</span>, with faux Spanish ending of the sort popular in 17c.</dd>
+
+<dt><a href="/index.php?term=ambush&allowed_in_frame=0">ambush (v.)</a> <a href="http://dictionary.reference.com/search?q=ambush" class="dictionary" title="Look up ambush at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambush at Dictionary.com" title="Look up ambush at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">embuscher</span> (13c., Mod.Fr. <span class="foreign">embûcher</span>) "to lay an ambush," from <span class="foreign">en-</span> "in" + <span class="foreign">busch</span> "wood," apparently from Frankish <span class="foreign">*busk</span> "bush, woods" (see <a href="/index.php?term=bush&allowed_in_frame=0" class="crossreference">bush</a> (n.)). Related: <span class="foreign">Ambushed</span>; <span class="foreign">ambushing</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657944 -->
+<!-- Page was generated in 0.168093 seconds. -->
+ </body>
+</html>
+<!-- -->

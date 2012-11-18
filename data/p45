@@ -1,0 +1,438 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=populism&allowed_in_frame=0">populism (n.)</a> <a href="http://dictionary.reference.com/search?q=populism" class="dictionary" title="Look up populism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up populism at Dictionary.com" title="Look up populism at Dictionary.com" /></a></dt>
+<dd class="highlight">1893; see <a href="/index.php?term=populist&allowed_in_frame=0" class="crossreference">populist</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt><a href="/index.php?term=populist&allowed_in_frame=0">populist (adj.)</a> <a href="http://dictionary.reference.com/search?q=populist" class="dictionary" title="Look up populist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up populist at Dictionary.com" title="Look up populist at Dictionary.com" /></a></dt>
+<dd>1892, American English, from L. <span class="foreign">populus</span> "people" (see <a href="/index.php?term=people&allowed_in_frame=0" class="crossreference">people</a> (n.)) + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>. Originally in reference to the U.S. <span class="foreign">Populist Party</span> organized February 1892 to promote certain issues important to farmers and workers. The term outlasted the party, and by 1920s came to mean "representing the views of the masses" in a general way.</dd>
+
+<dt class="highlight"><a href="/index.php?term=populous&allowed_in_frame=0">populous (adj.)</a> <a href="http://dictionary.reference.com/search?q=populous" class="dictionary" title="Look up populous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up populous at Dictionary.com" title="Look up populous at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from L. <span class="foreign">populosus</span> (c.160) "full of people, populous," from <span class="foreign">populus</span> "people" (see <a href="/index.php?term=people&allowed_in_frame=0" class="crossreference">people</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=porcelain&allowed_in_frame=0">porcelain (n.)</a> <a href="http://dictionary.reference.com/search?q=porcelain" class="dictionary" title="Look up porcelain at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porcelain at Dictionary.com" title="Look up porcelain at Dictionary.com" /></a></dt>
+<dd>1530s, from M.Fr. <span class="foreign">porcelaine</span>, from It. <span class="foreign">porcellana</span> "porcelain" (13c.), lit. "cowrie shell," the chinaware so called from resemblance to the shiny surface of the shells. The shell's name in Italian is from <span class="foreign">porcella</span> "young sow," fem. of L. <span class="foreign">porcellus</span> "young pig," dim. of <span class="foreign">porculus</span> "piglet," dim. of <span class="foreign">porcus</span> "pig."</dd>
+
+<dt class="highlight"><a href="/index.php?term=porch&allowed_in_frame=0">porch (n.)</a> <a href="http://dictionary.reference.com/search?q=porch" class="dictionary" title="Look up porch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porch at Dictionary.com" title="Look up porch at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., from O.Fr. <span class="foreign">porche</span>, from L. <span class="foreign">porticus</span> "covered gallery, arcade," from <span class="foreign">porta</span> "gate." The Latin word was borrowed directly into Old English as <span class="foreign">portic</span>.</dd>
+
+<dt><a href="/index.php?term=porcine&allowed_in_frame=0">porcine (adj.)</a> <a href="http://dictionary.reference.com/search?q=porcine" class="dictionary" title="Look up porcine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porcine at Dictionary.com" title="Look up porcine at Dictionary.com" /></a></dt>
+<dd>1650s, from Fr. <span class="foreign">porcin</span>, from L. <span class="foreign">porcinus</span> "of a hog," from <span class="foreign">porcus</span> "hog, pig" (see <a href="/index.php?term=pork&allowed_in_frame=0" class="crossreference">pork</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=porcupine&allowed_in_frame=0">porcupine (n.)</a> <a href="http://dictionary.reference.com/search?q=porcupine" class="dictionary" title="Look up porcupine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porcupine at Dictionary.com" title="Look up porcupine at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, <span class="foreign">porke despyne</span>, from O.Fr. <span class="foreign">porc-espin</span> (early 13c.), lit. "spiny pig," from L. <span class="foreign">porcus</span> "hog" + <span class="foreign">spina</span> "thorn, spine." The word had many forms in Middle English and early Modern English, including <span class="foreign">portepyn</span>, <span class="foreign">porkpen</span>, <span class="foreign">porkenpick</span>, <span class="foreign">porpoynt</span>, and Shakespeare's <span class="foreign">porpentine</span> (in "Hamlet").</dd>
+
+<dt><a href="/index.php?term=pore&allowed_in_frame=0">pore (v.)</a> <a href="http://dictionary.reference.com/search?q=pore" class="dictionary" title="Look up pore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pore at Dictionary.com" title="Look up pore at Dictionary.com" /></a></dt>
+<dd>c.1300, perhaps from O.E. <span class="foreign">*purian</span>, suggested by <span class="foreign">spyrian</span> "to investigate, examine," and <span class="foreign">spor</span> "a trace, vestige." Related: <span class="foreign">Pored</span>; <span class="foreign">poring</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pore&allowed_in_frame=0">pore (n.)</a> <a href="http://dictionary.reference.com/search?q=pore" class="dictionary" title="Look up pore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pore at Dictionary.com" title="Look up pore at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from L. <span class="foreign">porus</span> "a pore," from Gk. <span class="foreign">poros</span> "a pore," lit. "passage, way," from PIE <span class="foreign">*por-</span> "going, passage," from root <span class="foreign">*per-</span> "to lead, pass over" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)). </dd>
+
+<dt><a href="/index.php?term=porgy&allowed_in_frame=0">porgy (n.)</a> <a href="http://dictionary.reference.com/search?q=porgy" class="dictionary" title="Look up porgy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porgy at Dictionary.com" title="Look up porgy at Dictionary.com" /></a></dt>
+<dd>name given to various sea fishes, 1725, probably from <span class="foreign">pargo</span> (1550s) "sea bream," from Sp. or Port. <span class="foreign">pargo</span>, from L. <span class="foreign">phagrum</span>, acc. of <span class="foreign">phager</span>, from Gk. <span class="foreign">phagros</span> "sea bream."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Porifera&allowed_in_frame=0">Porifera</a> <a href="http://dictionary.reference.com/search?q=Porifera" class="dictionary" title="Look up Porifera at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Porifera at Dictionary.com" title="Look up Porifera at Dictionary.com" /></a></dt>
+<dd class="highlight">Modern Latin, neuter plural of <span class="foreign">porifer</span>, from L. <span class="foreign">porus</span> "pore, opening" (see <a href="/index.php?term=pore&allowed_in_frame=0" class="crossreference">pore</a> (n.)) + <span class="foreign">-fer</span> "bearing" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>). Related: <span class="foreign">Poriferal</span>.</dd>
+
+<dt><a href="/index.php?term=pork&allowed_in_frame=0">pork (n.)</a> <a href="http://dictionary.reference.com/search?q=pork" class="dictionary" title="Look up pork at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pork at Dictionary.com" title="Look up pork at Dictionary.com" /></a></dt>
+<dd>early 13c., "flesh of a pig as food," from L. <span class="foreign">porcus</span> "pig, tame swine," from PIE <span class="foreign">*porko-</span> "young swine" (cf. Umbrian <span class="foreign">purka;</span> O.C.S. <span class="foreign">prase</span> "young pig;" Lith. <span class="foreign">parsas</span> "pig;" O.E. <span class="foreign">fearh</span>, M.Du. <span class="foreign">varken</span>, both from P.Gmc. <span class="foreign">*farhaz</span>). <span class="foreign">Porker</span> "young hog fattened for food" is recorded from 1650s; meaning "fat person" is from 1892. <span class="foreign">Pork chop</span> is attested from 1858. <span class="foreign">Pork barrel</span> "state's financial resources" is 1909, on notion of food supply kept in a barrel (lit. sense from 1801); the shortened form <span class="foreign">pork</span> in this sense is attested from 1862. <span class="foreign">Pork-pie hat</span> originally described a woman's style popular c.1855-65, so called for its shape.</dd>
+
+<dt class="highlight"><a href="/index.php?term=porn&allowed_in_frame=0">porn (n.)</a> <a href="http://dictionary.reference.com/search?q=porn" class="dictionary" title="Look up porn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porn at Dictionary.com" title="Look up porn at Dictionary.com" /></a></dt>
+<dd class="highlight">1962, abbreviation of <a href="/index.php?term=pornography&allowed_in_frame=0" class="crossreference">pornography</a>. <span class="foreign">Porno</span> (adj.) is attested from 1952.</dd>
+
+<dt><a href="/index.php?term=pornography&allowed_in_frame=0">pornography (n.)</a> <a href="http://dictionary.reference.com/search?q=pornography" class="dictionary" title="Look up pornography at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pornography at Dictionary.com" title="Look up pornography at Dictionary.com" /></a></dt>
+<dd>1857, "description of prostitutes," from Fr. <span class="foreign">pornographie</span>, from Gk. <span class="foreign">pornographos</span> "(one) writing of prostitutes," from <span class="foreign">porne</span> "prostitute," originally "bought, purchased" (with an original notion, probably of "female slave sold for prostitution"), related to <span class="foreign">pernanai</span> "to sell," from PIE root <span class="foreign">*per-</span> "to traffic in, to sell" (cf. L. <span class="foreign">pretium</span> "price," Lith. <span class="foreign">perku</span> "I buy") + <span class="foreign">graphein</span> "to write" (see <a href="/index.php?term=-graphy&allowed_in_frame=0" class="crossreference">-graphy</a>). Originally used of classical art and writing; application to modern examples began 1880s. Main modern meaning "salacious writing or pictures" represents a slight shift from the etymology, though classical depictions of prostitution usually had this quality.
+<blockquote> 
+I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description [hard-core pornography]; and perhaps I could never succeed in intelligibly doing so. But I know it when I see it, and the motion picture involved in this case is not that. [U.S. Supreme Court Justice Potter Stewart, concurring opinion, "Jacobellis v. Ohio," 1964]
+</blockquote>
+<span class="foreign">Pornographer</span> is earliest form of the word, attested from 1850. <span class="foreign">Pornocracy</span> (1860) is "the dominating influence of harlots," used specifically of the government of Rome during the first half of the 10th century by Theodora and her daughters.</dd>
+
+<dt class="highlight"><a href="/index.php?term=porosity&allowed_in_frame=0">porosity (n.)</a> <a href="http://dictionary.reference.com/search?q=porosity" class="dictionary" title="Look up porosity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porosity at Dictionary.com" title="Look up porosity at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from M.L. <span class="foreign">porositas</span>, from <span class="foreign">porus</span> (see <a href="/index.php?term=pore&allowed_in_frame=0" class="crossreference">pore</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=porous&allowed_in_frame=0">porous (adj.)</a> <a href="http://dictionary.reference.com/search?q=porous" class="dictionary" title="Look up porous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porous at Dictionary.com" title="Look up porous at Dictionary.com" /></a></dt>
+<dd>late 14c., "full of pores," from M.Fr. <span class="foreign">poreux</span> (14c.), M.L. <span class="foreign">porosus</span>, from L. <span class="foreign">porus</span> "opening" (see <a href="/index.php?term=pore&allowed_in_frame=0" class="crossreference">pore</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=porphyria&allowed_in_frame=0">porphyria (n.)</a> <a href="http://dictionary.reference.com/search?q=porphyria" class="dictionary" title="Look up porphyria at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porphyria at Dictionary.com" title="Look up porphyria at Dictionary.com" /></a></dt>
+<dd class="highlight">1923, from <span class="foreign">porphyrin</span> (1910), from Ger. <span class="foreign">porphyrin</span>, chemical name, from Gk. <span class="foreign">porphyros</span> "purple" (see <a href="/index.php?term=purple&allowed_in_frame=0" class="crossreference">purple</a>) + <a href="/index.php?term=-in&allowed_in_frame=0" class="crossreference">-in</a> (2). Some of the compounds are purple.</dd>
+
+<dt><a href="/index.php?term=porphyry&allowed_in_frame=0">porphyry (n.)</a> <a href="http://dictionary.reference.com/search?q=porphyry" class="dictionary" title="Look up porphyry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porphyry at Dictionary.com" title="Look up porphyry at Dictionary.com" /></a></dt>
+<dd>type of ornamental stone, late 14c., from O.Fr. <span class="foreign">porfire</span>, from L. <span class="foreign">porphyrites</span>, a purple semi-precious stone quarried near Red Sea in Egypt, from Gk. <span class="foreign">porphyrites (lithos)</span> "the purple (stone)," from <span class="foreign">porphyra</span> (n.) "purple, purple dye" (see <a href="/index.php?term=purple&allowed_in_frame=0" class="crossreference">purple</a>). Now used generally for a type of igneous rock without regard to color.</dd>
+
+<dt class="highlight"><a href="/index.php?term=porpoise&allowed_in_frame=0">porpoise (n.)</a> <a href="http://dictionary.reference.com/search?q=porpoise" class="dictionary" title="Look up porpoise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porpoise at Dictionary.com" title="Look up porpoise at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">porpais</span> (12c.), lit. "pork fish," from <span class="foreign">porc</span> "pork" (see <a href="/index.php?term=pork&allowed_in_frame=0" class="crossreference">pork</a>) + <span class="foreign">peis</span> "fish," from L. <span class="foreign">piscis</span> "fish." The Old French word is probably a loan-translation of a Germanic word, cf. O.N. <span class="foreign">mar-svin</span>, O.H.G. <span class="foreign">meri-swin</span>, M.Du. <span class="foreign">mereswijn</span> "porpoise," lit. "sea-hog, mere-swine" (the last of which also was borrowed directly into French and became Mod.Fr. <span class="foreign">marsouin</span>). Classical Latin had a similar name, <span class="foreign">porculus marinus</span> (in Pliny), and the notion behind the name likely is a fancied resemblance of the snout to that of a pig.</dd>
+
+<dt><a href="/index.php?term=porridge&allowed_in_frame=0">porridge (n.)</a> <a href="http://dictionary.reference.com/search?q=porridge" class="dictionary" title="Look up porridge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porridge at Dictionary.com" title="Look up porridge at Dictionary.com" /></a></dt>
+<dd>1530s, "soup of meat and vegetables," alteration of <span class="foreign">pottage</span>, influenced by M.E. <span class="foreign">porreie</span>, from O.Fr. <span class="foreign">poree</span> "leek soup," from <span class="foreign">por</span> "leek," from L. <span class="foreign">porrum</span> "leek." Association with oatmeal is 1640s, first in Scottish.</dd>
+
+<dt class="highlight"><a href="/index.php?term=porringer&allowed_in_frame=0">porringer (n.)</a> <a href="http://dictionary.reference.com/search?q=porringer" class="dictionary" title="Look up porringer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porringer at Dictionary.com" title="Look up porringer at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., alteration of <span class="foreign">potynger</span> "small dish for stew," from <span class="foreign">potage</span> (see <a href="/index.php?term=pottage&allowed_in_frame=0" class="crossreference">pottage</a>) by influence of <a href="/index.php?term=porridge&allowed_in_frame=0" class="crossreference">porridge</a>, with intrusive <span class="foreign">-n-</span> by 1530s (cf. <span class="foreign">passenger, messenger</span>).</dd>
+
+<dt><a href="/index.php?term=port&allowed_in_frame=0">port (n.1)</a> <a href="http://dictionary.reference.com/search?q=port" class="dictionary" title="Look up port at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up port at Dictionary.com" title="Look up port at Dictionary.com" /></a></dt>
+<dd>"harbor," O.E. <span class="foreign">port</span> "harbor, haven," reinforced by O.Fr. <span class="foreign">port</span>, both O.E. and O.Fr. from L. <span class="foreign">portus</span> "port, harbor," originally "entrance, passage," from PIE <span class="foreign">*prtu-</span> "a going, a passage," from root <span class="foreign">*per-</span> "to lead, pass over" (cf. Skt. <span class="foreign">parayati</span> "carries over;" Gk. <span class="foreign">poros</span> "journey, passage, way," <span class="foreign">peirein</span> "to pierce, run through;" L. <span class="foreign">porta</span> "gate, door," <span class="foreign">portare</span> "passage," <span class="foreign">peritus</span> "experienced;" Avestan <span class="foreign">peretush</span> "passage, ford, bridge;" Armenian <span class="foreign">hordan</span> "go forward;" Welsh <span class="foreign">rhyd</span> "ford;" O.C.S. <span class="foreign">pariti</span> "fly;" O.E. <span class="foreign">faran</span> "to go, journey," O.N. <span class="foreign">fj&ouml;r&eth;r</span> "inlet, estuary").
+<BR><BR>
+Meaning "left side of a ship" is attested from 1540s, from notion of "the side facing the harbor" (when a ship is docked). It replaced <a href="/index.php?term=larboard&allowed_in_frame=0" class="crossreference">larboard</a> in common usage to avoid confusion with <a href="/index.php?term=starboard&allowed_in_frame=0" class="crossreference">starboard</a>; officially so by Admiralty order of 1844 and U.S. Navy Department notice of 1846. Figurative sense "place of refuge" is attested from early 15c.; phrase <span class="foreign">any port in a storm</span> first recorded 1749.</dd>
+
+<dt class="highlight"><a href="/index.php?term=port&allowed_in_frame=0">port (n.2)</a> <a href="http://dictionary.reference.com/search?q=port" class="dictionary" title="Look up port at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up port at Dictionary.com" title="Look up port at Dictionary.com" /></a></dt>
+<dd class="highlight">"gateway," Old English, from O.Fr. <span class="foreign">porte</span> "gate, entrance," from L. <span class="foreign">porta</span> "gate, door," from PIE root <span class="foreign">*per-</span> (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)). Specific meaning "porthole, opening in the side of a ship" is attested from mid-13c.</dd>
+
+<dt><a href="/index.php?term=port&allowed_in_frame=0">port (n.3)</a> <a href="http://dictionary.reference.com/search?q=port" class="dictionary" title="Look up port at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up port at Dictionary.com" title="Look up port at Dictionary.com" /></a></dt>
+<dd>"bearing, mien," mid-14c., from O.Fr. <span class="foreign">port</span>, from <span class="foreign">porter</span> "to carry," from L. <span class="foreign">portare</span> (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=port&allowed_in_frame=0">port (n.4)</a> <a href="http://dictionary.reference.com/search?q=port" class="dictionary" title="Look up port at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up port at Dictionary.com" title="Look up port at Dictionary.com" /></a></dt>
+<dd class="highlight">"sweet dark-red wine," 1690s, shortened from <span class="foreign">Oporto</span>, city in northwest Portugal from which the wine was originally shipped, from <span class="foreign">O Porto</span> "the port."</dd>
+
+<dt><a href="/index.php?term=portable&allowed_in_frame=0">portable (adj.)</a> <a href="http://dictionary.reference.com/search?q=portable" class="dictionary" title="Look up portable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portable at Dictionary.com" title="Look up portable at Dictionary.com" /></a></dt>
+<dd>c.1400, from Fr. <span class="foreign">portable</span>, from L.L. <span class="foreign">portabilis</span> "that can be carried," from L. <span class="foreign">portare</span> "to carry" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)). Related: <span class="foreign">Portability</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=portage&allowed_in_frame=0">portage (n.)</a> <a href="http://dictionary.reference.com/search?q=portage" class="dictionary" title="Look up portage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portage at Dictionary.com" title="Look up portage at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "action of carrying," from O.Fr. <span class="foreign">portage</span> "tax paid on entering a town," from <span class="foreign">porter</span> "to carry," from L. <span class="foreign">portare</span> "to carry" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)). Sense of "carrying of boats from one navigable water to another" is from 1690s, reinforced in Canadian French.</dd>
+
+<dt><a href="/index.php?term=portal&allowed_in_frame=0">portal (n.)</a> <a href="http://dictionary.reference.com/search?q=portal" class="dictionary" title="Look up portal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portal at Dictionary.com" title="Look up portal at Dictionary.com" /></a></dt>
+<dd>c.1300, from M.L. <span class="foreign">portale</span> "city gate, porch," from neuter of <span class="foreign">portalis</span> (adj.) "of a gate," from L. <span class="foreign">porta</span> "gate" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=portcullis&allowed_in_frame=0">portcullis (n.)</a> <a href="http://dictionary.reference.com/search?q=portcullis" class="dictionary" title="Look up portcullis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portcullis at Dictionary.com" title="Look up portcullis at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">porte coleice</span> "sliding gate" (c.1200), from <span class="foreign">porte</span> "gate" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.2)) + <span class="foreign">coleice</span> "sliding, flowing," fem. of <span class="foreign">coleis</span>, from L. <span class="foreign">colatus</span>, pp. of <span class="foreign">colare</span> "to filter, strain" (see <a href="/index.php?term=colander&allowed_in_frame=0" class="crossreference">colander</a>).</dd>
+
+<dt><a href="/index.php?term=Porte&allowed_in_frame=0">Porte</a> <a href="http://dictionary.reference.com/search?q=Porte" class="dictionary" title="Look up Porte at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Porte at Dictionary.com" title="Look up Porte at Dictionary.com" /></a></dt>
+<dd>"Ottoman court at Constantinople," c.1600, from French, in full, <span class="foreign">la Sublime Porte</span>, translation of Arabic <span class="foreign">bab-i-'aliy</span>, lit. "lofty gate," official name of the central office of the Ottoman government (cf. <span class="foreign">Vatican</span> for "the Papacy," <span class="foreign">Kremlin</span> for "the U.S.S.R."). Supposedly a reference to the ancient custom of holding royal audience in the doorway of a king's palace or tent.</dd>
+
+<dt class="highlight"><a href="/index.php?term=porte+cochere&allowed_in_frame=0">porte cochere (n.)</a> <a href="http://dictionary.reference.com/search?q=porte+cochere" class="dictionary" title="Look up porte cochere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porte cochere at Dictionary.com" title="Look up porte cochere at Dictionary.com" /></a></dt>
+<dd class="highlight">gateway for carriages, 1690s, from Fr. <span class="foreign">porte</span> "gate" + <span class="foreign">coch&egrave;re</span>, fem. adjective from <span class="foreign">coche</span> "coach" (see <a href="/index.php?term=coach&allowed_in_frame=0" class="crossreference">coach</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=portend&allowed_in_frame=0">portend (v.)</a> <a href="http://dictionary.reference.com/search?q=portend" class="dictionary" title="Look up portend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portend at Dictionary.com" title="Look up portend at Dictionary.com" /></a></dt>
+<dd>early 15c., from L. <span class="foreign">portendere</span> "foretell," originally "to stretch forward," from <span class="foreign">por-</span> (variant of <span class="foreign">pro-</span>) "forth, forward" + <span class="foreign">tendere</span> "to stretch, extend" (see <a href="/index.php?term=tenet&allowed_in_frame=0" class="crossreference">tenet</a>). Related: <span class="foreign">Portended</span>; <span class="foreign">portending</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=portent&allowed_in_frame=0">portent (n.)</a> <a href="http://dictionary.reference.com/search?q=portent" class="dictionary" title="Look up portent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portent at Dictionary.com" title="Look up portent at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, from M.Fr. <span class="foreign">portente</span>, from L. <span class="foreign">portentum</span> "a sign, omen," from neut. of <span class="foreign">portentus</span>, pp. of <span class="foreign">portendre</span> (see <a href="/index.php?term=portend&allowed_in_frame=0" class="crossreference">portend</a>).</dd>
+
+<dt><a href="/index.php?term=portentous&allowed_in_frame=0">portentous (adj.)</a> <a href="http://dictionary.reference.com/search?q=portentous" class="dictionary" title="Look up portentous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portentous at Dictionary.com" title="Look up portentous at Dictionary.com" /></a></dt>
+<dd>1530s, from L. <span class="foreign">portentosus</span>, from <span class="foreign">portentem</span> (see <a href="/index.php?term=portend&allowed_in_frame=0" class="crossreference">portend</a>). Related: <span class="foreign">Portentously</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=porter&allowed_in_frame=0">porter (n.1)</a> <a href="http://dictionary.reference.com/search?q=porter" class="dictionary" title="Look up porter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porter at Dictionary.com" title="Look up porter at Dictionary.com" /></a></dt>
+<dd class="highlight">"person who carries," mid-13c., from Anglo-Fr. <span class="foreign">portour</span>, O.Fr. <span class="foreign">porteor</span>, from L.L. <span class="foreign">portatorem</span> (acc. <span class="foreign">portator</span>) "one who carries," from L. <span class="foreign">portare</span> "to carry" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)).</dd>
+
+<dt><a href="/index.php?term=porter&allowed_in_frame=0">porter (n.2)</a> <a href="http://dictionary.reference.com/search?q=porter" class="dictionary" title="Look up porter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porter at Dictionary.com" title="Look up porter at Dictionary.com" /></a></dt>
+<dd>"doorkeeper, janitor," late 12c., from Anglo-Fr. <span class="foreign">portour</span>, from O.Fr. <span class="foreign">portier</span>, from L.L. <span class="foreign">portarius</span> "gatekeeper," from L. <span class="foreign">porta</span> "gate" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=porter&allowed_in_frame=0">porter (n.3)</a> <a href="http://dictionary.reference.com/search?q=porter" class="dictionary" title="Look up porter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porter at Dictionary.com" title="Look up porter at Dictionary.com" /></a></dt>
+<dd class="highlight">"dark beer," 1727, as <span class="foreign">porter's ale</span>, from <a href="/index.php?term=porter&allowed_in_frame=0" class="crossreference">porter</a> (n.1), because the beer was made for porters and other laborers, being cheap and strong.</dd>
+
+<dt><a href="/index.php?term=porterhouse&allowed_in_frame=0">porterhouse (n.)</a> <a href="http://dictionary.reference.com/search?q=porterhouse" class="dictionary" title="Look up porterhouse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porterhouse at Dictionary.com" title="Look up porterhouse at Dictionary.com" /></a></dt>
+<dd>"restaurant or chophouse where porter is served," c.1758, from <a href="/index.php?term=porter&allowed_in_frame=0" class="crossreference">porter</a> (n.3) + <a href="/index.php?term=house&allowed_in_frame=0" class="crossreference">house</a> (n.). <span class="foreign">Porterhouse steak</span> (1841) is said to be from a particular establishment in New York City.</dd>
+
+<dt class="highlight"><a href="/index.php?term=portfolio&allowed_in_frame=0">portfolio (n.)</a> <a href="http://dictionary.reference.com/search?q=portfolio" class="dictionary" title="Look up portfolio at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portfolio at Dictionary.com" title="Look up portfolio at Dictionary.com" /></a></dt>
+<dd class="highlight">1722, from It. <span class="foreign">portafoglio</span> "a case for carrying loose papers," from <span class="foreign">porta,</span> imperative of <span class="foreign">portare</span> "to carry" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)) + <span class="foreign">foglio</span> "sheet, leaf," from L. <span class="foreign">folium</span> (see <a href="/index.php?term=folio&allowed_in_frame=0" class="crossreference">folio</a>). Meaning "collection of securities held" is from 1930.</dd>
+
+<dt><a href="/index.php?term=porthole&allowed_in_frame=0">porthole (n.)</a> <a href="http://dictionary.reference.com/search?q=porthole" class="dictionary" title="Look up porthole at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up porthole at Dictionary.com" title="Look up porthole at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.2) + <a href="/index.php?term=hole&allowed_in_frame=0" class="crossreference">hole</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=portico&allowed_in_frame=0">portico (n.)</a> <a href="http://dictionary.reference.com/search?q=portico" class="dictionary" title="Look up portico at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portico at Dictionary.com" title="Look up portico at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from It. <span class="foreign">portico</span>, from L. <span class="foreign">porticus</span> "colonnade, arcade," from <span class="foreign">porta</span> "gate" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.2)). Specifically of the Painted Porch in Athens.</dd>
+
+<dt><a href="/index.php?term=portiere&allowed_in_frame=0">portiere</a> <a href="http://dictionary.reference.com/search?q=portiere" class="dictionary" title="Look up portiere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portiere at Dictionary.com" title="Look up portiere at Dictionary.com" /></a></dt>
+<dd>1843, from Fr. <span class="foreign">porti&egrave;re</span>, from M.L. <span class="foreign">portaria</span>, fem. singular of L. <span class="foreign">portarius</span> "belonging to a door or gate" (see <a href="/index.php?term=porter&allowed_in_frame=0" class="crossreference">porter</a> (n.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=portion&allowed_in_frame=0">portion (n.)</a> <a href="http://dictionary.reference.com/search?q=portion" class="dictionary" title="Look up portion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portion at Dictionary.com" title="Look up portion at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">porcion</span> (12c.), from L. <span class="foreign">portionem</span> (nom. <span class="foreign">portio</span>) "share, part," accusative of the noun in the phrase <span class="foreign">pro portione</span> "according to the relation (of parts to each other)" (see <a href="/index.php?term=proportion&allowed_in_frame=0" class="crossreference">proportion</a>).</dd>
+
+<dt><a href="/index.php?term=portion&allowed_in_frame=0">portion (v.)</a> <a href="http://dictionary.reference.com/search?q=portion" class="dictionary" title="Look up portion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portion at Dictionary.com" title="Look up portion at Dictionary.com" /></a></dt>
+<dd>"to divide in portions," early 14c., from <a href="/index.php?term=portion&allowed_in_frame=0" class="crossreference">portion</a> (n.). Related: <span class="foreign">Portioned</span>; <span class="foreign">portioning</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Portland&allowed_in_frame=0">Portland</a> <a href="http://dictionary.reference.com/search?q=Portland" class="dictionary" title="Look up Portland at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Portland at Dictionary.com" title="Look up Portland at Dictionary.com" /></a></dt>
+<dd class="highlight">in <span class="foreign">Portland cement,</span> 1720, named by its inventor, Eng. mason Joseph Aspdin, from resemblance of the color to the stone of <span class="foreign">Portland</span> peninsula on the coast of Dorsetshire.</dd>
+
+<dt><a href="/index.php?term=portly&allowed_in_frame=0">portly (adj.)</a> <a href="http://dictionary.reference.com/search?q=portly" class="dictionary" title="Look up portly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portly at Dictionary.com" title="Look up portly at Dictionary.com" /></a></dt>
+<dd>1520s, "stately, dignified," from <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.3) "bearing, carriage" + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (1). Meaning "stout" is first recorded 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=portmanteau&allowed_in_frame=0">portmanteau (n.)</a> <a href="http://dictionary.reference.com/search?q=portmanteau" class="dictionary" title="Look up portmanteau at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portmanteau at Dictionary.com" title="Look up portmanteau at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "traveling case or bag for clothes and other necessaries," from M.Fr. <span class="foreign">portemanteau</span> "traveling bag," originally "court official who carried a prince's mantle" (1540s), from <span class="foreign">porte</span>, imperative of <span class="foreign">porter</span> "to carry" (see <a href="/index.php?term=porter&allowed_in_frame=0" class="crossreference">porter</a> (n.1)) + <span class="foreign">manteau</span> "cloak" (see <a href="/index.php?term=mantle&allowed_in_frame=0" class="crossreference">mantle</a>). <span class="foreign">Portmanteau word</span> "word blending the sound of two different words," is 1882, coined by Lewis Carroll for the sort of words he invented for "Jabberwocky," on notion of "two meanings packed up into one word."</dd>
+
+<dt><a href="/index.php?term=portobello&allowed_in_frame=0">portobello</a> <a href="http://dictionary.reference.com/search?q=portobello" class="dictionary" title="Look up portobello at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portobello at Dictionary.com" title="Look up portobello at Dictionary.com" /></a></dt>
+<dd>type of mushroom, by 1986, no agreed-upon theory accounts for the name, which seems to be a marketing coinage. London's <span class="foreign">Portobello Road</span> (one suggested source of the mushroom name) originally was the lane to <span class="foreign">Porto Bello House</span>, named for the Panamanian place captured by the British under Vernon in 1739.</dd>
+
+<dt class="highlight"><a href="/index.php?term=portrait&allowed_in_frame=0">portrait (n.)</a> <a href="http://dictionary.reference.com/search?q=portrait" class="dictionary" title="Look up portrait at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portrait at Dictionary.com" title="Look up portrait at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c. (in <span class="foreign">portreyture</span>), from M.Fr. <span class="foreign">portrait</span>, from O.Fr. <span class="foreign">portret</span> (13c.), noun use of pp. of <span class="foreign">portraire</span> "to paint, depict" (see <a href="/index.php?term=portray&allowed_in_frame=0" class="crossreference">portray</a>).</dd>
+
+<dt><a href="/index.php?term=portraiture&allowed_in_frame=0">portraiture (n.)</a> <a href="http://dictionary.reference.com/search?q=portraiture" class="dictionary" title="Look up portraiture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up portraiture at Dictionary.com" title="Look up portraiture at Dictionary.com" /></a></dt>
+<dd>mid-14c., from O.Fr. <span class="foreign">portraiture</span> (12c.), from <span class="foreign">portrait</span> (see <a href="/index.php?term=portrait&allowed_in_frame=0" class="crossreference">portrait</a>).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658624 -->
+<!-- Page was generated in 0.186225 seconds. -->
+ </body>
+</html>
+<!-- -->

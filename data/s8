@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=Savonarola&allowed_in_frame=0">Savonarola</a> <a href="http://dictionary.reference.com/search?q=Savonarola" class="dictionary" title="Look up Savonarola at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Savonarola at Dictionary.com" title="Look up Savonarola at Dictionary.com" /></a></dt>
+<dd class="highlight">Girolamo <span class="foreign">Savonarola</span> (1452-1498), Dominican monk famous for his fierce opposition to moral license and Church corruption.</dd>
+
+<dt><a href="/index.php?term=savor&allowed_in_frame=0">savor (n.)</a> <a href="http://dictionary.reference.com/search?q=savor" class="dictionary" title="Look up savor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savor at Dictionary.com" title="Look up savor at Dictionary.com" /></a></dt>
+<dd>early 13c., from O.Fr. <span class="foreign">savour</span>, from L. <span class="foreign">saporem</span> (nom. <span class="foreign">sapor</span>) "taste, flavor," related to <span class="foreign">sapere</span> "to have a flavor" (see <a href="/index.php?term=sapient&allowed_in_frame=0" class="crossreference">sapient</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=savor&allowed_in_frame=0">savor (v.)</a> <a href="http://dictionary.reference.com/search?q=savor" class="dictionary" title="Look up savor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savor at Dictionary.com" title="Look up savor at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">savourer</span>, from L.L. <span class="foreign">saporare</span>, from L. <span class="foreign">sapor</span> (see <a href="/index.php?term=savor&allowed_in_frame=0" class="crossreference">savor</a> (n.)). Related: <span class="foreign">Savored</span>; <span class="foreign">savoring</span>.</dd>
+
+<dt><a href="/index.php?term=savory&allowed_in_frame=0">savory (adj.)</a> <a href="http://dictionary.reference.com/search?q=savory" class="dictionary" title="Look up savory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savory at Dictionary.com" title="Look up savory at Dictionary.com" /></a></dt>
+<dd>"pleasing in taste or smell," early 13c., from O.Fr. <span class="foreign">savoure</span> (Fr. <span class="foreign">savor&eacute;</span>),  pp. of <span class="foreign">savourer</span> "to taste" (see <a href="/index.php?term=savor&allowed_in_frame=0" class="crossreference">savor</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=savory&allowed_in_frame=0">savory (n.)</a> <a href="http://dictionary.reference.com/search?q=savory" class="dictionary" title="Look up savory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savory at Dictionary.com" title="Look up savory at Dictionary.com" /></a></dt>
+<dd class="highlight">"aromatic mint," late 14c., perhaps an alteration of O.E. <span class="foreign">s&aelig;&thorn;erie</span>, which is ultimately from L. <span class="foreign">satureia</span> "savory (n.)." But early history of the word suggests transmission via O.Fr. <span class="foreign">savereie</span>. In either case, the form of the word probably altered by influence of the Middle English or Old French form of <a href="/index.php?term=savory&allowed_in_frame=0" class="crossreference">savory</a> (adj.).</dd>
+
+<dt><a href="/index.php?term=savour&allowed_in_frame=0">savour</a> <a href="http://dictionary.reference.com/search?q=savour" class="dictionary" title="Look up savour at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savour at Dictionary.com" title="Look up savour at Dictionary.com" /></a></dt>
+<dd>British English spelling of <a href="/index.php?term=savor&allowed_in_frame=0" class="crossreference">savor</a> (q.v.); for spelling, see <a href="/index.php?term=-or&allowed_in_frame=0" class="crossreference">-or</a>. Related: <span class="foreign">Savoured</span>; <span class="foreign">savouring</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=savoury&allowed_in_frame=0">savoury</a> <a href="http://dictionary.reference.com/search?q=savoury" class="dictionary" title="Look up savoury at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savoury at Dictionary.com" title="Look up savoury at Dictionary.com" /></a></dt>
+<dd class="highlight">British English spelling of <a href="/index.php?term=savory&allowed_in_frame=0" class="crossreference">savory</a>; also see <a href="/index.php?term=-or&allowed_in_frame=0" class="crossreference">-or</a>.</dd>
+
+<dt><a href="/index.php?term=Savoy&allowed_in_frame=0">Savoy</a> <a href="http://dictionary.reference.com/search?q=Savoy" class="dictionary" title="Look up Savoy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Savoy at Dictionary.com" title="Look up Savoy at Dictionary.com" /></a></dt>
+<dd>region in southeastern France, Fr. <span class="foreign">Savoie</span>, from Roman <span class="foreign">Sapaudia</span>, of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=savvy&allowed_in_frame=0">savvy</a> <a href="http://dictionary.reference.com/search?q=savvy" class="dictionary" title="Look up savvy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up savvy at Dictionary.com" title="Look up savvy at Dictionary.com" /></a></dt>
+<dd class="highlight">1785, as a noun, "practical sense, intelligence;" also a verb, "to know, to understand;" West Indies pidgin borrowing of Fr. <span class="foreign">savez(-vous)?</span> "do you know?" or Sp. <span class="foreign">sabe (usted)</span> "you know," both from V.L. <span class="foreign">*sapere</span>, from L. <span class="foreign">sapere</span> "be wise, be knowing" (see <a href="/index.php?term=sapient&allowed_in_frame=0" class="crossreference">sapient</a>). The adj. is first recorded 1905, from the noun. Related: <span class="foreign">Savviness</span>.</dd>
+
+<dt><a href="/index.php?term=saw&allowed_in_frame=0">saw (n.1)</a> <a href="http://dictionary.reference.com/search?q=saw" class="dictionary" title="Look up saw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saw at Dictionary.com" title="Look up saw at Dictionary.com" /></a></dt>
+<dd>"cutting tool," O.E. <span class="foreign">sagu</span>, from P.Gmc. <span class="foreign">*sago</span> "a cutting tool" (cf. O.E. <span class="foreign">seax</span> "knife," O.N. <span class="foreign">s&otilde;g</span>, Norw. <span class="foreign">sag</span>, Dan. <span class="foreign">sav</span>, M.Du. <span class="foreign">saghe</span>, Du. <span class="foreign">zaag</span>, O.H.G. <span class="foreign">saga</span>, Ger. <span class="foreign">S&auml;ge</span> "saw"), from PIE root <span class="foreign">*sak-/*sek-</span> "to cut" (cf. L. <span class="foreign">secare</span> "to cut," Rus. <span class="foreign">sech'</span> "to cut;" see <a href="/index.php?term=section&allowed_in_frame=0" class="crossreference">section</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=saw&allowed_in_frame=0">saw (n.2)</a> <a href="http://dictionary.reference.com/search?q=saw" class="dictionary" title="Look up saw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saw at Dictionary.com" title="Look up saw at Dictionary.com" /></a></dt>
+<dd class="highlight">"proverb," O.E. <span class="foreign">sagu</span> "saying, discourse, speech," from P.Gmc. <span class="foreign">*saga-</span>, <span class="foreign">*sagon-</span> (cf. M.L.G., M.Du. <span class="foreign">sage</span>, <span class="foreign">zage</span>, Ger. <span class="foreign">sage</span> "legend, fable, saga, myth, tradition," O.N. <span class="foreign">saga</span> "story, tale, saga") from the root of O.E. <span class="foreign">secgan</span> "say" (see <a href="/index.php?term=say&allowed_in_frame=0" class="crossreference">say</a>).</dd>
+
+<dt><a href="/index.php?term=saw&allowed_in_frame=0">saw (v.)</a> <a href="http://dictionary.reference.com/search?q=saw" class="dictionary" title="Look up saw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saw at Dictionary.com" title="Look up saw at Dictionary.com" /></a></dt>
+<dd>early 13c., from <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.1). Strong conjugation began 15c. on model of <a href="/index.php?term=draw&allowed_in_frame=0" class="crossreference">draw</a>, etc. <span class="foreign">Sawed-off</span> "short, cut short" is attested 1887 of persons, 1898 of shotguns.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sawbones&allowed_in_frame=0">sawbones (n.)</a> <a href="http://dictionary.reference.com/search?q=sawbones" class="dictionary" title="Look up sawbones at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawbones at Dictionary.com" title="Look up sawbones at Dictionary.com" /></a></dt>
+<dd class="highlight">"surgeon," 1837, slang; see <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (v.) + <a href="/index.php?term=bone&allowed_in_frame=0" class="crossreference">bone</a>.</dd>
+
+<dt><a href="/index.php?term=sawbuck&allowed_in_frame=0">sawbuck (n.)</a> <a href="http://dictionary.reference.com/search?q=sawbuck" class="dictionary" title="Look up sawbuck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawbuck at Dictionary.com" title="Look up sawbuck at Dictionary.com" /></a></dt>
+<dd>"ten-dollar bill," American English slang, 1850, from resemblance of X (Roman numeral 10) to the ends of a sawhorse. <span class="foreign">Sawbuck</span> in the sense of "sawhorse" only is attested from 1862 but presumably is older (see <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sawdust&allowed_in_frame=0">sawdust (n.)</a> <a href="http://dictionary.reference.com/search?q=sawdust" class="dictionary" title="Look up sawdust at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawdust at Dictionary.com" title="Look up sawdust at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.1) + <a href="/index.php?term=dust&allowed_in_frame=0" class="crossreference">dust</a> (n.).</dd>
+
+<dt><a href="/index.php?term=sawfish&allowed_in_frame=0">sawfish (n.)</a> <a href="http://dictionary.reference.com/search?q=sawfish" class="dictionary" title="Look up sawfish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawfish at Dictionary.com" title="Look up sawfish at Dictionary.com" /></a></dt>
+<dd>1660s; see <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (v.) + <a href="/index.php?term=fish&allowed_in_frame=0" class="crossreference">fish</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sawhorse&allowed_in_frame=0">sawhorse (n.)</a> <a href="http://dictionary.reference.com/search?q=sawhorse" class="dictionary" title="Look up sawhorse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawhorse at Dictionary.com" title="Look up sawhorse at Dictionary.com" /></a></dt>
+<dd class="highlight">1778, from <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.1) + <a href="/index.php?term=horse&allowed_in_frame=0" class="crossreference">horse</a> (n.) in the mechanical sense.</dd>
+
+<dt><a href="/index.php?term=sawmill&allowed_in_frame=0">sawmill (n.)</a> <a href="http://dictionary.reference.com/search?q=sawmill" class="dictionary" title="Look up sawmill at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawmill at Dictionary.com" title="Look up sawmill at Dictionary.com" /></a></dt>
+<dd>1550s; see <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.) + <a href="/index.php?term=mill&allowed_in_frame=0" class="crossreference">mill</a> (n.1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sawn&allowed_in_frame=0">sawn</a> <a href="http://dictionary.reference.com/search?q=sawn" class="dictionary" title="Look up sawn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawn at Dictionary.com" title="Look up sawn at Dictionary.com" /></a></dt>
+<dd class="highlight">strong pp. of <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (v.), attested from 1530s.</dd>
+
+<dt><a href="/index.php?term=sawyer&allowed_in_frame=0">sawyer (n.)</a> <a href="http://dictionary.reference.com/search?q=sawyer" class="dictionary" title="Look up sawyer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sawyer at Dictionary.com" title="Look up sawyer at Dictionary.com" /></a></dt>
+<dd>mid-14c. (as a surname from mid-13c.), alteration of <span class="foreign">sawer</span>, agent noun from <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (v.), influenced by French-derived words in <span class="foreign">-ier</span> (e.g. <span class="foreign">lawyer</span>, <span class="foreign">bowyer</span>, <span class="foreign">clothier</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sax&allowed_in_frame=0">sax (n.)</a> <a href="http://dictionary.reference.com/search?q=sax" class="dictionary" title="Look up sax at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sax at Dictionary.com" title="Look up sax at Dictionary.com" /></a></dt>
+<dd class="highlight">1923, colloquial shortening of <a href="/index.php?term=saxophone&allowed_in_frame=0" class="crossreference">saxophone</a>.</dd>
+
+<dt><a href="/index.php?term=saxifrage&allowed_in_frame=0">saxifrage (n.)</a> <a href="http://dictionary.reference.com/search?q=saxifrage" class="dictionary" title="Look up saxifrage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saxifrage at Dictionary.com" title="Look up saxifrage at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">saxifrage</span> (13c.), from L.L. <span class="foreign">saxifraga</span> "kind of herb," from L. <span class="foreign">saxifraga herba</span>, lit. "a rock-breaking herb," from <span class="foreign">saxifragus</span> "stonebreaking," from <span class="foreign">saxum</span> "stone, rock" + <span class="foreign">frag-</span>, root of <span class="foreign">frangere</span> "to break" (see <a href="/index.php?term=fraction&allowed_in_frame=0" class="crossreference">fraction</a>). Pliny says the plant was so called because it was given to dissolve gallstones, but a more likely explanation is that it was so called because it grows in crevices in rocks. (Latin used two different words for "stone" and "gallstone" -- <span class="foreign">saxum</span> and <span class="foreign">calculus</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Saxon&allowed_in_frame=0">Saxon</a> <a href="http://dictionary.reference.com/search?q=Saxon" class="dictionary" title="Look up Saxon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Saxon at Dictionary.com" title="Look up Saxon at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from L.L. <span class="foreign">Saxonem</span> (nom. <span class="foreign">Saxo</span>), usually found in pl. <span class="foreign">Saxones</span>, from P.Gmc. <span class="foreign">*sakhsan</span> (cf. O.E. <span class="foreign">Seaxe</span>, O.H.G. <span class="foreign">Sahsun</span>, Ger. <span class="foreign">Sachse</span> "Saxon"), with a possible literal sense of "swordsmen" (cf. O.E. <span class="foreign">seax</span>, O.Fris., O.N. <span class="foreign">sax</span> "knife, short sword, dagger," perhaps ultimately from PIE root of <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.1)). The word figures in the well-known story, related by Geoffrey of Monmouth, who got it from Nennius, of the treacherous slaughter by the Anglo-Saxons of their British hosts:<blockquote>Accordingly they all met at the time and place appointed, and began to treat of peace; and when a fit opportunity offered for executing his villany, Hengist cried out, <span class="foreign">"Nemet oure Saxas,"</span> and the same instant seized Vortigern, and held him by his cloak. The Saxons, upon the signal given, drew their daggers, and falling upon the princes, who little suspected any such design, assassinated them to the number of four hundred and sixty barons and consuls ....</blockquote>OED helpfully points out that the correct Old English (with an uninflected plural) would be <span class="foreign">nima&eth; eowre seax</span>. For other national names that may have derived from characteristic tribal weapons, cf. <a href="/index.php?term=Frank&allowed_in_frame=0" class="crossreference">Frank</a>, <a href="/index.php?term=Lombard&allowed_in_frame=0" class="crossreference">Lombard</a>. Still in 20c. used by Celtic speakers to mean "an Englishman." In reference to the modern German state of Saxony (Ger. <span class="foreign">Sachsen</span>, Fr. <span class="foreign">Saxe</span>) it is attested from 1630s. <span class="foreign">Saxon</span> is the source of the <span class="foreign">-sex</span> in <span class="foreign">Essex, Sussex</span>, etc. (cf. <span class="foreign">Middlesex</span>, from O.E. <span class="foreign">Middel-Seaxe</span> "Middle Saxons"). Bede distinguished the Anglo-Saxons, who conquered much of southern Britain, from the <span class="foreign">Eealdesaxe</span> "Old Saxons," who stayed in Germany.</dd>
+
+<dt><a href="/index.php?term=saxophone&allowed_in_frame=0">saxophone (n.)</a> <a href="http://dictionary.reference.com/search?q=saxophone" class="dictionary" title="Look up saxophone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saxophone at Dictionary.com" title="Look up saxophone at Dictionary.com" /></a></dt>
+<dd>1851, from Fr. <span class="foreign">saxophone</span>, named for Antoine Joseph "Adolphe" <span class="foreign">Sax</span> (1814-1894), Belgian instrument maker who devised it c.1840 + Gk. <span class="foreign">-phonos</span> "voiced, sounding." His father, Charles Joseph (1791-1865) invented the less popular <span class="foreign">saxhorn</span> (1845).</dd>
+
+<dt class="highlight"><a href="/index.php?term=say&allowed_in_frame=0">say (v.)</a> <a href="http://dictionary.reference.com/search?q=say" class="dictionary" title="Look up say at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up say at Dictionary.com" title="Look up say at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">secgan</span> "to utter, say," from P.Gmc. <span class="foreign">*sagjanan</span> (cf. O.S. <span class="foreign">seggian</span>, O.N. <span class="foreign">segja</span>, O.Fris. <span class="foreign">sedsa,</span> M.Du. <span class="foreign">segghen</span>, Du. <span class="foreign">zeggen</span>, O.H.G. <span class="foreign">sagen</span>, Ger. <span class="foreign">sagen</span> "to say"), from PIE <span class="foreign">*sokei-</span>, probably from root <span class="foreign">*seq-</span> "point out" (cf. Hitt. <span class="foreign">shakiya-</span> "to declare," Lith. <span class="foreign">sakyti</span> "to say," O.C.S. <span class="foreign">sociti</span> "to vindicate, show," O.Ir. <span class="foreign">insce</span> "speech," O.Latin <span class="foreign">inseque</span> "to tell say").
+<BR><BR>
+Past tense <span class="foreign">said</span> developed from O.E. <span class="foreign">segde.</span> Not attested in use with inanimate objects (clocks, signs, etc.) as subjects before 1930. <span class="foreign">You said it</span> "you're right" first recorded 1919; <span class="foreign">you can say that again</span> as a phrase expressing agreement is recorded from 1942, Amer.Eng. <span class="foreign">You don't say (so)</span> as an expression of astonishment (often ironic) is first recorded 1779, Amer.Eng.</dd>
+
+<dt><a href="/index.php?term=say&allowed_in_frame=0">say (n.)</a> <a href="http://dictionary.reference.com/search?q=say" class="dictionary" title="Look up say at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up say at Dictionary.com" title="Look up say at Dictionary.com" /></a></dt>
+<dd>"what someone says," 1570s, from <a href="/index.php?term=say&allowed_in_frame=0" class="crossreference">say</a> (v.). Extended form <span class="foreign">say-so</span> is first recorded 1630s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=saying&allowed_in_frame=0">saying (n.)</a> <a href="http://dictionary.reference.com/search?q=saying" class="dictionary" title="Look up saying at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saying at Dictionary.com" title="Look up saying at Dictionary.com" /></a></dt>
+<dd class="highlight">"utterance, recitation, act of the verb 'say,' " c.1300, verbal noun from <a href="/index.php?term=say&allowed_in_frame=0" class="crossreference">say</a> (v.); meaning "something that has been said" (usually by someone thought important) is from c.1300; sense of "a proverb" is first attested mid-15c.
+<blockquote>
+<b>&#199;a va sans dire</b>, a familiar French locution, whose English equivalent might be "that is a matter of course," or "that may be taken for granted." But recently it has become the tendency to translate it literally, "that goes without saying," and these words, though originally uncouth and almost unmeaning to the unpractised ear, are gradually acquiring the exact meaning of the French. [Walsh, 1892]</blockquote></dd>
+
+<dt><a href="/index.php?term=sayonara&allowed_in_frame=0">sayonara</a> <a href="http://dictionary.reference.com/search?q=sayonara" class="dictionary" title="Look up sayonara at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sayonara at Dictionary.com" title="Look up sayonara at Dictionary.com" /></a></dt>
+<dd>"farewell, good-bye" 1875, from Japanese, lit. "if it is to be that way," from <span class="foreign">sayo</span> "that way," + <span class="foreign">nara</span> "if."</dd>
+
+<dt class="highlight"><a href="/index.php?term=says&allowed_in_frame=0">says</a> <a href="http://dictionary.reference.com/search?q=says" class="dictionary" title="Look up says at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up says at Dictionary.com" title="Look up says at Dictionary.com" /></a></dt>
+<dd class="highlight">third person sing. of <a href="/index.php?term=say&allowed_in_frame=0" class="crossreference">say</a>, c. 1300, eventually replacing <span class="foreign">saith</span>.</dd>
+
+<dt><a href="/index.php?term=sayyid&allowed_in_frame=0">sayyid</a> <a href="http://dictionary.reference.com/search?q=sayyid" class="dictionary" title="Look up sayyid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sayyid at Dictionary.com" title="Look up sayyid at Dictionary.com" /></a></dt>
+<dd>Muslim title of honor, applied to descendants of Hussein, Muhammad's grandson, 1788, from Arabic <span class="foreign">sayyid,</span> lit. "lord, chief."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sbirro&allowed_in_frame=0">sbirro</a> <a href="http://dictionary.reference.com/search?q=sbirro" class="dictionary" title="Look up sbirro at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sbirro at Dictionary.com" title="Look up sbirro at Dictionary.com" /></a></dt>
+<dd class="highlight">Italian policeman, 1660s, from It., "police officer" (pl. <span class="foreign">sbirri</span>), from L.L. <span class="foreign">birrus</span> "red," from Gk. <span class="foreign">pyrros</span> "red," lit. "fire-colored," from <span class="foreign">pyr</span> "fire" (see <a href="/index.php?term=fire&allowed_in_frame=0" class="crossreference">fire</a>).</dd>
+
+<dt><a href="/index.php?term=scab&allowed_in_frame=0">scab (n.)</a> <a href="http://dictionary.reference.com/search?q=scab" class="dictionary" title="Look up scab at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scab at Dictionary.com" title="Look up scab at Dictionary.com" /></a></dt>
+<dd>mid-13c., "skin disease," developed from O.E. <span class="foreign">sceabb</span> "scab, itch" (related to <span class="foreign">scafan</span> "to scratch") and from O.N. <span class="foreign">skabb</span> "scab, itch," both from P.Gmc. <span class="foreign">*skab-</span> "scratch, shave" (related to <span class="foreign">shabby</span>). Sense reinforced by cognate L. <span class="foreign">scabies</span> "scab, itch, mange" (from <span class="foreign">scabere</span> "to scratch;" see <a href="/index.php?term=scabies&allowed_in_frame=0" class="crossreference">scabies</a>). Meaning "crust which forms over a wound or sore" is first attested c.1400. Meaning "strikebreaker" first recorded 1806, from earlier sense of "person who refuses to join a trade union" (1777), probably from meaning "despicable person" (1580s), possibly borrowed in this sense from Middle Dutch.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scabbard&allowed_in_frame=0">scabbard (n.)</a> <a href="http://dictionary.reference.com/search?q=scabbard" class="dictionary" title="Look up scabbard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scabbard at Dictionary.com" title="Look up scabbard at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from Anglo-Fr. <span class="foreign">*escauberc</span> "sheath, vagina" (13c.), probably from Frankish <span class="foreign">*skar</span> "blade" (cf. O.H.G. <span class="foreign">scar</span> "scissors, blade, sword") + <span class="foreign">*berg-</span> "protect" (cf. O.H.G. <span class="foreign">bergan</span> "to protect").</dd>
+
+<dt><a href="/index.php?term=scabies&allowed_in_frame=0">scabies (n.)</a> <a href="http://dictionary.reference.com/search?q=scabies" class="dictionary" title="Look up scabies at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scabies at Dictionary.com" title="Look up scabies at Dictionary.com" /></a></dt>
+<dd>skin disease, c.1400, from L. <span class="foreign">scabies</span> "mange, itch," from <span class="foreign">scabere</span> "to scratch," from PIE root <span class="foreign">*skab-</span> "to scrape, scratch" (cf. Goth. <span class="foreign">scaban</span>, O.E. <span class="foreign">sceafan</span> "to scrape, shave;" O.C.S. <span class="foreign">skobli</span> "scraper;" Lith. <span class="foreign">skabus</span> "sharp," <span class="foreign">skabeti</span> "to cut;" Lettish <span class="foreign">skabrs</span> "splintery, sharp").</dd>
+
+<dt class="highlight"><a href="/index.php?term=scabrous&allowed_in_frame=0">scabrous (adj.)</a> <a href="http://dictionary.reference.com/search?q=scabrous" class="dictionary" title="Look up scabrous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scabrous at Dictionary.com" title="Look up scabrous at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s (implied in <span class="foreign">scabrously</span>), from L.L. <span class="foreign">scabrosus</span> "rough," from L. <span class="foreign">scaber</span> "rough, scaly," related to <span class="foreign">scabere</span> "to scratch, scrape" (see <a href="/index.php?term=scabies&allowed_in_frame=0" class="crossreference">scabies</a>). Sense in English evolved from "harsh, unmusical," to "vulgar" (1881), "squalid" (1939) and "nasty, repulsive" (c.1951).</dd>
+
+<dt><a href="/index.php?term=scad&allowed_in_frame=0">scad (n.)</a> <a href="http://dictionary.reference.com/search?q=scad" class="dictionary" title="Look up scad at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scad at Dictionary.com" title="Look up scad at Dictionary.com" /></a></dt>
+<dd>c.1600, Cornish name for a type of fish abundant on the British coast; perhaps a variant of <a href="/index.php?term=shad&allowed_in_frame=0" class="crossreference">shad</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scads&allowed_in_frame=0">scads (n.)</a> <a href="http://dictionary.reference.com/search?q=scads" class="dictionary" title="Look up scads at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scads at Dictionary.com" title="Look up scads at Dictionary.com" /></a></dt>
+<dd class="highlight">"large amounts," 1869, American English, earlier "dollar" (1858, usually in plural), of uncertain origin. Unknown connection to <a href="/index.php?term=scad&allowed_in_frame=0" class="crossreference">scad</a>, the fish.</dd>
+
+<dt><a href="/index.php?term=scaffold&allowed_in_frame=0">scaffold (n.)</a> <a href="http://dictionary.reference.com/search?q=scaffold" class="dictionary" title="Look up scaffold at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scaffold at Dictionary.com" title="Look up scaffold at Dictionary.com" /></a></dt>
+<dd>mid-14c., "wooden framework used in building, etc.," aphetic of an O.N.Fr. variant of O.Fr. <span class="foreign">eschafaut</span> "scaffold," probably altered (by influence of <span class="foreign">eschace</span> "a prop, support") from <span class="foreign">chaffaut,</span> from V.L. <span class="foreign">*catafalicum</span> (see <a href="/index.php?term=catafalque&allowed_in_frame=0" class="crossreference">catafalque</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scag&allowed_in_frame=0">scag (n.)</a> <a href="http://dictionary.reference.com/search?q=scag" class="dictionary" title="Look up scag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scag at Dictionary.com" title="Look up scag at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=skag&allowed_in_frame=0" class="crossreference">skag</a>.</dd>
+
+<dt><a href="/index.php?term=scalable&allowed_in_frame=0">scalable (adj.)</a> <a href="http://dictionary.reference.com/search?q=scalable" class="dictionary" title="Look up scalable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scalable at Dictionary.com" title="Look up scalable at Dictionary.com" /></a></dt>
+<dd>1570s, "able to be climbed;" see <a href="/index.php?term=scale&allowed_in_frame=0" class="crossreference">scale</a> (v.) + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. From 1936 as "able to be graded by scale." Related: <span class="foreign">Scalability</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scalar&allowed_in_frame=0">scalar (adj.)</a> <a href="http://dictionary.reference.com/search?q=scalar" class="dictionary" title="Look up scalar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scalar at Dictionary.com" title="Look up scalar at Dictionary.com" /></a></dt>
+<dd class="highlight">"resembling a ladder," 1650s, from L. <span class="foreign">scalaris</span> "of or pertaining to a ladder," from <span class="foreign">scalae</span> (pl.) "ladder, steps" (see <a href="/index.php?term=scale&allowed_in_frame=0" class="crossreference">scale</a> (n.2)). Mathematical sense first recorded 1846.</dd>
+
+<dt><a href="/index.php?term=scalawag&allowed_in_frame=0">scalawag (n.)</a> <a href="http://dictionary.reference.com/search?q=scalawag" class="dictionary" title="Look up scalawag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scalawag at Dictionary.com" title="Look up scalawag at Dictionary.com" /></a></dt>
+<dd>"disreputable fellow," 1848, American English, originally in trade union jargon, of uncertain origin, perhaps an alteration of Scottish <span class="foreign">scallag</span> "farm servant, rustic" (by influence of <span class="foreign">wag</span> "habitual joker"). An early recorded sense was "undersized or worthless animal" (1854), which suggests an alteration of <span class="foreign">Scalloway</span>, one of the Shetland Islands, in reference to little Shetland ponies. In U.S. history, used from 1862 of anti-Confederate native white Southerners.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scald&allowed_in_frame=0">scald (v.)</a> <a href="http://dictionary.reference.com/search?q=scald" class="dictionary" title="Look up scald at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scald at Dictionary.com" title="Look up scald at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., from O.N.Fr. <span class="foreign">escalder</span> (O.Fr. <span class="foreign">eschalder</span>, Fr. <span class="foreign">&eacute;chauder</span>) "to scald," from L.L. <span class="foreign">excaldare</span> "bathe in hot water," from L. <span class="foreign">ex-</span> "off" + <span class="foreign">calidus</span> "hot" (see <span class="foreign">calorie</span>). Related: <span class="foreign">Scalded</span>; <span class="foreign">scalding</span>.
+</dd>
+
+<dt><a href="/index.php?term=scale&allowed_in_frame=0">scale (n.1)</a> <a href="http://dictionary.reference.com/search?q=scale" class="dictionary" title="Look up scale at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scale at Dictionary.com" title="Look up scale at Dictionary.com" /></a></dt>
+<dd>"skin plates on fish or snakes," c.1300, from O.Fr. <span class="foreign">escale</span> (12c., Mod.Fr. <span class="foreign">&eacute;cale</span>) "scale, husk," from Frankish or some other Germanic source, from P.Gmc. <span class="foreign">*sk&aelig;lo</span> "split, divide" (cf. O.H.G. <span class="foreign">scala</span> "shell," Goth. <span class="foreign">skalja</span> "tile," O.E. <span class="foreign">scealu</span> "shell, husk), from PIE root <span class="foreign">*(s)kel-</span> "to cut, cleave, split" (cf. L. <span class="foreign">culter</span> "knife," <span class="foreign">scalpere</span> "to cut, scrape;" O.C.S. <span class="foreign">skolika</span> "mussel, shell," Rus. <span class="foreign">skala</span> "rind, bark," O.E. <span class="foreign">scell</span> "shell"). In reference to humans, as a condition of certain skin diseases, it is attested from c.1400. As what falls from one's eye when blindness ends (usually figurative), it echoes Acts ix:18 (L. <span class="foreign">tanquam squam&aelig;</span>, Gk. <span class="foreign">hosei lepides</span>). Verb meaning "to remove the scales from (a fish)" is attested from mid-15c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scale&allowed_in_frame=0">scale (n2.)</a> <a href="http://dictionary.reference.com/search?q=scale" class="dictionary" title="Look up scale at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scale at Dictionary.com" title="Look up scale at Dictionary.com" /></a></dt>
+<dd class="highlight">"pan of a balance," late 14c., earlier "drinking cup" (c.1200), from O.N. <span class="foreign">skal</span> "bowl, drinking cup," in pl., "weighing scale" from P.Gmc. <span class="foreign">*sk&aelig;lo</span> "split, divide" (cf. O.N. <span class="foreign">skel</span> "shell," O.E. <span class="foreign">scalu,</span> O.S. <span class="foreign">skala</span>, O.H.G. <span class="foreign">scala</span>, Ger. <span class="foreign">Schale</span>, M.Du. <span class="foreign">scale</span>, Du. <span class="foreign">schaal</span> "drinking cup, bowl, shell, scale of a balance"), see <a href="/index.php?term=scale&allowed_in_frame=0" class="crossreference">scale</a> (n.1). The connecting sense seems to be of half of a bivalve ("split") shell used as a drinking cup or a pan for weighing. But according to Paulus Diaconus the "drinking cup" sense originated from a supposed custom of making goblets from skulls (see <a href="/index.php?term=skull&allowed_in_frame=0" class="crossreference">skull</a>).</dd>
+
+<dt><a href="/index.php?term=scale&allowed_in_frame=0">scale (v.)</a> <a href="http://dictionary.reference.com/search?q=scale" class="dictionary" title="Look up scale at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scale at Dictionary.com" title="Look up scale at Dictionary.com" /></a></dt>
+<dd>"to climb," late 14c., from L. <span class="foreign">scala</span>, from <span class="foreign">scandere</span> "to climb" (see <a href="/index.php?term=scan&allowed_in_frame=0" class="crossreference">scan</a>). This is also the source (perhaps via It. <span class="foreign">scala</span>) of the noun in the musical sense (1590s), and the meaning "proportion of a representation to the actual object" (1660s). <span class="foreign">Scale down</span> "reduce" is attested from 1887. <span class="foreign">Scale factor</span> is from 1948. Related: <span class="foreign">Scaled</span>; <span class="foreign">scaling</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=scalene&allowed_in_frame=0">scalene (adj.)</a> <a href="http://dictionary.reference.com/search?q=scalene" class="dictionary" title="Look up scalene at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scalene at Dictionary.com" title="Look up scalene at Dictionary.com" /></a></dt>
+<dd class="highlight">"having unequal sides," 1680s, from L.L. <span class="foreign">scalenus</span>, from Gk. <span class="foreign">skalenos</span> "uneven, unequal, rough," from <span class="foreign">skallein</span> "chop, hoe," related to <span class="foreign">skelos</span> "leg" (lit. "bending") and <span class="foreign">skolios</span> "crooked," from PIE <span class="foreign">*(s)kel-</span> "crooked, curved, bent; perverted" (cf. Gk. <span class="foreign">kole</span> "thigh bone," O.C.S. <span class="foreign">koleno</span> "knee," Lith. <span class="foreign">kelys</span> "knee").</dd>
+
+<dt><a href="/index.php?term=scallion&allowed_in_frame=0">scallion (n.)</a> <a href="http://dictionary.reference.com/search?q=scallion" class="dictionary" title="Look up scallion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scallion at Dictionary.com" title="Look up scallion at Dictionary.com" /></a></dt>
+<dd>c.1300, from Anglo-Fr. <span class="foreign">escalone</span>, O.N.Fr. <span class="foreign">escalogne</span>, or O.Fr. <span class="foreign">eschaloigne</span>, all from V.L. <span class="foreign">*escalonia,</span> from L. <span class="foreign">(c&aelig;pa) Ascalonia</span> "(onion) from Ascalon," seaport in southwestern Levant (modern <span class="foreign">Ashkelon</span>). Cognate with <a href="/index.php?term=shallot&allowed_in_frame=0" class="crossreference">shallot</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scallop&allowed_in_frame=0">scallop (n.)</a> <a href="http://dictionary.reference.com/search?q=scallop" class="dictionary" title="Look up scallop at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scallop at Dictionary.com" title="Look up scallop at Dictionary.com" /></a></dt>
+<dd class="highlight">"bivalve mollusk," c.1400, from O.Fr. <span class="foreign">escalope</span> "shell," variant of <span class="foreign">eschalope</span>, probably from a Germanic source (cf. O.N. <span class="foreign">skalpr</span> "sheath," M.Du. <span class="foreign">schelpe</span> "shell"); see <a href="/index.php?term=scale&allowed_in_frame=0" class="crossreference">scale</a> (n.1). Extended 17c. to objects shaped like scallop shells, especially in design and dress. The verb in the cookery sense, "to bake in a scallop shell-shaped pan," is attested from 1737. Related: <span class="foreign">Scalloped</span>; <span class="foreign">scalloping</span>.
+</dd>
+
+<dt><a href="/index.php?term=scalp&allowed_in_frame=0">scalp (n.)</a> <a href="http://dictionary.reference.com/search?q=scalp" class="dictionary" title="Look up scalp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scalp at Dictionary.com" title="Look up scalp at Dictionary.com" /></a></dt>
+<dd>c.1300, presumably from a Scandinavian source (though exact cognates are wanting) related to O.N. <span class="foreign">skalli</span> "bald head," <span class="foreign">skalpr</span> "sheath," from the source of <a href="/index.php?term=scale&allowed_in_frame=0" class="crossreference">scale</a> (n.2). Fr. <span class="foreign">scalpe</span>, Ger., Swed. <span class="foreign">skalp</span> are from English. The verb meaning "to cut off (someone's) scalp" is recorded from 1670s, originally in reference to N.Amer. Indians. Related: <span class="foreign">Scalped</span>; <span class="foreign">scalping</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658708 -->
+<!-- Page was generated in 0.185864 seconds. -->
+ </body>
+</html>
+<!-- -->

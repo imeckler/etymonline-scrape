@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=pertinent&allowed_in_frame=0">pertinent (adj.)</a> <a href="http://dictionary.reference.com/search?q=pertinent" class="dictionary" title="Look up pertinent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pertinent at Dictionary.com" title="Look up pertinent at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Anglo-Fr. <span class="foreign">purtinaunt</span> (late 13c.), O.Fr. <span class="foreign">partenant</span> (mid-13c.) and directly from L. <span class="foreign">pertinentem</span> (nom. <span class="foreign">pertinens</span>) "pertaining," prp. of <span class="foreign">pertinere</span> "to relate, concern" (see <a href="/index.php?term=pertain&allowed_in_frame=0" class="crossreference">pertain</a>). Related: <span class="foreign">Pertinently</span>.</dd>
+
+<dt><a href="/index.php?term=perturb&allowed_in_frame=0">perturb (v.)</a> <a href="http://dictionary.reference.com/search?q=perturb" class="dictionary" title="Look up perturb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perturb at Dictionary.com" title="Look up perturb at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">perturber</span> "disturb, confuse" (14c.) and directly from L. <span class="foreign">perturbare</span> "to confuse, disorder, disturb," especially of states of the mind, from <span class="foreign">per-</span> "through" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <span class="foreign">turbare</span> "disturb, confuse," from <span class="foreign">turba</span> "turmoil, crowd" (see <a href="/index.php?term=turbid&allowed_in_frame=0" class="crossreference">turbid</a>). Related: <a href="/index.php?term=Perturbed&allowed_in_frame=0" class="crossreference">Perturbed</a>; <span class="foreign">perturbing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=perturbate&allowed_in_frame=0">perturbate (adj.)</a> <a href="http://dictionary.reference.com/search?q=perturbate" class="dictionary" title="Look up perturbate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perturbate at Dictionary.com" title="Look up perturbate at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, from L. <span class="foreign">perturbatus</span> "troubled, disturbed, agitated," pp. of <span class="foreign">perturbare</span> (see <a href="/index.php?term=perturb&allowed_in_frame=0" class="crossreference">perturb</a>).</dd>
+
+<dt><a href="/index.php?term=perturbation&allowed_in_frame=0">perturbation (n.)</a> <a href="http://dictionary.reference.com/search?q=perturbation" class="dictionary" title="Look up perturbation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perturbation at Dictionary.com" title="Look up perturbation at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">perturbacion</span> "disturbance, confusion" (14c.) and directly from L. <span class="foreign">perturbationem</span> (nom. <span class="foreign">perturbatio</span>) "confusion, disorder, disturbance," noun of action from pp. stem of <span class="foreign">perturbare</span> (see <a href="/index.php?term=perturb&allowed_in_frame=0" class="crossreference">perturb</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=perturbed&allowed_in_frame=0">perturbed (adj.)</a> <a href="http://dictionary.reference.com/search?q=perturbed" class="dictionary" title="Look up perturbed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perturbed at Dictionary.com" title="Look up perturbed at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, pp. adjective from <a href="/index.php?term=perturb&allowed_in_frame=0" class="crossreference">perturb</a> (v.).</dd>
+
+<dt><a href="/index.php?term=pertussis&allowed_in_frame=0">pertussis (n.)</a> <a href="http://dictionary.reference.com/search?q=pertussis" class="dictionary" title="Look up pertussis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pertussis at Dictionary.com" title="Look up pertussis at Dictionary.com" /></a></dt>
+<dd>"whooping cough," 1670s (Sydenham), from Mod.L. <span class="foreign">pertussis</span>, from <span class="foreign">per-</span> "thoroughly" + <span class="foreign">tussis</span> "cough," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Peru&allowed_in_frame=0">Peru</a> <a href="http://dictionary.reference.com/search?q=Peru" class="dictionary" title="Look up Peru at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Peru at Dictionary.com" title="Look up Peru at Dictionary.com" /></a></dt>
+<dd class="highlight">from Sp. <span class="foreign">Peru</span>, said to be from Quechua <span class="foreign">pelu</span> "river." Related: <span class="foreign">Peruvian</span>.</dd>
+
+<dt><a href="/index.php?term=peruke&allowed_in_frame=0">peruke (n.)</a> <a href="http://dictionary.reference.com/search?q=peruke" class="dictionary" title="Look up peruke at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peruke at Dictionary.com" title="Look up peruke at Dictionary.com" /></a></dt>
+<dd>1540s, "natural head of hair," from M.Fr. <span class="foreign">perruque</span> (late 15c.), from It. <span class="foreign">perrucca</span> "head of hair, wig," of uncertain origin; supposed by some to be connected to L. <span class="foreign">pilus</span> "hair," "but the phonetic difficulties are considerable" [OED]. Meaning "artificial head of hair, periwig" is attested from 1560s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=perusal&allowed_in_frame=0">perusal (n.)</a> <a href="http://dictionary.reference.com/search?q=perusal" class="dictionary" title="Look up perusal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perusal at Dictionary.com" title="Look up perusal at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from <a href="/index.php?term=peruse&allowed_in_frame=0" class="crossreference">peruse</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (2).</dd>
+
+<dt><a href="/index.php?term=peruse&allowed_in_frame=0">peruse (v.)</a> <a href="http://dictionary.reference.com/search?q=peruse" class="dictionary" title="Look up peruse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peruse at Dictionary.com" title="Look up peruse at Dictionary.com" /></a></dt>
+<dd>late 15c., "use up, wear out, go through," from M.E. <span class="foreign">per-</span> "completely" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <a href="/index.php?term=use&allowed_in_frame=0" class="crossreference">use</a> (v.). Meaning "read carefully" is first recorded 1530s, but this could be a separate formation. Meaning "read casually" is from 19c. Related: <span class="foreign">Perused</span>; <span class="foreign">perusing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=perv&allowed_in_frame=0">perv (n,)</a> <a href="http://dictionary.reference.com/search?q=perv" class="dictionary" title="Look up perv at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perv at Dictionary.com" title="Look up perv at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">perve</span>, 1944, slang shortening of (sexual) <a href="/index.php?term=pervert&allowed_in_frame=0" class="crossreference">pervert</a> (n.). As a slang verb, by 1941 as "to act erotically" (intrans.), by 1959 as "to eroticize" something (trans.).</dd>
+
+<dt><a href="/index.php?term=pervade&allowed_in_frame=0">pervade (v.)</a> <a href="http://dictionary.reference.com/search?q=pervade" class="dictionary" title="Look up pervade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pervade at Dictionary.com" title="Look up pervade at Dictionary.com" /></a></dt>
+<dd>1650s, from L. <span class="foreign">pervadere</span> "spread or go through," from <span class="foreign">per-</span> "through" + <span class="foreign">vadere</span> "to go" (see <a href="/index.php?term=vamoose&allowed_in_frame=0" class="crossreference">vamoose</a>). Related: <span class="foreign">Pervaded</span>; <span class="foreign">pervading</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pervasive&allowed_in_frame=0">pervasive (adj.)</a> <a href="http://dictionary.reference.com/search?q=pervasive" class="dictionary" title="Look up pervasive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pervasive at Dictionary.com" title="Look up pervasive at Dictionary.com" /></a></dt>
+<dd class="highlight">1750, from L. <span class="foreign">pervas-</span>, pp. stem of <span class="foreign">pervadere</span> (see <a href="/index.php?term=pervade&allowed_in_frame=0" class="crossreference">pervade</a>) + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>.</dd>
+
+<dt><a href="/index.php?term=perverse&allowed_in_frame=0">perverse (adj.)</a> <a href="http://dictionary.reference.com/search?q=perverse" class="dictionary" title="Look up perverse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perverse at Dictionary.com" title="Look up perverse at Dictionary.com" /></a></dt>
+<dd>mid-14c., "wicked," from O.Fr. <span class="foreign">pervers</span> "unnatural, degenerate; perverse, contrary" (12c.) and directly from L. <span class="foreign">perversus</span> "turned away, contrary, askew," figuratively, "turned away from what is right, wrong, malicious, spiteful," pp. of <span class="foreign">pervertere</span> "to corrupt" (see <a href="/index.php?term=pervert&allowed_in_frame=0" class="crossreference">pervert</a> (v.)). The Latin word is glossed in Old English by <span class="foreign">forcerred</span>, from pp. of <span class="foreign">forcyrran</span> "to avoid," from <span class="foreign">cierran</span> "to turn, return." Meaning "wrong, not in accord with what is accepted" is from 1560s; sense of "obstinate, stubborn" is from 1570s. It keeps the non-sexual senses of <span class="foreign">pervert</span> (v.) and allows the psychological ones to go with <a href="/index.php?term=perverted&allowed_in_frame=0" class="crossreference">perverted</a>. Related: <span class="foreign">Perversely</span>; <span class="foreign">perverseness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=perversion&allowed_in_frame=0">perversion (n.)</a> <a href="http://dictionary.reference.com/search?q=perversion" class="dictionary" title="Look up perversion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perversion at Dictionary.com" title="Look up perversion at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "action of turning aside from truth, corruption, distortion" (originally of religious beliefs), from L. <span class="foreign">perversionem</span> (nom. <span class="foreign">perversio</span>) "a turning about," noun of action from pp. stem of <span class="foreign">pervertere</span> (see <a href="/index.php?term=pervert&allowed_in_frame=0" class="crossreference">pervert</a> (v.)). Psychological sense of "disorder of sexual behavior in which satisfaction is sought through channels other than those of normal heterosexual intercourse" is from 1892, originally including homosexuality.<blockquote>Perversions are defined as unnatural acts, acts contrary to nature, bestial, abominable, and detestable. Such laws are interpretable only in accordance with the ancient tradition of the English common law which ... is committed to the doctrine that no sexual activity is justifiable unless its objective is procreation. [A.C. Kinsey, <span class="foreign">et.al., "Sexual Behavior in the Human Male,"</span> 1948]</blockquote></dd>
+
+<dt><a href="/index.php?term=perversity&allowed_in_frame=0">perversity (n.)</a> <a href="http://dictionary.reference.com/search?q=perversity" class="dictionary" title="Look up perversity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perversity at Dictionary.com" title="Look up perversity at Dictionary.com" /></a></dt>
+<dd>1520s, from M.Fr. <span class="foreign">perversit&eacute;</span> "depravity, degeneracy" (12c.), from L. <span class="foreign">perversitatem</span> (nom. <span class="foreign">perversitas</span>) "forwardness, untowardness," from <span class="foreign">perversus</span> (see <a href="/index.php?term=perverse&allowed_in_frame=0" class="crossreference">perverse</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pervert&allowed_in_frame=0">pervert (v.)</a> <a href="http://dictionary.reference.com/search?q=pervert" class="dictionary" title="Look up pervert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pervert at Dictionary.com" title="Look up pervert at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300 (trans.), "to turn someone aside from a right religious belief to a false or erroneous one," from O.Fr. <span class="foreign">pervertir</span> "pervert, undo, destroy" (12c.) and directly from L. <span class="foreign">pervertere</span> "overthrow, overturn," figuratively "to corrupt, subvert, abuse," lit. turn the wrong way, turn about," from <span class="foreign">per-</span> "away" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <span class="foreign">vertere</span> "to turn" (see <a href="/index.php?term=versus&allowed_in_frame=0" class="crossreference">versus</a>). Related: <a href="/index.php?term=Perverted&allowed_in_frame=0" class="crossreference">Perverted</a>; <span class="foreign">perverting</span>. Replaced native <a href="/index.php?term=froward&allowed_in_frame=0" class="crossreference">froward</a>, which embodies the same image. Old English had <span class="foreign">mishweorfed</span> "perverted, inverted," an identical formation to the Latin word using native elements.</dd>
+
+<dt><a href="/index.php?term=pervert&allowed_in_frame=0">pervert (n.)</a> <a href="http://dictionary.reference.com/search?q=pervert" class="dictionary" title="Look up pervert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pervert at Dictionary.com" title="Look up pervert at Dictionary.com" /></a></dt>
+<dd>1660s, "one who has forsaken a doctrine or system regarded as true, apostate," from <a href="/index.php?term=pervert&allowed_in_frame=0" class="crossreference">pervert</a> (v.). Psychological sense of "one who has a perversion of the sexual instinct" is attested from 1897 (Havelock Ellis), originally especially of homosexuals.</dd>
+
+<dt class="highlight"><a href="/index.php?term=perverted&allowed_in_frame=0">perverted (adj.)</a> <a href="http://dictionary.reference.com/search?q=perverted" class="dictionary" title="Look up perverted at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up perverted at Dictionary.com" title="Look up perverted at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, "turned from the right way," pp. adjective from <a href="/index.php?term=pervert&allowed_in_frame=0" class="crossreference">pervert</a> (v.). With implied sexual sense by 1897.</dd>
+
+<dt><a href="/index.php?term=pervious&allowed_in_frame=0">pervious (adj.)</a> <a href="http://dictionary.reference.com/search?q=pervious" class="dictionary" title="Look up pervious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pervious at Dictionary.com" title="Look up pervious at Dictionary.com" /></a></dt>
+<dd>"penetrable, accessible, permeable," 1610s, from L. <span class="foreign">pervius</span> "that may be passed through" (see <a href="/index.php?term=impervious&allowed_in_frame=0" class="crossreference">impervious</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pesky&allowed_in_frame=0">pesky (adj.)</a> <a href="http://dictionary.reference.com/search?q=pesky" class="dictionary" title="Look up pesky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pesky at Dictionary.com" title="Look up pesky at Dictionary.com" /></a></dt>
+<dd class="highlight">1775, originally in New England dialect, perhaps a dialectal formation from <a href="/index.php?term=pest&allowed_in_frame=0" class="crossreference">pest</a> (cf. <span class="foreign">plaguy</span> "confounded, annoying, disagreeable"). Partridge suggests an origin in Essex dialect.</dd>
+
+<dt><a href="/index.php?term=peso&allowed_in_frame=0">peso (n.)</a> <a href="http://dictionary.reference.com/search?q=peso" class="dictionary" title="Look up peso at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peso at Dictionary.com" title="Look up peso at Dictionary.com" /></a></dt>
+<dd>"Spanish coin," 1550s, from Sp. <span class="foreign">peso</span>, lit. "a weight," from L. <span class="foreign">pensum</span>, properly pp. of <span class="foreign">pendere</span> "to hang, to cause to hang" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pessary&allowed_in_frame=0">pessary (n.)</a> <a href="http://dictionary.reference.com/search?q=pessary" class="dictionary" title="Look up pessary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pessary at Dictionary.com" title="Look up pessary at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from L.L. <span class="foreign">pessarium,</span> from Gk. <span class="foreign">pessarion</span> "medicated tampon of wool or lint," dim. of <span class="foreign">pessos</span> "pessary," earlier "oval stone used in games," perhaps of Semitic origin.</dd>
+
+<dt><a href="/index.php?term=pessimism&allowed_in_frame=0">pessimism (n.)</a> <a href="http://dictionary.reference.com/search?q=pessimism" class="dictionary" title="Look up pessimism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pessimism at Dictionary.com" title="Look up pessimism at Dictionary.com" /></a></dt>
+<dd>1794 "worst condition possible," borrowed (by Coleridge) from Fr. <span class="foreign">pessimisme</span>, formed (on model of Fr. <span class="foreign">optimisme</span>) from L. <span class="foreign">pessimus</span> "worst," originally "bottom-most," from PIE <span class="foreign">*ped-samo-</span>, superlative of root <span class="foreign">*pes-</span> "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)). As a name given to the doctrines of Schopenhauer, Hartmann, etc., that this is the worst possible world, or that everything tends toward evil, it is first recorded 1835, from Ger. <span class="foreign">pessimismus</span> (Schopenhauer, 1819). The attempt to make a verb of it as <span class="foreign">pessimize</span> (1862) did not succeed.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pessimist&allowed_in_frame=0">pessimist (n.)</a> <a href="http://dictionary.reference.com/search?q=pessimist" class="dictionary" title="Look up pessimist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pessimist at Dictionary.com" title="Look up pessimist at Dictionary.com" /></a></dt>
+<dd class="highlight">1820, "one who habitually expects the worst" (Knowles' dictionary, 1835, defines it as "A universal complainer"), from 19c. Fr. <span class="foreign">pessimiste</span> (see <a href="/index.php?term=pessimism&allowed_in_frame=0" class="crossreference">pessimism</a>).</dd>
+
+<dt><a href="/index.php?term=pessimistic&allowed_in_frame=0">pessimistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=pessimistic" class="dictionary" title="Look up pessimistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pessimistic at Dictionary.com" title="Look up pessimistic at Dictionary.com" /></a></dt>
+<dd>1866, from <a href="/index.php?term=pessimist&allowed_in_frame=0" class="crossreference">pessimist</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pest&allowed_in_frame=0">pest (n.)</a> <a href="http://dictionary.reference.com/search?q=pest" class="dictionary" title="Look up pest at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pest at Dictionary.com" title="Look up pest at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s (in imprecations, <span class="foreign">"a pest upon ____,"</span> etc.), "plague, pestilence," from M.Fr. <span class="foreign">peste</span> (1530s), from L. <span class="foreign">pestis</span> "deadly contagious disease; a curse, bane," of uncertain origin. Meaning "noxious or troublesome person or thing" first recorded c.1600.</dd>
+
+<dt><a href="/index.php?term=pester&allowed_in_frame=0">pester (v.)</a> <a href="http://dictionary.reference.com/search?q=pester" class="dictionary" title="Look up pester at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pester at Dictionary.com" title="Look up pester at Dictionary.com" /></a></dt>
+<dd>1520s, "to clog, entangle, encumber," probably aphetic of M.Fr. <span class="foreign">empestrer</span> "place in an embarrassing situation" (Mod.Fr. <span class="foreign">emp&ecirc;trer</span>, Walloon <span class="foreign">epasturer</span>), from V.L. <span class="foreign">*impastoriare</span> "to hobble" (an animal), from L. <span class="foreign">im-</span> "in" + M.L. <span class="foreign">pastoria (chorda)</span> "(rope) to hobble an animal," from L. <span class="foreign">pastoria</span>, fem. of <span class="foreign">pastorius</span> "of a herdsman," from <span class="foreign">pastor</span> "herdsman" (see <a href="/index.php?term=pastor&allowed_in_frame=0" class="crossreference">pastor</a> (n.)). Sense of "annoy, trouble" (1560s) is from influence of <a href="/index.php?term=pest&allowed_in_frame=0" class="crossreference">pest</a>. Related: <span class="foreign">Pestered</span>; <span class="foreign">pestering</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pesticide&allowed_in_frame=0">pesticide (n.)</a> <a href="http://dictionary.reference.com/search?q=pesticide" class="dictionary" title="Look up pesticide at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pesticide at Dictionary.com" title="Look up pesticide at Dictionary.com" /></a></dt>
+<dd class="highlight">1939, a hybrid coined from English <a href="/index.php?term=pest&allowed_in_frame=0" class="crossreference">pest</a> + Latinate <a href="/index.php?term=-cide&allowed_in_frame=0" class="crossreference">-cide</a>.</dd>
+
+<dt><a href="/index.php?term=pestiferous&allowed_in_frame=0">pestiferous (adj.)</a> <a href="http://dictionary.reference.com/search?q=pestiferous" class="dictionary" title="Look up pestiferous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pestiferous at Dictionary.com" title="Look up pestiferous at Dictionary.com" /></a></dt>
+<dd>mid-15c., "mischievous, pernicious," figurative use of L. <span class="foreign">pestiferus</span> "that brings plague or destruction," variant of <span class="foreign">pestifer</span> "bringing plague, destructive, noxious," from <span class="foreign">pestis</span> "plague" (see <a href="/index.php?term=pest&allowed_in_frame=0" class="crossreference">pest</a>) + <span class="foreign">ferre</span> "carry" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>). Related: <span class="foreign">Pestiferously</span>; <span class="foreign">pestiferousness</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=pestilence&allowed_in_frame=0">pestilence (n.)</a> <a href="http://dictionary.reference.com/search?q=pestilence" class="dictionary" title="Look up pestilence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pestilence at Dictionary.com" title="Look up pestilence at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">pestilence</span> "plague, epidemic" (12c.) and directly from L. <span class="foreign">pestilentia</span> "a plague, an unwholesome atmosphere," noun of condition from <span class="foreign">pestilentem</span> (nom. <span class="foreign">pestilens</span>) "infected, unwholesome, noxious," from <span class="foreign">pestis</span> "deadly disease, plague" (see <a href="/index.php?term=pest&allowed_in_frame=0" class="crossreference">pest</a>).</dd>
+
+<dt><a href="/index.php?term=pestilent&allowed_in_frame=0">pestilent (adj.)</a> <a href="http://dictionary.reference.com/search?q=pestilent" class="dictionary" title="Look up pestilent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pestilent at Dictionary.com" title="Look up pestilent at Dictionary.com" /></a></dt>
+<dd>late 14c., from L. <span class="foreign">pestilentem</span> (nom. <span class="foreign">pestilens</span>), from <span class="foreign">pestilis</span> "of the nature of a plague," from <span class="foreign">pestis</span> "deadly contagious disease." As a noun from 1560s. Related: <span class="foreign">Pestilently</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pestilential&allowed_in_frame=0">pestilential (adj.)</a> <a href="http://dictionary.reference.com/search?q=pestilential" class="dictionary" title="Look up pestilential at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pestilential at Dictionary.com" title="Look up pestilential at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from M.L. <span class="foreign">pestilentialis</span>, from L. <span class="foreign">pestilentia</span> "plague" (see <a href="/index.php?term=pestilence&allowed_in_frame=0" class="crossreference">pestilence</a>). Related: <span class="foreign">Pestilentially</span>.</dd>
+
+<dt><a href="/index.php?term=pestle&allowed_in_frame=0">pestle (n.)</a> <a href="http://dictionary.reference.com/search?q=pestle" class="dictionary" title="Look up pestle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pestle at Dictionary.com" title="Look up pestle at Dictionary.com" /></a></dt>
+<dd>mid-14c. (as a surname late 13c.), from O.Fr. <span class="foreign">pestel</span>, from L. <span class="foreign">pistillum</span> "pounder, pestle," related to <span class="foreign">pinsere</span> "to pound," from PIE <span class="foreign">*pis-to-</span>, suffixed form of root <span class="foreign">*peis-</span> "to crush" (cf. Skt. <span class="foreign">pinasti</span> "pounds, crushes," <span class="foreign">pistah</span> "anything ground, meal," Gk. <span class="foreign">ptissein</span> "to winnow," O.C.S. <span class="foreign">pi&#353;o</span>, <span class="foreign">pichati</span> "to push, thrust, strike," <span class="foreign">pi&#353;enica</span> "wheat," Rus. <span class="foreign">pseno</span> "millet").</dd>
+
+<dt class="highlight"><a href="/index.php?term=pesto&allowed_in_frame=0">pesto (n.)</a> <a href="http://dictionary.reference.com/search?q=pesto" class="dictionary" title="Look up pesto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pesto at Dictionary.com" title="Look up pesto at Dictionary.com" /></a></dt>
+<dd class="highlight">olive oil-based pasta sauce, 1937, from It. <span class="foreign">pesto,</span> contracted form of <span class="foreign">pestato,</span> pp. of <span class="foreign">pestare</span> "to pound, to crush," in reference to the crushed herbs and garlic in it, from Latin root of <a href="/index.php?term=pestle&allowed_in_frame=0" class="crossreference">pestle</a>.</dd>
+
+<dt><a href="/index.php?term=pet&allowed_in_frame=0">pet (n.1)</a> <a href="http://dictionary.reference.com/search?q=pet" class="dictionary" title="Look up pet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pet at Dictionary.com" title="Look up pet at Dictionary.com" /></a></dt>
+<dd>"tamed animal," originally in Scottish and northern England dialect (and exclusively so until mid-18c.), of unknown origin. Sense of "indulged child" (c.1500) is recorded slightly earlier than that of "animal kept as a favorite" (1530s), but the latter may be the primary meaning. Probably associated with or influenced by <a href="/index.php?term=petty&allowed_in_frame=0" class="crossreference">petty</a>. As a term of endearment by 1849. <span class="foreign">Teacher's pet</span> is attested from 1890. <span class="foreign">Pet-shop</span> from 1928.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pet&allowed_in_frame=0">pet (n.2)</a> <a href="http://dictionary.reference.com/search?q=pet" class="dictionary" title="Look up pet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pet at Dictionary.com" title="Look up pet at Dictionary.com" /></a></dt>
+<dd class="highlight">"peevishness, offense at feeling slighted," 1580s, in phrase <span class="foreign">take the pet</span> "take offense." Perhaps from <a href="/index.php?term=pet&allowed_in_frame=0" class="crossreference">pet</a> (n.1) on a similar notion to that in American English <span class="foreign">that gets my goat</span>, but the underlying notion is obscure, and the form of the original expression makes this doubtful. This word seems to have been originally a southern English term, while <span class="foreign">pet</span> (n.1) was northern and Scottish.</dd>
+
+<dt><a href="/index.php?term=pet&allowed_in_frame=0">pet (v.)</a> <a href="http://dictionary.reference.com/search?q=pet" class="dictionary" title="Look up pet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pet at Dictionary.com" title="Look up pet at Dictionary.com" /></a></dt>
+<dd>1620s, "treat as a pet," from <a href="/index.php?term=pet&allowed_in_frame=0" class="crossreference">pet</a> (n.1). Sense of "to stroke" is first found 1818. Slang sense of "kiss and caress" is from 1920 (implied in <a href="/index.php?term=petting&allowed_in_frame=0" class="crossreference">petting</a>). Related: <span class="foreign">Petted</span>.
+
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=pet+peeve&allowed_in_frame=0">pet peeve (n.)</a> <a href="http://dictionary.reference.com/search?q=pet+peeve" class="dictionary" title="Look up pet peeve at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pet peeve at Dictionary.com" title="Look up pet peeve at Dictionary.com" /></a></dt>
+<dd class="highlight">"thing that provokes one most," 1919, from <a href="/index.php?term=pet&allowed_in_frame=0" class="crossreference">pet</a> (n.1) in the adjectival sense "especially cherished" (1826), here in jocular or ironic use with <a href="/index.php?term=peeve&allowed_in_frame=0" class="crossreference">peeve</a> (n.).</dd>
+
+<dt><a href="/index.php?term=PETA&allowed_in_frame=0">PETA</a> <a href="http://dictionary.reference.com/search?q=PETA" class="dictionary" title="Look up PETA at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up PETA at Dictionary.com" title="Look up PETA at Dictionary.com" /></a></dt>
+<dd>acronym for <span class="foreign">People for the Ethical Treatment of Animals</span>; the group’s website says it was founded in 1980.</dd>
+
+<dt class="highlight"><a href="/index.php?term=petal&allowed_in_frame=0">petal (n.)</a> <a href="http://dictionary.reference.com/search?q=petal" class="dictionary" title="Look up petal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up petal at Dictionary.com" title="Look up petal at Dictionary.com" /></a></dt>
+<dd class="highlight">1726 (earlier <span class="foreign">petala</span>, 1704), from Mod.L. <span class="foreign">petalum</span> "petal" (17c.), from Gk. <span class="foreign">petalon</span> "a leaf; leaf of metal, thin plate," noun use of neuter of adj. <span class="foreign">petalos</span> "outspread, broad, flat," from PIE root <span class="foreign">*pete-</span> "to spread out" (see <a href="/index.php?term=pace&allowed_in_frame=0" class="crossreference">pace</a> (n.)). Related: <span class="foreign">Petaline</span>.</dd>
+
+<dt><a href="/index.php?term=petard&allowed_in_frame=0">petard (n.)</a> <a href="http://dictionary.reference.com/search?q=petard" class="dictionary" title="Look up petard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up petard at Dictionary.com" title="Look up petard at Dictionary.com" /></a></dt>
+<dd>1590s, "small bomb used to blow in doors and breach walls," from Fr. <span class="foreign">p&eacute;tard</span> (late 16c.), from M.Fr. <span class="foreign">p&eacute;ter</span> "break wind," from O.Fr. <span class="foreign">pet</span> "a fart," from L. <span class="foreign">peditum</span>, noun use of neuter pp. of <span class="foreign">pedere</span> "to break wind," from PIE root <span class="foreign">*pezd-</span> "to fart" (see <a href="/index.php?term=feisty&allowed_in_frame=0" class="crossreference">feisty</a>). Surviving in phrase <span class="foreign">hoist with one's own petard</span> (or some variant) "blown up with one's own bomb," which is ultimately from Shakespeare (1605):<blockquote>For tis the sport to haue the enginer Hoist with his owne petar ("Hamlet" III.iv.207).</blockquote>See <a href="/index.php?term=hoist&allowed_in_frame=0" class="crossreference">hoist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=petcock&allowed_in_frame=0">petcock (n.)</a> <a href="http://dictionary.reference.com/search?q=petcock" class="dictionary" title="Look up petcock at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up petcock at Dictionary.com" title="Look up petcock at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">pet-cock</span>, 1864, from <a href="/index.php?term=cock&allowed_in_frame=0" class="crossreference">cock</a> (n.2); the signification of the first element is uncertain.</dd>
+
+<dt><a href="/index.php?term=Pete&allowed_in_frame=0">Pete</a> <a href="http://dictionary.reference.com/search?q=Pete" class="dictionary" title="Look up Pete at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pete at Dictionary.com" title="Look up Pete at Dictionary.com" /></a></dt>
+<dd>familiar form of masc. proper name <a href="/index.php?term=Peter&allowed_in_frame=0" class="crossreference">Peter</a>. <span class="foreign">For Pete's sake</span> is attested from 1903 in a list of children's expressions published in Massachusetts, probably a euphemistic use of the disciple's name in place of <span class="foreign">Christ</span>; as an exclamation or quasi-oath, <span class="foreign">Peter!</span> was in use 14c., but this likely is not connected to the modern use. </dd>
+
+<dt class="highlight"><a href="/index.php?term=petechia&allowed_in_frame=0">petechia (n.)</a> <a href="http://dictionary.reference.com/search?q=petechia" class="dictionary" title="Look up petechia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up petechia at Dictionary.com" title="Look up petechia at Dictionary.com" /></a></dt>
+<dd class="highlight">plural <span class="foreign">petechiae</span>, "small crimson or purple spots on skin," c.1795 (from 1580s in English texts as an Italian word), Modern Latin, from It. <span class="foreign">petecchia</span> "specks or freckles on the face," in plural form <span class="foreign">petecchie</span> "measles," of unknown origin. Related: <span class="foreign">Petechial</span>.</dd>
+
+<dt><a href="/index.php?term=Peter&allowed_in_frame=0">Peter</a> <a href="http://dictionary.reference.com/search?q=Peter" class="dictionary" title="Look up Peter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Peter at Dictionary.com" title="Look up Peter at Dictionary.com" /></a></dt>
+<dd>masc. proper name, 12c., from O.E. <span class="foreign">Petrus</span> (gen. <span class="foreign">Pet(e)res</span>, dative <span class="foreign">Pet(e)re</span>), from L. <span class="foreign">Petrus</span>, from Gk. <span class="foreign">Petros</span>, lit. "stone, rock," translation of Syriac <span class="foreign">kefa</span> "stone" (Latinized as <span class="foreign">Cephas</span>), nickname Jesus gave to apostle Simon Bar-Jona (Matt. xvi:17), historically known as <span class="foreign">St. Peter</span>, and consequently a popular name among Christians (e.g. It. <span class="foreign">Pietro</span>, Sp., Port. <span class="foreign">Pedro</span>, O.Fr. <span class="foreign">Pierres</span>, Fr. <span class="foreign">Pierre</span>, etc.). Slang for "penis" is attested from 1902, probably from identity of first syllable.
+<BR><BR>
+The common form of this very common name in medieval England was <span class="foreign">Peres</span> (Anglo-Fr. <span class="foreign">Piers</span>), hence surnames <span class="foreign">Pierce</span>, <span class="foreign">Pearson</span>, etc. Among the dim. forms were <span class="foreign">Parkin</span> and <span class="foreign">Perkin</span>. To <span class="foreign">rob Peter to pay Paul</span> (1510s, also in early 17c. French as <span class="foreign">descouvrir S. Pierre pour couvrir S. Pol</span>) might be a reference to the many churches dedicated to those two saints, and have sprung from the fairly common practice of building or enriching one church with the ruins or revenues of another. But the alliterative pairing of the two names is attested from c.1400 with no obvious connection to the saints:
+<blockquote>
+Sum medicyne is for peter &thorn;at is not good for poul, for &thorn;e diuersite of complexioun. [Lanfranc's <span class="foreign">"Chirurgia Magna,"</span> English translation]</blockquote>
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=peter&allowed_in_frame=0">peter (v.)</a> <a href="http://dictionary.reference.com/search?q=peter" class="dictionary" title="Look up peter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peter at Dictionary.com" title="Look up peter at Dictionary.com" /></a></dt>
+<dd class="highlight">"cease, stop," 1812, of uncertain origin. To <span class="foreign">peter out</span> "become exhausted," is 1846 as miners' slang. Related: <span class="foreign">Petered</span>; <span class="foreign">petering</span>.</dd>
+
+<dt><a href="/index.php?term=Peter+Pan&allowed_in_frame=0">Peter Pan</a> <a href="http://dictionary.reference.com/search?q=Peter+Pan" class="dictionary" title="Look up Peter Pan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Peter Pan at Dictionary.com" title="Look up Peter Pan at Dictionary.com" /></a></dt>
+<dd>name of boy-hero in J.M. Barrie's play "Peter Pan, or The Boy Who Wouldn't Grow Up" (1904). Used allusively for an immature adult man from 1914 (by G.B. Shaw, in reference to the Kaiser).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Peter+Principle&allowed_in_frame=0">Peter Principle</a> <a href="http://dictionary.reference.com/search?q=Peter+Principle" class="dictionary" title="Look up Peter Principle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Peter Principle at Dictionary.com" title="Look up Peter Principle at Dictionary.com" /></a></dt>
+<dd class="highlight">1968, "in a hierarchy, every employee tends to rise to his level of incompetence," named for (and by) Laurence Johnston <span class="foreign">Peter</span> (1919-1990) Canadian-born U.S. educationalist and author, who described it in his book of the same name (1969).</dd>
+
+<dt><a href="/index.php?term=petiole&allowed_in_frame=0">petiole (n.)</a> <a href="http://dictionary.reference.com/search?q=petiole" class="dictionary" title="Look up petiole at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up petiole at Dictionary.com" title="Look up petiole at Dictionary.com" /></a></dt>
+<dd>"footstalk of a leaf," 1753, from Fr. <span class="foreign">p&eacute;tiole</span> (18c.), from L.L. <span class="foreign">petiolus</span>, misspelling of <span class="foreign">peciolus</span> "stalk, stem," lit. "little foot," dim. of <span class="foreign">pediculus</span> "foot stalk," itself a dim. of <span class="foreign">pes</span> (gen. <span class="foreign">pedis</span>) "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)). Given its modern sense by Linnaeus.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658598 -->
+<!-- Page was generated in 0.181623 seconds. -->
+ </body>
+</html>
+<!-- -->

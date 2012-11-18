@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=cracker&allowed_in_frame=0">cracker (n.1)</a> <a href="http://dictionary.reference.com/search?q=cracker" class="dictionary" title="Look up cracker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cracker at Dictionary.com" title="Look up cracker at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "hard wafer," but the specific application to a thin, crisp biscuit is 1739; agent noun from <a href="/index.php?term=crack&allowed_in_frame=0" class="crossreference">crack</a> (v.). <span class="foreign">Cracker-barrel</span> (adj.) "emblematic of down-home ways and views" is from 1877.</dd>
+
+<dt><a href="/index.php?term=cracker&allowed_in_frame=0">cracker (n.2)</a> <a href="http://dictionary.reference.com/search?q=cracker" class="dictionary" title="Look up cracker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cracker at Dictionary.com" title="Look up cracker at Dictionary.com" /></a></dt>
+<dd>Southern U.S. derogatory term for "poor, white trash" (1766), probably from mid-15c. <span class="foreign">crack</span> "to boast" (e.g. <span class="foreign">not what it's cracked up to be</span>), originally a Scottish word. Cf. L. <span class="foreign">crepare</span> "to rattle, crack, creak," with a secondary figurative sense of "boast of, prattle, make ado about."<blockquote>I should explain to your Lordship what is meant by <span class="foreign">crackers;</span> a name they have got from being great boasters; they are a lawless set of rascalls on the frontiers of Virginia, Maryland, the Carolinas and Georgia, who often change their places of abode. [1766, G. Cochrane]</blockquote>
+But DARE compares <span class="foreign">corn-cracker</span> "poor white farmer" (1835, U.S. Midwest colloquial). Especially of Georgians by 1808, though often extended to residents of northern Florida.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cracker-jack&allowed_in_frame=0">cracker-jack</a> <a href="http://dictionary.reference.com/search?q=cracker-jack" class="dictionary" title="Look up cracker-jack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cracker-jack at Dictionary.com" title="Look up cracker-jack at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">crackerjack</span>, "something excellent," 1895, U.S. colloquialism, apparently a fanciful construction. The caramel-coated popcorn-and-peanuts confection was said to have been introduced at the World's Columbian Exposition (1893). Supposedly a salesman gave it the name when he tasted some and said, "That's a cracker-jack," using the then-popular expression. The name was trademarked 1896. The "Prize in Every Box" was introduced 1912.</dd>
+
+<dt><a href="/index.php?term=crackhead&allowed_in_frame=0">crackhead (n.)</a> <a href="http://dictionary.reference.com/search?q=crackhead" class="dictionary" title="Look up crackhead at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crackhead at Dictionary.com" title="Look up crackhead at Dictionary.com" /></a></dt>
+<dd>slang, "crack cocaine addict," by 1986, from <a href="/index.php?term=crack&allowed_in_frame=0" class="crossreference">crack</a> (n.) in the drug slang sense + <a href="/index.php?term=head&allowed_in_frame=0" class="crossreference">head</a> (n.). In earlier slang, <span class="foreign">crack-headed</span> meant "crazy" (1796), from the literal sense of <span class="foreign">crack</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cracking&allowed_in_frame=0">cracking (adj.)</a> <a href="http://dictionary.reference.com/search?q=cracking" class="dictionary" title="Look up cracking at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cracking at Dictionary.com" title="Look up cracking at Dictionary.com" /></a></dt>
+<dd class="highlight">"excellent," colloquial from 1830s, from prp. of <a href="/index.php?term=crack&allowed_in_frame=0" class="crossreference">crack</a> (v.).</dd>
+
+<dt><a href="/index.php?term=crackle&allowed_in_frame=0">crackle (v.)</a> <a href="http://dictionary.reference.com/search?q=crackle" class="dictionary" title="Look up crackle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crackle at Dictionary.com" title="Look up crackle at Dictionary.com" /></a></dt>
+<dd>mid-15c., <span class="foreign">crackelen</span>, frequentative of <span class="foreign">cracken</span> "to crack." Related: <span class="foreign">Crackled</span>; <span class="foreign">crackling</span>. The noun is recorded from 1833.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crackpot&allowed_in_frame=0">crackpot (n.)</a> <a href="http://dictionary.reference.com/search?q=crackpot" class="dictionary" title="Look up crackpot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crackpot at Dictionary.com" title="Look up crackpot at Dictionary.com" /></a></dt>
+<dd class="highlight">"mentally unbalanced person," 1883, probably from <a href="/index.php?term=crack&allowed_in_frame=0" class="crossreference">crack</a> + <a href="/index.php?term=pot&allowed_in_frame=0" class="crossreference">pot</a> in a slang sense of "head." Cf. <span class="foreign">crack-brain</span> "crazy fellow" (late 16c.).</dd>
+
+<dt><a href="/index.php?term=cradle&allowed_in_frame=0">cradle (n.)</a> <a href="http://dictionary.reference.com/search?q=cradle" class="dictionary" title="Look up cradle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cradle at Dictionary.com" title="Look up cradle at Dictionary.com" /></a></dt>
+<dd>M.E. <span class="foreign">cradel</span>, from O.E. <span class="foreign">cradol</span> "little bed, cot," from P.Gmc. <span class="foreign">*kradulas</span> "basket" (cf. O.H.G. <span class="foreign">kratto</span>, <span class="foreign">krezzo</span> "basket," Ger. <span class="foreign">Kr&auml;tze</span> "basket carried on the back"). <span class="foreign">Cat's cradle</span> is from 1768. <span class="foreign">Cradle-snatching</span> "amorous pursuit of younger person" is 1925, U.S. slang.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cradle&allowed_in_frame=0">cradle (v.)</a> <a href="http://dictionary.reference.com/search?q=cradle" class="dictionary" title="Look up cradle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cradle at Dictionary.com" title="Look up cradle at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1500, from <a href="/index.php?term=cradle&allowed_in_frame=0" class="crossreference">cradle</a> (n.). Related: <span class="foreign">Cradled</span>; <span class="foreign">cradling</span>. </dd>
+
+<dt><a href="/index.php?term=craft&allowed_in_frame=0">craft (n.)</a> <a href="http://dictionary.reference.com/search?q=craft" class="dictionary" title="Look up craft at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craft at Dictionary.com" title="Look up craft at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">cr&aelig;ft</span>, originally "power, physical strength, might," from P.Gmc. <span class="foreign">*krab-/*kraf-</span> (cf. O.Fris. <span class="foreign">kreft</span>, O.H.G. <span class="foreign">chraft</span>, Ger. <span class="foreign">Kraft</span> "strength, skill;" O.N. <span class="foreign">kraptr</span> "strength, virtue"). Sense expanded in Old English to include "skill, art, science, talent" (via a notion of "mental power"), which led to the meaning "trade, handicraft, calling." The word still was used for "might, power" in Middle English. Use for "small boat" is first recorded 1670s, probably from a phrase resembling <span class="foreign">vessels of small craft</span> and referring either to the trade they did or the seamanship they required, or perhaps it preserves the word in its original sense of "power."</dd>
+
+<dt class="highlight"><a href="/index.php?term=craft&allowed_in_frame=0">craft (v.)</a> <a href="http://dictionary.reference.com/search?q=craft" class="dictionary" title="Look up craft at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craft at Dictionary.com" title="Look up craft at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">cr&aelig;ftan</span> "to exercise a craft, build," from the same source as <a href="/index.php?term=craft&allowed_in_frame=0" class="crossreference">craft</a> (n.). Meaning "to make skilfully" is from early 15c., obsolete from 16c., but revived c.1950s, largely in U.S. advertising and commercial senses. Related: <span class="foreign">Crafted</span>; <span class="foreign">crafting</span>.</dd>
+
+<dt><a href="/index.php?term=craftsman&allowed_in_frame=0">craftsman (n.)</a> <a href="http://dictionary.reference.com/search?q=craftsman" class="dictionary" title="Look up craftsman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craftsman at Dictionary.com" title="Look up craftsman at Dictionary.com" /></a></dt>
+<dd>mid-14c., <span class="foreign">craftes man</span>, from <a href="/index.php?term=craft&allowed_in_frame=0" class="crossreference">craft</a> + <a href="/index.php?term=man&allowed_in_frame=0" class="crossreference">man</a>. Written as one word from late 14c. Old English had <span class="foreign">cr&aelig;ftiga</span> in this sense. Related: <span class="foreign">Craftsmanship</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crafty&allowed_in_frame=0">crafty (adj.)</a> <a href="http://dictionary.reference.com/search?q=crafty" class="dictionary" title="Look up crafty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crafty at Dictionary.com" title="Look up crafty at Dictionary.com" /></a></dt>
+<dd class="highlight">M.E. <span class="foreign">crafti</span>, from O.E. <span class="foreign">cr&aelig;ftig</span> "strong, powerful," later "skillful, ingenious," degenerating by c.1200 to "cunning, sly;" from <a href="/index.php?term=craft&allowed_in_frame=0" class="crossreference">craft</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Craftily</span>; <span class="foreign">craftiness</span>.</dd>
+
+<dt><a href="/index.php?term=crag&allowed_in_frame=0">crag (n.)</a> <a href="http://dictionary.reference.com/search?q=crag" class="dictionary" title="Look up crag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crag at Dictionary.com" title="Look up crag at Dictionary.com" /></a></dt>
+<dd>early 14c.; as a place-name element attested from c.1200, probably from a Celtic source akin to O.Ir. <span class="foreign">crec</span> "rock," and <span class="foreign">carrac</span> "cliff," Welsh <span class="foreign">craig</span> "rock, stone," Manx <span class="foreign">creg</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=craggy&allowed_in_frame=0">craggy (adj.)</a> <a href="http://dictionary.reference.com/search?q=craggy" class="dictionary" title="Look up craggy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craggy at Dictionary.com" title="Look up craggy at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c.; see <a href="/index.php?term=crag&allowed_in_frame=0" class="crossreference">crag</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=cram&allowed_in_frame=0">cram (v.)</a> <a href="http://dictionary.reference.com/search?q=cram" class="dictionary" title="Look up cram at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cram at Dictionary.com" title="Look up cram at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">crammian</span> "press something into something else," from P.Gmc. <span class="foreign">*kram-/*krem-</span> (cf. O.H.G. <span class="foreign">krimman</span> "to press, pinch," O.N. <span class="foreign">kremja</span> "to squeeze, pinch"), from PIE root <span class="foreign">*ger-</span> "to gather" (cf. Skt. <span class="foreign">gramah</span> "heap, troop," O.C.S. <span class="foreign">gramota</span> "heap," L. <span class="foreign">gremium</span> "bosom, lap"). Meaning "study intensely for an exam" is British student slang first recorded 1803. Related: <span class="foreign">Crammed</span>; <span class="foreign">cramming</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cramp&allowed_in_frame=0">cramp (n.1)</a> <a href="http://dictionary.reference.com/search?q=cramp" class="dictionary" title="Look up cramp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cramp at Dictionary.com" title="Look up cramp at Dictionary.com" /></a></dt>
+<dd class="highlight">"muscle contraction," late 14c., from O.Fr. <span class="foreign">crampe</span>, from a Frankish word (cf. O.H.G. <span class="foreign">krapmhe</span> "cramp, spasm," related to <span class="foreign">kramph</span> "bent, crooked"), from a P.Gmc. root forming many words for "bent, crooked," including, via French, <span class="foreign">crampon</span>. The verb in this sense is recorded from early 15c. <span class="foreign">Writer's cramp</span> is first attested 1853.</dd>
+
+<dt><a href="/index.php?term=cramp&allowed_in_frame=0">cramp (n.2)</a> <a href="http://dictionary.reference.com/search?q=cramp" class="dictionary" title="Look up cramp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cramp at Dictionary.com" title="Look up cramp at Dictionary.com" /></a></dt>
+<dd>"metal bar bent at both ends," early 15c., from M.Du. <span class="foreign">crampe</span> or M.L.G. <span class="foreign">krampe</span>, both from the same P.Gmc. root that yielded <a href="/index.php?term=cramp&allowed_in_frame=0" class="crossreference">cramp</a> (n.1). Metaphoric sense of "something that confines or hinders" first recorded 1719. The verb is attested from c.1400, originally "to bend or twist;" later "compress forcibly" (1550s), and, figuratively, "to restrict" (1620s).
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=cranberry&allowed_in_frame=0">cranberry (n.)</a> <a href="http://dictionary.reference.com/search?q=cranberry" class="dictionary" title="Look up cranberry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cranberry at Dictionary.com" title="Look up cranberry at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, American English adaptation of Low Ger. <span class="foreign">kraanbere</span>, from <span class="foreign">kraan</span> "crane" (see <a href="/index.php?term=crane&allowed_in_frame=0" class="crossreference">crane</a>) + M.L.G. <span class="foreign">bere</span> "berry" (see <a href="/index.php?term=berry&allowed_in_frame=0" class="crossreference">berry</a>). Perhaps so called from a resemblance between the plants' stamens and the beaks of cranes.
+<BR><BR>
+German and Dutch settlers in the New World apparently recognized the similarity between the European berries (<span class="foreign">Vaccinium oxycoccos</span>) and the larger North American variety (<span class="foreign">V. macrocarpum</span>) and transferred the name. In England, they were <span class="foreign">marshwhort</span> or <span class="foreign">fenberries</span>, but the North American berries, and the name, were brought over late 17c. The native Algonquian name for the plant is represented by West Abenaki <span class="foreign">popokwa</span>.</dd>
+
+<dt><a href="/index.php?term=crane&allowed_in_frame=0">crane (n.)</a> <a href="http://dictionary.reference.com/search?q=crane" class="dictionary" title="Look up crane at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crane at Dictionary.com" title="Look up crane at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">cran</span> "large wading bird," common Germanic (cf. O.S. <span class="foreign">krano</span>, O.H.G. <span class="foreign">krano</span>, Ger. <span class="foreign">Kranich</span>, and, with unexplained change of consonant, O.N. <span class="foreign">trani</span>), from PIE <span class="foreign">*gere-</span> (cf. Gk. <span class="foreign">geranos</span>, L. <span class="foreign">grus</span>, Welsh <span class="foreign">garan</span>, Lith. <span class="foreign">garnys</span> "heron, stork"), perhaps echoic of its cry. Metaphoric use for "machine with a long arm" is first attested late 13c. (a sense also in equivalent words in German and Greek).</dd>
+
+<dt class="highlight"><a href="/index.php?term=crane&allowed_in_frame=0">crane (v.)</a> <a href="http://dictionary.reference.com/search?q=crane" class="dictionary" title="Look up crane at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crane at Dictionary.com" title="Look up crane at Dictionary.com" /></a></dt>
+<dd class="highlight">"to stretch (the neck)," 1799, from <a href="/index.php?term=crane&allowed_in_frame=0" class="crossreference">crane</a> (n.). Related: <span class="foreign">Craned</span>; <span class="foreign">craning</span>.</dd>
+
+<dt><a href="/index.php?term=cranial&allowed_in_frame=0">cranial (adj.)</a> <a href="http://dictionary.reference.com/search?q=cranial" class="dictionary" title="Look up cranial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cranial at Dictionary.com" title="Look up cranial at Dictionary.com" /></a></dt>
+<dd>1800, from Mod.L. <span class="foreign">cranium</span>, from Gk. <span class="foreign">kranion</span> "skull" (see <a href="/index.php?term=cranium&allowed_in_frame=0" class="crossreference">cranium</a>) + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=cranio-&allowed_in_frame=0">cranio-</a> <a href="http://dictionary.reference.com/search?q=cranio-" class="dictionary" title="Look up cranio- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cranio- at Dictionary.com" title="Look up cranio- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "of the brain," from Latinized form of Gk. <span class="foreign">kranion</span> "skull" (see <a href="/index.php?term=cranium&allowed_in_frame=0" class="crossreference">cranium</a>).</dd>
+
+<dt><a href="/index.php?term=craniotomy&allowed_in_frame=0">craniotomy (n.)</a> <a href="http://dictionary.reference.com/search?q=craniotomy" class="dictionary" title="Look up craniotomy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craniotomy at Dictionary.com" title="Look up craniotomy at Dictionary.com" /></a></dt>
+<dd>1855, from <a href="/index.php?term=cranio-&allowed_in_frame=0" class="crossreference">cranio-</a> + <a href="/index.php?term=-tomy&allowed_in_frame=0" class="crossreference">-tomy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cranium&allowed_in_frame=0">cranium (n.)</a> <a href="http://dictionary.reference.com/search?q=cranium" class="dictionary" title="Look up cranium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cranium at Dictionary.com" title="Look up cranium at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from M.L. <span class="foreign">cranium</span>, from Gk. <span class="foreign">kranion</span> "skull, upper part of the head," related to <span class="foreign">kara</span> (poetic <span class="foreign">kras</span>) "head," from PIE root <span class="foreign">*ker-</span> "horn, head." Strictly, the bones which enclose the brain.</dd>
+
+<dt><a href="/index.php?term=crank&allowed_in_frame=0">crank (n.)</a> <a href="http://dictionary.reference.com/search?q=crank" class="dictionary" title="Look up crank at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crank at Dictionary.com" title="Look up crank at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">cranc-</span> preserved in <span class="foreign">crancst&aelig;f</span> "a weaver's instrument," <span class="foreign">crencestre</span> "female weaver, spinster," from P.Gmc. base <span class="foreign">*krank-</span>, and related to <span class="foreign">crincan</span> "to bend, yield." English retains the literal sense of the ancient root, while German and Dutch <span class="foreign">krank</span> "sick," formerly "weak, small," is a figurative use.
+<BR><BR>
+The sense of "an eccentric person," especially one who is irrationally fixated, is first recorded 1833, said to be from the crank of a barrel organ, which makes it play the same tune over and over; but more likely a back formation from <a href="/index.php?term=cranky&allowed_in_frame=0" class="crossreference">cranky</a>, and evolving from earlier senses of <span class="foreign">crank</span> as "a twist or fanciful turn of speech" (1590s) or "inaccessible hole or crevice" (1560s). Meaning "methamphetamine" attested by 1989.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crank&allowed_in_frame=0">crank (v.)</a> <a href="http://dictionary.reference.com/search?q=crank" class="dictionary" title="Look up crank at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crank at Dictionary.com" title="Look up crank at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "to zig-zag," from <a href="/index.php?term=crank&allowed_in_frame=0" class="crossreference">crank</a> (n.). Meaning "to turn a crank" is first attested 1908, with reference to automobile engines. Related: <span class="foreign">Cranked</span>; <span class="foreign">cranking</span>.</dd>
+
+<dt><a href="/index.php?term=crankshaft&allowed_in_frame=0">crankshaft (n.)</a> <a href="http://dictionary.reference.com/search?q=crankshaft" class="dictionary" title="Look up crankshaft at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crankshaft at Dictionary.com" title="Look up crankshaft at Dictionary.com" /></a></dt>
+<dd>1854, from <a href="/index.php?term=crank&allowed_in_frame=0" class="crossreference">crank</a> (v.) + <a href="/index.php?term=shaft&allowed_in_frame=0" class="crossreference">shaft</a> (n.). The basic form of the mechanism appears to date from Roman times.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cranky&allowed_in_frame=0">cranky (adj.)</a> <a href="http://dictionary.reference.com/search?q=cranky" class="dictionary" title="Look up cranky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cranky at Dictionary.com" title="Look up cranky at Dictionary.com" /></a></dt>
+<dd class="highlight">"cross-tempered, irritable," 1821, from <a href="/index.php?term=crank&allowed_in_frame=0" class="crossreference">crank</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=cranny&allowed_in_frame=0">cranny (n.)</a> <a href="http://dictionary.reference.com/search?q=cranny" class="dictionary" title="Look up cranny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cranny at Dictionary.com" title="Look up cranny at Dictionary.com" /></a></dt>
+<dd>mid-15c., possibly from a dim. of M.Fr. <span class="foreign">cran</span> "notch, fissure" (14c.), from <span class="foreign">crener</span> "to notch, split," from M.L. <span class="foreign">crenare</span>, possibly from L. <span class="foreign">cernere</span> "to separate, sift" (see <a href="/index.php?term=crisis&allowed_in_frame=0" class="crossreference">crisis</a>). But OED casts doubt on this derivation.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crap&allowed_in_frame=0">crap (v.)</a> <a href="http://dictionary.reference.com/search?q=crap" class="dictionary" title="Look up crap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crap at Dictionary.com" title="Look up crap at Dictionary.com" /></a></dt>
+<dd class="highlight">"defecate," 1846, from one of a cluster of words generally applied to things cast off or discarded (e.g. "weeds growing among corn" (early 15c.), "residue from renderings" (late 15c.), underworld slang for "money" (18c.), and in Shropshire, "dregs of beer or ale"), all probably from M.E. <span class="foreign">crappe</span> "grain that was trodden underfoot in a barn, chaff" (mid-15c.), from M.Fr. <span class="foreign">crape</span> "siftings," from O.Fr. <span class="foreign">crappe,</span> from M.L. <span class="foreign">crappa, crapinum</span> "chaff." Despite folk etymology insistence, not from Thomas <span class="foreign">Crapper</span> (1837-1910) who was, however, a busy plumber and may have had some minor role in the development of modern toilets. The name <span class="foreign">Crapper</span> is a northern form of <span class="foreign">Cropper</span> (attested from 1221), an occupational surname, obviously, but the exact reference is unclear. Related: <span class="foreign">Crapped</span>; <span class="foreign">crapping</span>.</dd>
+
+<dt><a href="/index.php?term=crap&allowed_in_frame=0">crap (n.)</a> <a href="http://dictionary.reference.com/search?q=crap" class="dictionary" title="Look up crap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crap at Dictionary.com" title="Look up crap at Dictionary.com" /></a></dt>
+<dd>"act of defecation," 1898; see <a href="/index.php?term=crap&allowed_in_frame=0" class="crossreference">crap</a> (v.). Sense of "rubbish, nonsense" also first recorded 1898.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crape&allowed_in_frame=0">crape (n.)</a> <a href="http://dictionary.reference.com/search?q=crape" class="dictionary" title="Look up crape at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crape at Dictionary.com" title="Look up crape at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, Englished spelling of <a href="/index.php?term=crepe&allowed_in_frame=0" class="crossreference">crepe</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=crappie&allowed_in_frame=0">crappie (n.)</a> <a href="http://dictionary.reference.com/search?q=crappie" class="dictionary" title="Look up crappie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crappie at Dictionary.com" title="Look up crappie at Dictionary.com" /></a></dt>
+<dd>type of freshwater fish, 1856, American English, of unknown origin; perhaps from Canadian Fr. dialect <span class="foreign">crapp&eacute;</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crappy&allowed_in_frame=0">crappy (adj.)</a> <a href="http://dictionary.reference.com/search?q=crappy" class="dictionary" title="Look up crappy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crappy at Dictionary.com" title="Look up crappy at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, from <a href="/index.php?term=crap&allowed_in_frame=0" class="crossreference">crap</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=craps&allowed_in_frame=0">craps (n.)</a> <a href="http://dictionary.reference.com/search?q=craps" class="dictionary" title="Look up craps at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craps at Dictionary.com" title="Look up craps at Dictionary.com" /></a></dt>
+<dd>1843, Amer.Eng., unrelated to the term for excrement, instead it is from Louisiana Fr. <span class="foreign">craps</span> "the game of hazard," from an 18c. continental French corruption of English <span class="foreign">crabs</span>, which was 18c. slang for "a throw of two or three" (the lowest throw), which perhaps is from <a href="/index.php?term=crab&allowed_in_frame=0" class="crossreference">crab</a> (2) (the sense in <span class="foreign">crab apple</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=crapulent&allowed_in_frame=0">crapulent (adj.)</a> <a href="http://dictionary.reference.com/search?q=crapulent" class="dictionary" title="Look up crapulent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crapulent at Dictionary.com" title="Look up crapulent at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from L. <span class="foreign">crapulentus</span> "very drunk," from <span class="foreign">crapula</span> "excessive drinking" (see <a href="/index.php?term=crapulous&allowed_in_frame=0" class="crossreference">crapulous</a>). Related: <span class="foreign">Crapulence</span>.</dd>
+
+<dt><a href="/index.php?term=crapulous&allowed_in_frame=0">crapulous (adj.)</a> <a href="http://dictionary.reference.com/search?q=crapulous" class="dictionary" title="Look up crapulous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crapulous at Dictionary.com" title="Look up crapulous at Dictionary.com" /></a></dt>
+<dd>1530s, "sick from too much drinking," from L. <span class="foreign">crapula</span>, from Gk. <span class="foreign">kraipale</span> "hangover, drunken headache, nausea from debauching." The Romans used it for drunkenness itself. English has used it in both senses.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crash&allowed_in_frame=0">crash (v.)</a> <a href="http://dictionary.reference.com/search?q=crash" class="dictionary" title="Look up crash at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crash at Dictionary.com" title="Look up crash at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, <span class="foreign">crasschen</span> "break in pieces;" with no identifiable ancestors or relatives it probably is onomatopoeic. Related: <span class="foreign">Crashed</span>; <span class="foreign">crashing</span>. Computing sense is 1973, which makes it one of the earliest computer jargon words. Meaning "break into a party, etc." is 1922. Slang meaning "to sleep" dates from 1943; especially from 1965.</dd>
+
+<dt><a href="/index.php?term=crash&allowed_in_frame=0">crash (n.)</a> <a href="http://dictionary.reference.com/search?q=crash" class="dictionary" title="Look up crash at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crash at Dictionary.com" title="Look up crash at Dictionary.com" /></a></dt>
+<dd>1570s, from <a href="/index.php?term=crash&allowed_in_frame=0" class="crossreference">crash</a> (v.); sense of "financial collapse" is from 1817, "collision" is from 1910; references to falling of airplanes are from World War I.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crass&allowed_in_frame=0">crass (adj.)</a> <a href="http://dictionary.reference.com/search?q=crass" class="dictionary" title="Look up crass at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crass at Dictionary.com" title="Look up crass at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from M.Fr. <span class="foreign">crasse</span> (16c.), from L. <span class="foreign">crassus</span> "solid, thick, fat; dense." The literal sense always has been rare in English; meaning "grossly stupid" is recorded from 1650s, from French.</dd>
+
+<dt><a href="/index.php?term=crate&allowed_in_frame=0">crate (n.)</a> <a href="http://dictionary.reference.com/search?q=crate" class="dictionary" title="Look up crate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crate at Dictionary.com" title="Look up crate at Dictionary.com" /></a></dt>
+<dd>"large box," 1680s, earlier "hurdle, grillwork" (late 14c.), from L. <span class="foreign">cratis</span> "wickerwork, lattice, kitchen-rack," or from Du. <span class="foreign">krat</span> "basket;" both perhaps from a common PIE root <span class="foreign">*kert-</span> "to turn, entwine" (see <a href="/index.php?term=hurdle&allowed_in_frame=0" class="crossreference">hurdle</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=crater&allowed_in_frame=0">crater (n.)</a> <a href="http://dictionary.reference.com/search?q=crater" class="dictionary" title="Look up crater at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crater at Dictionary.com" title="Look up crater at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from L. <span class="foreign">crater</span>, from Gk. <span class="foreign">krater</span> "bowl for mixing wine with water," from <span class="foreign">kera-</span> "to mix," from PIE root <span class="foreign">*kere-</span>. Used in Latin for bowl-shaped mouth of a volcano. Applied to features of the Moon since 1860. As a verb, from 1884.</dd>
+
+<dt><a href="/index.php?term=cravat&allowed_in_frame=0">cravat (n.)</a> <a href="http://dictionary.reference.com/search?q=cravat" class="dictionary" title="Look up cravat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cravat at Dictionary.com" title="Look up cravat at Dictionary.com" /></a></dt>
+<dd>1650s, from Fr. <span class="foreign">cravate</span> (17c.), from <span class="foreign">Cravate</span> "Croatian," from Ger. <span class="foreign">Krabate</span>, from Serbo-Cr. <span class="foreign">Hrvat</span> "a Croat" (see <a href="/index.php?term=Croat&allowed_in_frame=0" class="crossreference">Croat</a>). Cravats came into fashion 1650s in imitation of linen scarves worn by Croatian mercenaries in the French army in the Thirty Years War.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crave&allowed_in_frame=0">crave (v.)</a> <a href="http://dictionary.reference.com/search?q=crave" class="dictionary" title="Look up crave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crave at Dictionary.com" title="Look up crave at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">crafian</span> "ask, implore, demand by right," from N.Gmc. <span class="foreign">*krabojan</span> (cf. O.N. <span class="foreign">krefja</span> "to demand," Dan. <span class="foreign">kr&aelig;ve</span>, Swed. <span class="foreign">kr&auml;va</span>); perhaps related to <a href="/index.php?term=craft&allowed_in_frame=0" class="crossreference">craft</a> in its base sense of "power." Current sense "to long for" is c.1400, probably through intermediate meaning "to ask very earnestly" (c.1300). Related: <span class="foreign">Craved</span>; <span class="foreign">craving</span>.</dd>
+
+<dt><a href="/index.php?term=craven&allowed_in_frame=0">craven (adj.)</a> <a href="http://dictionary.reference.com/search?q=craven" class="dictionary" title="Look up craven at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craven at Dictionary.com" title="Look up craven at Dictionary.com" /></a></dt>
+<dd>early 13c., <span class="foreign">cravant</span>, perhaps from O.Fr. <span class="foreign">crevante</span> "defeated," pp. of <span class="foreign">cravanter</span> "to strike down, to fall down," from L. <span class="foreign">crepare</span> "to crack, creak." Sense affected by <a href="/index.php?term=crave&allowed_in_frame=0" class="crossreference">crave</a> and moved from "defeated" to "cowardly" (c.1400) perhaps via intermediary sense of "confess oneself defeated."</dd>
+
+<dt class="highlight"><a href="/index.php?term=cravings&allowed_in_frame=0">cravings (n.)</a> <a href="http://dictionary.reference.com/search?q=cravings" class="dictionary" title="Look up cravings at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cravings at Dictionary.com" title="Look up cravings at Dictionary.com" /></a></dt>
+<dd class="highlight">"urgent desires," 17c., from <span class="foreign">craving</span> (mid-15c.); prp. of <a href="/index.php?term=crave&allowed_in_frame=0" class="crossreference">crave</a>.</dd>
+
+<dt><a href="/index.php?term=craw&allowed_in_frame=0">craw (n.)</a> <a href="http://dictionary.reference.com/search?q=craw" class="dictionary" title="Look up craw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up craw at Dictionary.com" title="Look up craw at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">*cr&aelig;g</span> "throat," a Germanic word (cf. M.Du. <span class="foreign">craghe</span> "neck, throat," O.H.G. <span class="foreign">chrago</span>, Ger. <span class="foreign">Kragen</span> "collar, neck"), of obscure origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=crawfish&allowed_in_frame=0">crawfish (n.)</a> <a href="http://dictionary.reference.com/search?q=crawfish" class="dictionary" title="Look up crawfish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crawfish at Dictionary.com" title="Look up crawfish at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, generally dismissed by British etymologists as a 19c. American English variant of <a href="/index.php?term=crayfish&allowed_in_frame=0" class="crossreference">crayfish</a>, but it apparently existed in Middle English.</dd>
+
+<dt><a href="/index.php?term=crawl&allowed_in_frame=0">crawl (v.)</a> <a href="http://dictionary.reference.com/search?q=crawl" class="dictionary" title="Look up crawl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up crawl at Dictionary.com" title="Look up crawl at Dictionary.com" /></a></dt>
+<dd>c.1200, <span class="foreign">creulen</span>, from a Scandinavian source, perhaps O.N. <span class="foreign">krafla</span> "to claw (one's way)," from the same root as <a href="/index.php?term=crab&allowed_in_frame=0" class="crossreference">crab</a> (n.1). If there was an O.E. <span class="foreign">*craflian</span>, it has not been recorded. Related: <span class="foreign">Crawled</span>; <span class="foreign">crawling</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658138 -->
+<!-- Page was generated in 0.216889 seconds. -->
+ </body>
+</html>
+<!-- -->

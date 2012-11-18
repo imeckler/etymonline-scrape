@@ -1,0 +1,425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=aplomb&allowed_in_frame=0">aplomb (n.)</a> <a href="http://dictionary.reference.com/search?q=aplomb" class="dictionary" title="Look up aplomb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aplomb at Dictionary.com" title="Look up aplomb at Dictionary.com" /></a></dt>
+<dd class="highlight">"assurance, confidence," 1828, from Fr. <span class="foreign">aplomb</span> (16c.), lit. "perpendicularity," from phrase <span class="foreign">&agrave; plomb</span> "poised upright, balanced," lit. "on the plumb line," from L. <span class="foreign">plumbum</span> "(the metal) lead" (see <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.)), of which the weight at the end of the line was made.</dd>
+
+<dt><a href="/index.php?term=apnea&allowed_in_frame=0">apnea (n.)</a> <a href="http://dictionary.reference.com/search?q=apnea" class="dictionary" title="Look up apnea at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apnea at Dictionary.com" title="Look up apnea at Dictionary.com" /></a></dt>
+<dd>"suspension of breathing," also <span class="foreign">apnoea</span>, 1719, Modern Latin, from Gk. <span class="foreign">apnoia</span> "absence of respiration," from <span class="foreign">apnos</span> "without breathing," from <span class="foreign">a-</span> "not" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3)) + <span class="foreign">pnein</span> “to breathe” (see <a href="/index.php?term=pneuma&allowed_in_frame=0" class="crossreference">pneuma</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apneic&allowed_in_frame=0">apneic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apneic" class="dictionary" title="Look up apneic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apneic at Dictionary.com" title="Look up apneic at Dictionary.com" /></a></dt>
+<dd class="highlight">1883, from <a href="/index.php?term=apnea&allowed_in_frame=0" class="crossreference">apnea</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt><a href="/index.php?term=apo+koinu&allowed_in_frame=0">apo koinu</a> <a href="http://dictionary.reference.com/search?q=apo+koinu" class="dictionary" title="Look up apo koinu at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apo koinu at Dictionary.com" title="Look up apo koinu at Dictionary.com" /></a></dt>
+<dd>Greek, lit. "in common." Applied to sentences with one subject and two predicates; a formation rare in modern English, though it occurs more often in Old English. Cf. <a href="/index.php?term=koine&allowed_in_frame=0" class="crossreference">koine</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apo-&allowed_in_frame=0">apo-</a> <a href="http://dictionary.reference.com/search?q=apo-" class="dictionary" title="Look up apo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apo- at Dictionary.com" title="Look up apo- at Dictionary.com" /></a></dt>
+<dd class="highlight">before vowels, <span class="foreign">ap-</span>, prefix meaning "from, away from, separate, free from," from Gk. <span class="foreign">apo</span> "from, away from; after; in descent from," in compounds, "from, asunder, away, off; finishing, completing; ceasing from; back again," from PIE root <span class="foreign">*apo-</span> "off, away" (cf. Skt. <span class="foreign">apa</span> "away from," Avestan <span class="foreign">apa</span> "away from," L. <span class="foreign">ab</span> "away from, from," Goth. <span class="foreign">af</span>, O.E. <span class="foreign">of</span> "away from").</dd>
+
+<dt><a href="/index.php?term=apocalypse&allowed_in_frame=0">apocalypse (n.)</a> <a href="http://dictionary.reference.com/search?q=apocalypse" class="dictionary" title="Look up apocalypse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apocalypse at Dictionary.com" title="Look up apocalypse at Dictionary.com" /></a></dt>
+<dd>late 14c., "revelation, disclosure," from Church L. <span class="foreign">apocalypsis</span> "revelation," from Gk. <span class="foreign">apokalyptein</span> "uncover, disclose, reveal," from <span class="foreign">apo-</span> "from" (see <a href="/index.php?term=apo&allowed_in_frame=0" class="crossreference">apo</a>-) + <span class="foreign">kalyptein</span> "to cover, conceal" (see <a href="/index.php?term=Calypso&allowed_in_frame=0" class="crossreference">Calypso</a>). The Christian end-of-the-world story is part of the revelation in John of Patmos' book <span class="foreign">"Apokalypsis"</span> (a title rendered into English as <span class="foreign">"Apocalypse"</span> c.1230 and <span class="foreign">"Revelations"</span> by Wyclif c.1380).
+<BR><BR>
+Its general sense in Middle English was "insight, vision; hallucination;" meaning "a cataclysmic event" is modern. As agent nouns, <span class="foreign">apocalypst</span> (1829), <span class="foreign">apocalypt</span> (1834), and <span class="foreign">apocalyptist</span> (1835) have been tried.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apocalyptic&allowed_in_frame=0">apocalyptic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apocalyptic" class="dictionary" title="Look up apocalyptic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apocalyptic at Dictionary.com" title="Look up apocalyptic at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, "pertaining to the 'Revelation of St. John' in the New Testament," from Gk. <span class="foreign">apokalyptikos</span>, from <span class="foreign">apokalyptein</span>
+(see <a href="/index.php?term=apocalypse&allowed_in_frame=0" class="crossreference">apocalypse</a>). Meaning "pertaining to the imminent end of the world" evolved by 1880s.</dd>
+
+<dt><a href="/index.php?term=Apocrypha&allowed_in_frame=0">Apocrypha</a> <a href="http://dictionary.reference.com/search?q=Apocrypha" class="dictionary" title="Look up Apocrypha at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Apocrypha at Dictionary.com" title="Look up Apocrypha at Dictionary.com" /></a></dt>
+<dd>late 14c., neuter plural of L.L. <span class="foreign">apocryphus</span> "secret, not approved for public reading," from Gk. <span class="foreign">apokryphos</span> "hidden; obscure," thus "(books) of unknown authorship" (especially those included in the Septuagint and Vulgate but not originally written in Hebrew and not counted as genuine by the Jews), from <span class="foreign">apo-</span> "away" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">kryptein</span> "to hide" (see <a href="/index.php?term=crypt&allowed_in_frame=0" class="crossreference">crypt</a>). Properly plural (the single would be <span class="foreign">Apocryphon</span> or <span class="foreign">apocryphum</span>), but commonly treated as a collective singular.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apocryphal&allowed_in_frame=0">apocryphal (adj.)</a> <a href="http://dictionary.reference.com/search?q=apocryphal" class="dictionary" title="Look up apocryphal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apocryphal at Dictionary.com" title="Look up apocryphal at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "of doubtful authenticity," from <a href="/index.php?term=Apocrypha&allowed_in_frame=0" class="crossreference">Apocrypha</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Middle English had <span class="foreign">apocrive</span> (late 14c.) in same sense.</dd>
+
+<dt><a href="/index.php?term=apodal&allowed_in_frame=0">apodal (adj.)</a> <a href="http://dictionary.reference.com/search?q=apodal" class="dictionary" title="Look up apodal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apodal at Dictionary.com" title="Look up apodal at Dictionary.com" /></a></dt>
+<dd>1769, from Gk. <span class="foreign">apous</span> (from <span class="foreign">apod-</span> "footless," from <span class="foreign">a-</span>, privative prefix, see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3), + <span class="foreign">pous</span> "foot;" see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a>) + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apodictic&allowed_in_frame=0">apodictic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apodictic" class="dictionary" title="Look up apodictic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apodictic at Dictionary.com" title="Look up apodictic at Dictionary.com" /></a></dt>
+<dd class="highlight">"clearly demonstrated," 1650s, from L. <span class="foreign">apodicticus</span>, from Gk. <span class="foreign">apodeiktikos</span>, from <span class="foreign">apodeiktos</span>, verbal adjective of <span class="foreign">apodeiknynai</span> "to show off, demonstrate," lit. "to point away from" (other objects, at one), from <span class="foreign">apo</span> "off, away" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">deiknynai</span> "to show" (see <a href="/index.php?term=diction&allowed_in_frame=0" class="crossreference">diction</a>).</dd>
+
+<dt><a href="/index.php?term=apodyterium&allowed_in_frame=0">apodyterium (n.)</a> <a href="http://dictionary.reference.com/search?q=apodyterium" class="dictionary" title="Look up apodyterium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apodyterium at Dictionary.com" title="Look up apodyterium at Dictionary.com" /></a></dt>
+<dd>1690s, from L. <span class="foreign">apodyterium</span> "undressing room" (in a bath house), from Gk. <span class="foreign">apodyterion</span> "undressing room," from <span class="foreign">apodyein</span> "to put off, undress," from <span class="foreign">apo-</span> "off" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">dyein</span> "to put on, enter, go in."</dd>
+
+<dt class="highlight"><a href="/index.php?term=apogee&allowed_in_frame=0">apogee (n.)</a> <a href="http://dictionary.reference.com/search?q=apogee" class="dictionary" title="Look up apogee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apogee at Dictionary.com" title="Look up apogee at Dictionary.com" /></a></dt>
+<dd class="highlight">"point at which the moon is farthest from the earth," 1590s, from Fr. <span class="foreign">apog&eacute;e</span>, from L. <span class="foreign">apogaeum</span>, from Gk. <span class="foreign">apogaion</span>, neuter adjective, "away from the earth," a term from Ptolemaic astronomy, from <span class="foreign">apo</span> "off, away" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">gaia</span>/<span class="foreign">ge</span> "earth" (see <a href="/index.php?term=Gaia&allowed_in_frame=0" class="crossreference">Gaia</a>). Adjective forms are <span class="foreign">apogeal</span>, <span class="foreign">apogean</span>.</dd>
+
+<dt><a href="/index.php?term=apolitical&allowed_in_frame=0">apolitical (adj.)</a> <a href="http://dictionary.reference.com/search?q=apolitical" class="dictionary" title="Look up apolitical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apolitical at Dictionary.com" title="Look up apolitical at Dictionary.com" /></a></dt>
+<dd>1947, from <span class="foreign">a-</span> "not" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3)) + <a href="/index.php?term=political&allowed_in_frame=0" class="crossreference">political</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Apollo&allowed_in_frame=0">Apollo</a> <a href="http://dictionary.reference.com/search?q=Apollo" class="dictionary" title="Look up Apollo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Apollo at Dictionary.com" title="Look up Apollo at Dictionary.com" /></a></dt>
+<dd class="highlight">Olympian deity, god of music, poetry, medicine, etc., later identified with Helios, the sun god; the name is a Latin form of Gk. <span class="foreign">Apollon</span>, said to be perhaps related to an obsolete Greek verb meaning "to drive away" (evil, etc.) [Klein, citing Usener].</dd>
+
+<dt><a href="/index.php?term=Apollonian&allowed_in_frame=0">Apollonian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Apollonian" class="dictionary" title="Look up Apollonian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Apollonian at Dictionary.com" title="Look up Apollonian at Dictionary.com" /></a></dt>
+<dd>1660s, from <a href="/index.php?term=Apollo&allowed_in_frame=0" class="crossreference">Apollo</a> (Gk. <span class="foreign">Apollon</span>) + <a href="/index.php?term=-ian&allowed_in_frame=0" class="crossreference">-ian</a>. The Greek adjective was <span class="foreign">Apollonios</span>. The word also is attested in English as <span class="foreign">Apollinarian</span> (1753), <span class="foreign">Apolline</span> (c.1600).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Apollyon&allowed_in_frame=0">Apollyon</a> <a href="http://dictionary.reference.com/search?q=Apollyon" class="dictionary" title="Look up Apollyon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Apollyon at Dictionary.com" title="Look up Apollyon at Dictionary.com" /></a></dt>
+<dd class="highlight">destroying angel of the bottomless pit (a name sometimes given to the Devil), late 14c., from prp. of Gk. <span class="foreign">apollyein</span> "to destroy utterly" (from <span class="foreign">apo-</span> "from, away from" + <span class="foreign">olluein</span> "to destroy"); a translation of Heb. <a href="/index.php?term=Abaddon&allowed_in_frame=0" class="crossreference">Abaddon</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=apologetic&allowed_in_frame=0">apologetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apologetic" class="dictionary" title="Look up apologetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apologetic at Dictionary.com" title="Look up apologetic at Dictionary.com" /></a></dt>
+<dd>1640s, "vindicatory," from Fr. <span class="foreign">apolog&eacute;tique</span>, from L. <span class="foreign">apologeticus</span>, from Gk. <span class="foreign">apologetikos</span> "defensible," from <span class="foreign">apologeisthai</span> (see <a href="/index.php?term=apology&allowed_in_frame=0" class="crossreference">apology</a>). Meaning "regrefully acknowledging failure" is from 1855. As a noun, "formal defense," from early 15c. Related: <span class="foreign">Apologetics</span> (c.1753).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apologia&allowed_in_frame=0">apologia (n.)</a> <a href="http://dictionary.reference.com/search?q=apologia" class="dictionary" title="Look up apologia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apologia at Dictionary.com" title="Look up apologia at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=apology&allowed_in_frame=0" class="crossreference">apology</a>.</dd>
+
+<dt><a href="/index.php?term=apological&allowed_in_frame=0">apological (adj.)</a> <a href="http://dictionary.reference.com/search?q=apological" class="dictionary" title="Look up apological at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apological at Dictionary.com" title="Look up apological at Dictionary.com" /></a></dt>
+<dd>c.1600; see <a href="/index.php?term=apology&allowed_in_frame=0" class="crossreference">apology</a> + <a href="/index.php?term=-ical&allowed_in_frame=0" class="crossreference">-ical</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apologise&allowed_in_frame=0">apologise (v.)</a> <a href="http://dictionary.reference.com/search?q=apologise" class="dictionary" title="Look up apologise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apologise at Dictionary.com" title="Look up apologise at Dictionary.com" /></a></dt>
+<dd class="highlight">chiefly British English spelling of <a href="/index.php?term=apologize&allowed_in_frame=0" class="crossreference">apologize</a>; for suffix, see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Apologised</span>; <span class="foreign">apologising</span>.</dd>
+
+<dt><a href="/index.php?term=apologist&allowed_in_frame=0">apologist (n.)</a> <a href="http://dictionary.reference.com/search?q=apologist" class="dictionary" title="Look up apologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apologist at Dictionary.com" title="Look up apologist at Dictionary.com" /></a></dt>
+<dd>1630s, from Fr. <span class="foreign">apologiste</span>, from <span class="foreign">apologie</span> (see <a href="/index.php?term=apology&allowed_in_frame=0" class="crossreference">apology</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apologize&allowed_in_frame=0">apologize (v.)</a> <a href="http://dictionary.reference.com/search?q=apologize" class="dictionary" title="Look up apologize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apologize at Dictionary.com" title="Look up apologize at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "to speak in defense of;" see <a href="/index.php?term=apology&allowed_in_frame=0" class="crossreference">apology</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Main modern sense "to regretfully acknowledge" is attested by 1725. The Greek equivalent, <span class="foreign">apologizesthai</span>, meant simply "to give an account." Related: <span class="foreign">Apologized</span>; <span class="foreign">apologizing</span>.</dd>
+
+<dt><a href="/index.php?term=apologue&allowed_in_frame=0">apologue (n.)</a> <a href="http://dictionary.reference.com/search?q=apologue" class="dictionary" title="Look up apologue at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apologue at Dictionary.com" title="Look up apologue at Dictionary.com" /></a></dt>
+<dd>"moral fable," 1550s, from Fr. <span class="foreign">apologue</span>, from L. <span class="foreign">apologus</span>, from Gk. <span class="foreign">apologos</span>, from <span class="foreign">apo-</span> "off, away from" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">logos</span> "speech" (see <a href="/index.php?term=lecture&allowed_in_frame=0" class="crossreference">lecture</a> (n.)). Literally, "(that which comes) from a speech."</dd>
+
+<dt class="highlight"><a href="/index.php?term=apology&allowed_in_frame=0">apology (n.)</a> <a href="http://dictionary.reference.com/search?q=apology" class="dictionary" title="Look up apology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apology at Dictionary.com" title="Look up apology at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "defense, justification," from L.L. <span class="foreign">apologia</span>, from Gk. <span class="foreign">apologia</span> "a speech in defense," from <span class="foreign">apologeisthai</span> "to speak in one's defense," from <span class="foreign">apologos</span> "an account, story," from <span class="foreign">apo-</span> "from, off" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">logos</span> "speech" (see <a href="/index.php?term=lecture&allowed_in_frame=0" class="crossreference">lecture</a> (n.)).
+<BR><BR>
+The original English sense of "self-justification" yielded a meaning "frank expression of regret for wrong done," first recorded 1590s, but this was not the main sense until 18c. The old sense tends to emerge in Latin form <span class="foreign">apologia</span> (first attested in English 1784), especially since J.H. Newman's <span class="foreign">"Apologia pro Vita Sua"</span> (1864).</dd>
+
+<dt><a href="/index.php?term=aponeurosis&allowed_in_frame=0">aponeurosis (n.)</a> <a href="http://dictionary.reference.com/search?q=aponeurosis" class="dictionary" title="Look up aponeurosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aponeurosis at Dictionary.com" title="Look up aponeurosis at Dictionary.com" /></a></dt>
+<dd>1670s, from Latin, from Gk. <span class="foreign">aponeurosis</span>, from <span class="foreign">aponeuroein</span>, from <span class="foreign">apo-</span> "off, away from" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">neuron</span> "sinew" (see <a href="/index.php?term=neuro-&allowed_in_frame=0" class="crossreference">neuro-</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apophatic&allowed_in_frame=0">apophatic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apophatic" class="dictionary" title="Look up apophatic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apophatic at Dictionary.com" title="Look up apophatic at Dictionary.com" /></a></dt>
+<dd class="highlight">"involving a mention of something one feigns to deny; involving knowledge obtained by negation," 1850, from Gk. <span class="foreign">apophatikos</span>, from <span class="foreign">apophasis</span> "denial, answer," from <span class="foreign">apophanai</span> "to speak off," from <span class="foreign">apo-</span> "off" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">phanai</span> "to speak," related to <span class="foreign">pheme</span> "voice" (see <a href="/index.php?term=fame&allowed_in_frame=0" class="crossreference">fame</a>).</dd>
+
+<dt><a href="/index.php?term=apophthegm&allowed_in_frame=0">apophthegm (n.)</a> <a href="http://dictionary.reference.com/search?q=apophthegm" class="dictionary" title="Look up apophthegm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apophthegm at Dictionary.com" title="Look up apophthegm at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=apothegm&allowed_in_frame=0" class="crossreference">apothegm</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apoplectic&allowed_in_frame=0">apoplectic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apoplectic" class="dictionary" title="Look up apoplectic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apoplectic at Dictionary.com" title="Look up apoplectic at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, "involving apoplexy," from Fr. <span class="foreign">apoplectique</span> (16c.), from L. <span class="foreign">apoplecticus</span>, from Gk. <span class="foreign">apoplektikos</span> "disabled by a stroke, crippled, struck dumb," from <span class="foreign">apoplektos</span>, verbal adjective of <span class="foreign">apoplessein</span> (see <a href="/index.php?term=apoplexy&allowed_in_frame=0" class="crossreference">apoplexy</a>). Meaning "showing symptoms of apoplexy" (1721) gradually shaded into "enraged, very angry."</dd>
+
+<dt><a href="/index.php?term=apoplexy&allowed_in_frame=0">apoplexy (n.)</a> <a href="http://dictionary.reference.com/search?q=apoplexy" class="dictionary" title="Look up apoplexy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apoplexy at Dictionary.com" title="Look up apoplexy at Dictionary.com" /></a></dt>
+<dd>late 14c., "sudden fit of paralysis and dizziness," from O.Fr. <span class="foreign">apoplexie</span> or directly from L.L. <span class="foreign">apoplexia</span>, from Gk. <span class="foreign">apoplexia</span>, from <span class="foreign">apoplessein</span> "to strike down and incapacitate," from <span class="foreign">apo-</span> "off" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>), in this case probably an intensive prefix, + <span class="foreign">plessein</span> "hit" (cf. <a href="/index.php?term=plague&allowed_in_frame=0" class="crossreference">plague</a>, also with a root sense of "stricken"). The Latin translation, <span class="foreign">sideratio</span>, means "disease caused by a constellation."</dd>
+
+<dt class="highlight"><a href="/index.php?term=aporetic&allowed_in_frame=0">aporetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=aporetic" class="dictionary" title="Look up aporetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aporetic at Dictionary.com" title="Look up aporetic at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from Fr. <span class="foreign">aporetique</span>, from Gk. <span class="foreign">aporetikos</span>, from <span class="foreign">aporeein</span> "to be at a loss," from <span class="foreign">aporos</span> "impassable, impracticable, very difficult; hard to deal with; at a loss," from <span class="foreign">a-</span>, privative prefix, + <span class="foreign">poros</span> "passage" (see <a href="/index.php?term=pore&allowed_in_frame=0" class="crossreference">pore</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=aporia&allowed_in_frame=0">aporia (n.)</a> <a href="http://dictionary.reference.com/search?q=aporia" class="dictionary" title="Look up aporia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aporia at Dictionary.com" title="Look up aporia at Dictionary.com" /></a></dt>
+<dd>1580s, from Latin, from Gk. <span class="foreign">aporia</span>, noun of state from <span class="foreign">aporos</span> (see <a href="/index.php?term=aporetic&allowed_in_frame=0" class="crossreference">aporetic</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aposiopesis&allowed_in_frame=0">aposiopesis (n.)</a> <a href="http://dictionary.reference.com/search?q=aposiopesis" class="dictionary" title="Look up aposiopesis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aposiopesis at Dictionary.com" title="Look up aposiopesis at Dictionary.com" /></a></dt>
+<dd class="highlight">rhetorical artifice wherein the speaker suddenly breaks off in the middle of a sentence, 1570s, from Latin, from Gk. <span class="foreign">aposiopesis</span> "a becoming silent," also as a rhetorical figure, from <span class="foreign">apo-</span> (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">siope</span> "silence."</dd>
+
+<dt><a href="/index.php?term=apostasy&allowed_in_frame=0">apostasy (n.)</a> <a href="http://dictionary.reference.com/search?q=apostasy" class="dictionary" title="Look up apostasy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostasy at Dictionary.com" title="Look up apostasy at Dictionary.com" /></a></dt>
+<dd>late 14c., "renunciation, abandonment or neglect of established religion," from L. <span class="foreign">apostasia</span>, from later Gk. <span class="foreign">apostasia</span>, from <span class="foreign">apostasis</span> "revolt, defection," lit. "a standing off" (see <a href="/index.php?term=apostate&allowed_in_frame=0" class="crossreference">apostate</a>). General (non-religious) sense is attested from 1570s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apostate&allowed_in_frame=0">apostate (n.)</a> <a href="http://dictionary.reference.com/search?q=apostate" class="dictionary" title="Look up apostate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostate at Dictionary.com" title="Look up apostate at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "one who forsakes his religion or faith," from O.Fr. <span class="foreign">apostate</span> (Mod.Fr. <span class="foreign">apostat</span>) and directly from L.L. <span class="foreign">apostata</span>, from Gk. <span class="foreign">apostasia</span> "defection, desertion, rebellion," from <span class="foreign">apostenai</span> "to defect," lit. "to stand off," from <span class="foreign">apo-</span> "away from" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">stenai</span> "to stand." Used in non-religious situations (politics, etc.) from mid-14c.</dd>
+
+<dt><a href="/index.php?term=apostate&allowed_in_frame=0">apostate (adj.)</a> <a href="http://dictionary.reference.com/search?q=apostate" class="dictionary" title="Look up apostate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostate at Dictionary.com" title="Look up apostate at Dictionary.com" /></a></dt>
+<dd>late 14c.; see <a href="/index.php?term=apostate&allowed_in_frame=0" class="crossreference">apostate</a> (adj.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apostatize&allowed_in_frame=0">apostatize (v.)</a> <a href="http://dictionary.reference.com/search?q=apostatize" class="dictionary" title="Look up apostatize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostatize at Dictionary.com" title="Look up apostatize at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from L.L. <span class="foreign">apostatizare</span>, earlier <span class="foreign">apostatare</span>, from <span class="foreign">apostata</span> (see <a href="/index.php?term=apostate&allowed_in_frame=0" class="crossreference">apostate</a>). Related: <span class="foreign">Apostatized</span>; <span class="foreign">apostatizing</span>. The pp. form <span class="foreign">apostazied</span> is attested from late 14c.</dd>
+
+<dt><a href="/index.php?term=apostille&allowed_in_frame=0">apostille (n.)</a> <a href="http://dictionary.reference.com/search?q=apostille" class="dictionary" title="Look up apostille at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostille at Dictionary.com" title="Look up apostille at Dictionary.com" /></a></dt>
+<dd>"note, especially on text of the Bible," also <span class="foreign">apostil</span>, 1520s, from Fr. <span class="foreign">apostille</span> (15c.), probably from M.L. <span class="foreign">postilla</span>, which probably represents L. <span class="foreign">post illa</span>, lit. "after those."</dd>
+
+<dt class="highlight"><a href="/index.php?term=apostle&allowed_in_frame=0">apostle (n.)</a> <a href="http://dictionary.reference.com/search?q=apostle" class="dictionary" title="Look up apostle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostle at Dictionary.com" title="Look up apostle at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">apostol</span> "messenger," especially the 12 witnesses sent forth by Jesus to preach his Gospel, from L.L. <span class="foreign">apostolus</span>, from Gk. <span class="foreign">apostolos</span> "messenger, person sent forth," from <span class="foreign">apostellein</span> "send away, send forth," from <span class="foreign">apo-</span> "from" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">stellein</span> in its secondary sense of "to send," from PIE <span class="foreign">*stel-yo-</span>, suffixed form of root <span class="foreign">*stel-</span> "to put, stand," with derivatives referring to a standing object or place (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). Cf. <a href="/index.php?term=epistle&allowed_in_frame=0" class="crossreference">epistle</a>.
+<BR><BR>
+The current form of the word, predominant since 16c., is influenced by O.Fr. <span class="foreign">apostle</span> (12c.), from the same Late Latin source. Figurative sense of "chief advocate of a new principle or system" is from 1810. <span class="foreign">Apostles</span>, short for "The Acts and Epistles of the Apostles," is attested from c.1400.</dd>
+
+<dt><a href="/index.php?term=apostolic&allowed_in_frame=0">apostolic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apostolic" class="dictionary" title="Look up apostolic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostolic at Dictionary.com" title="Look up apostolic at Dictionary.com" /></a></dt>
+<dd>early 15c., from Fr. <span class="foreign">apostolique</span> or directly from Church L. <span class="foreign">apostolicus</span>, from Gk. <span class="foreign">apostolikos</span>, from <span class="foreign">apostolos</span> (see <a href="/index.php?term=apostle&allowed_in_frame=0" class="crossreference">apostle</a>). <span class="foreign">Apostolical</span> also is early 15c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apostrophe&allowed_in_frame=0">apostrophe (n.)</a> <a href="http://dictionary.reference.com/search?q=apostrophe" class="dictionary" title="Look up apostrophe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apostrophe at Dictionary.com" title="Look up apostrophe at Dictionary.com" /></a></dt>
+<dd class="highlight">mark indicating omitted letter, 1580s, from M.Fr. <span class="foreign">apostrophe</span>, from L.L. <span class="foreign">apostrophus</span>, from Gk. <span class="foreign">apostrophos (prosoidia)</span> "(the accent of) turning away," thus, a mark showing where a letter has been omitted, from <span class="foreign">apostrephein</span> "avert, turn away," from <span class="foreign">apo-</span> "from" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">strephein</span> "to turn" (see <a href="/index.php?term=strophe&allowed_in_frame=0" class="crossreference">strophe</a>).
+<BR><BR>
+In English, the mark often represents loss of <span class="foreign">-e-</span> in <span class="foreign">-es</span>, possessive ending. It was being extended to all possessives, whether they ever had an <span class="foreign">-e-</span> or not, by 18c. Greek also used this word for a "turning aside" of an orator in speech to address some individual, a sense first recorded in English 1530s.</dd>
+
+<dt><a href="/index.php?term=apothecary&allowed_in_frame=0">apothecary (n.)</a> <a href="http://dictionary.reference.com/search?q=apothecary" class="dictionary" title="Look up apothecary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apothecary at Dictionary.com" title="Look up apothecary at Dictionary.com" /></a></dt>
+<dd>mid-14c., "shopkeeper, especially one who stores, compounds, and sells medicaments," from O.Fr. <span class="foreign">apotecaire</span> (13c., Mod.Fr. <span class="foreign">apothicaire</span>), from L.L. <span class="foreign">apothecarius</span> "storekeeper," from L. <span class="foreign">apotheca</span> "storehouse," from Gk. <span class="foreign">apotheke</span> "barn, storehouse," lit. "a place where things are put away," from <span class="foreign">apo-</span> "away" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">tithenai</span> "to put," from PIE root <span class="foreign">*dhe-</span> "to put, to do" (see <a href="/index.php?term=factitious&allowed_in_frame=0" class="crossreference">factitious</a>). Same root produced Fr. <span class="foreign">boutique</span> and Sp. <span class="foreign">bodega</span>. Cognate compounds produced Skt. <span class="foreign">apadha-</span> "concealment," O.Pers. <span class="foreign">apadana-</span> "palace."
+<BR><BR>
+Drugs and herbs being among the chief items of non-perishable goods, the meaning narrowed 17c. to "druggist" (Apothecaries' Company of London separated from the Grocers' in 1617). Apothecaries formerly were notorious for "the assumed gravity and affectation of knowledge generally put on by the gentlemen of this profession, who are commonly as superficial in their learning as they are pedantic in their language" [Francis Grose, "A Classical Dictionary of the Vulgar Tongue," 1796]. Hence, <span class="foreign">Apothecary's Latin</span>, barbarously mangled, also known as <span class="foreign">Dog Latin</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=apothegm&allowed_in_frame=0">apothegm (n.)</a> <a href="http://dictionary.reference.com/search?q=apothegm" class="dictionary" title="Look up apothegm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apothegm at Dictionary.com" title="Look up apothegm at Dictionary.com" /></a></dt>
+<dd class="highlight">"pithy saying," 1550s, from Gk. <span class="foreign">apophthegma</span> "terse, pointed saying," lit. "something clearly spoken," from <span class="foreign">apophthengesthai</span> "to speak one's opinion plainly," from <span class="foreign">apo-</span> "from" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">phthengesthai</span> "to utter." See <a href="/index.php?term=aphorism&allowed_in_frame=0" class="crossreference">aphorism</a> for nuances of usage. Spelling <span class="foreign">apophthegm</span>, restored by Johnson, is preferred in England, according to OED.</dd>
+
+<dt><a href="/index.php?term=apotheosis&allowed_in_frame=0">apotheosis (n.)</a> <a href="http://dictionary.reference.com/search?q=apotheosis" class="dictionary" title="Look up apotheosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apotheosis at Dictionary.com" title="Look up apotheosis at Dictionary.com" /></a></dt>
+<dd>1600s, from L.L. <span class="foreign">apotheosis</span> "deification," from Gk. <span class="foreign">apotheosis</span>, from <span class="foreign">apotheoun</span> "deify, make (someone) a god," from <span class="foreign">apo-</span> special use of this prefix, meaning, here, "change" + <span class="foreign">theos</span> "god" (see <a href="/index.php?term=Thea&allowed_in_frame=0" class="crossreference">Thea</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apotheosize&allowed_in_frame=0">apotheosize (v.)</a> <a href="http://dictionary.reference.com/search?q=apotheosize" class="dictionary" title="Look up apotheosize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apotheosize at Dictionary.com" title="Look up apotheosize at Dictionary.com" /></a></dt>
+<dd class="highlight">1760; see <a href="/index.php?term=apotheosis&allowed_in_frame=0" class="crossreference">apotheosis</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Apotheosized</span>; <span class="foreign">apotheosizing</span>. Earlier in same sense was <span class="foreign">apotheose</span> (1670s).</dd>
+
+<dt><a href="/index.php?term=apothesis&allowed_in_frame=0">apothesis (n.)</a> <a href="http://dictionary.reference.com/search?q=apothesis" class="dictionary" title="Look up apothesis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apothesis at Dictionary.com" title="Look up apothesis at Dictionary.com" /></a></dt>
+<dd>1811, from Gk. <span class="foreign">apothesis</span> "a laying up in store; a putting aside," noun of action from <span class="foreign">apotithenai</span> "to lay aside," from <span class="foreign">apo-</span> "off, away" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">tithenai</span> (see <a href="/index.php?term=theme&allowed_in_frame=0" class="crossreference">theme</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apotropaic&allowed_in_frame=0">apotropaic (adj.)</a> <a href="http://dictionary.reference.com/search?q=apotropaic" class="dictionary" title="Look up apotropaic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apotropaic at Dictionary.com" title="Look up apotropaic at Dictionary.com" /></a></dt>
+<dd class="highlight">1883, with <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>, from Gk. <span class="foreign">apotropaios</span> "averting evil," from <span class="foreign">apotrepein</span> "to turn away, avert," from <span class="foreign">apo-</span> "off, away" (see <a href="/index.php?term=apo-&allowed_in_frame=0" class="crossreference">apo-</a>) + <span class="foreign">trepein</span> "to turn" (see <a href="/index.php?term=trope&allowed_in_frame=0" class="crossreference">trope</a>).</dd>
+
+<dt><a href="/index.php?term=app&allowed_in_frame=0">app (n.)</a> <a href="http://dictionary.reference.com/search?q=app" class="dictionary" title="Look up app at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up app at Dictionary.com" title="Look up app at Dictionary.com" /></a></dt>
+<dd>computerese shorthand for <a href="/index.php?term=application&allowed_in_frame=0" class="crossreference">application</a>, attested by 1992.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Appalachia&allowed_in_frame=0">Appalachia</a> <a href="http://dictionary.reference.com/search?q=Appalachia" class="dictionary" title="Look up Appalachia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Appalachia at Dictionary.com" title="Look up Appalachia at Dictionary.com" /></a></dt>
+<dd class="highlight">"cultural and geographical region of inland Eastern U.S.," 1880s, from the <a href="/index.php?term=Appalachian&allowed_in_frame=0" class="crossreference">Appalachian</a> Mountains, which are its core. Earlier <span class="foreign">Appalachia</span> was proposed as a better name for "United States of America" by Washington Irving in 1839 (though he preferred <span class="foreign">Alleghenia</span>) and this may have been the coinage of the word.
+<blockquote>
+It is a thousand pities that the puny witticisms of a few professional objectors should have the power to prevent, even for a year, the adoption of a name for our country. At present we have, clearly, none. There should be no hesitation about "Appalachia." In the first place, it is distinctive. "America" is not, and can never be made so. <span class="foreign">We</span> may legislate as much as we please, and assume for our country whatever name we think right — but to use it will be no name, to any purpose for which a name is needed, unless we can take it away from the regions which employ it at present. South America is "America," and will insist upon remaining so. [Edgar Allan Poe, 1846]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=Appalachian&allowed_in_frame=0">Appalachian</a> <a href="http://dictionary.reference.com/search?q=Appalachian" class="dictionary" title="Look up Appalachian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Appalachian at Dictionary.com" title="Look up Appalachian at Dictionary.com" /></a></dt>
+<dd>N.Amer. mountain range, c.1600, <span class="foreign">Mountaynes Apalatsi</span>; written <span class="foreign">apalachen</span> by Spanish explorers and originally in reference only to the southern end of the range. Originally the name of the <span class="foreign">Apalachee</span>, a Muskogean people of northwestern Florida, perhaps from Apalachee <span class="foreign">abalahci</span> "other side of the river" or Hitchiti (Muskogean) <span class="foreign">apalwah&#269;i</span> "dwelling on one side." Spelling shifted under influence of adjectives in <span class="foreign">-ian</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657965 -->
+<!-- Page was generated in 0.178297 seconds. -->
+ </body>
+</html>
+<!-- -->

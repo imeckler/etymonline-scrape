@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=archetype&allowed_in_frame=0">archetype (n.)</a> <a href="http://dictionary.reference.com/search?q=archetype" class="dictionary" title="Look up archetype at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archetype at Dictionary.com" title="Look up archetype at Dictionary.com" /></a></dt>
+<dd class="highlight">"original pattern from which copies are made," 1540s, from L. <span class="foreign">archetypum</span>, from Gk. <span class="foreign">arkhetypon</span> "pattern, model, figure on a seal," neuter of adjective <span class="foreign">arkhetypos</span> "first-moulded," from <span class="foreign">arkhe-</span> "first" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>) + <span class="foreign">typos</span> "model, type, blow, mark of a blow" (see <a href="/index.php?term=type&allowed_in_frame=0" class="crossreference">type</a>). Jungian psychology sense of "pervasive idea or image from the collective unconscious" is from 1919.</dd>
+
+<dt><a href="/index.php?term=archfiend&allowed_in_frame=0">archfiend (n.)</a> <a href="http://dictionary.reference.com/search?q=archfiend" class="dictionary" title="Look up archfiend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archfiend at Dictionary.com" title="Look up archfiend at Dictionary.com" /></a></dt>
+<dd>1667, from <a href="/index.php?term=arch&allowed_in_frame=0" class="crossreference">arch</a> (adj.) + <a href="/index.php?term=fiend&allowed_in_frame=0" class="crossreference">fiend</a> (n.). Originally and typically Satan (cf. <span class="foreign">arch-foe</span> "Satan," 1610s).
+<blockquote>
+So stretcht out huge in length the Arch-fiend lay. ["Paradise Lost," 1667]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=Archibald&allowed_in_frame=0">Archibald</a> <a href="http://dictionary.reference.com/search?q=Archibald" class="dictionary" title="Look up Archibald at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Archibald at Dictionary.com" title="Look up Archibald at Dictionary.com" /></a></dt>
+<dd class="highlight">masc. proper name, from O.H.G. <span class="foreign">Erchanbald</span>, lit. "genuine bold," from <span class="foreign">erchan</span> "genuine" + <span class="foreign">bald</span> (see <a href="/index.php?term=bold&allowed_in_frame=0" class="crossreference">bold</a>). <span class="foreign">Archie,</span> British World War I military slang for "German anti-aircraft fire" (1915) supposedly is from black humor of airmen dodging hostile fire and thinking of the refrain of a popular music hall song, "Archibald, certainly not!"</dd>
+
+<dt><a href="/index.php?term=archipelago&allowed_in_frame=0">archipelago (n.)</a> <a href="http://dictionary.reference.com/search?q=archipelago" class="dictionary" title="Look up archipelago at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archipelago at Dictionary.com" title="Look up archipelago at Dictionary.com" /></a></dt>
+<dd>c.1500, from It. <span class="foreign">arcipelago</span> "the Aegean Sea" (13c.), from Gk. <span class="foreign">arkhipelagos</span>, from <span class="foreign">arkhi-</span> "chief" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>) + <span class="foreign">pelagos</span> "sea" (see <a href="/index.php?term=pelagic&allowed_in_frame=0" class="crossreference">pelagic</a>). The Aegean Sea being full of island chains, the meaning was extended in Italian to "any sea studded with islands." Klein, noting the absence of <span class="foreign">arkhipelagos</span> in ancient or Medieval Greek (the modern word in Greek is borrowed from Italian) believe it is an Italian mistake for <span class="foreign">Aigaion pelagos</span> "Aegean Sea" (M.L. <span class="foreign">Egeopelagus</span>), or influenced by that name.</dd>
+
+<dt class="highlight"><a href="/index.php?term=architect&allowed_in_frame=0">architect (n.)</a> <a href="http://dictionary.reference.com/search?q=architect" class="dictionary" title="Look up architect at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up architect at Dictionary.com" title="Look up architect at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, from M.Fr. <span class="foreign">architecte</span>, from L. <span class="foreign">architectus</span>, from Gk. <span class="foreign">arkhitekton</span> "master builder, director of works," from <span class="foreign">arkhi-</span> "chief" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>) + <span class="foreign">tekton</span> "builder, carpenter" (see <a href="/index.php?term=texture&allowed_in_frame=0" class="crossreference">texture</a>). An Old English word for it was <span class="foreign">heahcr&aelig;ftiga</span> "high-crafter."</dd>
+
+<dt><a href="/index.php?term=architectonic&allowed_in_frame=0">architectonic (adj.)</a> <a href="http://dictionary.reference.com/search?q=architectonic" class="dictionary" title="Look up architectonic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up architectonic at Dictionary.com" title="Look up architectonic at Dictionary.com" /></a></dt>
+<dd>1670s (<span class="foreign">architectonical</span> is from c.1600), "pertaining to architecture," from  L. <span class="foreign">architectonicus</span>, from Gk. <span class="foreign">arkhitektonikos</span> "pertaining to a master builder," from <span class="foreign">arkhitekton</span> (see <a href="/index.php?term=architect&allowed_in_frame=0" class="crossreference">architect</a>). Metaphysical sense, "pertaining to systematization of knowledge," is from 1801.</dd>
+
+<dt class="highlight"><a href="/index.php?term=architectural&allowed_in_frame=0">architectural (adj.)</a> <a href="http://dictionary.reference.com/search?q=architectural" class="dictionary" title="Look up architectural at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up architectural at Dictionary.com" title="Look up architectural at Dictionary.com" /></a></dt>
+<dd class="highlight">1762; see <a href="/index.php?term=architecture&allowed_in_frame=0" class="crossreference">architecture</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Related: <span class="foreign">Architecturally</span>.</dd>
+
+<dt><a href="/index.php?term=architecture&allowed_in_frame=0">architecture (n.)</a> <a href="http://dictionary.reference.com/search?q=architecture" class="dictionary" title="Look up architecture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up architecture at Dictionary.com" title="Look up architecture at Dictionary.com" /></a></dt>
+<dd>1560s, from M.Fr. <span class="foreign">architecture</span>, from L. <span class="foreign">architectura</span>, from <span class="foreign">architectus</span> "architect" (see <a href="/index.php?term=architect&allowed_in_frame=0" class="crossreference">architect</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=architrave&allowed_in_frame=0">architrave (n.)</a> <a href="http://dictionary.reference.com/search?q=architrave" class="dictionary" title="Look up architrave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up architrave at Dictionary.com" title="Look up architrave at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, from It. <span class="foreign">architrave,</span> from <span class="foreign">archi-</span> "beginning, origin" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>) + <span class="foreign">trave</span> "beam," from L. <span class="foreign">trabem</span> (nom. <span class="foreign">trabs</span>) "beam, timber," from PIE <span class="foreign">*treb-</span> "dwelling" (see <a href="/index.php?term=thorp&allowed_in_frame=0" class="crossreference">thorp</a>).</dd>
+
+<dt><a href="/index.php?term=archival&allowed_in_frame=0">archival (adj.)</a> <a href="http://dictionary.reference.com/search?q=archival" class="dictionary" title="Look up archival at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archival at Dictionary.com" title="Look up archival at Dictionary.com" /></a></dt>
+<dd>1800; see <a href="/index.php?term=archives&allowed_in_frame=0" class="crossreference">archives</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Related: <span class="foreign">Archivally</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=archive&allowed_in_frame=0">archive (v.)</a> <a href="http://dictionary.reference.com/search?q=archive" class="dictionary" title="Look up archive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archive at Dictionary.com" title="Look up archive at Dictionary.com" /></a></dt>
+<dd class="highlight">1819 (implied in <span class="foreign">archived</span>), from <a href="/index.php?term=archives&allowed_in_frame=0" class="crossreference">archives</a>. Related: <span class="foreign">Archiving</span>.</dd>
+
+<dt><a href="/index.php?term=archives&allowed_in_frame=0">archives (n.)</a> <a href="http://dictionary.reference.com/search?q=archives" class="dictionary" title="Look up archives at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archives at Dictionary.com" title="Look up archives at Dictionary.com" /></a></dt>
+<dd>c.1600, from Fr. <span class="foreign">archif</span> (16c.), from L.L. <span class="foreign">archivum</span> (singular), from Gk. <span class="foreign">ta arkheia</span> "public records," plural of <span class="foreign">arkheion</span> "town hall," from <span class="foreign">arkhe</span> "government," lit. "beginning, origin, first place" (see <a href="/index.php?term=archon&allowed_in_frame=0" class="crossreference">archon</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=archivist&allowed_in_frame=0">archivist (n.)</a> <a href="http://dictionary.reference.com/search?q=archivist" class="dictionary" title="Look up archivist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archivist at Dictionary.com" title="Look up archivist at Dictionary.com" /></a></dt>
+<dd class="highlight">1753, from M.L. or It. <span class="foreign">archivista</span> or Fr. <span class="foreign">archiviste</span> (see <a href="/index.php?term=archives&allowed_in_frame=0" class="crossreference">archives</a>).</dd>
+
+<dt><a href="/index.php?term=archon&allowed_in_frame=0">archon (n.)</a> <a href="http://dictionary.reference.com/search?q=archon" class="dictionary" title="Look up archon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archon at Dictionary.com" title="Look up archon at Dictionary.com" /></a></dt>
+<dd>one of the nine chief magistrates of ancient Athens, 1650s, from Gk. <span class="foreign">arkhon</span> "ruler," noun use of prp. of <span class="foreign">arkhein</span> "to rule," from PIE <span class="foreign">*arkhein-</span> "to begin, rule, command," a "Gk. verb of unknown origin, but showing archaic Indo-European features ... with derivatives <span class="foreign">arkhe</span>, 'rule, beginning,' and <span class="foreign">arkhos</span>, 'ruler' " [Watkins].
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=archrival&allowed_in_frame=0">archrival (n.)</a> <a href="http://dictionary.reference.com/search?q=archrival" class="dictionary" title="Look up archrival at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archrival at Dictionary.com" title="Look up archrival at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1805, from <a href="/index.php?term=arch-&allowed_in_frame=0" class="crossreference">arch-</a> + <a href="/index.php?term=rival&allowed_in_frame=0" class="crossreference">rival</a>.</dd>
+
+<dt><a href="/index.php?term=archway&allowed_in_frame=0">archway (n.)</a> <a href="http://dictionary.reference.com/search?q=archway" class="dictionary" title="Look up archway at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up archway at Dictionary.com" title="Look up archway at Dictionary.com" /></a></dt>
+<dd>1802, from <a href="/index.php?term=arch&allowed_in_frame=0" class="crossreference">arch</a> (n.) + <a href="/index.php?term=way&allowed_in_frame=0" class="crossreference">way</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Arctic&allowed_in_frame=0">Arctic (adj.)</a> <a href="http://dictionary.reference.com/search?q=Arctic" class="dictionary" title="Look up Arctic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arctic at Dictionary.com" title="Look up Arctic at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">artik</span>, from O.Fr. <span class="foreign">artique</span>, from M.L. <span class="foreign">articus</span>, from L. <span class="foreign">arcticus</span>, from Gk. <span class="foreign">arktikos</span> "of the north," lit. "of the (constellation) Bear," from <span class="foreign">arktos</span> "bear; Ursa Major; the region of the north," the Bear being a northerly constellation. From <span class="foreign">*rkto-</span>, the usual Indo-European base for "bear" (cf. Avestan <span class="foreign">aresho</span>, Armenian <span class="foreign">arj</span>, Albanian <span class="foreign">ari</span>, L. <span class="foreign">ursus</span>, Welsh <span class="foreign">arth</span>); see <a href="/index.php?term=bear&allowed_in_frame=0" class="crossreference">bear</a> (n.) for why the name changed in Germanic. The <span class="foreign">-c-</span> was restored from 1550s. As a noun, "the Arctic regions," from 1560s.</dd>
+
+<dt><a href="/index.php?term=Arctic+Circle&allowed_in_frame=0">Arctic Circle</a> <a href="http://dictionary.reference.com/search?q=Arctic+Circle" class="dictionary" title="Look up Arctic Circle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arctic Circle at Dictionary.com" title="Look up Arctic Circle at Dictionary.com" /></a></dt>
+<dd>1550s, in reference to a celestial circle, a line around the sky which, in any location, bounds the stars which 
+are ever-visible from that latitude (in the Northern Hemisphere, this is focused on the celestial north pole); the concept goes back to the ancient Greeks, for whom this set of constellations included most prominently the two bears (<span class="foreign">arktoi</span>), hence the name for the circle (see <a href="/index.php?term=arctic&allowed_in_frame=0" class="crossreference">arctic</a>). Of Earth, the circle 66 degrees 32 minutes north of the equator, marking the southern extremity of the polar day, it is recorded from 1620s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Arcturus&allowed_in_frame=0">Arcturus</a> <a href="http://dictionary.reference.com/search?q=Arcturus" class="dictionary" title="Look up Arcturus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Arcturus at Dictionary.com" title="Look up Arcturus at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., bright star in the constellation Bootes (also used of the whole constellation), from L. <span class="foreign">Arcturus</span>, from Gk. <span class="foreign">Arktouros</span>; anciently associated with the Bear, and its name is Greek for "guardian of the bear." See <a href="/index.php?term=arctic&allowed_in_frame=0" class="crossreference">arctic</a>; second element is from <span class="foreign">ouros</span> "watcher, guardian, ward" (see <a href="/index.php?term=warrant&allowed_in_frame=0" class="crossreference">warrant</a>).
+<BR><BR>
+<span class="foreign">Arcturus</span> in the Bible (Job ix:9 and xxxviii:32) is a mistranslation by Jerome (continued in KJV) of Heb. <span class="foreign">'Ayish</span>, which actually refers to the "bowl" of the Big Dipper. In Israel and Arabia, the seven stars of the Great Bear seem to have been a bier (the "bowl") followed by three mourners. In the Septuagint it was translated as <span class="foreign">Pleiada</span>, which is equally incorrect. The double nature of the great bear/wagon (see <a href="/index.php?term=Big Dipper&allowed_in_frame=0" class="crossreference">Big Dipper</a>) has given two different names to the constellation that follows it: <span class="foreign">Arktouros</span> "bear-ward" and <span class="foreign">bootes</span> "the wagoner."</dd>
+
+<dt><a href="/index.php?term=arcuate&allowed_in_frame=0">arcuate (adj.)</a> <a href="http://dictionary.reference.com/search?q=arcuate" class="dictionary" title="Look up arcuate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arcuate at Dictionary.com" title="Look up arcuate at Dictionary.com" /></a></dt>
+<dd>"bent like a bow," 1620s, from L. <span class="foreign">arcuatus</span> "bow-like, arched," pp. of <span class="foreign">arcuare</span> "to bend like a bow," from <span class="foreign">arcus</span> "bow" (see <a href="/index.php?term=arc&allowed_in_frame=0" class="crossreference">arc</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ardency&allowed_in_frame=0">ardency (n.)</a> <a href="http://dictionary.reference.com/search?q=ardency" class="dictionary" title="Look up ardency at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ardency at Dictionary.com" title="Look up ardency at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, "warmth of feeling, desire," from <a href="/index.php?term=ardent&allowed_in_frame=0" class="crossreference">ardent</a> + <a href="/index.php?term=-cy&allowed_in_frame=0" class="crossreference">-cy</a>. A figurative sense, the literal meaning "intensity of heat" wasn't attested in English until 1630s.</dd>
+
+<dt><a href="/index.php?term=ardent&allowed_in_frame=0">ardent (adj.)</a> <a href="http://dictionary.reference.com/search?q=ardent" class="dictionary" title="Look up ardent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ardent at Dictionary.com" title="Look up ardent at Dictionary.com" /></a></dt>
+<dd>early 14c., of alcoholic distillates, brandy (<span class="foreign">ardent spirits</span>), etc., from O.Fr. <span class="foreign">ardant</span> (13c.) "burning, hot; zealous," from L. <span class="foreign">ardentem</span> (nom. <span class="foreign">ardens</span>) "glowing, fiery, hot, ablaze," also used figuratively of passions, prp. of <span class="foreign">ardere</span> "to burn," from PIE root <span class="foreign">*as-</span> "to burn, glow" from PIE root <span class="foreign">*as-</span> "to burn, glow" (cf. O.E. <span class="foreign">&aelig;sce</span> "ashes;" see <a href="/index.php?term=ash&allowed_in_frame=0" class="crossreference">ash</a> (n.1)).
+<BR><BR>
+<span class="foreign">Ardent spirits</span> (late 15c.) so called because they are inflammable, but the term now, if used at all, probably is felt in the figurative sense. The figurative sense (of "burning with" passions, desire, etc.) is from late 14c.; literal sense of "burning, parching" (c.1400) remains rare. Related: <span class="foreign">Ardently</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ardor&allowed_in_frame=0">ardor (n.)</a> <a href="http://dictionary.reference.com/search?q=ardor" class="dictionary" title="Look up ardor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ardor at Dictionary.com" title="Look up ardor at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "heat of passion or desire," from O.Fr. <span class="foreign">ardure</span> "heat, glow; passion" (12c.), from L. <span class="foreign">ardorem</span> (nom. <span class="foreign">ardor</span>) "a flame, fire, burning, heat;" also of feelings, etc., "eagerness, zeal," from <span class="foreign">ardere</span> "to burn" (see <a href="/index.php?term=ardent&allowed_in_frame=0" class="crossreference">ardent</a>). In Middle English, used of base passions; since Milton's time, of noble ones.</dd>
+
+<dt><a href="/index.php?term=ardour&allowed_in_frame=0">ardour (n.)</a> <a href="http://dictionary.reference.com/search?q=ardour" class="dictionary" title="Look up ardour at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ardour at Dictionary.com" title="Look up ardour at Dictionary.com" /></a></dt>
+<dd>British English spelling of <a href="/index.php?term=ardor&allowed_in_frame=0" class="crossreference">ardor</a> (q.v.); for spelling, see <a href="/index.php?term=-or&allowed_in_frame=0" class="crossreference">-or</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=arduous&allowed_in_frame=0">arduous (adj.)</a> <a href="http://dictionary.reference.com/search?q=arduous" class="dictionary" title="Look up arduous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arduous at Dictionary.com" title="Look up arduous at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "hard to accomplish, difficult to do," from L. <span class="foreign">arduus</span> "high, steep," also figuratively, "difficult," from PIE root <span class="foreign">*eredh-</span> "to grow, high" (see <a href="/index.php?term=ortho-&allowed_in_frame=0" class="crossreference">ortho-</a>). Literal sense of "high, steep, difficult to climb," attested in English from 1709.</dd>
+
+<dt><a href="/index.php?term=ardurous&allowed_in_frame=0">ardurous (adj.)</a> <a href="http://dictionary.reference.com/search?q=ardurous" class="dictionary" title="Look up ardurous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ardurous at Dictionary.com" title="Look up ardurous at Dictionary.com" /></a></dt>
+<dd>"full of ardor," 1770, a variant of <a href="/index.php?term=arduous&allowed_in_frame=0" class="crossreference">arduous</a> with overtones of <span class="foreign">amorous</span>, generally useful only to poets and first attested in Chatterton; perhaps, then, like his works, an instance of faux medievalism.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=are&allowed_in_frame=0">are (v.)</a> <a href="http://dictionary.reference.com/search?q=are" class="dictionary" title="Look up are at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up are at Dictionary.com" title="Look up are at Dictionary.com" /></a></dt>
+<dd class="highlight">present plural indicative of <a href="/index.php?term=be&allowed_in_frame=0" class="crossreference">be</a> (q.v.), from O.E. <span class="foreign">earun</span> (Mercian), <span class="foreign">aron</span> (Northumbrian). Also from Old Norse cognates. In 17c., began to replace <span class="foreign">be</span>, <span class="foreign">ben</span> as first person plural present indicative in standard English. The only non-dialectal survival of <span class="foreign">be</span> in this sense is <span class="foreign">the powers that be</span>. But in southwest England, <span class="foreign">we be</span> (in Devonshire <span class="foreign">us be</span>) remains non-standard idiom as a contradictory positive ("You people aren't speaking correct English." "Oh, yes we be!").</dd>
+
+<dt><a href="/index.php?term=are&allowed_in_frame=0">are (n.)</a> <a href="http://dictionary.reference.com/search?q=are" class="dictionary" title="Look up are at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up are at Dictionary.com" title="Look up are at Dictionary.com" /></a></dt>
+<dd>square unit of 10 meters on each side, 1819, from French, formed 1795 by decree of the French National Convention, from L. <span class="foreign">area</span> "vacant piece of ground" (see <a href="/index.php?term=area&allowed_in_frame=0" class="crossreference">area</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=area&allowed_in_frame=0">area (n.)</a> <a href="http://dictionary.reference.com/search?q=area" class="dictionary" title="Look up area at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up area at Dictionary.com" title="Look up area at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "vacant piece of ground," from L. <span class="foreign">area</span> "level ground, open space," used of building sites, playgrounds, threshing floors, etc.; of uncertain origin. Perhaps related to <span class="foreign">arere</span> "to become dry," on notion of a burned clearing or dry, bare space. The generic sense of "amount of surface (whether open or not) contained within any set of limits" is from 1845. <span class="foreign">Area code</span> in North American telephone systems is attested from 1959.</dd>
+
+<dt><a href="/index.php?term=areal&allowed_in_frame=0">areal (adj.)</a> <a href="http://dictionary.reference.com/search?q=areal" class="dictionary" title="Look up areal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up areal at Dictionary.com" title="Look up areal at Dictionary.com" /></a></dt>
+<dd>1670s, from L. <span class="foreign">arealis</span>, from <span class="foreign">area</span> (see <a href="/index.php?term=area&allowed_in_frame=0" class="crossreference">area</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aren%27t&allowed_in_frame=0">aren&#039;t</a> <a href="http://dictionary.reference.com/search?q=aren%27t" class="dictionary" title="Look up aren&#039;t at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aren&#039;t at Dictionary.com" title="Look up aren&#039;t at Dictionary.com" /></a></dt>
+<dd class="highlight">1794, contraction of <span class="foreign">are not</span>, originally written <span class="foreign">are'n't</span> and generally so into early 19c.
+<blockquote>
+If "ain't I?" is objected to, surely "aren't I?" is very much worse. [Lady Grove, "The Social Fetich," 1907]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=arena&allowed_in_frame=0">arena (n.)</a> <a href="http://dictionary.reference.com/search?q=arena" class="dictionary" title="Look up arena at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arena at Dictionary.com" title="Look up arena at Dictionary.com" /></a></dt>
+<dd>1620s, "place of combat," from L. <span class="foreign">harena</span> "place of combat," originally "sand, sandy place," perhaps from Etruscan. The central stages of Roman amphitheaters were strewn with sand to soak up the blood.</dd>
+
+<dt class="highlight"><a href="/index.php?term=areola&allowed_in_frame=0">areola (n.)</a> <a href="http://dictionary.reference.com/search?q=areola" class="dictionary" title="Look up areola at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up areola at Dictionary.com" title="Look up areola at Dictionary.com" /></a></dt>
+<dd class="highlight">"colored circle around a nipple," 1706, from L. <span class="foreign">areola</span>, lit. "small area," dim. of <span class="foreign">area</span> (see <a href="/index.php?term=area&allowed_in_frame=0" class="crossreference">area</a>). Introduced in this sense 1605 by Swiss anatomist and botanist Caspar Bauhin (1560-1624).</dd>
+
+<dt><a href="/index.php?term=areolas&allowed_in_frame=0">areolas (n.)</a> <a href="http://dictionary.reference.com/search?q=areolas" class="dictionary" title="Look up areolas at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up areolas at Dictionary.com" title="Look up areolas at Dictionary.com" /></a></dt>
+<dd>nativized plural of <a href="/index.php?term=areola&allowed_in_frame=0" class="crossreference">areola</a> (q.v.), which has its proper plural in <span class="foreign">areolae</span> (see <a href="/index.php?term=-ae&allowed_in_frame=0" class="crossreference">-ae</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Areopagite&allowed_in_frame=0">Areopagite (n.)</a> <a href="http://dictionary.reference.com/search?q=Areopagite" class="dictionary" title="Look up Areopagite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Areopagite at Dictionary.com" title="Look up Areopagite at Dictionary.com" /></a></dt>
+<dd class="highlight">"member of the Areopagus court," late 14c.; see <a href="/index.php?term=Areopagus&allowed_in_frame=0" class="crossreference">Areopagus</a> + <a href="/index.php?term=-ite&allowed_in_frame=0" class="crossreference">-ite</a>. See Acts xvii:34.</dd>
+
+<dt><a href="/index.php?term=Areopagus&allowed_in_frame=0">Areopagus</a> <a href="http://dictionary.reference.com/search?q=Areopagus" class="dictionary" title="Look up Areopagus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Areopagus at Dictionary.com" title="Look up Areopagus at Dictionary.com" /></a></dt>
+<dd>1640s, Greek, <span class="foreign">Areios pagos</span> "the hill of Ares," west of the Acropolis in Athens, where the highest judicial court sat; second element from <span class="foreign">pagos</span> "rocky hill." Sense extended to "any important tribunal."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Ares&allowed_in_frame=0">Ares</a> <a href="http://dictionary.reference.com/search?q=Ares" class="dictionary" title="Look up Ares at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ares at Dictionary.com" title="Look up Ares at Dictionary.com" /></a></dt>
+<dd class="highlight">Greek god of war, identified by Romans with their Mars; lit. "injurer, destroyer," from <span class="foreign">are</span> "bane, ruin," perhaps cognate with Skt. <span class="foreign">irasya</span> "ill-will" (see <a href="/index.php?term=ire&allowed_in_frame=0" class="crossreference">ire</a>).</dd>
+
+<dt><a href="/index.php?term=arete&allowed_in_frame=0">arete (n.1)</a> <a href="http://dictionary.reference.com/search?q=arete" class="dictionary" title="Look up arete at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arete at Dictionary.com" title="Look up arete at Dictionary.com" /></a></dt>
+<dd>"sharp crest of a mountain," 1862, from Swiss French <span class="foreign">ar&#234;te</span>, from L. <span class="foreign">arista</span> "ear of grain, the top of an ear," which probably is of Etruscan origin. The figure is of something jagged.</dd>
+
+<dt class="highlight"><a href="/index.php?term=arete&allowed_in_frame=0">arete (n.2)</a> <a href="http://dictionary.reference.com/search?q=arete" class="dictionary" title="Look up arete at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up arete at Dictionary.com" title="Look up arete at Dictionary.com" /></a></dt>
+<dd class="highlight">important concept in Greek philosophy, "virtue, excellence," especially of manly qualities; lit. "that which is good." The comparative form is <span class="foreign">areion</span>, the superlative is <span class="foreign">aristos</span> (cf. <a href="/index.php?term=aristocracy&allowed_in_frame=0" class="crossreference">aristocracy</a>).</dd>
+
+<dt><a href="/index.php?term=argent&allowed_in_frame=0">argent (n.)</a> <a href="http://dictionary.reference.com/search?q=argent" class="dictionary" title="Look up argent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up argent at Dictionary.com" title="Look up argent at Dictionary.com" /></a></dt>
+<dd>c.1300, "quicksilver, the metal mercury," from O.Fr. <span class="foreign">argent</span> (11c.), from L. <span class="foreign">argentum</span> "silver, silver work, white money," from PIE <span class="foreign">*arg-ent-</span> (cf. Avestan <span class="foreign">erezata-</span>, O.Pers. <span class="foreign">ardata-</span>, Armenian <span class="foreign">arcat</span>, O.Ir. <span class="foreign">argat</span>, Breton <span class="foreign">arc'hant</span> "silver"), from root <span class="foreign">*arg-</span> "to shine; white," thus "the shining or white metal, silver" (cf. Gk. <span class="foreign">argos</span> "white," <span class="foreign">arguron</span> "silver;" Skt. <span class="foreign">arjuna-</span> "white, shining," <span class="foreign">rajata-</span> "silver," Hittite <span class="foreign">harki-</span> "white"). Meaning "silver, silver coin" is early 15c. in English; the adjective sense "silver-colored," late 15c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Argentina&allowed_in_frame=0">Argentina</a> <a href="http://dictionary.reference.com/search?q=Argentina" class="dictionary" title="Look up Argentina at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Argentina at Dictionary.com" title="Look up Argentina at Dictionary.com" /></a></dt>
+<dd class="highlight">South American nation, from L. <span class="foreign">argentinus</span> "of silver" (see <a href="/index.php?term=argent&allowed_in_frame=0" class="crossreference">argent</a>); a Latinized form of <span class="foreign">(Rio) de la Plata</span>, from Sp. <span class="foreign">plata</span> "silver."</dd>
+
+<dt><a href="/index.php?term=argentine&allowed_in_frame=0">argentine (adj.)</a> <a href="http://dictionary.reference.com/search?q=argentine" class="dictionary" title="Look up argentine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up argentine at Dictionary.com" title="Look up argentine at Dictionary.com" /></a></dt>
+<dd>"silver-colored," mid-15c., from L. <span class="foreign">argentinus</span> "of silver," from <span class="foreign">argentum</span> (see <a href="/index.php?term=argent&allowed_in_frame=0" class="crossreference">argent</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Argentine&allowed_in_frame=0">Argentine (adj.)</a> <a href="http://dictionary.reference.com/search?q=Argentine" class="dictionary" title="Look up Argentine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Argentine at Dictionary.com" title="Look up Argentine at Dictionary.com" /></a></dt>
+<dd class="highlight">"of or from <a href="/index.php?term=Argentina&allowed_in_frame=0" class="crossreference">Argentina</a>," 1830 (from 1829 as a noun); <span class="foreign">Argentinian</span> is from 1845 as a noun; 1858 as an adjective.</dd>
+
+<dt><a href="/index.php?term=Argive&allowed_in_frame=0">Argive</a> <a href="http://dictionary.reference.com/search?q=Argive" class="dictionary" title="Look up Argive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Argive at Dictionary.com" title="Look up Argive at Dictionary.com" /></a></dt>
+<dd>"of Argos," hence, especially in Homeric usage, "the Greeks," as a byword for <span class="foreign">Achaean</span> (he describes Agamemnon as king of Argos), 1520s, from L. <span class="foreign">Argivus</span>, from Gk. <span class="foreign">Argeios</span> "of Argos."</dd>
+
+<dt class="highlight"><a href="/index.php?term=argle&allowed_in_frame=0">argle (v.)</a> <a href="http://dictionary.reference.com/search?q=argle" class="dictionary" title="Look up argle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up argle at Dictionary.com" title="Look up argle at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s "to argue obstinately," from <span class="foreign">argue</span>, perhaps by influence of <span class="foreign">haggle</span>. Reduplicated form <span class="foreign">argle-bargle</span> (sometimes <span class="foreign">argy-bargy</span>) "wrangling" is attested from 1872.</dd>
+
+<dt><a href="/index.php?term=Argo&allowed_in_frame=0">Argo</a> <a href="http://dictionary.reference.com/search?q=Argo" class="dictionary" title="Look up Argo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Argo at Dictionary.com" title="Look up Argo at Dictionary.com" /></a></dt>
+<dd>name of the ship in which Jason and his companions sought the Fleece in Colchis, in Greek, lit. "The Swift," from <span class="foreign">argos</span> "swift" (adj.), an epithet, lit. "shining, bright" (see <a href="/index.php?term=argent&allowed_in_frame=0" class="crossreference">argent</a>; cf. also Skt. cognate <span class="foreign">rjrah</span> "shining, glowing, bright," also "swift"), "because all swift motion causes a kind of glancing or flickering light" [Liddell and Scott].</dd>
+
+<dt class="highlight"><a href="/index.php?term=argon&allowed_in_frame=0">argon (n.)</a> <a href="http://dictionary.reference.com/search?q=argon" class="dictionary" title="Look up argon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up argon at Dictionary.com" title="Look up argon at Dictionary.com" /></a></dt>
+<dd class="highlight">chemical element, 1894, Modern Latin, from Gk. <span class="foreign">argon</span>, neuter of <span class="foreign">argos</span> "lazy, idle, not working the ground, living without labor," from <span class="foreign">a-</span> "without" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3)) + <span class="foreign">ergon</span> "work" (see <a href="/index.php?term=urge&allowed_in_frame=0" class="crossreference">urge</a> (v.)). So called by its discoverers, Baron Rayleigh and Sir William Ramsay, for its inert qualities.</dd>
+
+<dt><a href="/index.php?term=Argonaut&allowed_in_frame=0">Argonaut (n.)</a> <a href="http://dictionary.reference.com/search?q=Argonaut" class="dictionary" title="Look up Argonaut at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Argonaut at Dictionary.com" title="Look up Argonaut at Dictionary.com" /></a></dt>
+<dd>"sailor of the Argo," 1580s (implied in <span class="foreign">argonautic</span>), from <a href="/index.php?term=Argo&allowed_in_frame=0" class="crossreference">Argo</a> + Gk. <span class="foreign">nautes</span> "sailor" (see <a href="/index.php?term=naval&allowed_in_frame=0" class="crossreference">naval</a>). Adventurers in the California Gold Rush of 1848 were called <span class="foreign">argonauts</span> (because they sought the golden fleece) by those who stayed home.</dd>
+
+<dt class="highlight"><a href="/index.php?term=argosy&allowed_in_frame=0">argosy (n.)</a> <a href="http://dictionary.reference.com/search?q=argosy" class="dictionary" title="Look up argosy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up argosy at Dictionary.com" title="Look up argosy at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, from It. <span class="foreign">(nave) Ragusea</span> "(vessel) of <span class="foreign">Ragusa</span>," maritime city on the Dalmatian coast of the Adriatic (modern Dubrovnik in Croatia). Their large merchant ships brought rich Eastern goods to 16c. England. The city name sometimes was <span class="foreign">Aragouse</span> or <span class="foreign">Arragosa</span> in 16c. English.</dd>
+
+<dt><a href="/index.php?term=argot&allowed_in_frame=0">argot (n.)</a> <a href="http://dictionary.reference.com/search?q=argot" class="dictionary" title="Look up argot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up argot at Dictionary.com" title="Look up argot at Dictionary.com" /></a></dt>
+<dd>1860, from Fr. <span class="foreign">argot</span> (17c.) "the jargon of Paris rogues and thieves," earlier "the company of beggars," from M.Fr. <span class="foreign">argot</span>, "group of beggars," origin unknown. Gamillscheg suggests a connection to O.Fr. <span class="foreign">argoter</span> "to cut off the stubs left in pruning," with a connecting sense of "to get a grip on." The best English equivalent is perhaps <a href="/index.php?term=cant&allowed_in_frame=0" class="crossreference">cant</a>. The German equivalent is <span class="foreign">Rotwelsch</span>, lit. "Red Welsh," but the first element may be connected with M.H.G. <span class="foreign">rot</span> "beggar." Earlier in English was <span class="foreign">pedlar's French</span> (1520s) "language of thieves and vagabonds."</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657972 -->
+<!-- Page was generated in 0.172333 seconds. -->
+ </body>
+</html>
+<!-- -->

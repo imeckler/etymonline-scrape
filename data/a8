@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=act&allowed_in_frame=0">act (n.)</a> <a href="http://dictionary.reference.com/search?q=act" class="dictionary" title="Look up act at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up act at Dictionary.com" title="Look up act at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "a thing done," from O.Fr. <span class="foreign">acte</span> "(official) document," and directly from L. <span class="foreign">actus</span> "a doing, a driving, impulse; a part in a play, act," and <span class="foreign">actum</span> "a thing done," originally a legal term, both from <span class="foreign">agere</span> "to do, set in motion, drive, urge, chase, stir up," from PIE root <span class="foreign">*ag-</span> "to drive, draw out or forth, move" (cf. Gk. <span class="foreign">agein</span> "to lead, guide, drive, carry off," <span class="foreign">agon</span> "assembly, contest in the games," <span class="foreign">agogos</span> "leader;" Skt. <span class="foreign">ajati</span> "drives," <span class="foreign">ajirah</span> "moving, active;" O.N. <span class="foreign">aka</span> "to drive;" M.Ir. <span class="foreign">ag</span> "battle").
+<BR><BR>
+Theatrical ("part of a play," 1510s) and legislative (early 15c.) senses of the word also were in Latin. Meaning "display of exaggerated behavior" is from 1928. <span class="foreign">In the act</span> "in the process" is from 1590s, perhaps originally from the 16c. sense of <span class="foreign">the act</span> as "sexual intercourse." <span class="foreign">Act of God</span> "uncontrollable natural force" recorded by 1726.
+<blockquote>
+An act of God is an accident which arises from a cause which operates without interference or aid from man (1 Pars. on Cont. 635); the loss arising wherefrom cannot be guarded against by the ordinary exertions of human skill and prudence so as to prevent its effect. [William Wait, "General Principles of the Law," Albany, 1879]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=act&allowed_in_frame=0">act (v.)</a> <a href="http://dictionary.reference.com/search?q=act" class="dictionary" title="Look up act at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up act at Dictionary.com" title="Look up act at Dictionary.com" /></a></dt>
+<dd>mid-15c., "to act upon or adjudicate" a legal case; 1590s in the theatrical sense, from L. <span class="foreign">actus</span>, pp. of <span class="foreign">agere</span> (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)). To <span class="foreign">act up</span> "be unruly" is from 1903. To <span class="foreign">act out</span> "behave anti-socially" (1974) is from psychiatric sense of "expressing one's unconscious impulses or desires." Related: <span class="foreign">Acted</span>; <a href="/index.php?term=acting&allowed_in_frame=0" class="crossreference">acting</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Actaeon&allowed_in_frame=0">Actaeon</a> <a href="http://dictionary.reference.com/search?q=Actaeon" class="dictionary" title="Look up Actaeon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Actaeon at Dictionary.com" title="Look up Actaeon at Dictionary.com" /></a></dt>
+<dd class="highlight">in Greek mythology, the name of the hunter who discovered Artemis bathing and was changed by her to a stag and torn to death by his hounds. The name is of unknown origin. Sometimes used figuratively in 17c. for "a cuckold" (because of his "horns").</dd>
+
+<dt><a href="/index.php?term=acting&allowed_in_frame=0">acting (adj.)</a> <a href="http://dictionary.reference.com/search?q=acting" class="dictionary" title="Look up acting at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acting at Dictionary.com" title="Look up acting at Dictionary.com" /></a></dt>
+<dd>1590s, "putting forth activity," prp. adjective from <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (v.). Meaning "performing temporary duties" is from 1797.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acting&allowed_in_frame=0">acting (n.)</a> <a href="http://dictionary.reference.com/search?q=acting" class="dictionary" title="Look up acting at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acting at Dictionary.com" title="Look up acting at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, "performance of deeds;" 1660s, "performance of plays;" verbal noun from prp. of <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (v.). <span class="foreign">Acting out</span> in psychology is from 1945.
+
+
+</dd>
+
+<dt><a href="/index.php?term=actinium&allowed_in_frame=0">actinium (n.)</a> <a href="http://dictionary.reference.com/search?q=actinium" class="dictionary" title="Look up actinium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actinium at Dictionary.com" title="Look up actinium at Dictionary.com" /></a></dt>
+<dd>radioactive element discovered in 1899, from Gk. <span class="foreign">actin-</span>, comb. form of <span class="foreign">aktis</span> (gen. <span class="foreign">aktinos</span>) "ray, radiance" (see <a href="/index.php?term=actino-&allowed_in_frame=0" class="crossreference">actino-</a>) + chemical suffix <span class="foreign">-ium</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=actino-&allowed_in_frame=0">actino-</a> <a href="http://dictionary.reference.com/search?q=actino-" class="dictionary" title="Look up actino- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actino- at Dictionary.com" title="Look up actino- at Dictionary.com" /></a></dt>
+<dd class="highlight">before vowels <span class="foreign">actin-</span>, word-forming element meaning "pertaining to rays," from Gk. <span class="foreign">aktis</span> (gen. <span class="foreign">aktinos</span>) "ray, radiance;" perhaps cognate with Skt. <span class="foreign">aktuh</span> "light, ray," Goth. <span class="foreign">uhtwo</span> "dawn, daybreak," Lith. <span class="foreign">anksti</span> "early."</dd>
+
+<dt><a href="/index.php?term=action&allowed_in_frame=0">action (n.)</a> <a href="http://dictionary.reference.com/search?q=action" class="dictionary" title="Look up action at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up action at Dictionary.com" title="Look up action at Dictionary.com" /></a></dt>
+<dd>mid-14c., "cause or grounds for a lawsuit," from Anglo-Fr. <span class="foreign">accioun</span>, O.Fr. <span class="foreign">accion</span> (12c.) "action, lawsuit, case," from L. <span class="foreign">actionem</span> (nom. <span class="foreign">actio</span>) "a putting in motion; a performing, doing," noun of action from pp. stem of <span class="foreign">agere</span> "to do" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (v.)). Sense of "something done, an act, deed" is late 14c. Meaning "fighting" is from c.1600. As a film director's command, it is attested from 1923. Meaning "excitement" is recorded from 1968. Phrase <span class="foreign">actions speak louder than words</span> is attested from 1731.</dd>
+
+<dt class="highlight"><a href="/index.php?term=actionable&allowed_in_frame=0">actionable (adj.)</a> <a href="http://dictionary.reference.com/search?q=actionable" class="dictionary" title="Look up actionable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actionable at Dictionary.com" title="Look up actionable at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s; from <a href="/index.php?term=action&allowed_in_frame=0" class="crossreference">action</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>.</dd>
+
+<dt><a href="/index.php?term=activate&allowed_in_frame=0">activate (v.)</a> <a href="http://dictionary.reference.com/search?q=activate" class="dictionary" title="Look up activate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up activate at Dictionary.com" title="Look up activate at Dictionary.com" /></a></dt>
+<dd>1620s; see <a href="/index.php?term=active&allowed_in_frame=0" class="crossreference">active</a> + <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a> (2). Related: <span class="foreign">Activated</span>; <span class="foreign">activating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=activation&allowed_in_frame=0">activation (n.)</a> <a href="http://dictionary.reference.com/search?q=activation" class="dictionary" title="Look up activation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up activation at Dictionary.com" title="Look up activation at Dictionary.com" /></a></dt>
+<dd class="highlight">1906, noun of action from <a href="/index.php?term=activate&allowed_in_frame=0" class="crossreference">activate</a> (v.).</dd>
+
+<dt><a href="/index.php?term=active&allowed_in_frame=0">active (adj.)</a> <a href="http://dictionary.reference.com/search?q=active" class="dictionary" title="Look up active at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up active at Dictionary.com" title="Look up active at Dictionary.com" /></a></dt>
+<dd>mid-14c., "given to worldly activity" (opposed to <span class="foreign">contemplative</span> or <span class="foreign">monastic</span>), from O.Fr. <span class="foreign">actif</span> (12c.) or directly from L. <span class="foreign">activus</span>, from <span class="foreign">actus</span> (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)). As "capable of acting" (opposed to <span class="foreign">passive</span>), from late 14c. Meaning 
+"energetic, lively" is from 1590s; that of "working, effective, in operation" is from 1640s. <span class="foreign">Active voice</span> is recorded from 1765 (grammatical use of <span class="foreign">active</span> dates from mid-15c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=actively&allowed_in_frame=0">actively (adv.)</a> <a href="http://dictionary.reference.com/search?q=actively" class="dictionary" title="Look up actively at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actively at Dictionary.com" title="Look up actively at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, "secularly," from <a href="/index.php?term=active&allowed_in_frame=0" class="crossreference">active</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). Meaning "vigorously" is early 15c.</dd>
+
+<dt><a href="/index.php?term=activism&allowed_in_frame=0">activism (n.)</a> <a href="http://dictionary.reference.com/search?q=activism" class="dictionary" title="Look up activism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up activism at Dictionary.com" title="Look up activism at Dictionary.com" /></a></dt>
+<dd>1920 in the political sense; see <a href="/index.php?term=activist&allowed_in_frame=0" class="crossreference">activist</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. Earlier (1907) it was used in reference to a philosophical theory.</dd>
+
+<dt class="highlight"><a href="/index.php?term=activist&allowed_in_frame=0">activist (n.)</a> <a href="http://dictionary.reference.com/search?q=activist" class="dictionary" title="Look up activist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up activist at Dictionary.com" title="Look up activist at Dictionary.com" /></a></dt>
+<dd class="highlight">"one who advocates a doctrine of direct action," 1915; from <a href="/index.php?term=active&allowed_in_frame=0" class="crossreference">active</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>. Originally in reference to political forces in Sweden advocating abandonment of neutrality in World War I and active support for the Central Powers.</dd>
+
+<dt><a href="/index.php?term=activities&allowed_in_frame=0">activities (n.)</a> <a href="http://dictionary.reference.com/search?q=activities" class="dictionary" title="Look up activities at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up activities at Dictionary.com" title="Look up activities at Dictionary.com" /></a></dt>
+<dd>in schoolwork sense, 1923, American English, from <a href="/index.php?term=activity&allowed_in_frame=0" class="crossreference">activity</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=activity&allowed_in_frame=0">activity (n.)</a> <a href="http://dictionary.reference.com/search?q=activity" class="dictionary" title="Look up activity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up activity at Dictionary.com" title="Look up activity at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, "active or secular life," from O.Fr. <span class="foreign">activit&eacute;</span>, from M.L. <span class="foreign">activitatem</span> (nom. <span class="foreign">activitas</span>), a word in Scholastic philosophy, from L. <span class="foreign">activus</span> (see <a href="/index.php?term=active&allowed_in_frame=0" class="crossreference">active</a>). Meaning "state of being active, briskness, liveliness" recorded from 1520s; that of "capacity for acting on matter" is from 1540s.</dd>
+
+<dt><a href="/index.php?term=actor&allowed_in_frame=0">actor (n.)</a> <a href="http://dictionary.reference.com/search?q=actor" class="dictionary" title="Look up actor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actor at Dictionary.com" title="Look up actor at Dictionary.com" /></a></dt>
+<dd>late 14c., "an overseer, guardian, steward," from L. <span class="foreign">actor</span> "an agent or doer," also "theatrical player," from pp. stem of <span class="foreign">agere</span> (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)). Mid-15c. as "a doer, maker," also "a plaintiff." Sense of "one who performs in plays" is 1580s, originally applied to both men and women.</dd>
+
+<dt class="highlight"><a href="/index.php?term=actress&allowed_in_frame=0">actress (n.)</a> <a href="http://dictionary.reference.com/search?q=actress" class="dictionary" title="Look up actress at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actress at Dictionary.com" title="Look up actress at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "female who does something;" see <a href="/index.php?term=actor&allowed_in_frame=0" class="crossreference">actor</a> + <a href="/index.php?term=-ess&allowed_in_frame=0" class="crossreference">-ess</a>; stage sense is from 1700. Sometimes French <span class="foreign">actrice</span> was used.</dd>
+
+<dt><a href="/index.php?term=Acts&allowed_in_frame=0">Acts</a> <a href="http://dictionary.reference.com/search?q=Acts" class="dictionary" title="Look up Acts at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Acts at Dictionary.com" title="Look up Acts at Dictionary.com" /></a></dt>
+<dd>short for "Acts of the Apostles" in New Testament, from 1530s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=actual&allowed_in_frame=0">actual (adj.)</a> <a href="http://dictionary.reference.com/search?q=actual" class="dictionary" title="Look up actual at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actual at Dictionary.com" title="Look up actual at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "pertaining to an action," from O.Fr. <span class="foreign">actuel</span> "now existing, up to date" (13c.), from L.L. <span class="foreign">actualis</span> "active, pertaining to action," adjectival form of L. <span class="foreign">actus</span> (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)). The broader sense of "real, existing" (as opposed to <span class="foreign">potential</span>, <span class="foreign">ideal</span>, etc.) is from late 14c.</dd>
+
+<dt><a href="/index.php?term=actuality&allowed_in_frame=0">actuality (n.)</a> <a href="http://dictionary.reference.com/search?q=actuality" class="dictionary" title="Look up actuality at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actuality at Dictionary.com" title="Look up actuality at Dictionary.com" /></a></dt>
+<dd>late 14c., "power, efficacy," from O.Fr. <span class="foreign">actualite</span> and directly from M.L. <span class="foreign">actualitatem</span> (nom. <span class="foreign">actualitas</span>), from L.L. <span class="foreign">actualis</span> (see <a href="/index.php?term=actual&allowed_in_frame=0" class="crossreference">actual</a>). A Latin loan-translation of Gk. <span class="foreign">energeia</span>. Meaning "state of being real" is from 1670s (<span class="foreign">actualities</span> "existing conditions" is from 1660s).
+<blockquote>
+Mod. use of <span class="foreign">actuality</span> in the sense of realism, contact with the contemporary, is due to Fr. <span class="foreign">actualit&eacute;</span>, from <span class="foreign">actuel</span>, which does not mean actual, real, but now existing, up to date. [Weekley]
+</blockquote>
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=actualization&allowed_in_frame=0">actualization (n.)</a> <a href="http://dictionary.reference.com/search?q=actualization" class="dictionary" title="Look up actualization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actualization at Dictionary.com" title="Look up actualization at Dictionary.com" /></a></dt>
+<dd class="highlight">1824, noun of action from <a href="/index.php?term=actualize&allowed_in_frame=0" class="crossreference">actualize</a>.</dd>
+
+<dt><a href="/index.php?term=actualize&allowed_in_frame=0">actualize (v.)</a> <a href="http://dictionary.reference.com/search?q=actualize" class="dictionary" title="Look up actualize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actualize at Dictionary.com" title="Look up actualize at Dictionary.com" /></a></dt>
+<dd>1810, first attested in Coleridge, from <a href="/index.php?term=actual&allowed_in_frame=0" class="crossreference">actual</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Actualized</span>; <span class="foreign">actualizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=actually&allowed_in_frame=0">actually (adv.)</a> <a href="http://dictionary.reference.com/search?q=actually" class="dictionary" title="Look up actually at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actually at Dictionary.com" title="Look up actually at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "in fact, in reality" (as opposed to in possibility), from <a href="/index.php?term=actual&allowed_in_frame=0" class="crossreference">actual</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). Meaning "actively, vigorously" is from mid-15c.; that of "at this time, at present" is from 1660s. As an intensive added to a statement and suggesting "as a matter of fact, really, in truth" it is attested from 1762.
+</dd>
+
+<dt><a href="/index.php?term=actuarial&allowed_in_frame=0">actuarial (adj.)</a> <a href="http://dictionary.reference.com/search?q=actuarial" class="dictionary" title="Look up actuarial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actuarial at Dictionary.com" title="Look up actuarial at Dictionary.com" /></a></dt>
+<dd>1869, from <a href="/index.php?term=actuary&allowed_in_frame=0" class="crossreference">actuary</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Related: <span class="foreign">Actuarially</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=actuary&allowed_in_frame=0">actuary (n.)</a> <a href="http://dictionary.reference.com/search?q=actuary" class="dictionary" title="Look up actuary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actuary at Dictionary.com" title="Look up actuary at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, "registrar, clerk," from L. <span class="foreign">actuarius</span> "copyist, account-keeper," from <span class="foreign">actus</span> "public business" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)). Modern insurance office meaning first recorded 1849.</dd>
+
+<dt><a href="/index.php?term=actuate&allowed_in_frame=0">actuate (v.)</a> <a href="http://dictionary.reference.com/search?q=actuate" class="dictionary" title="Look up actuate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up actuate at Dictionary.com" title="Look up actuate at Dictionary.com" /></a></dt>
+<dd>1590s, from M.L. <span class="foreign">actuatus</span>, pp. of <span class="foreign">actuare</span>, from L. <span class="foreign">actus</span> (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)). Related: <span class="foreign">Actuated</span>; <span class="foreign">actuating</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=acuity&allowed_in_frame=0">acuity (n.)</a> <a href="http://dictionary.reference.com/search?q=acuity" class="dictionary" title="Look up acuity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acuity at Dictionary.com" title="Look up acuity at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from M.Fr. <span class="foreign">acuit&eacute;</span> (16c.) or directly from M.L. <span class="foreign">acuitatem</span> (nom. <span class="foreign">acuitas</span>) "sharpness," from L. <span class="foreign">acuere</span> "to sharpen," related to <span class="foreign">acus</span> "needle," <span class="foreign">acuere</span> "to sharpen," from PIE root <span class="foreign">*ak-</span> "rise to a point, be sharp" (see <a href="/index.php?term=acrid&allowed_in_frame=0" class="crossreference">acrid</a>).</dd>
+
+<dt><a href="/index.php?term=acumen&allowed_in_frame=0">acumen (n.)</a> <a href="http://dictionary.reference.com/search?q=acumen" class="dictionary" title="Look up acumen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acumen at Dictionary.com" title="Look up acumen at Dictionary.com" /></a></dt>
+<dd>1530s, from L. <span class="foreign">acumen</span> "a point, sting," hence "mental sharpness, shrewdness," from <span class="foreign">acuere</span> "to sharpen" (see <a href="/index.php?term=acuity&allowed_in_frame=0" class="crossreference">acuity</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=acupressure&allowed_in_frame=0">acupressure (n.)</a> <a href="http://dictionary.reference.com/search?q=acupressure" class="dictionary" title="Look up acupressure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acupressure at Dictionary.com" title="Look up acupressure at Dictionary.com" /></a></dt>
+<dd class="highlight">1859, from L. <span class="foreign">acus</span> "needle" (see <a href="/index.php?term=acuity&allowed_in_frame=0" class="crossreference">acuity</a>) + <a href="/index.php?term=pressure&allowed_in_frame=0" class="crossreference">pressure</a> (n.).</dd>
+
+<dt><a href="/index.php?term=acupuncture&allowed_in_frame=0">acupuncture (n.)</a> <a href="http://dictionary.reference.com/search?q=acupuncture" class="dictionary" title="Look up acupuncture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acupuncture at Dictionary.com" title="Look up acupuncture at Dictionary.com" /></a></dt>
+<dd>1680s, "pricking with a needle" to ease pain, from L. <span class="foreign">acus</span> "needle" (see <a href="/index.php?term=acuity&allowed_in_frame=0" class="crossreference">acuity</a>) + <a href="/index.php?term=puncture&allowed_in_frame=0" class="crossreference">puncture</a>. The verb is first recorded 1972.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acupuncturist&allowed_in_frame=0">acupuncturist (n.)</a> <a href="http://dictionary.reference.com/search?q=acupuncturist" class="dictionary" title="Look up acupuncturist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acupuncturist at Dictionary.com" title="Look up acupuncturist at Dictionary.com" /></a></dt>
+<dd class="highlight">1843, from <a href="/index.php?term=acupuncture&allowed_in_frame=0" class="crossreference">acupuncture</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=acute&allowed_in_frame=0">acute (adj.)</a> <a href="http://dictionary.reference.com/search?q=acute" class="dictionary" title="Look up acute at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acute at Dictionary.com" title="Look up acute at Dictionary.com" /></a></dt>
+<dd>late 14c., originally of fevers and diseases, "coming and going quickly" (opposed to a <span class="foreign">chronic</span>), from L. <span class="foreign">acutus</span> "sharp, pointed," figuratively "shrill, penetrating; intelligent, cunning," pp. of <span class="foreign">acuere</span> "sharpen" (see <a href="/index.php?term=acuity&allowed_in_frame=0" class="crossreference">acuity</a>). Meaning "sharp, irritating" is from early 15c. Meaning "intense" is from 1727. Related: <span class="foreign">Acutely</span>; <span class="foreign">acuteness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ad&allowed_in_frame=0">ad (n.)</a> <a href="http://dictionary.reference.com/search?q=ad" class="dictionary" title="Look up ad at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad at Dictionary.com" title="Look up ad at Dictionary.com" /></a></dt>
+<dd class="highlight">1841, shortened form of <a href="/index.php?term=advertisement&allowed_in_frame=0" class="crossreference">advertisement</a>. Long resisted by those in the trade, and denounced 1918 by the president of a national advertising association as "the language of bootblacks, ... beneath the dignity of men of the advertising profession."</dd>
+
+<dt><a href="/index.php?term=ad+hoc&allowed_in_frame=0">ad hoc</a> <a href="http://dictionary.reference.com/search?q=ad+hoc" class="dictionary" title="Look up ad hoc at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad hoc at Dictionary.com" title="Look up ad hoc at Dictionary.com" /></a></dt>
+<dd>Latin, lit. "for this (specific purpose)."</dd>
+
+<dt class="highlight"><a href="/index.php?term=ad+hominem&allowed_in_frame=0">ad hominem</a> <a href="http://dictionary.reference.com/search?q=ad+hominem" class="dictionary" title="Look up ad hominem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad hominem at Dictionary.com" title="Look up ad hominem at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, Latin, lit. "to a man," from <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">hominem</span>, accusative of <span class="foreign">homo</span> "man" (see <a href="/index.php?term=homo-&allowed_in_frame=0" class="crossreference">homo-</a> (2)).</dd>
+
+<dt><a href="/index.php?term=ad+infinitum&allowed_in_frame=0">ad infinitum</a> <a href="http://dictionary.reference.com/search?q=ad+infinitum" class="dictionary" title="Look up ad infinitum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad infinitum at Dictionary.com" title="Look up ad infinitum at Dictionary.com" /></a></dt>
+<dd>Latin, lit. "to infinity" from <span class="foreign">infinitum</span> "infinity," neuter of adjective <span class="foreign">infinitus</span> "endless" (see <a href="/index.php?term=infinite&allowed_in_frame=0" class="crossreference">infinite</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ad+lib&allowed_in_frame=0">ad lib</a> <a href="http://dictionary.reference.com/search?q=ad+lib" class="dictionary" title="Look up ad lib at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad lib at Dictionary.com" title="Look up ad lib at Dictionary.com" /></a></dt>
+<dd class="highlight">1811, from L. <span class="foreign">ad libitum</span> "at one's pleasure, as much as one likes" (c.1600), from <span class="foreign">libere</span> "to please" (see <a href="/index.php?term=libido&allowed_in_frame=0" class="crossreference">libido</a>). First recorded as one word 1919 (v.), 1925 (n.).</dd>
+
+<dt><a href="/index.php?term=ad+nauseam&allowed_in_frame=0">ad nauseam</a> <a href="http://dictionary.reference.com/search?q=ad+nauseam" class="dictionary" title="Look up ad nauseam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad nauseam at Dictionary.com" title="Look up ad nauseam at Dictionary.com" /></a></dt>
+<dd>"to a sickening extent," Latin, lit. "to sickness" (see <a href="/index.php?term=nausea&allowed_in_frame=0" class="crossreference">nausea</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ad+valorem&allowed_in_frame=0">ad valorem</a> <a href="http://dictionary.reference.com/search?q=ad+valorem" class="dictionary" title="Look up ad valorem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad valorem at Dictionary.com" title="Look up ad valorem at Dictionary.com" /></a></dt>
+<dd class="highlight">type of customs duties, 1711, Latin, "in proportion to the value" (see <a href="/index.php?term=value&allowed_in_frame=0" class="crossreference">value</a>).</dd>
+
+<dt><a href="/index.php?term=ad-&allowed_in_frame=0">ad-</a> <a href="http://dictionary.reference.com/search?q=ad-" class="dictionary" title="Look up ad- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ad- at Dictionary.com" title="Look up ad- at Dictionary.com" /></a></dt>
+<dd>prefix expressing direction toward or in addition to, from L. <span class="foreign">ad</span> "to, toward" in space or time; "with regard to, in relation to," as a prefix, sometimes merely emphatic, from PIE <span class="foreign">*ad-</span> "to, near, at" (cognate with O.E. <span class="foreign">&aelig;t</span>; see <a href="/index.php?term=at&allowed_in_frame=0" class="crossreference">at</a>). Simplified to <span class="foreign">a-</span> before <span class="foreign">sc-, sp-</span> and <span class="foreign">st-</span>; modified to <span class="foreign">ac-</span> before many consonants and then re-spelled <span class="foreign">af-, ag-, al-</span> etc., in conformity with the following consonant (e.g. <span class="foreign">affection, aggression</span>). In Old French, reduced to <span class="foreign">a-</span> in all cases (an evolution already underway in Merovingian Latin), but written forms were refashioned after Latin in 14c. in French and 15c. in English words picked up from Old French. In many cases pronunciation followed the shift.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Ada&allowed_in_frame=0">Ada</a> <a href="http://dictionary.reference.com/search?q=Ada" class="dictionary" title="Look up Ada at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ada at Dictionary.com" title="Look up Ada at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, from Hebrew <span class="foreign">Adha</span>, lit. "ornament."</dd>
+
+<dt><a href="/index.php?term=adage&allowed_in_frame=0">adage (n.)</a> <a href="http://dictionary.reference.com/search?q=adage" class="dictionary" title="Look up adage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adage at Dictionary.com" title="Look up adage at Dictionary.com" /></a></dt>
+<dd>1540s, M.Fr. <span class="foreign">adage</span>, from L. <span class="foreign">adagium</span> "adage, proverb," apparently from <span class="foreign">adagio</span>, from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">*agi-</span>, root of <span class="foreign">aio</span> "I say," from PIE <span class="foreign">*ag-</span> "to speak." But Tucker thinks the second element is rather <span class="foreign">ago</span> "set in motion, drive, urge."</dd>
+
+<dt class="highlight"><a href="/index.php?term=adagio&allowed_in_frame=0">adagio (adv.)</a> <a href="http://dictionary.reference.com/search?q=adagio" class="dictionary" title="Look up adagio at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adagio at Dictionary.com" title="Look up adagio at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1746, "slowly, leisurely," Italian, from <span class="foreign">ad agio</span>, from <span class="foreign">ad</span> "to, at" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">agio</span> "leisure," from V.L. <span class="foreign">adjacens</span>, prp. of <span class="foreign">adjacere</span> "to lie at, to lie near" (cf. <a href="/index.php?term=adjacent&allowed_in_frame=0" class="crossreference">adjacent</a>). In musical sense of "a slow movement" (n.), first attested 1784.</dd>
+
+<dt><a href="/index.php?term=Adam&allowed_in_frame=0">Adam</a> <a href="http://dictionary.reference.com/search?q=Adam" class="dictionary" title="Look up Adam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Adam at Dictionary.com" title="Look up Adam at Dictionary.com" /></a></dt>
+<dd>masc. proper name, Biblical name of the first man, from Hebrew <span class="foreign">adam</span> "man," lit. "(the one formed from the) ground" (Heb. <span class="foreign">adamah</span> "ground"); cf. L. <span class="foreign">homo</span> "man," <span class="foreign">humanus</span> "human," <span class="foreign">humus</span> "earth, ground, soil." To <span class="foreign">not know (someone) from Adam</span> "not know him at all" is first recorded 1784.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Adam%27s+apple&allowed_in_frame=0">Adam&#039;s apple</a> <a href="http://dictionary.reference.com/search?q=Adam%27s+apple" class="dictionary" title="Look up Adam&#039;s apple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Adam&#039;s apple at Dictionary.com" title="Look up Adam&#039;s apple at Dictionary.com" /></a></dt>
+<dd class="highlight">1755, perhaps an inexact translation of Hebrew <span class="foreign">tappuah haadam</span>, lit. "man's swelling," from <span class="foreign">ha-adam</span> "the man" + <span class="foreign">tappuah</span> "anything swollen." The reference is to the legend that a piece of the forbidden fruit (commonly believed to be an apple) that Eve gave Adam stuck in his throat. The term is mentioned in early 15c. as the name of some actual oriental fruit.</dd>
+
+<dt><a href="/index.php?term=adamant&allowed_in_frame=0">adamant (adj.)</a> <a href="http://dictionary.reference.com/search?q=adamant" class="dictionary" title="Look up adamant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adamant at Dictionary.com" title="Look up adamant at Dictionary.com" /></a></dt>
+<dd>late 14c., "hard, unbreakable," from <a href="/index.php?term=adamant&allowed_in_frame=0" class="crossreference">adamant</a> (n.). Figurative sense of "unshakeable" first recorded 1670s. Related: <span class="foreign">Adamantly</span>; <span class="foreign">adamance</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adamant&allowed_in_frame=0">adamant (n.)</a> <a href="http://dictionary.reference.com/search?q=adamant" class="dictionary" title="Look up adamant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adamant at Dictionary.com" title="Look up adamant at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">adamant</span> and directly from L. <span class="foreign">adamantem</span> (nom. <span class="foreign">adamas</span>) "adamant, hardest iron, steel," also figuratively, of character, from Gk. <span class="foreign">adamas</span> (gen. <span class="foreign">adamantos</span>) "unbreakable, inflexible" metaphoric of anything unalterable, also the name of a hypothetical hardest material, perhaps lit. "invincible," from <span class="foreign">a-</span> "not" + <span class="foreign">daman</span> "to conquer, to tame" (see <a href="/index.php?term=tame&allowed_in_frame=0" class="crossreference">tame</a> (adj.)), or else a word of foreign origin altered to conform to Greek.
+<BR><BR>
+Applied in antiquity to white sapphire, magnet (perhaps via confusion with L. <span class="foreign">adamare</span> "to love passionately"), steel, emery stone, and especially diamond (see <a href="/index.php?term=diamond&allowed_in_frame=0" class="crossreference">diamond</a>). The word was in Old English as <span class="foreign">a&eth;amans</span> "a very hard stone." </dd>
+
+<dt><a href="/index.php?term=adamantine&allowed_in_frame=0">adamantine (adj.)</a> <a href="http://dictionary.reference.com/search?q=adamantine" class="dictionary" title="Look up adamantine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adamantine at Dictionary.com" title="Look up adamantine at Dictionary.com" /></a></dt>
+<dd>c.1200, from L. <span class="foreign">adamantinus</span> "hard as steel, inflexible," from Gk. <span class="foreign">adamantinos</span>, from <span class="foreign">adamas</span> (see <a href="/index.php?term=adamant&allowed_in_frame=0" class="crossreference">adamant</a> (n.)).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657924 -->
+<!-- Page was generated in 0.167021 seconds. -->
+ </body>
+</html>
+<!-- -->

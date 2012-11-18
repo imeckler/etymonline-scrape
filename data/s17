@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sediment&allowed_in_frame=0">sediment (n.)</a> <a href="http://dictionary.reference.com/search?q=sediment" class="dictionary" title="Look up sediment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sediment at Dictionary.com" title="Look up sediment at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from Fr. <span class="foreign">s&eacute;diment</span> (16c.), from L. <span class="foreign">sedimentum</span> "a settling, sinking down," from stem of <span class="foreign">sedere</span> "to settle, sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>).</dd>
+
+<dt><a href="/index.php?term=sedimentary&allowed_in_frame=0">sedimentary (adj.)</a> <a href="http://dictionary.reference.com/search?q=sedimentary" class="dictionary" title="Look up sedimentary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sedimentary at Dictionary.com" title="Look up sedimentary at Dictionary.com" /></a></dt>
+<dd>1764, from <a href="/index.php?term=sediment&allowed_in_frame=0" class="crossreference">sediment</a> + <a href="/index.php?term=-ary&allowed_in_frame=0" class="crossreference">-ary</a>. <span class="foreign">Sedimentary rock</span> attested by 1830 (in Lyell).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sedimentation&allowed_in_frame=0">sedimentation (n.)</a> <a href="http://dictionary.reference.com/search?q=sedimentation" class="dictionary" title="Look up sedimentation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sedimentation at Dictionary.com" title="Look up sedimentation at Dictionary.com" /></a></dt>
+<dd class="highlight">1845, from <a href="/index.php?term=sediment&allowed_in_frame=0" class="crossreference">sediment</a> + <a href="/index.php?term=-ation&allowed_in_frame=0" class="crossreference">-ation</a>.</dd>
+
+<dt><a href="/index.php?term=sedition&allowed_in_frame=0">sedition (n.)</a> <a href="http://dictionary.reference.com/search?q=sedition" class="dictionary" title="Look up sedition at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sedition at Dictionary.com" title="Look up sedition at Dictionary.com" /></a></dt>
+<dd>late 14c., "rebellion," from O.Fr. <span class="foreign">sedicion</span>, from L. <span class="foreign">seditionem</span> (nom. <span class="foreign">seditio</span>) "civil disorder, dissention," lit. "a going apart, separation," from <span class="foreign">se-</span> "apart" (see <a href="/index.php?term=secret&allowed_in_frame=0" class="crossreference">secret</a>) + <span class="foreign">itio</span> "a going," from pp. of <span class="foreign">ire</span> "to go" (see <a href="/index.php?term=ion&allowed_in_frame=0" class="crossreference">ion</a>). Meaning "conduct or language inciting to rebellion against a lawful government" is from 1838. An Old English word for it was <span class="foreign">folcslite</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seditious&allowed_in_frame=0">seditious (adj.)</a> <a href="http://dictionary.reference.com/search?q=seditious" class="dictionary" title="Look up seditious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seditious at Dictionary.com" title="Look up seditious at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from O.Fr. <span class="foreign">seditieux</span>, from L. <span class="foreign">seditiosus</span>, from <span class="foreign">seditionem</span> (see <a href="/index.php?term=sedition&allowed_in_frame=0" class="crossreference">sedition</a>). Related: <span class="foreign">Seditiously</span>; <span class="foreign">seditiousness</span>.</dd>
+
+<dt><a href="/index.php?term=seduce&allowed_in_frame=0">seduce (v.)</a> <a href="http://dictionary.reference.com/search?q=seduce" class="dictionary" title="Look up seduce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seduce at Dictionary.com" title="Look up seduce at Dictionary.com" /></a></dt>
+<dd>1520s, "to persuade a vassal, etc., to desert his allegiance or service," from L. <span class="foreign">seducere</span> "lead away, lead astray," from <span class="foreign">se-</span> "aside, away" + <span class="foreign">ducere</span> "to lead." Replaced M.E. <span class="foreign">seduisen</span> (late 15c.), from M.Fr. <span class="foreign">s&eacute;duire</span> "seduce," from O.Fr. <span class="foreign">suduire</span> "to corrupt, seduce," from L. <span class="foreign">subducere</span> "draw away, withdraw, remove," from <span class="foreign">sub-</span> "from under, further" + <span class="foreign">ducere</span> "to lead" (see <a href="/index.php?term=duke&allowed_in_frame=0" class="crossreference">duke</a>). Sexual sense, now the prevailing one, is attested from 1550s. Related: <span class="foreign">Seduced</span>; <span class="foreign">seducing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seduction&allowed_in_frame=0">seduction (n.)</a> <a href="http://dictionary.reference.com/search?q=seduction" class="dictionary" title="Look up seduction at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seduction at Dictionary.com" title="Look up seduction at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from Fr. <span class="foreign">s&eacute;duction</span>, from L. <span class="foreign">seductionem</span> (nom. <span class="foreign">seductio</span>), noun of action from pp. stem of <span class="foreign">seducere</span> (see <a href="/index.php?term=seduce&allowed_in_frame=0" class="crossreference">seduce</a>). Originally with reference to actions or beliefs; sexual sense is from 1769, originally always with women as the objects.</dd>
+
+<dt><a href="/index.php?term=seductive&allowed_in_frame=0">seductive (adj.)</a> <a href="http://dictionary.reference.com/search?q=seductive" class="dictionary" title="Look up seductive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seductive at Dictionary.com" title="Look up seductive at Dictionary.com" /></a></dt>
+<dd>1760s, from L. <span class="foreign">seduct-</span>, pp. stem of <span class="foreign">seducere</span> (see <a href="/index.php?term=seduce&allowed_in_frame=0" class="crossreference">seduce</a>) + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>. Related: <span class="foreign">Seductively</span>; <span class="foreign">seductiveness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seductress&allowed_in_frame=0">seductress (n.)</a> <a href="http://dictionary.reference.com/search?q=seductress" class="dictionary" title="Look up seductress at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seductress at Dictionary.com" title="Look up seductress at Dictionary.com" /></a></dt>
+<dd class="highlight">1803; see <a href="/index.php?term=seduce&allowed_in_frame=0" class="crossreference">seduce</a> (L. stem <span class="foreign">seduct-</span>) + <a href="/index.php?term=-ess&allowed_in_frame=0" class="crossreference">-ess</a>.</dd>
+
+<dt><a href="/index.php?term=sedulity&allowed_in_frame=0">sedulity (n.)</a> <a href="http://dictionary.reference.com/search?q=sedulity" class="dictionary" title="Look up sedulity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sedulity at Dictionary.com" title="Look up sedulity at Dictionary.com" /></a></dt>
+<dd>1540s, from L. <span class="foreign">sedulitas</span>, noun of quality from <span class="foreign">sedulus</span> (see <a href="/index.php?term=sedulous&allowed_in_frame=0" class="crossreference">sedulous</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sedulous&allowed_in_frame=0">sedulous (adj.)</a> <a href="http://dictionary.reference.com/search?q=sedulous" class="dictionary" title="Look up sedulous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sedulous at Dictionary.com" title="Look up sedulous at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from L. <span class="foreign">sedulus</span> "attentive, painstaking," probably from <span class="foreign">sedulo</span> (adv.) "sincerely, diligently," from <span class="foreign">sedolo</span> "without deception or guile," from <span class="foreign">se-</span> "without, apart" (see <a href="/index.php?term=secret&allowed_in_frame=0" class="crossreference">secret</a>) + <span class="foreign">dolo</span>, ablative of <span class="foreign">dolus</span> "deception, guile," cognate with Gk. <span class="foreign">dolos</span>.</dd>
+
+<dt><a href="/index.php?term=sedum&allowed_in_frame=0">sedum</a> <a href="http://dictionary.reference.com/search?q=sedum" class="dictionary" title="Look up sedum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sedum at Dictionary.com" title="Look up sedum at Dictionary.com" /></a></dt>
+<dd>mid-15c., from L. <span class="foreign">sedum</span> "houseleek."</dd>
+
+<dt class="highlight"><a href="/index.php?term=see&allowed_in_frame=0">see (v.)</a> <a href="http://dictionary.reference.com/search?q=see" class="dictionary" title="Look up see at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up see at Dictionary.com" title="Look up see at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">seon</span> (contracted class V strong verb; past tense <span class="foreign">seah</span>, pp. <span class="foreign">sewen</span>), from P.Gmc. <span class="foreign">*sekhwanan</span> (cf. O.S., O.H.G. <span class="foreign">sehan</span>, M.H.G., Ger. <span class="foreign">sehen</span>, O.Fris. <span class="foreign">sia</span>, M.Du. <span class="foreign">sien</span>, O.N. <span class="foreign">sja</span>, Goth. <span class="foreign">saihwan</span>), from PIE root <span class="foreign">*sekw-</span> "to see," which is "probably" the same base that produced words for "say" in Greek and Latin, and also words for "follow" (cf. L. <span class="foreign">sequor</span>), but "opinions differ in regard to the semantic starting-point and sequences" [Buck].
+<BR><BR>
+Thus <span class="foreign">see</span> could originally mean "follow with the eyes." Used in Middle English to mean "behold in the imagination or in a dream" (c.1200), "to recognize the force of (a demonstration)," also c.1200, "often with ref. to metaphorical light or eyes" [OED], and "to learn by reading" (early 15c.). Past tense <span class="foreign">saw</span> developed from Old English plural <span class="foreign">sawon</span>.<blockquote>When you have seen one of their Pictures, you have seen all. [Blake, c.1811]</blockquote>Sense of "escort" (e.g. to <span class="foreign">see someone home</span>) first recorded 1607 in Shakespeare. Meaning "to receive as a visitor" is attested from c.1500. Gambling sense of "equal a bet" is from 1590s. <span class="foreign">See you</span> as a casual farewell first attested 1891. <span class="foreign">Seeing Eye dog</span> first attested 1929, Amer.Eng., trademarked by Seeing Eye Inc. of New Jersey.</dd>
+
+<dt><a href="/index.php?term=see&allowed_in_frame=0">see (n.)</a> <a href="http://dictionary.reference.com/search?q=see" class="dictionary" title="Look up see at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up see at Dictionary.com" title="Look up see at Dictionary.com" /></a></dt>
+<dd>"position of a bishop," c.1300, from O.Fr. <span class="foreign">sied, sed</span>, from L. <span class="foreign">sedem</span> (nom. <span class="foreign">sedes</span>) "seat, abode," related to <span class="foreign">sedere</span> "to sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=see-through&allowed_in_frame=0">see-through (adj.)</a> <a href="http://dictionary.reference.com/search?q=see-through" class="dictionary" title="Look up see-through at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up see-through at Dictionary.com" title="Look up see-through at Dictionary.com" /></a></dt>
+<dd class="highlight">1950, from <a href="/index.php?term=see&allowed_in_frame=0" class="crossreference">see</a> (v.) + <a href="/index.php?term=through&allowed_in_frame=0" class="crossreference">through</a>.</dd>
+
+<dt><a href="/index.php?term=seed&allowed_in_frame=0">seed (v.)</a> <a href="http://dictionary.reference.com/search?q=seed" class="dictionary" title="Look up seed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seed at Dictionary.com" title="Look up seed at Dictionary.com" /></a></dt>
+<dd>"to produce seed," late 14c.; "to sow with seed," mid-15c.; from <a href="/index.php?term=seed&allowed_in_frame=0" class="crossreference">seed</a> (n.). Sporting (originally tennis) sense (1898) is from notion of spreading certain players' names so as to insure they will not meet early in a tournament. The noun in this sense is attested from 1924.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seed&allowed_in_frame=0">seed (n.)</a> <a href="http://dictionary.reference.com/search?q=seed" class="dictionary" title="Look up seed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seed at Dictionary.com" title="Look up seed at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sed</span>, <span class="foreign">s&aelig;d</span>, from P.Gmc. <span class="foreign">*s&aelig;dis</span>, <span class="foreign">*s&aelig;da-</span> (cf. O.N. <span class="foreign">sa&eth;</span>, O.S. <span class="foreign">sad</span>, O.Fris. <span class="foreign">sed</span>, M.Du. <span class="foreign">saet</span>, O.H.G. <span class="foreign">sat</span>, Ger. <span class="foreign">Saat</span>), from root <span class="foreign">*s&aelig;-</span> "to sow," from PIE root <span class="foreign">*se-</span> "to sow" (see <a href="/index.php?term=sow&allowed_in_frame=0" class="crossreference">sow</a> (v.)). Meaning "offspring, progeny" was in Old English, rare now except in biblical use. For sporting sense, see <a href="/index.php?term=seed&allowed_in_frame=0" class="crossreference">seed</a> (v.).</dd>
+
+<dt><a href="/index.php?term=seedling&allowed_in_frame=0">seedling (n.)</a> <a href="http://dictionary.reference.com/search?q=seedling" class="dictionary" title="Look up seedling at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seedling at Dictionary.com" title="Look up seedling at Dictionary.com" /></a></dt>
+<dd>"young plant developed from seed," 1660, from <a href="/index.php?term=seed&allowed_in_frame=0" class="crossreference">seed</a> (n.) with dim. suffix <a href="/index.php?term=-ling&allowed_in_frame=0" class="crossreference">-ling</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seedy&allowed_in_frame=0">seedy (adj.)</a> <a href="http://dictionary.reference.com/search?q=seedy" class="dictionary" title="Look up seedy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seedy at Dictionary.com" title="Look up seedy at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "fruitful, abundant," from <a href="/index.php?term=seed&allowed_in_frame=0" class="crossreference">seed</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Meaning "shabby" is from 1739, probably in reference to the appearance of a flowering plant that has run to seed. Related: <span class="foreign">Seediness</span>.</dd>
+
+<dt><a href="/index.php?term=seek&allowed_in_frame=0">seek (v.)</a> <a href="http://dictionary.reference.com/search?q=seek" class="dictionary" title="Look up seek at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seek at Dictionary.com" title="Look up seek at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">secan</span> "visit, inquire, pursue," influenced by O.N. <span class="foreign">soekja</span>, both from P.Gmc. <span class="foreign">*sokjanan</span> (cf. O.S. <span class="foreign">sokian</span>, O.Fris. <span class="foreign">seka</span>, M.Du. <span class="foreign">soekan</span>, O.H.G. <span class="foreign">suohhan</span>, Ger. <span class="foreign">suchen</span>, Goth. <span class="foreign">sokjan</span>), from PIE <span class="foreign">*sag-</span> "to track down, to trace" (cf. L. <span class="foreign">sagire</span> "to perceive quickly or keenly," <span class="foreign">sagus</span> "presaging, predicting," O.Ir. <span class="foreign">saigim</span> "seek"). The modern form of the word as uninfluenced by Old Norse is in <a href="/index.php?term=beseech&allowed_in_frame=0" class="crossreference">beseech</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seeker&allowed_in_frame=0">seeker (n.)</a> <a href="http://dictionary.reference.com/search?q=seeker" class="dictionary" title="Look up seeker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seeker at Dictionary.com" title="Look up seeker at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., agent noun from <a href="/index.php?term=seek&allowed_in_frame=0" class="crossreference">seek</a>.  The religious sect of the <span class="foreign">Seekers</span> is attested from 1645.</dd>
+
+<dt><a href="/index.php?term=seem&allowed_in_frame=0">seem (v.)</a> <a href="http://dictionary.reference.com/search?q=seem" class="dictionary" title="Look up seem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seem at Dictionary.com" title="Look up seem at Dictionary.com" /></a></dt>
+<dd>c.1200, from O.N. <span class="foreign">soema</span> "to befit, conform to," and <span class="foreign">soemr</span> "fitting, seemly," from P.Gmc. <span class="foreign">*som-</span> (cf. O.E. <span class="foreign">som</span> "agreement, reconciliation," <span class="foreign">seman</span> "to conciliate"), related to P.Gmc. <span class="foreign">*samon</span> (see <a href="/index.php?term=same&allowed_in_frame=0" class="crossreference">same</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=seeming&allowed_in_frame=0">seeming (adj.)</a> <a href="http://dictionary.reference.com/search?q=seeming" class="dictionary" title="Look up seeming at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seeming at Dictionary.com" title="Look up seeming at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., prp. adjective from <a href="/index.php?term=seem&allowed_in_frame=0" class="crossreference">seem</a>. <span class="foreign">Seemingly</span> in sense of "to all appearances" recorded from 1590s.</dd>
+
+<dt><a href="/index.php?term=seemly&allowed_in_frame=0">seemly (adj.)</a> <a href="http://dictionary.reference.com/search?q=seemly" class="dictionary" title="Look up seemly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seemly at Dictionary.com" title="Look up seemly at Dictionary.com" /></a></dt>
+<dd>"of pleasing or good appearance," early 13c., from O.N. <span class="foreign">soemiligr</span>, from <span class="foreign">soemr</span> (see <a href="/index.php?term=seem&allowed_in_frame=0" class="crossreference">seem</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=seep&allowed_in_frame=0">seep (v.)</a> <a href="http://dictionary.reference.com/search?q=seep" class="dictionary" title="Look up seep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seep at Dictionary.com" title="Look up seep at Dictionary.com" /></a></dt>
+<dd class="highlight">1790, variant of <span class="foreign">sipe</span> (c.1500), possibly from O.E. <span class="foreign">sipian</span> "to seep," from P.Gmc. <span class="foreign">*sip-</span> (cf. M.H.G. <span class="foreign">sifen</span>, Du. <span class="foreign">sijpelen</span> "to ooze"). Related: <span class="foreign">Seeped</span>; <span class="foreign">seeping</span>.</dd>
+
+<dt><a href="/index.php?term=seepage&allowed_in_frame=0">seepage (n.)</a> <a href="http://dictionary.reference.com/search?q=seepage" class="dictionary" title="Look up seepage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seepage at Dictionary.com" title="Look up seepage at Dictionary.com" /></a></dt>
+<dd>1825, from <a href="/index.php?term=seep&allowed_in_frame=0" class="crossreference">seep</a> + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seer&allowed_in_frame=0">seer (n.)</a> <a href="http://dictionary.reference.com/search?q=seer" class="dictionary" title="Look up seer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seer at Dictionary.com" title="Look up seer at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "one to whom divine revelations are made," from <a href="/index.php?term=see&allowed_in_frame=0" class="crossreference">see</a> (v.). Originally rendering L. <span class="foreign">videns</span>, Gk. <span class="foreign">bleptor</span> (from Heb. <span class="foreign">roeh</span>) in Bible translations (e.g. I Kings ix:9). Literal sense of "one who sees" is attested from early 15c.</dd>
+
+<dt><a href="/index.php?term=seersucker&allowed_in_frame=0">seersucker</a> <a href="http://dictionary.reference.com/search?q=seersucker" class="dictionary" title="Look up seersucker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seersucker at Dictionary.com" title="Look up seersucker at Dictionary.com" /></a></dt>
+<dd>1722, from Hindi <span class="foreign">sirsakar</span>, East Indian corruption of Pers. <span class="foreign">shir o shakkar</span> "striped cloth," lit. "milk and sugar," a reference to the alternately smooth and puckered surfaces of the stripes. From Pers. <span class="foreign">shir</span> (cf. Skt. <span class="foreign">ksiram</span> "milk") + <span class="foreign">shakar</span> (cf. Pali <span class="foreign">sakkhara,</span> Skt. <span class="foreign">sarkara</span> "gravel, grit, sugar;" see <a href="/index.php?term=sugar&allowed_in_frame=0" class="crossreference">sugar</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=seesaw&allowed_in_frame=0">seesaw</a> <a href="http://dictionary.reference.com/search?q=seesaw" class="dictionary" title="Look up seesaw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seesaw at Dictionary.com" title="Look up seesaw at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, in <span class="foreign">see-saw-sacke a downe</span>, words in a rhythmic jingle used by children and repetitive motion workers, probably imitative of the rhythmic back-and-forth motion of sawyers working a two-man saw over wood or stone (see <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a>). Reference to a game of going up and down on a balanced plank is recorded from 1704; figurative sense is from 1714. Applied from 1824 to the plank arranged for the game. The verb is from 1712.</dd>
+
+<dt><a href="/index.php?term=seethe&allowed_in_frame=0">seethe (v.)</a> <a href="http://dictionary.reference.com/search?q=seethe" class="dictionary" title="Look up seethe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seethe at Dictionary.com" title="Look up seethe at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">seo&thorn;an</span> "to boil" (class II strong verb; past tense <span class="foreign">sea&thorn;</span>, pp. <span class="foreign">soden</span>), from P.Gmc. <span class="foreign">*seuthanan</span> (cf. O.N. <span class="foreign">sjo&eth;a</span>, O.Fris. <span class="foreign">siatha</span>, Du. <span class="foreign">zieden</span>, O.H.G. <span class="foreign">siodan</span>, Ger. <span class="foreign">sieden</span> "to seethe"), from PIE root <span class="foreign">*seut-</span> "to seethe, boil."
+<BR><BR>
+Driven out of its literal meaning by <a href="/index.php?term=boil&allowed_in_frame=0" class="crossreference">boil</a> (v.); it survives largely in metaphoric extensions. Figurative use, of persons or populations, "to be in a state of inward agitation" is recorded from 1580s (implied in <span class="foreign">seething</span>). It had wider figurative uses in Old English, e.g. "to try by fire, to afflict with cares." Now conjugated weak, and pp. <a href="/index.php?term=sodden&allowed_in_frame=0" class="crossreference">sodden</a> (q.v.) no longer felt as connected.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seether&allowed_in_frame=0">seether (n.)</a> <a href="http://dictionary.reference.com/search?q=seether" class="dictionary" title="Look up seether at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seether at Dictionary.com" title="Look up seether at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "one employed in boiling," agent noun from <a href="/index.php?term=seethe&allowed_in_frame=0" class="crossreference">seethe</a>.</dd>
+
+<dt><a href="/index.php?term=segment&allowed_in_frame=0">segment (n.)</a> <a href="http://dictionary.reference.com/search?q=segment" class="dictionary" title="Look up segment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segment at Dictionary.com" title="Look up segment at Dictionary.com" /></a></dt>
+<dd>1560s, from L. <span class="foreign">segmentum</span> "a strip or piece cut off," originally a geometric term, from <span class="foreign">secare</span> "to cut" (see <a href="/index.php?term=section&allowed_in_frame=0" class="crossreference">section</a>), with euphonious alteration of <span class="foreign">-c-</span> to <span class="foreign">-g-</span> before <span class="foreign">-m-</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=segment&allowed_in_frame=0">segment (v.)</a> <a href="http://dictionary.reference.com/search?q=segment" class="dictionary" title="Look up segment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segment at Dictionary.com" title="Look up segment at Dictionary.com" /></a></dt>
+<dd class="highlight">1859, from <a href="/index.php?term=segment&allowed_in_frame=0" class="crossreference">segment</a> (n.). Related: <span class="foreign">Segmented</span>; <span class="foreign">segmenting</span>.</dd>
+
+<dt><a href="/index.php?term=segmentation&allowed_in_frame=0">segmentation (n.)</a> <a href="http://dictionary.reference.com/search?q=segmentation" class="dictionary" title="Look up segmentation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segmentation at Dictionary.com" title="Look up segmentation at Dictionary.com" /></a></dt>
+<dd>1851, from <a href="/index.php?term=segment&allowed_in_frame=0" class="crossreference">segment</a> + <a href="/index.php?term=-ation&allowed_in_frame=0" class="crossreference">-ation</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=segregate&allowed_in_frame=0">segregate (v.)</a> <a href="http://dictionary.reference.com/search?q=segregate" class="dictionary" title="Look up segregate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segregate at Dictionary.com" title="Look up segregate at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from L. <span class="foreign">segregatus</span>, pp. of <span class="foreign">segregare</span> "separate from the flock, isolate, divide," from <span class="foreign">*se gregare</span>, from <span class="foreign">se</span> "apart from" (see <a href="/index.php?term=secret&allowed_in_frame=0" class="crossreference">secret</a>) + <span class="foreign">grege</span>, ablative of <span class="foreign">grex</span> "herd, flock" (see <a href="/index.php?term=gregarious&allowed_in_frame=0" class="crossreference">gregarious</a>). Originally often with reference to the religious notion of separating the flock of the godly from sinners. Related: <span class="foreign">Segregated</span>; <span class="foreign">segregating</span>.</dd>
+
+<dt><a href="/index.php?term=segregation&allowed_in_frame=0">segregation (n.)</a> <a href="http://dictionary.reference.com/search?q=segregation" class="dictionary" title="Look up segregation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segregation at Dictionary.com" title="Look up segregation at Dictionary.com" /></a></dt>
+<dd>1550s, "act of segregating," from L.L. <span class="foreign">segregationem</span> (nom. <span class="foreign">segregatio</span>), noun of action from <span class="foreign">segregare</span> (see <a href="/index.php?term=segregate&allowed_in_frame=0" class="crossreference">segregate</a>). Meaning "state of being segregated" is from 1660s. Specific U.S. sense of "enforced separation of races" is attested from 1883.</dd>
+
+<dt class="highlight"><a href="/index.php?term=segregationist&allowed_in_frame=0">segregationist (n.)</a> <a href="http://dictionary.reference.com/search?q=segregationist" class="dictionary" title="Look up segregationist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segregationist at Dictionary.com" title="Look up segregationist at Dictionary.com" /></a></dt>
+<dd class="highlight">1915, from <a href="/index.php?term=segregation&allowed_in_frame=0" class="crossreference">segregation</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=segue&allowed_in_frame=0">segue (n.)</a> <a href="http://dictionary.reference.com/search?q=segue" class="dictionary" title="Look up segue at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up segue at Dictionary.com" title="Look up segue at Dictionary.com" /></a></dt>
+<dd>1740, an instruction in musical scores, from It. <span class="foreign">segue</span>, lit. "now follows," meaning to play into the following movement without a break, third person sing. of <span class="foreign">seguire</span> "to follow," from L. <span class="foreign">sequi</span> "to follow," from PIE <span class="foreign">*sekw-</span> "to follow" (see <a href="/index.php?term=sequel&allowed_in_frame=0" class="crossreference">sequel</a>). Extended noun sense of "transition without a break" is from 1937; the verb in this sense is first recorded 1958.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Segway&allowed_in_frame=0">Segway</a> <a href="http://dictionary.reference.com/search?q=Segway" class="dictionary" title="Look up Segway at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Segway at Dictionary.com" title="Look up Segway at Dictionary.com" /></a></dt>
+<dd class="highlight">trademark name (Segway Inc., Bedford, New Hampshire, U.S.), in use from 2001; according to the company, chosen for similarity to <a href="/index.php?term=segue&allowed_in_frame=0" class="crossreference">segue</a> on notion of "a smooth transition from one place to another."</dd>
+
+<dt><a href="/index.php?term=seigneur&allowed_in_frame=0">seigneur (n.)</a> <a href="http://dictionary.reference.com/search?q=seigneur" class="dictionary" title="Look up seigneur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seigneur at Dictionary.com" title="Look up seigneur at Dictionary.com" /></a></dt>
+<dd>"feudal landowner in France," 1590s, from M.Fr. <span class="foreign">seigneur</span>, from O.Fr. <span class="foreign">seignor</span> (see <a href="/index.php?term=seignior&allowed_in_frame=0" class="crossreference">seignior</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=seignior&allowed_in_frame=0">seignior (n.)</a> <a href="http://dictionary.reference.com/search?q=seignior" class="dictionary" title="Look up seignior at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seignior at Dictionary.com" title="Look up seignior at Dictionary.com" /></a></dt>
+<dd class="highlight">"lord of a manor," late 13c., from O.Fr. <span class="foreign">seignior</span>, from L. <span class="foreign">seniorem</span> (nom. <span class="foreign">senior</span>) "older" (see <a href="/index.php?term=senior&allowed_in_frame=0" class="crossreference">senior</a>). As a general title for a Frenchman, it dates from 1580s.</dd>
+
+<dt><a href="/index.php?term=seigniorage&allowed_in_frame=0">seigniorage (n.)</a> <a href="http://dictionary.reference.com/search?q=seigniorage" class="dictionary" title="Look up seigniorage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seigniorage at Dictionary.com" title="Look up seigniorage at Dictionary.com" /></a></dt>
+<dd>mid-15c., from O.Fr. <span class="foreign">seignorage</span>, from <span class="foreign">seignor</span> (see <a href="/index.php?term=seignior&allowed_in_frame=0" class="crossreference">seignior</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=seine&allowed_in_frame=0">seine (n.)</a> <a href="http://dictionary.reference.com/search?q=seine" class="dictionary" title="Look up seine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seine at Dictionary.com" title="Look up seine at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">segne</span> "drag-net," from W.Gmc. <span class="foreign">*sagina</span> (cf. O.S., O.H.G. <span class="foreign">segina</span>), a West Germanic borrowing of L. <span class="foreign">sagena</span> (source of Fr. <span class="foreign">seine</span>), from Gk. <span class="foreign">sagene</span> "a fishing net," also "a hunting net," of unknown origin.</dd>
+
+<dt><a href="/index.php?term=seismic&allowed_in_frame=0">seismic (adj.)</a> <a href="http://dictionary.reference.com/search?q=seismic" class="dictionary" title="Look up seismic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismic at Dictionary.com" title="Look up seismic at Dictionary.com" /></a></dt>
+<dd>1858, from Gk. <span class="foreign">seismos</span> "earthquake," from <span class="foreign">seiein</span> "to shake." <span class="foreign">Seismological</span> is attested from 1850.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seismo-&allowed_in_frame=0">seismo-</a> <a href="http://dictionary.reference.com/search?q=seismo-" class="dictionary" title="Look up seismo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismo- at Dictionary.com" title="Look up seismo- at Dictionary.com" /></a></dt>
+<dd class="highlight">comb. form of Gk. from <span class="foreign">seismos</span> "earthquake" (see <a href="/index.php?term=seismic&allowed_in_frame=0" class="crossreference">seismic</a>).</dd>
+
+<dt><a href="/index.php?term=seismogram&allowed_in_frame=0">seismogram</a> <a href="http://dictionary.reference.com/search?q=seismogram" class="dictionary" title="Look up seismogram at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismogram at Dictionary.com" title="Look up seismogram at Dictionary.com" /></a></dt>
+<dd>1891, from <a href="/index.php?term=seismo-&allowed_in_frame=0" class="crossreference">seismo-</a> + <a href="/index.php?term=-gram&allowed_in_frame=0" class="crossreference">-gram</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seismograph&allowed_in_frame=0">seismograph (n.)</a> <a href="http://dictionary.reference.com/search?q=seismograph" class="dictionary" title="Look up seismograph at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismograph at Dictionary.com" title="Look up seismograph at Dictionary.com" /></a></dt>
+<dd class="highlight">1858, from <a href="/index.php?term=seismo-&allowed_in_frame=0" class="crossreference">seismo-</a> + <a href="/index.php?term=-graph&allowed_in_frame=0" class="crossreference">-graph</a>. Related: <span class="foreign">Seismographic</span>.</dd>
+
+<dt><a href="/index.php?term=seismologist&allowed_in_frame=0">seismologist (n.)</a> <a href="http://dictionary.reference.com/search?q=seismologist" class="dictionary" title="Look up seismologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismologist at Dictionary.com" title="Look up seismologist at Dictionary.com" /></a></dt>
+<dd>1859, from <a href="/index.php?term=seismology&allowed_in_frame=0" class="crossreference">seismology</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=seismology&allowed_in_frame=0">seismology (n.)</a> <a href="http://dictionary.reference.com/search?q=seismology" class="dictionary" title="Look up seismology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismology at Dictionary.com" title="Look up seismology at Dictionary.com" /></a></dt>
+<dd class="highlight">1852, from <a href="/index.php?term=seismo-&allowed_in_frame=0" class="crossreference">seismo-</a> + <a href="/index.php?term=-logy&allowed_in_frame=0" class="crossreference">-logy</a>. Related: <span class="foreign">Seismological</span> (1850).</dd>
+
+<dt><a href="/index.php?term=seismometer&allowed_in_frame=0">seismometer</a> <a href="http://dictionary.reference.com/search?q=seismometer" class="dictionary" title="Look up seismometer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up seismometer at Dictionary.com" title="Look up seismometer at Dictionary.com" /></a></dt>
+<dd>1841, from <a href="/index.php?term=seismo-&allowed_in_frame=0" class="crossreference">seismo-</a> + <a href="/index.php?term=-meter&allowed_in_frame=0" class="crossreference">-meter</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658717 -->
+<!-- Page was generated in 0.176487 seconds. -->
+ </body>
+</html>
+<!-- -->

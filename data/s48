@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sombre&allowed_in_frame=0">sombre (adj.)</a> <a href="http://dictionary.reference.com/search?q=sombre" class="dictionary" title="Look up sombre at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sombre at Dictionary.com" title="Look up sombre at Dictionary.com" /></a></dt>
+<dd class="highlight">British English spelling of <a href="/index.php?term=somber&allowed_in_frame=0" class="crossreference">somber</a> (q.v.); for spelling, see <a href="/index.php?term=-re&allowed_in_frame=0" class="crossreference">-re</a>.</dd>
+
+<dt><a href="/index.php?term=sombrero&allowed_in_frame=0">sombrero (n.)</a> <a href="http://dictionary.reference.com/search?q=sombrero" class="dictionary" title="Look up sombrero at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sombrero at Dictionary.com" title="Look up sombrero at Dictionary.com" /></a></dt>
+<dd>1770, from Sp. <span class="foreign">sombrero</span> "broad-brimmed hat," originally "umbrella or parasol" (1590s), from <span class="foreign">sombra</span> "shade," from L.L. <span class="foreign">subumbrare</span> (see <a href="/index.php?term=somber&allowed_in_frame=0" class="crossreference">somber</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=some&allowed_in_frame=0">some (adj.)</a> <a href="http://dictionary.reference.com/search?q=some" class="dictionary" title="Look up some at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up some at Dictionary.com" title="Look up some at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sum</span> "some," from P.Gmc. <span class="foreign">*sumas</span> (cf. O.S., O.Fris., O.H.G. <span class="foreign">sum</span>, O.N. <span class="foreign">sumr</span>, Goth. <span class="foreign">sums</span>), from PIE root <span class="foreign">*sem-</span> "one, as one" (cf. Skt. <span class="foreign">samah</span> "even, level, similar, identical;" Gk. <a href="/index.php?term=hamo-&allowed_in_frame=0" class="crossreference">hamo-</a>; see <a href="/index.php?term=same&allowed_in_frame=0" class="crossreference">same</a>) For substitution of <span class="foreign">-o-</span> for <span class="foreign">-u-</span>, see <a href="/index.php?term=come&allowed_in_frame=0" class="crossreference">come</a>.
+<blockquote>The word has had greater currency in English than in the other Teutonic languages, in some of which it is now restricted to dialect use, or represented only by derivatives or compounds, as WFris. <span class="foreign">sommige, somlike</span>, Du. <span class="foreign">sommige</span> (also <span class="foreign">somtiids, sommijlen</span> 'sometimes'), LG <span class="foreign">s&ouml;mige</span> (G. dial. <span class="foreign">summige</span>). [OED]
+</blockquote>
+Meaning "remarkable" is attested from 1808, American English colloquial. A possessive form is attested from 1560s, but always was rare. Many combination forms (<span class="foreign">somewhat</span>, <span class="foreign">sometime</span>, <span class="foreign">somewhere</span>) were in Middle English but often written as two words till 17-19c. <span class="foreign">Somewhen</span> is rare and since 19c. used almost exclusively in combination with more common compounds. <span class="foreign">Get some</span> "have sexual intercourse" is attested 1899 in a quote attributed to Abe Lincoln from c.1840.</dd>
+
+<dt><a href="/index.php?term=somebody&allowed_in_frame=0">somebody (n.)</a> <a href="http://dictionary.reference.com/search?q=somebody" class="dictionary" title="Look up somebody at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somebody at Dictionary.com" title="Look up somebody at Dictionary.com" /></a></dt>
+<dd>c.1300, "indeterminate person," from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=body&allowed_in_frame=0" class="crossreference">body</a>. Meaning "important person" is from 1560s. <span class="foreign">Somebody else</span> is from 1640s; meaning "romantic rival" is from 1911.</dd>
+
+<dt class="highlight"><a href="/index.php?term=someday&allowed_in_frame=0">someday (adv.)</a> <a href="http://dictionary.reference.com/search?q=someday" class="dictionary" title="Look up someday at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up someday at Dictionary.com" title="Look up someday at Dictionary.com" /></a></dt>
+<dd class="highlight">1898 as one word, from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=day&allowed_in_frame=0" class="crossreference">day</a>.</dd>
+
+<dt><a href="/index.php?term=somehow&allowed_in_frame=0">somehow (adv.)</a> <a href="http://dictionary.reference.com/search?q=somehow" class="dictionary" title="Look up somehow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somehow at Dictionary.com" title="Look up somehow at Dictionary.com" /></a></dt>
+<dd>1660s; from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=how&allowed_in_frame=0" class="crossreference">how</a>. First attested in phrase <span class="foreign">somehow or other</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=someone&allowed_in_frame=0">someone (pron.)</a> <a href="http://dictionary.reference.com/search?q=someone" class="dictionary" title="Look up someone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up someone at Dictionary.com" title="Look up someone at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, <span class="foreign">sum on</span>; from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=one&allowed_in_frame=0" class="crossreference">one</a>. <span class="foreign">Someone else</span> "romantic rival" is from 1914.</dd>
+
+<dt><a href="/index.php?term=someplace&allowed_in_frame=0">someplace (adv.)</a> <a href="http://dictionary.reference.com/search?q=someplace" class="dictionary" title="Look up someplace at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up someplace at Dictionary.com" title="Look up someplace at Dictionary.com" /></a></dt>
+<dd>1853, from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=place&allowed_in_frame=0" class="crossreference">place</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=somersault&allowed_in_frame=0">somersault (n.)</a> <a href="http://dictionary.reference.com/search?q=somersault" class="dictionary" title="Look up somersault at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somersault at Dictionary.com" title="Look up somersault at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from M.Fr. <span class="foreign">sombresault</span>, from O.Prov. <span class="foreign">sobresaut</span>, from <span class="foreign">sobre</span> "over" (from L. <span class="foreign">supra</span> "over") + <span class="foreign">saut</span> "a jump," from L. <span class="foreign">saltus</span>, from the root of <span class="foreign">salire</span> "to leap" (see <a href="/index.php?term=salient&allowed_in_frame=0" class="crossreference">salient</a>). Sometimes further corrupted to <span class="foreign">somerset</span>, etc.</dd>
+
+<dt><a href="/index.php?term=something&allowed_in_frame=0">something (pron.)</a> <a href="http://dictionary.reference.com/search?q=something" class="dictionary" title="Look up something at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up something at Dictionary.com" title="Look up something at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sum &thorn;inge</span>; see <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=thing&allowed_in_frame=0" class="crossreference">thing</a>. Hyphenated from c.1300; one word from 17c. Formerly common as an adverb (e.g. <span class="foreign">something like</span>). </dd>
+
+<dt class="highlight"><a href="/index.php?term=sometime&allowed_in_frame=0">sometime (adv.)</a> <a href="http://dictionary.reference.com/search?q=sometime" class="dictionary" title="Look up sometime at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sometime at Dictionary.com" title="Look up sometime at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "at one time or another" (adv.); as an adv., late 15c. Meaning "at some future time" is late 14c. From <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=time&allowed_in_frame=0" class="crossreference">time</a> (n.). <span class="foreign">Sometimes</span> "now and then" is from 1520s.</dd>
+
+<dt><a href="/index.php?term=somewhat&allowed_in_frame=0">somewhat (adv.)</a> <a href="http://dictionary.reference.com/search?q=somewhat" class="dictionary" title="Look up somewhat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somewhat at Dictionary.com" title="Look up somewhat at Dictionary.com" /></a></dt>
+<dd>c.1200, "a certain amount, to a certain degree," from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=what&allowed_in_frame=0" class="crossreference">what</a>. Replaced O.E. <span class="foreign">sumd&aelig;l</span>, <span class="foreign">sume d&aelig;le</span> "somewhat, some portion," lit. "some deal."</dd>
+
+<dt class="highlight"><a href="/index.php?term=somewhere&allowed_in_frame=0">somewhere (adv.)</a> <a href="http://dictionary.reference.com/search?q=somewhere" class="dictionary" title="Look up somewhere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somewhere at Dictionary.com" title="Look up somewhere at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1200, from <a href="/index.php?term=some&allowed_in_frame=0" class="crossreference">some</a> + <a href="/index.php?term=where&allowed_in_frame=0" class="crossreference">where</a>.</dd>
+
+<dt><a href="/index.php?term=sommelier&allowed_in_frame=0">sommelier (n.)</a> <a href="http://dictionary.reference.com/search?q=sommelier" class="dictionary" title="Look up sommelier at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sommelier at Dictionary.com" title="Look up sommelier at Dictionary.com" /></a></dt>
+<dd>wine waiter, 1889, from Fr. <span class="foreign">sommelier</span>, from <span class="foreign">somme</span> "pack." Also borrowed in 16c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=somnambulant&allowed_in_frame=0">somnambulant</a> <a href="http://dictionary.reference.com/search?q=somnambulant" class="dictionary" title="Look up somnambulant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somnambulant at Dictionary.com" title="Look up somnambulant at Dictionary.com" /></a></dt>
+<dd class="highlight">1843 (n.); 1866 (adj.), from L. <span class="foreign">somnus</span> "sleep" (see <a href="/index.php?term=somnolence&allowed_in_frame=0" class="crossreference">somnolence</a>) + <span class="foreign">ambulantem</span> (nom. <span class="foreign">ambulans</span>), prp. of <span class="foreign">ambulare</span> (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>).</dd>
+
+<dt><a href="/index.php?term=somnambulate&allowed_in_frame=0">somnambulate (v.)</a> <a href="http://dictionary.reference.com/search?q=somnambulate" class="dictionary" title="Look up somnambulate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somnambulate at Dictionary.com" title="Look up somnambulate at Dictionary.com" /></a></dt>
+<dd>1833,  from L. <span class="foreign">somnus</span> "sleep" (see <a href="/index.php?term=somnolence&allowed_in_frame=0" class="crossreference">somnolence</a>) + <span class="foreign">ambulare</span> "to walk" (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=somnambulator&allowed_in_frame=0">somnambulator (n.)</a> <a href="http://dictionary.reference.com/search?q=somnambulator" class="dictionary" title="Look up somnambulator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somnambulator at Dictionary.com" title="Look up somnambulator at Dictionary.com" /></a></dt>
+<dd class="highlight">1822, agent noun in Latin form from <a href="/index.php?term=somnambulate&allowed_in_frame=0" class="crossreference">somnambulate</a>.</dd>
+
+<dt><a href="/index.php?term=somnambulism&allowed_in_frame=0">somnambulism (n.)</a> <a href="http://dictionary.reference.com/search?q=somnambulism" class="dictionary" title="Look up somnambulism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somnambulism at Dictionary.com" title="Look up somnambulism at Dictionary.com" /></a></dt>
+<dd>1794 (as <span class="foreign">somnambulation</span>), from Mod.L. <span class="foreign">somnambulus</span> "sleepwalker," from L. <span class="foreign">somnus</span> "sleep" (see <a href="/index.php?term=somnolence&allowed_in_frame=0" class="crossreference">somnolence</a>) + <span class="foreign">ambulare</span> "to walk" (see <a href="/index.php?term=amble&allowed_in_frame=0" class="crossreference">amble</a>). Won out over <span class="foreign">noctambulation</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=somniferous&allowed_in_frame=0">somniferous (adj.)</a> <a href="http://dictionary.reference.com/search?q=somniferous" class="dictionary" title="Look up somniferous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somniferous at Dictionary.com" title="Look up somniferous at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from L. <span class="foreign">somnifer</span>, from <span class="foreign">somni-</span>, comb. form of <span class="foreign">somnus</span> "sleep" (see <a href="/index.php?term=somnolence&allowed_in_frame=0" class="crossreference">somnolence</a>) + <span class="foreign">ferre</span> "to bear" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>) + <a href="/index.php?term=-ous&allowed_in_frame=0" class="crossreference">-ous</a>.</dd>
+
+<dt><a href="/index.php?term=somniloquy&allowed_in_frame=0">somniloquy (n.)</a> <a href="http://dictionary.reference.com/search?q=somniloquy" class="dictionary" title="Look up somniloquy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somniloquy at Dictionary.com" title="Look up somniloquy at Dictionary.com" /></a></dt>
+<dd>talking in one's sleep, 1847, from <span class="foreign">somni-</span>, comb. form of <span class="foreign">somnus</span> "sleep" (see <a href="/index.php?term=somnolence&allowed_in_frame=0" class="crossreference">somnolence</a>) + <span class="foreign">loqui</span> "to speak" (see <a href="/index.php?term=locution&allowed_in_frame=0" class="crossreference">locution</a>). Related: <span class="foreign">Somniloquence</span>; <span class="foreign">somniloquent</span> (1804); <span class="foreign">somniloquist</span>; <span class="foreign">somniloquous</span>; <span class="foreign">somniloquize</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=somnolence&allowed_in_frame=0">somnolence (n.)</a> <a href="http://dictionary.reference.com/search?q=somnolence" class="dictionary" title="Look up somnolence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somnolence at Dictionary.com" title="Look up somnolence at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">sompnolence</span>, from L. <span class="foreign">somnolentia</span> "sleepiness," from <span class="foreign">somnolentus</span>, from <span class="foreign">somnus</span> "sleep," from PIE <span class="foreign">*swep-no</span>, from root <span class="foreign">*swep-</span> "sleep" (cf. Skt. <span class="foreign">svapnah</span>, Avestan <span class="foreign">kvafna-</span>, Gk. <span class="foreign">hypnos</span>, Lith. <span class="foreign">sapnas</span>, O.C.S. <span class="foreign">sunu</span>, O.Ir. <span class="foreign">suan</span>, Welsh <span class="foreign">hun</span> "sleep," L. <span class="foreign">sopor</span> "a deep sleep," O.E. <span class="foreign">swefn</span>, O.N. <span class="foreign">svefn</span> "a dream").</dd>
+
+<dt><a href="/index.php?term=somnolent&allowed_in_frame=0">somnolent (adj.)</a> <a href="http://dictionary.reference.com/search?q=somnolent" class="dictionary" title="Look up somnolent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somnolent at Dictionary.com" title="Look up somnolent at Dictionary.com" /></a></dt>
+<dd>late 15c., <span class="foreign">sompnolent</span>, from O.Fr. <span class="foreign">sompnolent</span> (Mod.Fr. <span class="foreign">somnolent</span>) or directly from L. <span class="foreign">somnolentus</span>, from <span class="foreign">somnus</span> "sleep" (see <a href="/index.php?term=somnolence&allowed_in_frame=0" class="crossreference">somnolence</a>). Respelled 17c. on Latin model.</dd>
+
+<dt class="highlight"><a href="/index.php?term=son&allowed_in_frame=0">son (n.)</a> <a href="http://dictionary.reference.com/search?q=son" class="dictionary" title="Look up son at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up son at Dictionary.com" title="Look up son at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sunu</span> "son," from P.Gmc. <span class="foreign">*sunuz</span> (cf. O.S., O.Fris. <span class="foreign">sunu</span>, O.N. <span class="foreign">sonr</span>, Dan. <span class="foreign">s&oslash;n</span>, Swed. <span class="foreign">son</span>, M.Du. <span class="foreign">sone</span>, Du. <span class="foreign">zoon</span>, O.H.G. <span class="foreign">sunu</span>, Ger. <span class="foreign">Sohn</span>, Goth. <span class="foreign">sunus</span> "son"), from PIE <span class="foreign">*sunu-/*sunyu-</span> (cf. Skt. <span class="foreign">sunus</span>, Gk. <span class="foreign">huios</span>, Avestan <span class="foreign">hunush</span>, Armenian <span class="foreign">ustr</span>, Lith. <span class="foreign">sunus</span>, O.C.S. <span class="foreign">synu</span>, Rus., Pol. <span class="foreign">syn</span> "son"), from root <span class="foreign">*su-</span> "to give birth" (cf. Skt. <span class="foreign">sauti</span> "gives birth," O.Ir. <span class="foreign">suth</span> "birth, offspring"). <span class="foreign">Sonny</span> as a familiar form of address to one younger or inferior is from 1870. <span class="foreign">Son of _____</span> as the title of a sequel to a book or movie is recorded from 1929.</dd>
+
+<dt><a href="/index.php?term=son+of+a+bitch&allowed_in_frame=0">son of a bitch</a> <a href="http://dictionary.reference.com/search?q=son+of+a+bitch" class="dictionary" title="Look up son of a bitch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up son of a bitch at Dictionary.com" title="Look up son of a bitch at Dictionary.com" /></a></dt>
+<dd>1707 as a direct phrase, but implied much earlier.
+<blockquote>
+Abide &thorn;ou &thorn;ef malicious!
+<BR>Biche-sone &thorn;ou drawest amis
+<BR>&thorn;ou schalt abigge it ywis!
+<BR>["Of Arthour & of Merlin," c.1330]
+</blockquote>
+"Probably the most common American vulgarity from about the middle of the eighteenth century to the middle of the twentieth" [Rawson]. 
+<blockquote>
+Our maid-of-all-work in that department [indecency] is <span class="foreign">son-of-a-bitch</span>, which seems as pale and ineffectual to a Slav or a Latin as <span class="foreign">fudge</span> does to us. There is simply no lift in it, no shock, no sis-boom-ah. The dumbest policeman in Palermo thinks of a dozen better ones between breakfast and the noon whistle. [H.L. Mencken, "The American Language," 4th ed., 1936, p.317-8]
+</blockquote>
+Abbreviated form <span class="foreign">SOB</span> from 1918. Mencken, complaining of the tepidity of the American vocabulary of profanity, writes that the toned-down form <span class="foreign">son-of-a-gun</span> "is so lacking in punch that the Italians among us have borrowed it as a satirical name for an American: <span class="foreign">la sanemagogna</span> is what they call him, and by it they indicate their contempt for his backwardness in the art that is one of their great glories."
+<blockquote>
+It was in 1934 also that the New York <span class="foreign">Daily News</span>, with commendable frankness, in reporting a hearing in Washington at which Senator Huey P. Long featured, forsook the old-time dashes and abbreviations and printed the complete epithet "son of a bitch." [Stanley Walker, "City Editor," 1934]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=sonant&allowed_in_frame=0">sonant</a> <a href="http://dictionary.reference.com/search?q=sonant" class="dictionary" title="Look up sonant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonant at Dictionary.com" title="Look up sonant at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, from L. <span class="foreign">sonantem</span> (nom. <span class="foreign">sonans</span>), prp. of <span class="foreign">sonare</span> "make a noise," related to <span class="foreign">sonus</span> "sound" (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)).</dd>
+
+<dt><a href="/index.php?term=sonar&allowed_in_frame=0">sonar (n.)</a> <a href="http://dictionary.reference.com/search?q=sonar" class="dictionary" title="Look up sonar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonar at Dictionary.com" title="Look up sonar at Dictionary.com" /></a></dt>
+<dd>1946, from first letters of "<span class="foreign">so</span>und <span class="foreign">na</span>vigation <span class="foreign">r</span>anging," on pattern of <a href="/index.php?term=radar&allowed_in_frame=0" class="crossreference">radar</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sonata&allowed_in_frame=0">sonata (n.)</a> <a href="http://dictionary.reference.com/search?q=sonata" class="dictionary" title="Look up sonata at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonata at Dictionary.com" title="Look up sonata at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, from It. <span class="foreign">sonata</span> "piece of instrumental music," lit. "sounded" (i.e. "played on an instrument," as opposed to <span class="foreign">cantata</span> "sung"), fem. pp. of <span class="foreign">sonare</span> "to sound," from L. <span class="foreign">sonare</span> "to sound" (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)). Meaning narrowed by mid-18c. toward application to large-scale works in three or four movements.</dd>
+
+<dt><a href="/index.php?term=sone&allowed_in_frame=0">sone (n.)</a> <a href="http://dictionary.reference.com/search?q=sone" class="dictionary" title="Look up sone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sone at Dictionary.com" title="Look up sone at Dictionary.com" /></a></dt>
+<dd>unit of loudness, 1936, from L. <span class="foreign">sonus</span> (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=song&allowed_in_frame=0">song (n.)</a> <a href="http://dictionary.reference.com/search?q=song" class="dictionary" title="Look up song at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up song at Dictionary.com" title="Look up song at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sang</span> "art of singing, a metrical composition adapted for singing," from P.Gmc. <span class="foreign">*sangwaz</span> (cf. O.N. <span class="foreign">s&ouml;ngr</span>, Norw. <span class="foreign">song</span>, Swed. <span class="foreign">s&#229;ng</span>, O.S., Dan., O.Fris., O.H.G., Ger. <span class="foreign">sang</span>, M.Du. <span class="foreign">sanc</span>, Du. <span class="foreign">zang</span>, Goth. <span class="foreign">saggws</span>), related to <a href="/index.php?term=sing&allowed_in_frame=0" class="crossreference">sing</a> (q.v.).
+<BR><BR>
+Phrase <span class="foreign">for a song</span> is from "All's Well" III.ii.9. <span class="foreign">With a song in (one's) heart</span> "feeling of joy" is first attested 1930 in Lorenz Hart's lyric. <span class="foreign">Song and dance</span> as a form of vaudeville act is attested from 1872; figurative sense of "rigmarole" is from 1895.</dd>
+
+<dt><a href="/index.php?term=song-bird&allowed_in_frame=0">song-bird (n.)</a> <a href="http://dictionary.reference.com/search?q=song-bird" class="dictionary" title="Look up song-bird at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up song-bird at Dictionary.com" title="Look up song-bird at Dictionary.com" /></a></dt>
+<dd>1774, from <a href="/index.php?term=song&allowed_in_frame=0" class="crossreference">song</a> (n.) + <a href="/index.php?term=bird&allowed_in_frame=0" class="crossreference">bird</a> (n.1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=songbook&allowed_in_frame=0">songbook (n.)</a> <a href="http://dictionary.reference.com/search?q=songbook" class="dictionary" title="Look up songbook at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up songbook at Dictionary.com" title="Look up songbook at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sangboc</span>; see <a href="/index.php?term=song&allowed_in_frame=0" class="crossreference">song</a> (n.) + <a href="/index.php?term=book&allowed_in_frame=0" class="crossreference">book</a> (n.).</dd>
+
+<dt><a href="/index.php?term=songster&allowed_in_frame=0">songster (n.)</a> <a href="http://dictionary.reference.com/search?q=songster" class="dictionary" title="Look up songster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up songster at Dictionary.com" title="Look up songster at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sangystre</span>; see <a href="/index.php?term=song&allowed_in_frame=0" class="crossreference">song</a> (n.) + <a href="/index.php?term=-ster&allowed_in_frame=0" class="crossreference">-ster</a>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=sonic&allowed_in_frame=0">sonic (adj.)</a> <a href="http://dictionary.reference.com/search?q=sonic" class="dictionary" title="Look up sonic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonic at Dictionary.com" title="Look up sonic at Dictionary.com" /></a></dt>
+<dd class="highlight">1923, from L. <span class="foreign">sonus</span> "sound" (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)). <span class="foreign">Sonic boom</span> is attested from 1952.</dd>
+
+<dt><a href="/index.php?term=sonnet&allowed_in_frame=0">sonnet (n.)</a> <a href="http://dictionary.reference.com/search?q=sonnet" class="dictionary" title="Look up sonnet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonnet at Dictionary.com" title="Look up sonnet at Dictionary.com" /></a></dt>
+<dd>1557 (in title of Surrey's poems), from Fr. <span class="foreign">sonnet</span> (1540s) or directly from It. <span class="foreign">sonetto</span>, lit. "little song," from O.Prov. <span class="foreign">sonet</span> "song," dim. of <span class="foreign">son</span> "song, sound," from L. <span class="foreign">sonus</span> "sound" (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)). Originally in English also "any short lyric poem;" precise meaning is from Italian, where Petrarch (14c.) developed a scheme of an eight-line stanza (rhymed <span class="foreign">abba abba</span>) followed by a six-line stanza (<span class="foreign">cdecde</span>, the Italian sestet, or <span class="foreign">cdcdcd</span>, the Sicilian sestet). Shakespeare developed the English Sonnet for his rhyme-poor native tongue: three Sicilian quatrains followed by a heroic couplet (<span class="foreign">ababcdcdefefgg</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sonny&allowed_in_frame=0">sonny (n.)</a> <a href="http://dictionary.reference.com/search?q=sonny" class="dictionary" title="Look up sonny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonny at Dictionary.com" title="Look up sonny at Dictionary.com" /></a></dt>
+<dd class="highlight">"small boy," 1850, from <a href="/index.php?term=son&allowed_in_frame=0" class="crossreference">son</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (3). As a familiar form of address, from 1870.</dd>
+
+<dt><a href="/index.php?term=sonogram&allowed_in_frame=0">sonogram (n.)</a> <a href="http://dictionary.reference.com/search?q=sonogram" class="dictionary" title="Look up sonogram at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonogram at Dictionary.com" title="Look up sonogram at Dictionary.com" /></a></dt>
+<dd>1956, from comb. form of L. <span class="foreign">sonus</span> (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)) + <a href="/index.php?term=-gram&allowed_in_frame=0" class="crossreference">-gram</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sonority&allowed_in_frame=0">sonority (n.)</a> <a href="http://dictionary.reference.com/search?q=sonority" class="dictionary" title="Look up sonority at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonority at Dictionary.com" title="Look up sonority at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from Fr. <span class="foreign">sonorit&eacute;</span> or directly from L. <span class="foreign">sonoritas</span>, from <span class="foreign">sonorus</span> (see <a href="/index.php?term=sonorous&allowed_in_frame=0" class="crossreference">sonorous</a>).</dd>
+
+<dt><a href="/index.php?term=sonorous&allowed_in_frame=0">sonorous (adj.)</a> <a href="http://dictionary.reference.com/search?q=sonorous" class="dictionary" title="Look up sonorous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sonorous at Dictionary.com" title="Look up sonorous at Dictionary.com" /></a></dt>
+<dd>1610s, from L. <span class="foreign">sonorus</span> "resounding," from <span class="foreign">sonor</span> (gen. <span class="foreign">sonoris</span>) "sound, noise," from <span class="foreign">sonare</span> "to sound" (see <a href="/index.php?term=sound&allowed_in_frame=0" class="crossreference">sound</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sook&allowed_in_frame=0">sook</a> <a href="http://dictionary.reference.com/search?q=sook" class="dictionary" title="Look up sook at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sook at Dictionary.com" title="Look up sook at Dictionary.com" /></a></dt>
+<dd class="highlight">variant of <a href="/index.php?term=souk&allowed_in_frame=0" class="crossreference">souk</a>.</dd>
+
+<dt><a href="/index.php?term=soon&allowed_in_frame=0">soon (adv.)</a> <a href="http://dictionary.reference.com/search?q=soon" class="dictionary" title="Look up soon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soon at Dictionary.com" title="Look up soon at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sona</span> "at once, immediately," from W.Gmc. <span class="foreign">*s&aelig;no</span> (cf. O.Fris. <span class="foreign">son</span>, O.S. <span class="foreign">sana</span>, O.H.G. <span class="foreign">san</span>, Goth. <span class="foreign">suns</span> "soon"). Sense shifted early Middle English to "within a short time" through human nature (cf. <span class="foreign">anon</span>). American English. <span class="foreign">Sooner</span> for "Oklahoma native" is 1930, from the fact that in 1889 many settlers of the territory sneaked onto public land and staked their claims "sooner" than the legal date and time.</dd>
+
+<dt class="highlight"><a href="/index.php?term=soot&allowed_in_frame=0">soot (n.)</a> <a href="http://dictionary.reference.com/search?q=soot" class="dictionary" title="Look up soot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soot at Dictionary.com" title="Look up soot at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sot</span>, from P.Gmc. <span class="foreign">*sotam</span> "soot" (cf. O.N. <span class="foreign">sot</span>, O.Du. <span class="foreign">soet</span>, N.Fris. <span class="foreign">sutt</span>), lit. "what settles," from PIE <span class="foreign">*sodo-</span> (cf. O.C.S. <span class="foreign">sazda</span>, Lith. <span class="foreign">suodziai</span>, O.Ir. <span class="foreign">suide</span>, Bret. <span class="foreign">huzel</span> "soot"), from root <span class="foreign">*sod-/*sed-</span> "to sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>).</dd>
+
+<dt><a href="/index.php?term=sooth&allowed_in_frame=0">sooth (n.)</a> <a href="http://dictionary.reference.com/search?q=sooth" class="dictionary" title="Look up sooth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sooth at Dictionary.com" title="Look up sooth at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">so&eth;</span> "truth," noun use of <span class="foreign">so&thorn;</span> (adj.) "true," originally <span class="foreign">*son&thorn;-</span>, from P.Gmc. <span class="foreign">*santhaz</span> (cf. O.N. <span class="foreign">sannr</span>, O.S. <span class="foreign">soth</span>, O.H.G. <span class="foreign">sand</span> "true," Goth. <span class="foreign">sunja</span> "truth"), and thus cognate with O.E. <span class="foreign">synn</span> "sin" and L. <span class="foreign">sontis</span> "guilty" (truth is related to guilt via "being the one;" see <a href="/index.php?term=sin&allowed_in_frame=0" class="crossreference">sin</a>), from PIE <span class="foreign">*es-ont-</span> "being, existence," thus "real, true," from prp. of root <span class="foreign">*es-,</span> the s-form of the verb "to be" (see <a href="/index.php?term=be&allowed_in_frame=0" class="crossreference">be</a>), preserved in L. <span class="foreign">sunt</span> "they are" and Ger. <span class="foreign">sind</span>. Archaic in English, it is the root of modern words for "true" in Swedish (<span class="foreign">sann</span>) and Danish (<span class="foreign">sand</span>). In common use until c.1650, then obsolete until revived as an archaism early 19c. by Scott, etc.</dd>
+
+<dt class="highlight"><a href="/index.php?term=soothe&allowed_in_frame=0">soothe (v.)</a> <a href="http://dictionary.reference.com/search?q=soothe" class="dictionary" title="Look up soothe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soothe at Dictionary.com" title="Look up soothe at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">so&eth;ian</span> "show to be true," from <span class="foreign">so&eth;</span> "true" (see <a href="/index.php?term=sooth&allowed_in_frame=0" class="crossreference">sooth</a>). Sense of "quiet, comfort, mollify" is first recorded 1690s, on notion of "to assuage one by asserting that what he says is true" (i.e. to be a yes-man), a sense attested from 1560s.</dd>
+
+<dt><a href="/index.php?term=soothing&allowed_in_frame=0">soothing (adj.)</a> <a href="http://dictionary.reference.com/search?q=soothing" class="dictionary" title="Look up soothing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soothing at Dictionary.com" title="Look up soothing at Dictionary.com" /></a></dt>
+<dd>1590s, "flattering," from prp. of <a href="/index.php?term=soothe&allowed_in_frame=0" class="crossreference">soothe</a>. Sense of "mollifying" is from 1746. Related: <span class="foreign">Soothingly</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=soothsayer&allowed_in_frame=0">soothsayer (n.)</a> <a href="http://dictionary.reference.com/search?q=soothsayer" class="dictionary" title="Look up soothsayer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soothsayer at Dictionary.com" title="Look up soothsayer at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "one who speaks truth;" late 14c., "fortune-teller;" see <a href="/index.php?term=sooth&allowed_in_frame=0" class="crossreference">sooth</a> + <a href="/index.php?term=say&allowed_in_frame=0" class="crossreference">say</a>. Old English had <span class="foreign">so&eth;sagu</span> "act of speaking the truth," <span class="foreign">se&eth;an</span> "declare (the truth)."</dd>
+
+<dt><a href="/index.php?term=sooty&allowed_in_frame=0">sooty (adj.)</a> <a href="http://dictionary.reference.com/search?q=sooty" class="dictionary" title="Look up sooty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sooty at Dictionary.com" title="Look up sooty at Dictionary.com" /></a></dt>
+<dd>mid-13c., from <a href="/index.php?term=soot&allowed_in_frame=0" class="crossreference">soot</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Sootiness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sop&allowed_in_frame=0">sop (n.)</a> <a href="http://dictionary.reference.com/search?q=sop" class="dictionary" title="Look up sop at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sop at Dictionary.com" title="Look up sop at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sopp-</span> "bread soaked in some liquid," (in <span class="foreign">soppcuppe</span> "cup into which sops are put"), from P.Gmc. <span class="foreign">*suppo</span>, related to O.E. verb <span class="foreign">suppan</span> (see <a href="/index.php?term=sup&allowed_in_frame=0" class="crossreference">sup</a> (2)), probably reinforced by O.Fr. <span class="foreign">soupe</span> (see <a href="/index.php?term=soup&allowed_in_frame=0" class="crossreference">soup</a> (n.)). Meaning "something given to appease" is from 1660s, a reference to the sop given by the Sibyl to Cerberus in the "Aeneid."</dd>
+
+<dt><a href="/index.php?term=sopaipilla&allowed_in_frame=0">sopaipilla (n.)</a> <a href="http://dictionary.reference.com/search?q=sopaipilla" class="dictionary" title="Look up sopaipilla at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sopaipilla at Dictionary.com" title="Look up sopaipilla at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">sopapilla</span>, by 1983, from Mexican Spanish, ultimately from O.Sp. <span class="foreign">sopa</span> "food soaked in liquid," from a Germanic source, from PIE <span class="foreign">*seue-</span> "to take liquid" (see <a href="/index.php?term=sup&allowed_in_frame=0" class="crossreference">sup</a> (2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=soph&allowed_in_frame=0">soph (n.)</a> <a href="http://dictionary.reference.com/search?q=soph" class="dictionary" title="Look up soph at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soph at Dictionary.com" title="Look up soph at Dictionary.com" /></a></dt>
+<dd class="highlight">shortened form of <a href="/index.php?term=sophomore&allowed_in_frame=0" class="crossreference">sophomore</a>, 1778.</dd>
+
+<dt><a href="/index.php?term=Sophia&allowed_in_frame=0">Sophia</a> <a href="http://dictionary.reference.com/search?q=Sophia" class="dictionary" title="Look up Sophia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sophia at Dictionary.com" title="Look up Sophia at Dictionary.com" /></a></dt>
+<dd>fem. proper name, from Gk. <span class="foreign">sophia</span> "wisdom," from <span class="foreign">sophos</span> "wise" (see <a href="/index.php?term=sophist&allowed_in_frame=0" class="crossreference">sophist</a>).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658751 -->
+<!-- Page was generated in 0.185107 seconds. -->
+ </body>
+</html>
+<!-- -->

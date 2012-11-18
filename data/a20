@@ -1,0 +1,418 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=allay&allowed_in_frame=0">allay (v.)</a> <a href="http://dictionary.reference.com/search?q=allay" class="dictionary" title="Look up allay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allay at Dictionary.com" title="Look up allay at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">alecgan</span> "to put down, remit, give up," a Germanic compound (cf. Goth. <span class="foreign">uslagjan</span>, O.H.G. <span class="foreign">irleccan</span>, Ger. <span class="foreign">erlegen</span>), from <span class="foreign">a-</span> "down, aside" + <span class="foreign">lecgan</span> "to lay" (see <a href="/index.php?term=lay&allowed_in_frame=0" class="crossreference">lay</a>).
+<BR><BR>
+Early Middle English pronunciations of <span class="foreign">-y-</span> and <span class="foreign">-g-</span> were not always distinct, and the word was confused in Middle English with various senses of Romanic-derived <a href="/index.php?term=alloy&allowed_in_frame=0" class="crossreference">alloy</a> and <a href="/index.php?term=allege&allowed_in_frame=0" class="crossreference">allege</a>, especially the latter in an obsolete sense of "to lighten," from L. <span class="foreign">ad-</span> "to" + <span class="foreign">levis</span> (see <a href="/index.php?term=lever&allowed_in_frame=0" class="crossreference">lever</a>).
+<blockquote>Amid the overlapping of meanings that thus arose, there was developed a perplexing network of uses of <span class="foreign">allay</span> and <span class="foreign">allege</span>, that belong entirely to no one of the original vbs., but combine the senses of two or more of them. [OED]</blockquote>The double <span class="foreign">-l-</span> is 17c., a mistaken Latinism. Related: <span class="foreign">Allayed</span>; <span class="foreign">allaying</span>.</dd>
+
+<dt><a href="/index.php?term=allegation&allowed_in_frame=0">allegation (n.)</a> <a href="http://dictionary.reference.com/search?q=allegation" class="dictionary" title="Look up allegation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegation at Dictionary.com" title="Look up allegation at Dictionary.com" /></a></dt>
+<dd>early 15c., "action of alleging," from M.Fr. <span class="foreign">all&eacute;gation</span>, from L. <span class="foreign">allegationem</span> (nom. <span class="foreign">allegatio</span>) "a sending, despatching," noun of action from pp. stem of <span class="foreign">allegare</span> (see <a href="/index.php?term=allege&allowed_in_frame=0" class="crossreference">allege</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=allege&allowed_in_frame=0">allege (v.)</a> <a href="http://dictionary.reference.com/search?q=allege" class="dictionary" title="Look up allege at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allege at Dictionary.com" title="Look up allege at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300. It has the form of one French verb and the meaning of another. The form is Anglo-French <span class="foreign">aleger</span>, O.Fr. <span class="foreign">eslegier</span> "to clear at law," from L. <span class="foreign">ex-</span> "out of" (see <a href="/index.php?term=ex-&allowed_in_frame=0" class="crossreference">ex-</a>) and <span class="foreign">litigare</span> "bring suit" (see <a href="/index.php?term=litigate&allowed_in_frame=0" class="crossreference">litigate</a>); however <span class="foreign">eslegier</span> meant "acquit, clear of charges in a lawsuit." It somehow acquired the meaning of Fr. <span class="foreign">all&eacute;guer</span>, from L. <span class="foreign">allegare</span> "send for, bring forth, name, produce in evidence," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">legare</span> "to depute, send" (see <a href="/index.php?term=legate&allowed_in_frame=0" class="crossreference">legate</a>). Related: <a href="/index.php?term=Alleged&allowed_in_frame=0" class="crossreference">Alleged</a>; <span class="foreign">alleging</span>.</dd>
+
+<dt><a href="/index.php?term=alleged&allowed_in_frame=0">alleged (adj.)</a> <a href="http://dictionary.reference.com/search?q=alleged" class="dictionary" title="Look up alleged at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alleged at Dictionary.com" title="Look up alleged at Dictionary.com" /></a></dt>
+<dd>mid-15c., "quoted," pp. adjective from <a href="/index.php?term=allege&allowed_in_frame=0" class="crossreference">allege</a>. Attested from 1610s in sense of "brought forth in court;" 1670s as "asserted but not proved."</dd>
+
+<dt class="highlight"><a href="/index.php?term=allegedly&allowed_in_frame=0">allegedly (adv.)</a> <a href="http://dictionary.reference.com/search?q=allegedly" class="dictionary" title="Look up allegedly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegedly at Dictionary.com" title="Look up allegedly at Dictionary.com" /></a></dt>
+<dd class="highlight">1828, from <a href="/index.php?term=alleged&allowed_in_frame=0" class="crossreference">alleged</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=alleger&allowed_in_frame=0">alleger (n.)</a> <a href="http://dictionary.reference.com/search?q=alleger" class="dictionary" title="Look up alleger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alleger at Dictionary.com" title="Look up alleger at Dictionary.com" /></a></dt>
+<dd>1570s, agent noun from <a href="/index.php?term=allege&allowed_in_frame=0" class="crossreference">allege</a>. The Latinate form, <span class="foreign">allegator</span> (1680s) rarely was used, for some reason.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allegiance&allowed_in_frame=0">allegiance (n.)</a> <a href="http://dictionary.reference.com/search?q=allegiance" class="dictionary" title="Look up allegiance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegiance at Dictionary.com" title="Look up allegiance at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Anglo-Fr. <span class="foreign">legaunce</span> "loyalty of a liege-man to his lord," from O.Fr. <span class="foreign">legeance</span>, from <span class="foreign">liege</span> (see <a href="/index.php?term=liege&allowed_in_frame=0" class="crossreference">liege</a>); erroneously associated with L. <span class="foreign">ligare</span> "to bind;" corrupted in spelling by confusion with the now-obsolete legal term <span class="foreign">allegeance</span> "alleviation." General figurative sense of "recognition of claims to respect or duty" is attested from 1732.</dd>
+
+<dt><a href="/index.php?term=allegorical&allowed_in_frame=0">allegorical (adj.)</a> <a href="http://dictionary.reference.com/search?q=allegorical" class="dictionary" title="Look up allegorical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegorical at Dictionary.com" title="Look up allegorical at Dictionary.com" /></a></dt>
+<dd>1520s, from Fr. <span class="foreign">all&eacute;gorique</span>, from L. <span class="foreign">allegoricus</span>, from Gk. <span class="foreign">allegorikos</span> (see <a href="/index.php?term=allegory&allowed_in_frame=0" class="crossreference">allegory</a>). Earlier form was <span class="foreign">allegoric</span> (late 14c.). Related: <span class="foreign">Allegorically</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allegory&allowed_in_frame=0">allegory (n.)</a> <a href="http://dictionary.reference.com/search?q=allegory" class="dictionary" title="Look up allegory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegory at Dictionary.com" title="Look up allegory at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">allegorie</span> (12c.), from L. <span class="foreign">allegoria</span>, from Gk. <span class="foreign">allegoria</span> "figurative language, description of one thing under the image of another," lit. "a speaking about something else," from <span class="foreign">allos</span> "another, different" (see <a href="/index.php?term=alias&allowed_in_frame=0" class="crossreference">alias</a>) + <span class="foreign">agoreuein</span> "speak openly, speak in the assembly," from <span class="foreign">agora</span> "assembly" (see <a href="/index.php?term=agora&allowed_in_frame=0" class="crossreference">agora</a>).</dd>
+
+<dt><a href="/index.php?term=allegretto&allowed_in_frame=0">allegretto</a> <a href="http://dictionary.reference.com/search?q=allegretto" class="dictionary" title="Look up allegretto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegretto at Dictionary.com" title="Look up allegretto at Dictionary.com" /></a></dt>
+<dd>1740, from It. <span class="foreign">allegretto</span>, dim. of <a href="/index.php?term=allegro&allowed_in_frame=0" class="crossreference">allegro</a> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=allegro&allowed_in_frame=0">allegro</a> <a href="http://dictionary.reference.com/search?q=allegro" class="dictionary" title="Look up allegro at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allegro at Dictionary.com" title="Look up allegro at Dictionary.com" /></a></dt>
+<dd class="highlight">1680s as a musical term, from It. <span class="foreign">allegro</span> "cheerful, gay," from L. <span class="foreign">alacrem</span> (nom. <span class="foreign">alacer</span>) "lively, cheerful, brisk" (see <a href="/index.php?term=alacrity&allowed_in_frame=0" class="crossreference">alacrity</a>).</dd>
+
+<dt><a href="/index.php?term=allele&allowed_in_frame=0">allele (n.)</a> <a href="http://dictionary.reference.com/search?q=allele" class="dictionary" title="Look up allele at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allele at Dictionary.com" title="Look up allele at Dictionary.com" /></a></dt>
+<dd>1931, from Ger. <span class="foreign">allel</span>, abbreviation of <span class="foreign">allelomorph</span> (1902), coined from Gk. <span class="foreign">allel-</span> "one another" (from <span class="foreign">allos</span> "other;" see <a href="/index.php?term=alias&allowed_in_frame=0" class="crossreference">alias</a>) + <span class="foreign">morphe</span> "form" (see <a href="/index.php?term=Morpheus&allowed_in_frame=0" class="crossreference">Morpheus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alleluia&allowed_in_frame=0">alleluia</a> <a href="http://dictionary.reference.com/search?q=alleluia" class="dictionary" title="Look up alleluia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alleluia at Dictionary.com" title="Look up alleluia at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from L. <span class="foreign">alleluja</span>, from Gk. <span class="foreign">allelouia</span>, from Heb. <span class="foreign">hallelu-yah</span> "praise Jehovah" (see <a href="/index.php?term=hallelujah&allowed_in_frame=0" class="crossreference">hallelujah</a>).</dd>
+
+<dt><a href="/index.php?term=allemande&allowed_in_frame=0">allemande (n.)</a> <a href="http://dictionary.reference.com/search?q=allemande" class="dictionary" title="Look up allemande at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allemande at Dictionary.com" title="Look up allemande at Dictionary.com" /></a></dt>
+<dd>a German dance, 1775, from Fr. <span class="foreign">Allemande</span>, fem. of <span class="foreign">allemand</span> "German" (see <a href="/index.php?term=Alemanni&allowed_in_frame=0" class="crossreference">Alemanni</a>). As a move in country or square dancing, from 1808.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Allen&allowed_in_frame=0">Allen</a> <a href="http://dictionary.reference.com/search?q=Allen" class="dictionary" title="Look up Allen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Allen at Dictionary.com" title="Look up Allen at Dictionary.com" /></a></dt>
+<dd class="highlight">masc. proper name, variant of <a href="/index.php?term=Alan&allowed_in_frame=0" class="crossreference">Alan</a> (q.v.). In reference to wrench, key, screw, etc. with hexagonal socket or head, 1913, from the <span class="foreign">Allen</span> Manufacturing Company of Hartford, Connecticut, U.S.</dd>
+
+<dt><a href="/index.php?term=allergen&allowed_in_frame=0">allergen (n.)</a> <a href="http://dictionary.reference.com/search?q=allergen" class="dictionary" title="Look up allergen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allergen at Dictionary.com" title="Look up allergen at Dictionary.com" /></a></dt>
+<dd>substance causing allergy, 1912, from <a href="/index.php?term=allergy&allowed_in_frame=0" class="crossreference">allergy</a> on model of <a href="/index.php?term=antigen&allowed_in_frame=0" class="crossreference">antigen</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allergic&allowed_in_frame=0">allergic (adj.)</a> <a href="http://dictionary.reference.com/search?q=allergic" class="dictionary" title="Look up allergic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allergic at Dictionary.com" title="Look up allergic at Dictionary.com" /></a></dt>
+<dd class="highlight">1911, from <a href="/index.php?term=allergy&allowed_in_frame=0" class="crossreference">allergy</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>; cf. Fr. <span class="foreign">allergique</span> (1906). Figurative use, "antipathetic, repulsed" is from 1936.</dd>
+
+<dt><a href="/index.php?term=allergy&allowed_in_frame=0">allergy (n.)</a> <a href="http://dictionary.reference.com/search?q=allergy" class="dictionary" title="Look up allergy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allergy at Dictionary.com" title="Look up allergy at Dictionary.com" /></a></dt>
+<dd>1911, from Ger. <span class="foreign">Allergie</span>, coined 1906 by  Austrian pediatrician Clemens E. von Pirquet (1874-1929) from Gk. <span class="foreign">allos</span> "other, different, strange" (see <a href="/index.php?term=alias&allowed_in_frame=0" class="crossreference">alias</a> (adv.)) + <span class="foreign">ergon</span> "activity" (see <a href="/index.php?term=urge&allowed_in_frame=0" class="crossreference">urge</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alleviate&allowed_in_frame=0">alleviate (v.)</a> <a href="http://dictionary.reference.com/search?q=alleviate" class="dictionary" title="Look up alleviate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alleviate at Dictionary.com" title="Look up alleviate at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., from M.Fr. <span class="foreign">allevier</span> or directly from L.L. <span class="foreign">alleviatus</span>, pp. of <span class="foreign">alleviare</span> "to lighten," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">levis</span> "light" in weight (see <a href="/index.php?term=lever&allowed_in_frame=0" class="crossreference">lever</a>). Related: <span class="foreign">Alleviated</span>; <span class="foreign">alleviating</span>.</dd>
+
+<dt><a href="/index.php?term=alleviation&allowed_in_frame=0">alleviation (n.)</a> <a href="http://dictionary.reference.com/search?q=alleviation" class="dictionary" title="Look up alleviation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alleviation at Dictionary.com" title="Look up alleviation at Dictionary.com" /></a></dt>
+<dd>early 15c., from M.Fr. <span class="foreign">aleviacion</span> or directly from M.L. <span class="foreign">alleviationem</span> (nom. <span class="foreign">alleviatio</span>), noun of action from pp. stem of <span class="foreign">alleviare</span> (see <a href="/index.php?term=alleviate&allowed_in_frame=0" class="crossreference">alleviate</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alley&allowed_in_frame=0">alley (n.)</a> <a href="http://dictionary.reference.com/search?q=alley" class="dictionary" title="Look up alley at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alley at Dictionary.com" title="Look up alley at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "passage in a house; open passage between buildings; walkway in a garden," from O.Fr. <span class="foreign">alee</span> (13c., Mod.Fr. <span class="foreign">all&eacute;e</span>) "a path, passage, way, corridor," also "a going," from fem. of <span class="foreign">ale</span>, pp. of <span class="foreign">aler</span> "to go," which ultimately may be a contraction of L. <span class="foreign">ambulare</span> "to walk," or from Gallo-Romance <span class="foreign">allari</span>, a back formation from L. <span class="foreign">allatus</span> "having been brought to" [Barnhart]. Cf. sense evolution of <a href="/index.php?term=gate&allowed_in_frame=0" class="crossreference">gate</a>. Applied by c.1500 to "long narrow enclosure for playing at bowls, skittles, etc." Used in place names from c.1500.
+<BR><BR>
+The word is applied in Amer.Eng. to what in London is called a <a href="/index.php?term=mews&allowed_in_frame=0" class="crossreference">mews</a>, and also is used there especially of a back-lane parallel to a main street (1729). To be <span class="foreign">up someone's alley</span> "in someone's neighborhood" (literally or figuratively) is from 1931; <span class="foreign">alley-cat</span> attested by 1890.</dd>
+
+<dt><a href="/index.php?term=alley-way&allowed_in_frame=0">alley-way (n.)</a> <a href="http://dictionary.reference.com/search?q=alley-way" class="dictionary" title="Look up alley-way at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alley-way at Dictionary.com" title="Look up alley-way at Dictionary.com" /></a></dt>
+<dd>1788, from <a href="/index.php?term=alley&allowed_in_frame=0" class="crossreference">alley</a> + <a href="/index.php?term=way&allowed_in_frame=0" class="crossreference">way</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alliance&allowed_in_frame=0">alliance (n.)</a> <a href="http://dictionary.reference.com/search?q=alliance" class="dictionary" title="Look up alliance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alliance at Dictionary.com" title="Look up alliance at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "bond of marriage" (between ruling houses or noble families), from O.Fr. <span class="foreign">aliance</span> (12c., Mod.Fr. <span class="foreign">alliance</span>) "alliance, bond; marriage, union," from <span class="foreign">aliier</span> (Mod.Fr. <span class="foreign">allier</span>) "combine, unite" (see <a href="/index.php?term=ally&allowed_in_frame=0" class="crossreference">ally</a>). As a bond or treaty between rulers, late 14c.</dd>
+
+<dt><a href="/index.php?term=allied&allowed_in_frame=0">allied (adj.)</a> <a href="http://dictionary.reference.com/search?q=allied" class="dictionary" title="Look up allied at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allied at Dictionary.com" title="Look up allied at Dictionary.com" /></a></dt>
+<dd>c.1300, pp. adjective from <a href="/index.php?term=ally&allowed_in_frame=0" class="crossreference">ally</a> (v.). Originally of kindred; in reference to a league or formal treaty, it is first recorded late 14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alligator&allowed_in_frame=0">alligator (n.)</a> <a href="http://dictionary.reference.com/search?q=alligator" class="dictionary" title="Look up alligator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alligator at Dictionary.com" title="Look up alligator at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, <span class="foreign">lagarto</span> (modern form attested from 1620s, with excrescent <span class="foreign">-r</span> as in <span class="foreign">tater</span>, <span class="foreign">feller</span>, etc.), a corruption of Sp. <span class="foreign">el lagarto (de Indias)</span> "the lizard (of the Indies)," from L. <span class="foreign">lacertus</span> (see <a href="/index.php?term=lizard&allowed_in_frame=0" class="crossreference">lizard</a>). <span class="foreign">Alligarter</span> was an early variant. The slang meaning "non-playing devotee of swing music" is attested from 1936; the phrase <span class="foreign">see you later, alligator</span> is from a 1956 song title.</dd>
+
+<dt><a href="/index.php?term=Allison&allowed_in_frame=0">Allison</a> <a href="http://dictionary.reference.com/search?q=Allison" class="dictionary" title="Look up Allison at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Allison at Dictionary.com" title="Look up Allison at Dictionary.com" /></a></dt>
+<dd>fem. proper name, a dim. of <a href="/index.php?term=Alice&allowed_in_frame=0" class="crossreference">Alice</a> (q.v.), via O.Fr. <span class="foreign">Alison</span>. Popular in U.S. as a girl's name from 1990s, but all but unknown there before 1946; it was popular in England and Scotland 13c.-17c. As a surname, it could represent "Alice's son."</dd>
+
+<dt class="highlight"><a href="/index.php?term=alliterate&allowed_in_frame=0">alliterate (v.)</a> <a href="http://dictionary.reference.com/search?q=alliterate" class="dictionary" title="Look up alliterate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alliterate at Dictionary.com" title="Look up alliterate at Dictionary.com" /></a></dt>
+<dd class="highlight">"to use alliteration," 1776 (implied in <span class="foreign">alliterated</span>), back formation from <a href="/index.php?term=alliteration&allowed_in_frame=0" class="crossreference">alliteration</a>, on analogy of <span class="foreign">obliterate</span>. Related: <span class="foreign">Alliterating</span>.</dd>
+
+<dt><a href="/index.php?term=alliteration&allowed_in_frame=0">alliteration (n.)</a> <a href="http://dictionary.reference.com/search?q=alliteration" class="dictionary" title="Look up alliteration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alliteration at Dictionary.com" title="Look up alliteration at Dictionary.com" /></a></dt>
+<dd>1650s, "a begining with the same letter," from Mod.L. <span class="foreign">alliterationem</span> (nom. <span class="foreign">alliteratio</span>), noun of action from pp. stem of <span class="foreign">alliterare</span> "to begin with the same letter," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">littera</span> (also <span class="foreign">litera</span>) "letter, script" (see <a href="/index.php?term=letter&allowed_in_frame=0" class="crossreference">letter</a>). Formed on model of <span class="foreign">obliteration</span>, etc. Related: <span class="foreign">Alliterational</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alliterative&allowed_in_frame=0">alliterative (adj.)</a> <a href="http://dictionary.reference.com/search?q=alliterative" class="dictionary" title="Look up alliterative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alliterative at Dictionary.com" title="Look up alliterative at Dictionary.com" /></a></dt>
+<dd class="highlight">1764, from <a href="/index.php?term=alliterate&allowed_in_frame=0" class="crossreference">alliterate</a> + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>. Related: <span class="foreign">Alliteratively</span>.</dd>
+
+<dt><a href="/index.php?term=allo-&allowed_in_frame=0">allo-</a> <a href="http://dictionary.reference.com/search?q=allo-" class="dictionary" title="Look up allo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allo- at Dictionary.com" title="Look up allo- at Dictionary.com" /></a></dt>
+<dd>comb. form meaning "other," from Gk. <span class="foreign">allo-</span>, from <span class="foreign">allos</span> "other, different" (see <a href="/index.php?term=alias&allowed_in_frame=0" class="crossreference">alias</a> (adv.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=allocate&allowed_in_frame=0">allocate (v.)</a> <a href="http://dictionary.reference.com/search?q=allocate" class="dictionary" title="Look up allocate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allocate at Dictionary.com" title="Look up allocate at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, from verbal used of adjective <span class="foreign">allocate</span> (mid-15c. in legal use), from M.L. <span class="foreign">allocate</span> (the common first word of writs authorizing payment), imperative plural of <span class="foreign">allocare</span> "allocate," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">locare</span> "to place" (see <a href="/index.php?term=locate&allowed_in_frame=0" class="crossreference">locate</a>). Related: <span class="foreign">Allocated</span>; <span class="foreign">allocating</span>.</dd>
+
+<dt><a href="/index.php?term=allocation&allowed_in_frame=0">allocation (n.)</a> <a href="http://dictionary.reference.com/search?q=allocation" class="dictionary" title="Look up allocation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allocation at Dictionary.com" title="Look up allocation at Dictionary.com" /></a></dt>
+<dd>mid-15c., from M.Fr. <span class="foreign">allocacion</span>, from M.L. <span class="foreign">allocationem</span> (nom. <span class="foreign">allocatio</span>), noun of action from pp. stem of <span class="foreign">allocare</span> (see <a href="/index.php?term=allocate&allowed_in_frame=0" class="crossreference">allocate</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=allogenic&allowed_in_frame=0">allogenic (adj.)</a> <a href="http://dictionary.reference.com/search?q=allogenic" class="dictionary" title="Look up allogenic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allogenic at Dictionary.com" title="Look up allogenic at Dictionary.com" /></a></dt>
+<dd class="highlight">1888, from Gk. <span class="foreign">allogenes</span> "of another race, stranger," from <a href="/index.php?term=allo-&allowed_in_frame=0" class="crossreference">allo-</a> + <a href="/index.php?term=-gen&allowed_in_frame=0" class="crossreference">-gen</a> "born" + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.
+</dd>
+
+<dt><a href="/index.php?term=allograph&allowed_in_frame=0">allograph (n.)</a> <a href="http://dictionary.reference.com/search?q=allograph" class="dictionary" title="Look up allograph at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allograph at Dictionary.com" title="Look up allograph at Dictionary.com" /></a></dt>
+<dd>"writing made by another person," by 1916 (implied in <span class="foreign">allographic</span>), from <a href="/index.php?term=allo-&allowed_in_frame=0" class="crossreference">allo-</a> + <span class="foreign">-graph</span> (see <a href="/index.php?term=-graphy&allowed_in_frame=0" class="crossreference">-graphy</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=allons&allowed_in_frame=0">allons</a> <a href="http://dictionary.reference.com/search?q=allons" class="dictionary" title="Look up allons at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allons at Dictionary.com" title="Look up allons at Dictionary.com" /></a></dt>
+<dd class="highlight">"well!" French, lit. "let us go," first person plural imperative of <span class="foreign">aller</span> "to go."</dd>
+
+<dt><a href="/index.php?term=allopath&allowed_in_frame=0">allopath (n.)</a> <a href="http://dictionary.reference.com/search?q=allopath" class="dictionary" title="Look up allopath at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allopath at Dictionary.com" title="Look up allopath at Dictionary.com" /></a></dt>
+<dd>1830, back formation from <a href="/index.php?term=allopathy&allowed_in_frame=0" class="crossreference">allopathy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allopathic&allowed_in_frame=0">allopathic (adj.)</a> <a href="http://dictionary.reference.com/search?q=allopathic" class="dictionary" title="Look up allopathic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allopathic at Dictionary.com" title="Look up allopathic at Dictionary.com" /></a></dt>
+<dd class="highlight">1830, from Fr. <span class="foreign">allopathique</span> (see <a href="/index.php?term=allopathy&allowed_in_frame=0" class="crossreference">allopathy</a>). Related: <span class="foreign">Allopathically</span>.</dd>
+
+<dt><a href="/index.php?term=allopathy&allowed_in_frame=0">allopathy (n.)</a> <a href="http://dictionary.reference.com/search?q=allopathy" class="dictionary" title="Look up allopathy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allopathy at Dictionary.com" title="Look up allopathy at Dictionary.com" /></a></dt>
+<dd>1842, "treatment of disease by remedies that produce effects opposite to the symptoms," from Ger. <span class="foreign">Allopathie</span> (Hahnemann), from Gk. <span class="foreign">allos</span> "other" (see <a href="/index.php?term=alias&allowed_in_frame=0" class="crossreference">alias</a>) + <span class="foreign">-patheia</span>, comb. form of <span class="foreign">pathos</span> "suffering, disease, feeling" (see <a href="/index.php?term=pathos&allowed_in_frame=0" class="crossreference">pathos</a>). The term applied by homeopathists to traditional medicine.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allot&allowed_in_frame=0">allot (v.)</a> <a href="http://dictionary.reference.com/search?q=allot" class="dictionary" title="Look up allot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allot at Dictionary.com" title="Look up allot at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., from O.Fr. <span class="foreign">aloter</span> (Mod.Fr. <span class="foreign">allotir</span>) "to divide by lots, to divide into lots," from <span class="foreign">&agrave;</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">loter</span> "lot," a word of Germanic origin (cf. Goth. <span class="foreign">hlauts</span>, O.H.G. <span class="foreign">hloz</span>, O.E. <span class="foreign">hlot</span>; see <a href="/index.php?term=lot&allowed_in_frame=0" class="crossreference">lot</a>). Related: <span class="foreign">Allotted</span>; <span class="foreign">allotting</span>.
+</dd>
+
+<dt><a href="/index.php?term=allotment&allowed_in_frame=0">allotment (n.)</a> <a href="http://dictionary.reference.com/search?q=allotment" class="dictionary" title="Look up allotment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allotment at Dictionary.com" title="Look up allotment at Dictionary.com" /></a></dt>
+<dd>1570s, "action of allotting," from M.Fr. <span class="foreign">allotement</span>, from O.Fr. <span class="foreign">aloter</span> (see <a href="/index.php?term=allot&allowed_in_frame=0" class="crossreference">allot</a>). Or else a native formation from <span class="foreign">allot</span> + <span class="foreign">-ment</span>. Meaning "portion assigned to someone or some purpose" is from 1670s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allotrope&allowed_in_frame=0">allotrope (n.)</a> <a href="http://dictionary.reference.com/search?q=allotrope" class="dictionary" title="Look up allotrope at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allotrope at Dictionary.com" title="Look up allotrope at Dictionary.com" /></a></dt>
+<dd class="highlight">1847, back formation from <span class="foreign">allotropy</span> "variation of physical properties without change of substance," from <a href="/index.php?term=allo-&allowed_in_frame=0" class="crossreference">allo-</a> + <span class="foreign">tropos</span> "manner" (see <a href="/index.php?term=trope&allowed_in_frame=0" class="crossreference">trope</a>). Related: <span class="foreign">Allotropic</span>.</dd>
+
+<dt><a href="/index.php?term=allow&allowed_in_frame=0">allow (v.)</a> <a href="http://dictionary.reference.com/search?q=allow" class="dictionary" title="Look up allow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allow at Dictionary.com" title="Look up allow at Dictionary.com" /></a></dt>
+<dd>early 14c., "to commend or praise;" late 14c., "recognize or admit" (a privilege, excuse, etc.) as valid; "sanction, permit;" early 15c., "take into account or give credit for" (of business matters), from Anglo-Fr. <span class="foreign">alouer</span>, O.Fr. <span class="foreign">aloer</span> (13c.) "allot, apportion," from L. <span class="foreign">allaudare</span>, compound of <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">laudare</span> "to praise;" the Old French word was confused and merged with <span class="foreign">alouer</span> "assign," from L. <span class="foreign">allocare</span> (see <a href="/index.php?term=allocate&allowed_in_frame=0" class="crossreference">allocate</a>). From the first word came the sense "permission based on approval," from the second the meaning preserved in <a href="/index.php?term=allowance&allowed_in_frame=0" class="crossreference">allowance</a>. Related: <a href="/index.php?term=Allowed&allowed_in_frame=0" class="crossreference">Allowed</a>; <span class="foreign">allowing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allowable&allowed_in_frame=0">allowable (adj.)</a> <a href="http://dictionary.reference.com/search?q=allowable" class="dictionary" title="Look up allowable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allowable at Dictionary.com" title="Look up allowable at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">allouable</span>, from <span class="foreign">allouer</span> (see <a href="/index.php?term=allow&allowed_in_frame=0" class="crossreference">allow</a>).</dd>
+
+<dt><a href="/index.php?term=allowance&allowed_in_frame=0">allowance (n.)</a> <a href="http://dictionary.reference.com/search?q=allowance" class="dictionary" title="Look up allowance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allowance at Dictionary.com" title="Look up allowance at Dictionary.com" /></a></dt>
+<dd>late 14c., "praise" (a sense now obsolete), from O.Fr. <span class="foreign">aloance</span> "allowance, granting, allocation," from <span class="foreign">alouer</span> (see <a href="/index.php?term=allow&allowed_in_frame=0" class="crossreference">allow</a>). Sense of "a sum alloted to meet expenses" is from c.1400. In accounts, meaning "a sum placed to one's credit" is attested from 1520s. To <span class="foreign">make allowances</span> is lit. to add or deduct a sum from someone's account for some special circumstance. Figurative use of the phrase is attested from 1670s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allowed&allowed_in_frame=0">allowed (adj.)</a> <a href="http://dictionary.reference.com/search?q=allowed" class="dictionary" title="Look up allowed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allowed at Dictionary.com" title="Look up allowed at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "praised;" mid-15c., "assigned as a due share;" late 15c., "permitted," pp. adjective from <a href="/index.php?term=allow&allowed_in_frame=0" class="crossreference">allow</a>.</dd>
+
+<dt><a href="/index.php?term=alloy&allowed_in_frame=0">alloy (n.)</a> <a href="http://dictionary.reference.com/search?q=alloy" class="dictionary" title="Look up alloy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alloy at Dictionary.com" title="Look up alloy at Dictionary.com" /></a></dt>
+<dd>early 14c. "relative freedom of a noble metal from alloy or other impurities," from Anglo-Fr. <span class="foreign">alai</span>, from O.Fr. <span class="foreign">aloi</span>, from <span class="foreign">aloiier</span> (see <a href="/index.php?term=alloy&allowed_in_frame=0" class="crossreference">alloy</a> (v.)). Meaning " base metal alloyed with a noble metal" is from c.1400. Modern spelling from late 17c.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=alloy&allowed_in_frame=0">alloy (v.)</a> <a href="http://dictionary.reference.com/search?q=alloy" class="dictionary" title="Look up alloy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alloy at Dictionary.com" title="Look up alloy at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, "mix with a baser metal," from O.Fr. <span class="foreign">aloiier</span> "assemble, join," from L. <span class="foreign">alligare</span> "bind to, tie to," compound of <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">ligare</span> "to bind" (see <a href="/index.php?term=ligament&allowed_in_frame=0" class="crossreference">ligament</a>); hence "bind one thing to another." Related: <span class="foreign">Alloyed</span>; <span class="foreign">alloying</span>.</dd>
+
+<dt><a href="/index.php?term=allright&allowed_in_frame=0">allright</a> <a href="http://dictionary.reference.com/search?q=allright" class="dictionary" title="Look up allright at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allright at Dictionary.com" title="Look up allright at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=alright&allowed_in_frame=0" class="crossreference">alright</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=allspice&allowed_in_frame=0">allspice (n.)</a> <a href="http://dictionary.reference.com/search?q=allspice" class="dictionary" title="Look up allspice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allspice at Dictionary.com" title="Look up allspice at Dictionary.com" /></a></dt>
+<dd class="highlight">spice made from the berry of the Jamaican pimento, 1620s, from <a href="/index.php?term=all&allowed_in_frame=0" class="crossreference">all</a> + <a href="/index.php?term=spice&allowed_in_frame=0" class="crossreference">spice</a> (n.), "so called because supposed to combine the flavour of cinnamon, nutmeg, and cloves." [Weekley]</dd>
+
+<dt><a href="/index.php?term=allude&allowed_in_frame=0">allude (v.)</a> <a href="http://dictionary.reference.com/search?q=allude" class="dictionary" title="Look up allude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up allude at Dictionary.com" title="Look up allude at Dictionary.com" /></a></dt>
+<dd>1530s, "mock," from M.Fr. <span class="foreign">alluder</span> or directly from L. <span class="foreign">alludere</span> "to play, sport, joke, jest," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">ludere</span> "to play" (see <a href="/index.php?term=ludicrous&allowed_in_frame=0" class="crossreference">ludicrous</a>). Meaning "make an indirect reference, point in passing" is from 1570s. Related: <span class="foreign">Alluded</span>; <span class="foreign">alluding</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657939 -->
+<!-- Page was generated in 0.187151 seconds. -->
+ </body>
+</html>
+<!-- -->

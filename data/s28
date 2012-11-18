@@ -1,0 +1,471 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=Shiloh&allowed_in_frame=0">Shiloh</a> <a href="http://dictionary.reference.com/search?q=Shiloh" class="dictionary" title="Look up Shiloh at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Shiloh at Dictionary.com" title="Look up Shiloh at Dictionary.com" /></a></dt>
+<dd class="highlight">village on the West Bank, perhaps from an alteration of Heb. <span class="foreign">shalo</span> "to be peaceful."</dd>
+
+<dt><a href="/index.php?term=shim&allowed_in_frame=0">shim (n.)</a> <a href="http://dictionary.reference.com/search?q=shim" class="dictionary" title="Look up shim at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shim at Dictionary.com" title="Look up shim at Dictionary.com" /></a></dt>
+<dd>"a slip of wood," 1723, a Kentish word, of unknown origin. Originally a piece of iron fitted to a plow for scraping soil; meaning "thin slip to fill up a space or raise a level" is from 1860.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shim&allowed_in_frame=0">shim (v.)</a> <a href="http://dictionary.reference.com/search?q=shim" class="dictionary" title="Look up shim at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shim at Dictionary.com" title="Look up shim at Dictionary.com" /></a></dt>
+<dd class="highlight">"to wedge up a surface by means of a shim," 1937, from <a href="/index.php?term=shim&allowed_in_frame=0" class="crossreference">shim</a> (n.). Related: <span class="foreign">Shimmed</span>; <span class="foreign">shimming</span>.</dd>
+
+<dt><a href="/index.php?term=shimmer&allowed_in_frame=0">shimmer (n.)</a> <a href="http://dictionary.reference.com/search?q=shimmer" class="dictionary" title="Look up shimmer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shimmer at Dictionary.com" title="Look up shimmer at Dictionary.com" /></a></dt>
+<dd>1821, from <a href="/index.php?term=shimmer&allowed_in_frame=0" class="crossreference">shimmer</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=shimmer&allowed_in_frame=0">shimmer (v.)</a> <a href="http://dictionary.reference.com/search?q=shimmer" class="dictionary" title="Look up shimmer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shimmer at Dictionary.com" title="Look up shimmer at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">scimerian</span> "to glitter," related to (perhaps a frequentative of) <span class="foreign">scimian</span> "to shine," also "grow dark," and <span class="foreign">scinan</span> (see <a href="/index.php?term=shine&allowed_in_frame=0" class="crossreference">shine</a> (v.)). Ultimately from P.Gmc. <span class="foreign">*skim-</span> (cf. Swed. <span class="foreign">skimra</span>, Du. <span class="foreign">schemeren</span> "to glitter," Ger. <span class="foreign">schimmern</span>), from PIE root <span class="foreign">*skai-</span> "to gleam, to shine." Related: <span class="foreign">Shimmered</span>; <span class="foreign">shimmering</span>.</dd>
+
+<dt><a href="/index.php?term=shimmy&allowed_in_frame=0">shimmy (v.)</a> <a href="http://dictionary.reference.com/search?q=shimmy" class="dictionary" title="Look up shimmy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shimmy at Dictionary.com" title="Look up shimmy at Dictionary.com" /></a></dt>
+<dd>"do a suggestive dance," 1918, perhaps via phrase <span class="foreign">shake the shimmy</span>, possibly from <span class="foreign">shimmy</span> (n.), a U.S. dialectal form of <a href="/index.php?term=chemise&allowed_in_frame=0" class="crossreference">chemise</a> (mistaken as a plural; cf. <a href="/index.php?term=shammy&allowed_in_frame=0" class="crossreference">shammy</a>) first recorded 1837; or related to <a href="/index.php?term=shimmer&allowed_in_frame=0" class="crossreference">shimmer</a> via a notion of glistening light. Transferred sense of "vibration of a motor vehicle" is from 1925. Related: <span class="foreign">Shimmied</span>; <span class="foreign">shimmying</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shin&allowed_in_frame=0">shin (n.)</a> <a href="http://dictionary.reference.com/search?q=shin" class="dictionary" title="Look up shin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shin at Dictionary.com" title="Look up shin at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">scinu</span> "shin," from P.Gmc. <span class="foreign">*skino</span> "thin piece" (cf. Du. <span class="foreign">scheen</span>, O.H.G. <span class="foreign">scina</span>, Ger. <span class="foreign">Schienbein</span> "shin, shinbones"), from PIE root <span class="foreign">*skei-</span> "to cut, split." The verb meaning "to climb by using arms and legs" (originally a nautical word) is recorded from 1829. <span class="foreign">Shin splints</span> is attested from 1930.</dd>
+
+<dt><a href="/index.php?term=Shin+Bet&allowed_in_frame=0">Shin Bet (n.)</a> <a href="http://dictionary.reference.com/search?q=Shin+Bet" class="dictionary" title="Look up Shin Bet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Shin Bet at Dictionary.com" title="Look up Shin Bet at Dictionary.com" /></a></dt>
+<dd>Israeli security service, 1964, from Mod.Heb. <span class="foreign">shin</span> + <span class="foreign">bet</span>, names of the initial letters of <span class="foreign">sherut bitahon kelali</span> "(general) security service."</dd>
+
+<dt class="highlight"><a href="/index.php?term=shindig&allowed_in_frame=0">shindig (n.)</a> <a href="http://dictionary.reference.com/search?q=shindig" class="dictionary" title="Look up shindig at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shindig at Dictionary.com" title="Look up shindig at Dictionary.com" /></a></dt>
+<dd class="highlight">"dance, party, lively gathering," 1871, probably from <span class="foreign">shindy</span> "a spree, merrymaking" (1821), perhaps from <span class="foreign">shinty</span>, name of a Scottish game akin to hockey (1771), earlier <span class="foreign">shinny</span> (see <a href="/index.php?term=shinny&allowed_in_frame=0" class="crossreference">shinny</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=shine&allowed_in_frame=0">shine (v.)</a> <a href="http://dictionary.reference.com/search?q=shine" class="dictionary" title="Look up shine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shine at Dictionary.com" title="Look up shine at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">scinan</span> "shed light, be radiant" (class I strong verb; past tense <span class="foreign">scan</span>, pp. <span class="foreign">scinen</span>), from P.Gmc. <span class="foreign">*skinanan</span> (cf. O.S., O.H.G. <span class="foreign">skinan</span>, O.N., O.Fris. <span class="foreign">skina</span>, Du. <span class="foreign">schijnen</span>, Ger. <span class="foreign">scheinen</span>, Goth. <span class="foreign">skeinan</span> "to shine, appear"), from PIE root <span class="foreign">*skai-</span> "to gleam, shine, flicker" (cf. O.C.S. <span class="foreign">snati</span> "to flash up, shine;" Skt. <span class="foreign">chaya</span> "brilliance, luster; shadow," Albanian <span class="foreign">he</span> "shadow," Gk. <span class="foreign">skia</span> "shade"). Transitive meaning "to black (boots)" is from 1610s. Related: <span class="foreign">Shined</span> (in the shoe polish sense); <span class="foreign">shining</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shine&allowed_in_frame=0">shine (n.)</a> <a href="http://dictionary.reference.com/search?q=shine" class="dictionary" title="Look up shine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shine at Dictionary.com" title="Look up shine at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, "brightness," from <a href="/index.php?term=shine&allowed_in_frame=0" class="crossreference">shine</a> (v.). Meaning "polish given to a pair of boots" is from 1871. Derogatory meaning "black person" is from 1908. Phrase <span class="foreign">to take a shine to</span> "fancy" is American English slang from 1839. <span class="foreign">Shiner</span> for "black eye" first recorded 1904.
+</dd>
+
+<dt><a href="/index.php?term=shingle&allowed_in_frame=0">shingle (n.1)</a> <a href="http://dictionary.reference.com/search?q=shingle" class="dictionary" title="Look up shingle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shingle at Dictionary.com" title="Look up shingle at Dictionary.com" /></a></dt>
+<dd>"thin piece of wood," c.1200, <span class="foreign">scincle</span>, from L.L. <span class="foreign">scindula</span>, altered (by influence of Gk. <span class="foreign">schidax</span> "lath" or <span class="foreign">schindalmos</span> "splinter") from L. <span class="foreign">scandula</span> "roof tile," from <span class="foreign">scindere</span> "to cleave, split," from PIE root <span class="foreign">*sked-</span> "to split." Meaning "small signboard" is first attested 1842; that of "woman's short haircut" is from 1924. The verb meaning "to cut the hair so as to give the impression of overlapping shingles" is from 1857.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shingle&allowed_in_frame=0">shingle (n.2)</a> <a href="http://dictionary.reference.com/search?q=shingle" class="dictionary" title="Look up shingle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shingle at Dictionary.com" title="Look up shingle at Dictionary.com" /></a></dt>
+<dd class="highlight">"loose stones on seashore," 1510s, probably related to Norw. <span class="foreign">singl</span> "small stones," or N.Fris. <span class="foreign">singel</span> "gravel," both said to be echoic of the sound of water running over pebbles.</dd>
+
+<dt><a href="/index.php?term=shingles&allowed_in_frame=0">shingles (n.)</a> <a href="http://dictionary.reference.com/search?q=shingles" class="dictionary" title="Look up shingles at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shingles at Dictionary.com" title="Look up shingles at Dictionary.com" /></a></dt>
+<dd>late 14c., "inflammatory disease of the skin," from M.L. <span class="foreign">cingulus</span> (loan-translation of Gk. <span class="foreign">zoster</span> "girdle"), variant of L. <span class="foreign">cingulum</span> "girdle," from <span class="foreign">cingere</span> "to gird" (see <a href="/index.php?term=cinch&allowed_in_frame=0" class="crossreference">cinch</a>). The inflammation often extends around the middle of the body, like a girdle.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shinny&allowed_in_frame=0">shinny (v.)</a> <a href="http://dictionary.reference.com/search?q=shinny" class="dictionary" title="Look up shinny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shinny at Dictionary.com" title="Look up shinny at Dictionary.com" /></a></dt>
+<dd class="highlight">"to climb a rope, pole, etc.," 1888, from use of <span class="foreign">shins</span> and ankles to do so; see <a href="/index.php?term=shin&allowed_in_frame=0" class="crossreference">shin</a>.</dd>
+
+<dt><a href="/index.php?term=shinny&allowed_in_frame=0">shinny (n.)</a> <a href="http://dictionary.reference.com/search?q=shinny" class="dictionary" title="Look up shinny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shinny at Dictionary.com" title="Look up shinny at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">shinney</span>, primitive form of hockey, 1670s, perhaps from Gael. <span class="foreign">sinteag</span> "a bound, a leap."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Shinola&allowed_in_frame=0">Shinola (n.)</a> <a href="http://dictionary.reference.com/search?q=Shinola" class="dictionary" title="Look up Shinola at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Shinola at Dictionary.com" title="Look up Shinola at Dictionary.com" /></a></dt>
+<dd class="highlight">brand of shoe polish, by 1904, from <a href="/index.php?term=shine&allowed_in_frame=0" class="crossreference">shine</a> + <a href="/index.php?term=-ola&allowed_in_frame=0" class="crossreference">-ola</a>.</dd>
+
+<dt><a href="/index.php?term=shinplaster&allowed_in_frame=0">shinplaster (n.)</a> <a href="http://dictionary.reference.com/search?q=shinplaster" class="dictionary" title="Look up shinplaster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shinplaster at Dictionary.com" title="Look up shinplaster at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">shin-plaster</span>, piece of paper soaked in vinegar and used to treat sore legs, from <a href="/index.php?term=shin&allowed_in_frame=0" class="crossreference">shin</a> (n.) + <a href="/index.php?term=plaster&allowed_in_frame=0" class="crossreference">plaster</a> (n.). In U.S. history, jocularly or as a term of abuse for "devalued low-denomination paper currency" (1824). </dd>
+
+<dt class="highlight"><a href="/index.php?term=Shinto&allowed_in_frame=0">Shinto (n.)</a> <a href="http://dictionary.reference.com/search?q=Shinto" class="dictionary" title="Look up Shinto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Shinto at Dictionary.com" title="Look up Shinto at Dictionary.com" /></a></dt>
+<dd class="highlight">native religious system of Japan, 1727, from Chinese <span class="foreign">shin tao</span> "way of the gods."</dd>
+
+<dt><a href="/index.php?term=shiny&allowed_in_frame=0">shiny (adj.)</a> <a href="http://dictionary.reference.com/search?q=shiny" class="dictionary" title="Look up shiny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shiny at Dictionary.com" title="Look up shiny at Dictionary.com" /></a></dt>
+<dd>1580s, from <a href="/index.php?term=shine&allowed_in_frame=0" class="crossreference">shine</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Shininess</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ship&allowed_in_frame=0">ship (n.)</a> <a href="http://dictionary.reference.com/search?q=ship" class="dictionary" title="Look up ship at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ship at Dictionary.com" title="Look up ship at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">scip</span> "ship, boat," from P.Gmc. <span class="foreign">*skipam</span> (cf. O.N., O.S., Goth. <span class="foreign">skip</span>, Dan. <span class="foreign">skib</span>, Swed. <span class="foreign">skepp</span>, M.Du. <span class="foreign">scip</span>, Du. <span class="foreign">schip</span>, O.H.G. <span class="foreign">skif</span>, Ger. <span class="foreign">Schiff</span>), "Germanic noun of obscure origin" [Watkins]. Others suggest perhaps originally "tree cut out or hollowed out," and derive it from PIE root <span class="foreign">*skei-</span> "to cut, split."
+<BR><BR>
+The Old English word was used for small craft as well; in 19c., distinct from a <a href="/index.php?term=boat&allowed_in_frame=0" class="crossreference">boat</a> in having a bowsprit and three masts, each with a lower, top, and topgallant mast. French <span class="foreign">esquif</span>, Italian <span class="foreign">schifo</span> are Germanic loan-words. Phrase <span class="foreign">ships that pass in the night</span> is from Longfellow's poem "Elizabeth" in "Tales of a Wayside Inn" (1863). Figurative use of nautical <span class="foreign">runs a tight ship</span> (i.e., one that does not leak) is attested from 1965.</dd>
+
+<dt><a href="/index.php?term=ship&allowed_in_frame=0">ship (v.)</a> <a href="http://dictionary.reference.com/search?q=ship" class="dictionary" title="Look up ship at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ship at Dictionary.com" title="Look up ship at Dictionary.com" /></a></dt>
+<dd>c.1300, "to send or transport by ship," from <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (n.). Transferred to other means of conveyance (railroad, etc.) from 1857, originally American English. Related: <span class="foreign">Shipped</span>; <span class="foreign">shipping</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ship-board&allowed_in_frame=0">ship-board (n.)</a> <a href="http://dictionary.reference.com/search?q=ship-board" class="dictionary" title="Look up ship-board at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ship-board at Dictionary.com" title="Look up ship-board at Dictionary.com" /></a></dt>
+<dd class="highlight">"side of a ship," c.1200, from <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (n.) + <a href="/index.php?term=board&allowed_in_frame=0" class="crossreference">board</a> (n.2).</dd>
+
+<dt><a href="/index.php?term=ship-shape&allowed_in_frame=0">ship-shape (adj.)</a> <a href="http://dictionary.reference.com/search?q=ship-shape" class="dictionary" title="Look up ship-shape at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ship-shape at Dictionary.com" title="Look up ship-shape at Dictionary.com" /></a></dt>
+<dd>"properly arranged," 1640s, originally "according to the fashion of a (sailing) ship," where neatness is a priority and the rigging must be serviceable and stowed properly; from <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (n.) + <a href="/index.php?term=shape&allowed_in_frame=0" class="crossreference">shape</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shipment&allowed_in_frame=0">shipment (n.)</a> <a href="http://dictionary.reference.com/search?q=shipment" class="dictionary" title="Look up shipment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shipment at Dictionary.com" title="Look up shipment at Dictionary.com" /></a></dt>
+<dd class="highlight">1802, "act of shipping;" 1861, "that which is shipped;" see <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (v.) + <a href="/index.php?term=-ment&allowed_in_frame=0" class="crossreference">-ment</a>.</dd>
+
+<dt><a href="/index.php?term=shipwreck&allowed_in_frame=0">shipwreck (n.)</a> <a href="http://dictionary.reference.com/search?q=shipwreck" class="dictionary" title="Look up shipwreck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shipwreck at Dictionary.com" title="Look up shipwreck at Dictionary.com" /></a></dt>
+<dd>mid-15c., from <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (n.) + <a href="/index.php?term=wreck&allowed_in_frame=0" class="crossreference">wreck</a> (n.). Earlier it meant "things cast up from a shipwreck" (c.1100). The earlier word for "shipwreck" in the modern sense was M.E. <span class="foreign">schipbreke</span>, from O.E. <span class="foreign">scipbryce</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shipwreck&allowed_in_frame=0">shipwreck (v.)</a> <a href="http://dictionary.reference.com/search?q=shipwreck" class="dictionary" title="Look up shipwreck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shipwreck at Dictionary.com" title="Look up shipwreck at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, from <a href="/index.php?term=shipwreck&allowed_in_frame=0" class="crossreference">shipwreck</a> (n.). Related: <span class="foreign">Shipwrecked</span>. </dd>
+
+<dt><a href="/index.php?term=shipyard&allowed_in_frame=0">shipyard (n.)</a> <a href="http://dictionary.reference.com/search?q=shipyard" class="dictionary" title="Look up shipyard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shipyard at Dictionary.com" title="Look up shipyard at Dictionary.com" /></a></dt>
+<dd>c.1700, from <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (n.) + <a href="/index.php?term=yard&allowed_in_frame=0" class="crossreference">yard</a> (n.1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Shiraz&allowed_in_frame=0">Shiraz (n.)</a> <a href="http://dictionary.reference.com/search?q=Shiraz" class="dictionary" title="Look up Shiraz at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Shiraz at Dictionary.com" title="Look up Shiraz at Dictionary.com" /></a></dt>
+<dd class="highlight">wine made in the district of <span class="foreign">Shiraz</span>, a city in Persia, 1630s. As the name for a red wine made from a type of grape grown in the Rh&ocirc;ne valley of France, it is recorded from 1908, from Fr. <span class="foreign">syrah</span>, the name apparently altered in English on mistaken notion that the grape was brought to Europe from the Middle East by Crusaders.</dd>
+
+<dt><a href="/index.php?term=shire&allowed_in_frame=0">shire (n.)</a> <a href="http://dictionary.reference.com/search?q=shire" class="dictionary" title="Look up shire at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shire at Dictionary.com" title="Look up shire at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">scir</span> "administrative office or district," from P.Gmc. <span class="foreign">*skizo</span> (cf. O.H.G. <span class="foreign">scira</span> "care, official charge"). Ousted since 14c. by Anglo-Fr. <a href="/index.php?term=county&allowed_in_frame=0" class="crossreference">county</a> (q.v.). The gentrified sense is from <span class="foreign">The Shires</span> (1796), used by people in other parts of England of those counties that end in <span class="foreign">-shire;</span> sense transferred to the hunting country of the Midlands (1860).</dd>
+
+<dt class="highlight"><a href="/index.php?term=shirk&allowed_in_frame=0">shirk (v.)</a> <a href="http://dictionary.reference.com/search?q=shirk" class="dictionary" title="Look up shirk at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shirk at Dictionary.com" title="Look up shirk at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, "to practice fraud or trickery," also a noun (1630s, now obs.) "a disreputable parasite," perhaps from Ger. <span class="foreign">schurke</span> "scoundrel, rogue, knave, villain" (see <a href="/index.php?term=shark&allowed_in_frame=0" class="crossreference">shark</a>). Sense of "evade one's work or duty" first recorded 1785, originally in slang. Related: <span class="foreign">Shirked</span>; <span class="foreign">shirking</span>.</dd>
+
+<dt><a href="/index.php?term=shirker&allowed_in_frame=0">shirker (n.)</a> <a href="http://dictionary.reference.com/search?q=shirker" class="dictionary" title="Look up shirker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shirker at Dictionary.com" title="Look up shirker at Dictionary.com" /></a></dt>
+<dd>1799, agent noun from <a href="/index.php?term=shirk&allowed_in_frame=0" class="crossreference">shirk</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shirr&allowed_in_frame=0">shirr (v.)</a> <a href="http://dictionary.reference.com/search?q=shirr" class="dictionary" title="Look up shirr at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shirr at Dictionary.com" title="Look up shirr at Dictionary.com" /></a></dt>
+<dd class="highlight">"to gather (cloth) on parallel threads," 1892, back-formation from <span class="foreign">shirred</span> (1847), from <span class="foreign">shirr</span> (n.) "elastic webbing," of unknown origin.</dd>
+
+<dt><a href="/index.php?term=shirt&allowed_in_frame=0">shirt (n.)</a> <a href="http://dictionary.reference.com/search?q=shirt" class="dictionary" title="Look up shirt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shirt at Dictionary.com" title="Look up shirt at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">scyrte</span> "skirt, tunic," from P.Gmc. <span class="foreign">*skurtijon</span> "a short garment" (cf. O.N. <span class="foreign">skyrta</span>, Swed. <span class="foreign">skjorta</span> "skirt, kirtle;" M.Du. <span class="foreign">scorte</span>, Du. <span class="foreign">schort</span> "apron;" M.H.G. <span class="foreign">schurz</span>, Ger. <span class="foreign">Schurz</span> "apron"), from the same source as O.E. <span class="foreign">scort, sceort</span> (see <a href="/index.php?term=short&allowed_in_frame=0" class="crossreference">short</a>). Formerly of garments worn by both sexes, but long in modern use only for men; in reference to women's tops, reintroduced 1896. <span class="foreign">Shirt-sleeve</span> in reference to "without a coat" first recorded 1560s. <span class="foreign">Bloody shirt</span>, exposed as a symbol of outrage, is attested from 1580s. To <span class="foreign">give (someone) the shirt off one's back</span> is from 1771. To <span class="foreign">lose one's shirt</span> "suffer total financial loss" is from 1935. To <span class="foreign">keep one's shirt on</span> "be patient" (1904) is from the notion of stripping down for a fight.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shirty&allowed_in_frame=0">shirty (adj.)</a> <a href="http://dictionary.reference.com/search?q=shirty" class="dictionary" title="Look up shirty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shirty at Dictionary.com" title="Look up shirty at Dictionary.com" /></a></dt>
+<dd class="highlight">"ill-tempered," 1846, slang, probably from <a href="/index.php?term=shirt&allowed_in_frame=0" class="crossreference">shirt</a> (n.), on notion of being disheveled in anger. </dd>
+
+<dt><a href="/index.php?term=shish+kebab&allowed_in_frame=0">shish kebab (n.)</a> <a href="http://dictionary.reference.com/search?q=shish+kebab" class="dictionary" title="Look up shish kebab at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shish kebab at Dictionary.com" title="Look up shish kebab at Dictionary.com" /></a></dt>
+<dd>1914, from Armenian <span class="foreign">shish kabab</span>, from Turk. <span class="foreign">siskebap</span>, from <span class="foreign">sis</span> "skewer" + <span class="foreign">kebap</span> "roast meat."</dd>
+
+<dt class="highlight"><a href="/index.php?term=shit&allowed_in_frame=0">shit (v.)</a> <a href="http://dictionary.reference.com/search?q=shit" class="dictionary" title="Look up shit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shit at Dictionary.com" title="Look up shit at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">scitan</span>, from P.Gmc. <span class="foreign">*skit-</span>, from PIE <span class="foreign">*skheid-</span> "split, divide, separate." Related to <a href="/index.php?term=shed&allowed_in_frame=0" class="crossreference">shed</a> (v.) on the notion of "separation" from the body (cf. L. <span class="foreign">excrementum</span>, from <span class="foreign">excernere</span> "to separate"). It is thus a cousin to <a href="/index.php?term=science&allowed_in_frame=0" class="crossreference">science</a> and <a href="/index.php?term=conscience&allowed_in_frame=0" class="crossreference">conscience</a>.
+<BR><BR>
+<a href="http://www.etymonline.com/baloney.php"><b>Despite what you read in an e-mail, "shit" is not an acronym</b></a>. The notion that it is a recent word may be because the word was taboo from c.1600 and rarely appeared in print (neither Shakespeare nor the KJV has it), and even in "vulgar" publications of the late 18c. it is disguised by dashes. It drew the wrath of censors as late as 1922 ("Ulysses" and "The Enormous Room"), scandalized magazine subscribers in 1957 (a Hemingway story in "Atlantic Monthly") and was omitted from some dictionaries as recently as 1970 ("Webster's New World").
+<BR><BR>
+Extensive slang usage; verb meaning "to lie, to tease" is from 1934; that of "to disrespect" is from 1903. <span class="foreign">Shat</span> is a humorous past tense form, not etymological, first recorded 18c. <span class="foreign">Shite</span>, now a jocular or slightly euphemistic variant, formerly a dialectal variant, reflects the vowel in the Old English verb (cf. Ger. <span class="foreign">scheissen</span>). To <span class="foreign">shit bricks</span> "be very frightened" attested by 1961. The connection between fear and involuntary defecation has generated expressions since 14c., and probably also is behind <span class="foreign">scared shitless</span> (1936).</dd>
+
+<dt><a href="/index.php?term=shit&allowed_in_frame=0">shit (n.)</a> <a href="http://dictionary.reference.com/search?q=shit" class="dictionary" title="Look up shit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shit at Dictionary.com" title="Look up shit at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">scitte</span> "purging," from source of <a href="/index.php?term=shit&allowed_in_frame=0" class="crossreference">shit</a> (v.). Sense of "excrement" dates from 1580s. Use for "obnoxious person" is since at least 1508; meaning "misfortune, trouble" is attested from 1937. <span class="foreign">Shit-faced</span> "drunk" is 1960s student slang; <span class="foreign">shit list</span> is from 1942. <span class="foreign">Up shit creek</span> "in trouble" is from 1937. To <span class="foreign">not give a shit</span> "not care" is from 1922.
+<blockquote>
+The expression [<span class="foreign">the shit hits the fan</span>] is related to, and may well derive from, an old joke. A man in a crowded bar needed to defecate but couldn't find a bathroom, so he went upstairs and used a hole in the floor. Returning, he found everyone had gone except the bartender, who was cowering behind the bar. When the man asked what had happened, the bartender replied, 'Where were you when the shit hit the fan?' [Hugh Rawson, "Wicked Words," 1989]
+</blockquote>
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=shite&allowed_in_frame=0">shite</a> <a href="http://dictionary.reference.com/search?q=shite" class="dictionary" title="Look up shite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shite at Dictionary.com" title="Look up shite at Dictionary.com" /></a></dt>
+<dd class="highlight">colloquial modern alternative spelling of <a href="/index.php?term=shit&allowed_in_frame=0" class="crossreference">shit</a>.</dd>
+
+<dt><a href="/index.php?term=shithead&allowed_in_frame=0">shithead (n.)</a> <a href="http://dictionary.reference.com/search?q=shithead" class="dictionary" title="Look up shithead at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shithead at Dictionary.com" title="Look up shithead at Dictionary.com" /></a></dt>
+<dd>by 1961, from <a href="/index.php?term=shit&allowed_in_frame=0" class="crossreference">shit</a> (n.) + <a href="/index.php?term=head&allowed_in_frame=0" class="crossreference">head</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=shitty&allowed_in_frame=0">shitty (adj.)</a> <a href="http://dictionary.reference.com/search?q=shitty" class="dictionary" title="Look up shitty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shitty at Dictionary.com" title="Look up shitty at Dictionary.com" /></a></dt>
+<dd class="highlight">1924, from <a href="/index.php?term=shit&allowed_in_frame=0" class="crossreference">shit</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Earlier was <span class="foreign">shitten</span> (late 14c. in a literal sense; 1540s in transferred sense of "very unpleasant").</dd>
+
+<dt><a href="/index.php?term=shiv&allowed_in_frame=0">shiv (v.)</a> <a href="http://dictionary.reference.com/search?q=shiv" class="dictionary" title="Look up shiv at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shiv at Dictionary.com" title="Look up shiv at Dictionary.com" /></a></dt>
+<dd>"a razor," 1915, variant of <span class="foreign">chive</span>, thieves' cant word for "knife" (1670s), of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shiva&allowed_in_frame=0">shiva (n.)</a> <a href="http://dictionary.reference.com/search?q=shiva" class="dictionary" title="Look up shiva at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shiva at Dictionary.com" title="Look up shiva at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=shivah&allowed_in_frame=0" class="crossreference">shivah</a> or <a href="/index.php?term=siva&allowed_in_frame=0" class="crossreference">siva</a>.</dd>
+
+<dt><a href="/index.php?term=shivah&allowed_in_frame=0">shivah (n.)</a> <a href="http://dictionary.reference.com/search?q=shivah" class="dictionary" title="Look up shivah at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shivah at Dictionary.com" title="Look up shivah at Dictionary.com" /></a></dt>
+<dd>seven days of mourning in Jewish religious custom, 1892, from Heb. <span class="foreign">shibhah</span> "seven," short for <span class="foreign">shibh'ath yeme ha'ebhel</span> "the seven days of mourning."</dd>
+
+<dt class="highlight"><a href="/index.php?term=shivaree&allowed_in_frame=0">shivaree (n.)</a> <a href="http://dictionary.reference.com/search?q=shivaree" class="dictionary" title="Look up shivaree at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shivaree at Dictionary.com" title="Look up shivaree at Dictionary.com" /></a></dt>
+<dd class="highlight">1843, alteration of <span class="foreign">charivari</span> (1735), from Fr. <span class="foreign">charivari</span>, from O.Fr. <span class="foreign">chalivali</span> "discordant noise made by pots and pans," from L.L. <span class="foreign">caribaria</span> "a severe headache," from Gk. <span class="foreign">karebaria</span> "headache," from <span class="foreign">kare</span> "head" + <span class="foreign">barys</span> "heavy" (see <a href="/index.php?term=grave&allowed_in_frame=0" class="crossreference">grave</a> (adj.)).</dd>
+
+<dt><a href="/index.php?term=shiver&allowed_in_frame=0">shiver (v.2)</a> <a href="http://dictionary.reference.com/search?q=shiver" class="dictionary" title="Look up shiver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shiver at Dictionary.com" title="Look up shiver at Dictionary.com" /></a></dt>
+<dd>"to break in or into pieces," c.1200, from the source of <a href="/index.php?term=shiver&allowed_in_frame=0" class="crossreference">shiver</a> (n.). Chiefly in phrase <span class="foreign">shiver me timbers</span> (1835), "a mock oath attributed in comic fiction to sailors" [OED]. <span class="foreign">My timbers!</span> as a nautical oath is attested from 1789 (see <a href="/index.php?term=timber&allowed_in_frame=0" class="crossreference">timber</a> (n.)). Related: <span class="foreign">Shivered</span>; <span class="foreign">shivering</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shiver&allowed_in_frame=0">shiver (v.1)</a> <a href="http://dictionary.reference.com/search?q=shiver" class="dictionary" title="Look up shiver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shiver at Dictionary.com" title="Look up shiver at Dictionary.com" /></a></dt>
+<dd class="highlight">"shake," c.1400, alteration of <span class="foreign">chiveren</span> (c.1200), of uncertain origin, perhaps from O.E. <span class="foreign">ceafl</span> "jaw," on notion of chattering teeth. Spelling change of <span class="foreign">ch-</span> to <span class="foreign">sh-</span> is probably from influence of <span class="foreign">shake</span>. Related: <span class="foreign">Shivered</span>; <span class="foreign">shivering</span>.</dd>
+
+<dt><a href="/index.php?term=shiver&allowed_in_frame=0">shiver (n.)</a> <a href="http://dictionary.reference.com/search?q=shiver" class="dictionary" title="Look up shiver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shiver at Dictionary.com" title="Look up shiver at Dictionary.com" /></a></dt>
+<dd>"small piece," c.1200, probably related to M.L.G. <span class="foreign">schever, schiver</span> "splinter," from P.Gmc. <span class="foreign">*skif-</span> "split" (cf. O.H.G. <span class="foreign">skivaro</span>, Ger. <span class="foreign">Schiefer</span> "splinter, slate"). Commonly in phrases <span class="foreign">to shivers</span>.  Also, <span class="foreign">shiver</span> is still dialectal for "splinter (n.)" in Norfolk and Lincolnshire.</dd>
+
+<dt class="highlight"><a href="/index.php?term=shivery&allowed_in_frame=0">shivery (adj.)</a> <a href="http://dictionary.reference.com/search?q=shivery" class="dictionary" title="Look up shivery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shivery at Dictionary.com" title="Look up shivery at Dictionary.com" /></a></dt>
+<dd class="highlight">1747, from <a href="/index.php?term=shiver&allowed_in_frame=0" class="crossreference">shiver</a> (v.1) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=shoal&allowed_in_frame=0">shoal (n.1)</a> <a href="http://dictionary.reference.com/search?q=shoal" class="dictionary" title="Look up shoal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up shoal at Dictionary.com" title="Look up shoal at Dictionary.com" /></a></dt>
+<dd>"place of shallow water," c.1300, from O.E. <span class="foreign">schealde</span> (adj.), from <span class="foreign">sceald</span> "shallow," from P.Gmc. <span class="foreign">*skala-</span> (cf. Swed. <span class="foreign">sk&auml;ll</span> "thin;" Low Ger. <span class="foreign">schol</span>, Fris. <span class="foreign">skol</span> "not deep"). The terminal <span class="foreign">-d</span> was dropped 16c.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658728 -->
+<!-- Page was generated in 0.182953 seconds. -->
+ </body>
+</html>
+<!-- -->

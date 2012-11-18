@@ -1,0 +1,478 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=staccato&allowed_in_frame=0">staccato</a> <a href="http://dictionary.reference.com/search?q=staccato" class="dictionary" title="Look up staccato at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staccato at Dictionary.com" title="Look up staccato at Dictionary.com" /></a></dt>
+<dd class="highlight">1724, from It. <span class="foreign">staccato,</span> lit. "detached, disconnected," from pp. of <span class="foreign">staccare</span> "to detach," shortened form of <span class="foreign">distaccare</span> "separate, detach," from M.Fr. <span class="foreign">destacher,</span> from O.Fr. <span class="foreign">destachier</span> "to detach" (see <a href="/index.php?term=detach&allowed_in_frame=0" class="crossreference">detach</a>).</dd>
+
+<dt><a href="/index.php?term=stack&allowed_in_frame=0">stack (v.)</a> <a href="http://dictionary.reference.com/search?q=stack" class="dictionary" title="Look up stack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stack at Dictionary.com" title="Look up stack at Dictionary.com" /></a></dt>
+<dd>early 14c., "to pile up grain," from <a href="/index.php?term=stack&allowed_in_frame=0" class="crossreference">stack</a> (n.). Meaning "arrange unfairly" (in <span class="foreign">stack the deck</span>) is first recorded 1825. <span class="foreign">Stack up</span> "compare against" is 1903, from notion of piles of poker chips (1896). <span class="foreign">Stacked</span>, of women's bodies, "well-built in a sexual sense" is from 1942. Related: <span class="foreign">Stacking</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stack&allowed_in_frame=0">stack (n.)</a> <a href="http://dictionary.reference.com/search?q=stack" class="dictionary" title="Look up stack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stack at Dictionary.com" title="Look up stack at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "pile, heap, or group of things," from O.N. <span class="foreign">stakkr</span> "haystack" (cf. Dan. <span class="foreign">stak</span>, Swed. <span class="foreign">stack</span> "heap, stack"), from P.Gmc. <span class="foreign">*stakkoz</span>, from PIE <span class="foreign">*stognos-</span> (cf. O.C.S. <span class="foreign">stogu</span> "heap," Rus. <span class="foreign">stog</span> "haystack," Lith. <span class="foreign">stokas</span> "pillar"), from root <span class="foreign">*steg-</span> "pole, stick" (see <a href="/index.php?term=stake&allowed_in_frame=0" class="crossreference">stake</a> (n.)). Meaning "set of shelves on which books are set out" is from 1879. Used of the chimneys of factories, locomotives, etc., since 1825.</dd>
+
+<dt><a href="/index.php?term=stadium&allowed_in_frame=0">stadium (n.)</a> <a href="http://dictionary.reference.com/search?q=stadium" class="dictionary" title="Look up stadium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stadium at Dictionary.com" title="Look up stadium at Dictionary.com" /></a></dt>
+<dd>late 14c., "a foot race, an ancient measure of length," from L. <span class="foreign">stadium</span> "a measure of length, a race course" (commonly one-eighth of a Roman mile; translated in early English Bibles by <span class="foreign">furlong</span>), from Gk. <span class="foreign">stadion</span> "a measure of length, a running track," especially the track at Olympia, which was one stadium in length. The Greek word might literally mean "fixed standard of length" (from <span class="foreign">stadios</span> "firm, fixed," from PIE root <span class="foreign">*sta-</span> "to stand"), or it may be from <span class="foreign">spadion,</span> from <span class="foreign">span</span> "to draw up, pull," with form influenced by <span class="foreign">stadios</span>. The meaning "running track," recorded in English from c.1600, was extended to mean in modern-day context "large, open oval structure with tiers of seats for viewing sporting events" (1834).</dd>
+
+<dt class="highlight"><a href="/index.php?term=staff&allowed_in_frame=0">staff (n.)</a> <a href="http://dictionary.reference.com/search?q=staff" class="dictionary" title="Look up staff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staff at Dictionary.com" title="Look up staff at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">st&aelig;f</span> "walking stick, strong pole used for carrying, rod used as a weapon" (also, in plural, "letter, character, writing," cf. <span class="foreign">st&aelig;fcr&aelig;ft</span> "grammar"), from P.Gmc. <span class="foreign">*stabaz</span> (cf. O.S. <span class="foreign">staf</span>, O.N. <span class="foreign">stafr</span>, O.Fris. <span class="foreign">stef</span>, M.L.G., M.Du. <span class="foreign">staf</span>, O.H.G. <span class="foreign">stab</span>, Ger. <span class="foreign">Stab</span>, Goth. <span class="foreign">*stafs</span> "element;" M.Du. <span class="foreign">stapel</span> "pillar, foundation"), from PIE root <span class="foreign">*stebh-</span> "post, stem, to support, place firmly on, fasten" (cf. O.Lith. <span class="foreign">stabas</span> "idol," Lith. <span class="foreign">stebas</span> "staff, pillar;" O.C.S. <span class="foreign">stoboru</span> "pillar;" Skt. <span class="foreign">stabhnati</span> "supports;" Gk. <span class="foreign">stephein</span> "to tie around, encircle, wreathe," <span class="foreign">staphyle</span> "grapevine, bunch of grapes;" O.E. <span class="foreign">stapol</span> "post, pillar").
+<BR><BR>
+Sense of "group of military officers that assists a commander" is attested from 1702, apparently from German, from the notion of the "baton" that is a badge of office or authority (a sense attested in English from 1530s). Meaning "group of employees (as at an office or hospital)" is first found 1837. <span class="foreign">Staff of life</span> "bread" is from the Biblical phrase "to break the staff of bread" (Lev. xxvi:26), translating Hebrew <span class="foreign">matteh lekhem</span>.</dd>
+
+<dt><a href="/index.php?term=staff&allowed_in_frame=0">staff (v.)</a> <a href="http://dictionary.reference.com/search?q=staff" class="dictionary" title="Look up staff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staff at Dictionary.com" title="Look up staff at Dictionary.com" /></a></dt>
+<dd>"to provide with a staff of assistants," 1859, from <a href="/index.php?term=staff&allowed_in_frame=0" class="crossreference">staff</a> (n.). Related: <span class="foreign">Staffed</span>; <span class="foreign">staffing</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=Stafford&allowed_in_frame=0">Stafford</a> <a href="http://dictionary.reference.com/search?q=Stafford" class="dictionary" title="Look up Stafford at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Stafford at Dictionary.com" title="Look up Stafford at Dictionary.com" /></a></dt>
+<dd class="highlight">town in England, mid-11c., <span class="foreign">St&aelig;fford</span>, lit. "ford by a landing-place," from O.E. <span class="foreign">st&aelig;&eth;</span> + <span class="foreign">ford</span>. County town of <span class="foreign">Staffordshire</span>, which, as a name for a type of earthenware and porcelain made there is attested from 1765. </dd>
+
+<dt><a href="/index.php?term=stag&allowed_in_frame=0">stag (n.)</a> <a href="http://dictionary.reference.com/search?q=stag" class="dictionary" title="Look up stag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stag at Dictionary.com" title="Look up stag at Dictionary.com" /></a></dt>
+<dd>late 12c., probably from O.E. <span class="foreign">*stagga</span> "stag," from P.Gmc. <span class="foreign">*stag-</span> (see <a href="/index.php?term=sting&allowed_in_frame=0" class="crossreference">sting</a>). The Old Norse equivalent was used of male foxes, tomcats and dragons and the Germanic root word perhaps originally meant "male animal in its prime." Meaning "pertaining to or composed of males only" (<span class="foreign">stag party</span>) is American English slang from 1848. <span class="foreign">Stag film</span> "pornographic movie" is attested from 1968.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stage&allowed_in_frame=0">stage (n.)</a> <a href="http://dictionary.reference.com/search?q=stage" class="dictionary" title="Look up stage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stage at Dictionary.com" title="Look up stage at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., "story of a building, raised floor for exhibitions," from O.Fr. <span class="foreign">estage</span> "a story or floor of a building, stage for performance," from V.L. <span class="foreign">*staticum</span> "a place for standing," from L. <span class="foreign">statum,</span> pp. of <span class="foreign">stare</span> "to stand" (see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>). Meaning "platform for presentation of a play" is attested from late 14c.; generalized for "profession of an actor" from 1580s.
+<BR><BR>
+Sense of "period of development or time in life" first recorded early 14c., probably from Middle English sense of "degree or step on the 'ladder' of virtue, 'wheel' of fortune, etc.," in parable illustrations and morality plays. <span class="foreign">Stage mother</span> is from 1919. <span class="foreign">Stage-Door Johnny</span> "young man who frequents stage doors seeking the company of actresses, chorus girls, etc." is attested from 1912. <span class="foreign">Stage-struck</span> is from 1813; earlier <span class="foreign">stage-smitten</span> (1680s). <span class="foreign">Stage whisper</span> first attested 1865.</dd>
+
+<dt><a href="/index.php?term=stage&allowed_in_frame=0">stage (v.)</a> <a href="http://dictionary.reference.com/search?q=stage" class="dictionary" title="Look up stage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stage at Dictionary.com" title="Look up stage at Dictionary.com" /></a></dt>
+<dd>early 14c., "to erect, construct," from <a href="/index.php?term=stage&allowed_in_frame=0" class="crossreference">stage</a> (n.). The meaning "to put (a play) on the stage" first recorded 1879; general sense of "to mount" (a comeback, etc.) is attested from 1924. Related: <span class="foreign">Staged</span>; <span class="foreign">staging</span>.
+
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=stagecoach&allowed_in_frame=0">stagecoach (n.)</a> <a href="http://dictionary.reference.com/search?q=stagecoach" class="dictionary" title="Look up stagecoach at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stagecoach at Dictionary.com" title="Look up stagecoach at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">stage-coach</span>, 1650s, from <a href="/index.php?term=stage&allowed_in_frame=0" class="crossreference">stage</a> (n.) in a sense of "division of a journey without stopping for rest" (c.1600) + <a href="/index.php?term=coach&allowed_in_frame=0" class="crossreference">coach</a> (n.). </dd>
+
+<dt><a href="/index.php?term=stagflation&allowed_in_frame=0">stagflation (n.)</a> <a href="http://dictionary.reference.com/search?q=stagflation" class="dictionary" title="Look up stagflation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stagflation at Dictionary.com" title="Look up stagflation at Dictionary.com" /></a></dt>
+<dd>1965, apparently coined by U.K. politician Iain Macleod (1913-1970), from <span class="foreign">stag(nation)</span> + <span class="foreign">(in)flation</span>.
+<blockquote>
+Attacking the Government's economic policy last night in the House of Commons, Mr. Iain Macleod (West Enfield - Con.) the Opposition spokesman on Treasury and economic affairs, described the present situation in Britain as "stagflation" -- stagnation and inflation together. ["Glasgow Herald," Nov. 18, 1965]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=staggard&allowed_in_frame=0">staggard (n.)</a> <a href="http://dictionary.reference.com/search?q=staggard" class="dictionary" title="Look up staggard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staggard at Dictionary.com" title="Look up staggard at Dictionary.com" /></a></dt>
+<dd class="highlight">"stag in its fourth year," c.1400, from <a href="/index.php?term=stag&allowed_in_frame=0" class="crossreference">stag</a> + <a href="/index.php?term=-ard&allowed_in_frame=0" class="crossreference">-ard</a>.</dd>
+
+<dt><a href="/index.php?term=stagger&allowed_in_frame=0">stagger (v.)</a> <a href="http://dictionary.reference.com/search?q=stagger" class="dictionary" title="Look up stagger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stagger at Dictionary.com" title="Look up stagger at Dictionary.com" /></a></dt>
+<dd>1520s, altered from <span class="foreign">stakeren</span> (c.1300), from O.N. <span class="foreign">stakra</span> or O.Dan. <span class="foreign">stagra</span>, both "to push, stagger." Cognate with Du. <span class="foreign">staggelen</span> "to stagger," Ger. <span class="foreign">staggeln</span> "to stammer." Transitive sense of "bewilder, amaze" first recorded 1550s; that of "arrange in a zig-zag pattern" is from 1856. Related: <span class="foreign">Staggered</span>; <a href="/index.php?term=staggering&allowed_in_frame=0" class="crossreference">staggering</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=staggering&allowed_in_frame=0">staggering (adj.)</a> <a href="http://dictionary.reference.com/search?q=staggering" class="dictionary" title="Look up staggering at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staggering at Dictionary.com" title="Look up staggering at Dictionary.com" /></a></dt>
+<dd class="highlight">"amazing," 1560s, from prp. of <a href="/index.php?term=stagger&allowed_in_frame=0" class="crossreference">stagger</a> (v.). Related: <span class="foreign">Staggeringly</span>.</dd>
+
+<dt><a href="/index.php?term=staging&allowed_in_frame=0">staging (n.)</a> <a href="http://dictionary.reference.com/search?q=staging" class="dictionary" title="Look up staging at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staging at Dictionary.com" title="Look up staging at Dictionary.com" /></a></dt>
+<dd>to designate "stopping place or assembly point," 1945, from <a href="/index.php?term=stage&allowed_in_frame=0" class="crossreference">stage</a> (v.)</dd>
+
+<dt class="highlight"><a href="/index.php?term=stagnant&allowed_in_frame=0">stagnant (adj.)</a> <a href="http://dictionary.reference.com/search?q=stagnant" class="dictionary" title="Look up stagnant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stagnant at Dictionary.com" title="Look up stagnant at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, from Fr. <span class="foreign">stagnant</span> (early 17c.), from L. <span class="foreign">stagnantem</span> (nom. <span class="foreign">stagnans</span>), prp. of <span class="foreign">stagnare</span> (see <a href="/index.php?term=stagnate&allowed_in_frame=0" class="crossreference">stagnate</a>).</dd>
+
+<dt><a href="/index.php?term=stagnate&allowed_in_frame=0">stagnate (v.)</a> <a href="http://dictionary.reference.com/search?q=stagnate" class="dictionary" title="Look up stagnate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stagnate at Dictionary.com" title="Look up stagnate at Dictionary.com" /></a></dt>
+<dd>1660s (implied in <span class="foreign">stagnation</span>), from L. <span class="foreign">stagnatum, stagnatus</span>, pp. of <span class="foreign">stagnare</span> "to stagnate," from <span class="foreign">stagnatum</span> "standing water," from PIE root <span class="foreign">*stag-</span> "to seep drip" (cf. Gk. <span class="foreign">stazein</span> "to ooze, drip;" see <a href="/index.php?term=stalactite&allowed_in_frame=0" class="crossreference">stalactite</a>). Related: <span class="foreign">Stagnated</span>; <span class="foreign">stagnating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=staid&allowed_in_frame=0">staid (adj.)</a> <a href="http://dictionary.reference.com/search?q=staid" class="dictionary" title="Look up staid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staid at Dictionary.com" title="Look up staid at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, "fixed, permanent," adjectival use of <span class="foreign">stayed</span>, pp. of <a href="/index.php?term=stay&allowed_in_frame=0" class="crossreference">stay</a> (v.). Meaning "sober, sedate" first recorded 1550s.</dd>
+
+<dt><a href="/index.php?term=stain&allowed_in_frame=0">stain (v.)</a> <a href="http://dictionary.reference.com/search?q=stain" class="dictionary" title="Look up stain at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stain at Dictionary.com" title="Look up stain at Dictionary.com" /></a></dt>
+<dd>late 14c., probably representing a merger of O.N. <span class="foreign">steina</span> "to paint" and an aphetic form of M.E. <span class="foreign">disteynen</span> "to discolor or stain," from O.Fr. <span class="foreign">desteign-</span>, stem of <span class="foreign">desteindre</span> "to remove the color," from <span class="foreign">des-</span> (from L. <span class="foreign">dis-</span> "remove") + O.Fr. <span class="foreign">teindre</span> "to dye," from L. <span class="foreign">tingere</span> (see <a href="/index.php?term=tincture&allowed_in_frame=0" class="crossreference">tincture</a>). Related: <span class="foreign">Stained</span>; <span class="foreign">staining</span>. <span class="foreign">Stained glass</span> is attested from 1791.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stain&allowed_in_frame=0">stain (n.)</a> <a href="http://dictionary.reference.com/search?q=stain" class="dictionary" title="Look up stain at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stain at Dictionary.com" title="Look up stain at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, from <a href="/index.php?term=stain&allowed_in_frame=0" class="crossreference">stain</a> (v.).</dd>
+
+<dt><a href="/index.php?term=stainless+steel&allowed_in_frame=0">stainless steel</a> <a href="http://dictionary.reference.com/search?q=stainless+steel" class="dictionary" title="Look up stainless steel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stainless steel at Dictionary.com" title="Look up stainless steel at Dictionary.com" /></a></dt>
+<dd>1917, a chromium-steel alloy (usually 14% chromium) used for cutlery, etc., so called because it is highly resistant to rust or tarnish.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stair&allowed_in_frame=0">stair (n.)</a> <a href="http://dictionary.reference.com/search?q=stair" class="dictionary" title="Look up stair at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stair at Dictionary.com" title="Look up stair at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">st&aelig;ger</span> "flight of steps," also "a single step," from P.Gmc. <span class="foreign">*staigri</span> (cf. O.N., O.Fris. <span class="foreign">stiga</span>, M.Du. <span class="foreign">stighen</span>, O.H.G. <span class="foreign">stigan</span>, Ger. <span class="foreign">steigen</span>, Goth. <span class="foreign">steigan</span> "to go up, ascend;" O.E. <span class="foreign">stigan</span> "to climb, go;" Ger. <span class="foreign">Steig</span> "path," O.E. <span class="foreign">stig</span> "narrow path"), from PIE <span class="foreign">*steigh-</span> "go, rise, stride, step, walk" (cf. Gk. <span class="foreign">steikhein</span> "to go, march in order," <span class="foreign">stikhos</span> "row, line, rank, verse;" Skt. <span class="foreign">stighnoti</span> "mounts, rises, steps;" O.C.S. <span class="foreign">stignati</span> "to overtake," <span class="foreign">stigna</span> "place;" Lith. <span class="foreign">staiga</span> "suddenly;" O.Ir. <span class="foreign">tiagaim</span> "I walk;" Welsh <span class="foreign">taith</span> "going, walk, way").
+<BR><BR>
+Originally also a collective plural; <span class="foreign">stairs</span> developed by late 14c. OED says <span class="foreign">stair</span> still is ordinary in Scotland where <span class="foreign">flight of stairs</span> would be used elsewhere.</dd>
+
+<dt><a href="/index.php?term=staircase&allowed_in_frame=0">staircase (n.)</a> <a href="http://dictionary.reference.com/search?q=staircase" class="dictionary" title="Look up staircase at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up staircase at Dictionary.com" title="Look up staircase at Dictionary.com" /></a></dt>
+<dd>1620s, originally the enclosure of the stairs, from <a href="/index.php?term=stair&allowed_in_frame=0" class="crossreference">stair</a> + <a href="/index.php?term=case&allowed_in_frame=0" class="crossreference">case</a> (n.2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stairway&allowed_in_frame=0">stairway (n.)</a> <a href="http://dictionary.reference.com/search?q=stairway" class="dictionary" title="Look up stairway at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stairway at Dictionary.com" title="Look up stairway at Dictionary.com" /></a></dt>
+<dd class="highlight">1767, from <a href="/index.php?term=stair&allowed_in_frame=0" class="crossreference">stair</a> + <a href="/index.php?term=way&allowed_in_frame=0" class="crossreference">way</a>.</dd>
+
+<dt><a href="/index.php?term=stairwell&allowed_in_frame=0">stairwell (n.)</a> <a href="http://dictionary.reference.com/search?q=stairwell" class="dictionary" title="Look up stairwell at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stairwell at Dictionary.com" title="Look up stairwell at Dictionary.com" /></a></dt>
+<dd>by 1862, from <a href="/index.php?term=stair&allowed_in_frame=0" class="crossreference">stair</a> + <a href="/index.php?term=well&allowed_in_frame=0" class="crossreference">well</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stake&allowed_in_frame=0">stake (n.1)</a> <a href="http://dictionary.reference.com/search?q=stake" class="dictionary" title="Look up stake at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stake at Dictionary.com" title="Look up stake at Dictionary.com" /></a></dt>
+<dd class="highlight">"pointed stick or post," O.E. <span class="foreign">staca,</span> from P.Gmc. <span class="foreign">*stakon</span> (cf. O.N. <span class="foreign">stiaki</span>, Du. <span class="foreign">staak</span>, Ger. <span class="foreign">stake</span>), from PIE root <span class="foreign">*steg-</span> "pole, stick." The Germanic word has been borrowed in Spanish (<span class="foreign">estaca</span>), Old French (<span class="foreign">estaque</span>), and Italian <span class="foreign">stacca</span>) and was borrowed back as <a href="/index.php?term=attach&allowed_in_frame=0" class="crossreference">attach</a>. Meaning "post upon which persons were bound for death by burning" is recorded from c.1200. <span class="foreign">Stake-body</span> as a type of truck is attested from 1907.</dd>
+
+<dt><a href="/index.php?term=stake&allowed_in_frame=0">stake (v.)</a> <a href="http://dictionary.reference.com/search?q=stake" class="dictionary" title="Look up stake at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stake at Dictionary.com" title="Look up stake at Dictionary.com" /></a></dt>
+<dd>early 14c., "to mark (land) with stakes," from <a href="/index.php?term=stake&allowed_in_frame=0" class="crossreference">stake</a> (n.1). Hence, <span class="foreign">to stake a claim</span> (1857). Meaning "to risk, wager" is attested from 1520s, probably from notion of "post on which a gambling wager was placed," though Weekley suggests "there is a tinge of the burning or baiting metaphor" in this usage. Meaning "to maintain surveilance" (usually <span class="foreign">stake out</span>) is first recorded 1942, American English colloquial, probably form earlier sense of "mark off territory." Related: <span class="foreign">Staked</span>; <span class="foreign">staking</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stake&allowed_in_frame=0">stake (n.2)</a> <a href="http://dictionary.reference.com/search?q=stake" class="dictionary" title="Look up stake at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stake at Dictionary.com" title="Look up stake at Dictionary.com" /></a></dt>
+<dd class="highlight">"that which is placed at hazard," 1530s, from <a href="/index.php?term=stake&allowed_in_frame=0" class="crossreference">stake</a> (v.). Plural <span class="foreign">stakes</span>, as in horse racing, first recorded 1690s (cf. <a href="/index.php?term=sweepstakes&allowed_in_frame=0" class="crossreference">sweepstakes</a>). To <span class="foreign">have a stake in</span> is recorded from 1784. </dd>
+
+<dt><a href="/index.php?term=stakeholder&allowed_in_frame=0">stakeholder (n.)</a> <a href="http://dictionary.reference.com/search?q=stakeholder" class="dictionary" title="Look up stakeholder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stakeholder at Dictionary.com" title="Look up stakeholder at Dictionary.com" /></a></dt>
+<dd>1708, from <a href="/index.php?term=stake&allowed_in_frame=0" class="crossreference">stake</a> (n.2) + agent noun from <a href="/index.php?term=hold&allowed_in_frame=0" class="crossreference">hold</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Stakhanovite&allowed_in_frame=0">Stakhanovite</a> <a href="http://dictionary.reference.com/search?q=Stakhanovite" class="dictionary" title="Look up Stakhanovite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Stakhanovite at Dictionary.com" title="Look up Stakhanovite at Dictionary.com" /></a></dt>
+<dd class="highlight">1935, from name of hard-working Soviet coal miner Aleksei Grigorevich <span class="foreign">Stakhanov</span> (1906-1977), in reference to an efficiency system in which workers increase their piecework production and are rewarded with bonuses and privileges. Soviet authorities publicized his prodigious output as part of a campaign to increase productivity.</dd>
+
+<dt><a href="/index.php?term=stalactite&allowed_in_frame=0">stalactite (n.)</a> <a href="http://dictionary.reference.com/search?q=stalactite" class="dictionary" title="Look up stalactite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalactite at Dictionary.com" title="Look up stalactite at Dictionary.com" /></a></dt>
+<dd>1670s, Anglicized from Mod.L. <span class="foreign">stalactites</span> (used 1654 by Olaus Wormius), from Gk. <span class="foreign">stalaktos</span> "dripping," from <span class="foreign">stalassein</span> "to trickle," from PIE root <span class="foreign">*stag-</span> "to seep, drip, drop" (cf. Ger. <span class="foreign">stallen</span>, Lith. <span class="foreign">telziu</span> "to urinate").</dd>
+
+<dt class="highlight"><a href="/index.php?term=stalag&allowed_in_frame=0">stalag (n.)</a> <a href="http://dictionary.reference.com/search?q=stalag" class="dictionary" title="Look up stalag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalag at Dictionary.com" title="Look up stalag at Dictionary.com" /></a></dt>
+<dd class="highlight">"German POW camp," 1940, from Ger. <span class="foreign">Stalag</span>, short for <span class="foreign">stammlager</span> "main camp," from O.H.G. <span class="foreign">stam</span> "stem," from P.Gmc. <span class="foreign">*stamniz</span> (see <a href="/index.php?term=stem&allowed_in_frame=0" class="crossreference">stem</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=stalagmite&allowed_in_frame=0">stalagmite (n.)</a> <a href="http://dictionary.reference.com/search?q=stalagmite" class="dictionary" title="Look up stalagmite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalagmite at Dictionary.com" title="Look up stalagmite at Dictionary.com" /></a></dt>
+<dd>1680s, from Mod.L. <span class="foreign">stalagmites</span> (Olaus Wormius), from Gk. <span class="foreign">stalagmos</span> "a dropping," or <span class="foreign">stalagma</span> "a drop, drip," from <span class="foreign">stalassein</span> "to trickle" (see <a href="/index.php?term=stalactite&allowed_in_frame=0" class="crossreference">stalactite</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stale&allowed_in_frame=0">stale (adj.)</a> <a href="http://dictionary.reference.com/search?q=stale" class="dictionary" title="Look up stale at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stale at Dictionary.com" title="Look up stale at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "freed from dregs or lees" (of ale, wine, etc.), i.e. "having stood long enough to clear," cognate with M.Du. <span class="foreign">stel</span> "stale" (of beer), and probably ultimately from P.Gmc. base <span class="foreign">*sta-</span> "stand," the source of O.E. <span class="foreign">standan</span> "to stand," Perhaps via O.Fr. <span class="foreign">estaler</span> "halt," from Frankish <span class="foreign">*stal-</span> "position" (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). The meaning "not fresh" is first recorded late 15c. Figurative sense (of immaterial things) is recorded from 1560s.</dd>
+
+<dt><a href="/index.php?term=stalemate&allowed_in_frame=0">stalemate (n.)</a> <a href="http://dictionary.reference.com/search?q=stalemate" class="dictionary" title="Look up stalemate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalemate at Dictionary.com" title="Look up stalemate at Dictionary.com" /></a></dt>
+<dd>1765, in chess, from <span class="foreign">stale</span> "stalemate" (early 15c.) + <a href="/index.php?term=mate&allowed_in_frame=0" class="crossreference">mate</a> (n.2) "checkmate." Middle English <span class="foreign">stale</span> is probably from Anglo-Fr. <span class="foreign">estale</span> "standstill" (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.2)). A misnomer, since a <span class="foreign">stale</span> is not a <span class="foreign">mate</span>. "In England from the 17th c. to the beginning of the 19th c. the player who received stalemate won the game" [OED]. Figurative sense is recorded from 1885.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Stalin&allowed_in_frame=0">Stalin</a> <a href="http://dictionary.reference.com/search?q=Stalin" class="dictionary" title="Look up Stalin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Stalin at Dictionary.com" title="Look up Stalin at Dictionary.com" /></a></dt>
+<dd class="highlight">Russian, lit. "steel," assumed name of Soviet Communist Party and Soviet Union leader  Iosif Vissarionovich Dzhugashvili (1879-1953). Cf. <a href="/index.php?term=Molotov&allowed_in_frame=0" class="crossreference">Molotov</a>.</dd>
+
+<dt><a href="/index.php?term=Stalingrad&allowed_in_frame=0">Stalingrad</a> <a href="http://dictionary.reference.com/search?q=Stalingrad" class="dictionary" title="Look up Stalingrad at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Stalingrad at Dictionary.com" title="Look up Stalingrad at Dictionary.com" /></a></dt>
+<dd>name of southern Russian city from 1925-1961, from <a href="/index.php?term=Stalin&allowed_in_frame=0" class="crossreference">Stalin</a> (q.v.) + <span class="foreign">-grad</span> (see <a href="/index.php?term=yard&allowed_in_frame=0" class="crossreference">yard</a> (n.1)). Now <span class="foreign">Volgograd</span>, formerly <span class="foreign">Tsaritsyn</span> (1589), from Turkish <span class="foreign">sarisin</span> "yellowish," in reference to the river water, but associated in Russian with <span class="foreign">Tsar</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Stalinism&allowed_in_frame=0">Stalinism</a> <a href="http://dictionary.reference.com/search?q=Stalinism" class="dictionary" title="Look up Stalinism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Stalinism at Dictionary.com" title="Look up Stalinism at Dictionary.com" /></a></dt>
+<dd class="highlight">1927, from <a href="/index.php?term=Stalin&allowed_in_frame=0" class="crossreference">Stalin</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt><a href="/index.php?term=stalk&allowed_in_frame=0">stalk (n.)</a> <a href="http://dictionary.reference.com/search?q=stalk" class="dictionary" title="Look up stalk at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalk at Dictionary.com" title="Look up stalk at Dictionary.com" /></a></dt>
+<dd>"stem of a plant," early 14c., probably a dim. (with <span class="foreign">-k</span> suffix) of <span class="foreign">stale</span> "one of the uprights of a ladder, handle, stalk," from O.E. <span class="foreign">stalu</span> "wooden part" (as of a harp), from P.Gmc. <span class="foreign">*stalo</span>; related to O.E. <span class="foreign">steala</span> "stalk, support," and <span class="foreign">steall</span> "place" (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stalk&allowed_in_frame=0">stalk (v.1)</a> <a href="http://dictionary.reference.com/search?q=stalk" class="dictionary" title="Look up stalk at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalk at Dictionary.com" title="Look up stalk at Dictionary.com" /></a></dt>
+<dd class="highlight">"pursue stealthily," O.E. <span class="foreign">-stealcian</span>, as in <span class="foreign">bestealcian</span> "to steal along," from P.Gmc. <span class="foreign">*stalkojanan</span>, probably from a frequentative of the root of <a href="/index.php?term=steal&allowed_in_frame=0" class="crossreference">steal</a> (cf. <span class="foreign">hark</span> from <span class="foreign">hear</span>, <span class="foreign">talk</span> from <span class="foreign">tell</span>). Or it may be from a sense of <a href="/index.php?term=stalk&allowed_in_frame=0" class="crossreference">stalk</a> (v.1), influenced by <a href="/index.php?term=stalk&allowed_in_frame=0" class="crossreference">stalk</a> (n.). Meaning "harass obsessively" first recorded 1991. Related: <span class="foreign">Stalked</span>; <span class="foreign">stalking</span>. A <span class="foreign">stalking-horse</span> was lit. a horse trained to allow a fowler to conceal himself behind it to get within range of the game; figurative sense of "person who participates in a proceeding to disguise its real purpose" is recorded from 1610s.</dd>
+
+<dt><a href="/index.php?term=stalk&allowed_in_frame=0">stalk (v2.)</a> <a href="http://dictionary.reference.com/search?q=stalk" class="dictionary" title="Look up stalk at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalk at Dictionary.com" title="Look up stalk at Dictionary.com" /></a></dt>
+<dd>"walk haughtily" (opposite meaning of <a href="/index.php?term=stalk&allowed_in_frame=0" class="crossreference">stalk</a> (v1.)) is 1520s, perhaps from <a href="/index.php?term=stalk&allowed_in_frame=0" class="crossreference">stalk</a> (n.) with a notion of "long, awkward strides," or from O.E. <span class="foreign">stealcung</span> "a stalking," related to <span class="foreign">stealc</span> "steep, lofty."</dd>
+
+<dt class="highlight"><a href="/index.php?term=stalker&allowed_in_frame=0">stalker</a> <a href="http://dictionary.reference.com/search?q=stalker" class="dictionary" title="Look up stalker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalker at Dictionary.com" title="Look up stalker at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "a poacher;" also "one who prowls for purposes of theft" (c.1500), agent noun from <a href="/index.php?term=stalk&allowed_in_frame=0" class="crossreference">stalk</a> (v.). Meaning "obsessive harasser" is from early 1990s.</dd>
+
+<dt><a href="/index.php?term=stall&allowed_in_frame=0">stall (n.1)</a> <a href="http://dictionary.reference.com/search?q=stall" class="dictionary" title="Look up stall at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stall at Dictionary.com" title="Look up stall at Dictionary.com" /></a></dt>
+<dd>"place in a stable for animals," O.E. <span class="foreign">steall</span> "place where cattle are kept, place, position," from P.Gmc. <span class="foreign">*stallaz</span> (cf. O.N. <span class="foreign">stallr</span> "pedestal for idols, altar," O.Fris. <span class="foreign">stal</span>, O.H.G. <span class="foreign">stall</span> "stand, place, stable, stall," Ger. <span class="foreign">Stall</span> "stable," <span class="foreign">Stelle</span> "place"), earlier <span class="foreign">*stalnaz-</span> or <span class="foreign">*stathlo-</span>, from PIE root <span class="foreign">*stel-</span> "to put, stand," with derivatives referring to a standing object or place (cf. Gk. <span class="foreign">stele</span> "standing block, slab," L. <span class="foreign">stolidus</span> "insensible, dull, brutish," properly "unmovable").
+<BR><BR>
+The word passed into Romanic languages (cf. It. <span class="foreign">stallo</span> "place," <span class="foreign">stalla</span> "stable;" O.Fr. <span class="foreign">estal</span> "place, position, stand, stall," Fr. <span class="foreign">&eacute;tal</span> "butcher's stall"). Several meanings, including that of "a stand for selling" (mid-13c., implied in <span class="foreign">stallage</span> "tax levied for the privilege of erecting a stall at a market or fair"), are from (or influenced by) O.Fr. <span class="foreign">estal</span>. Meaning "partially enclosed seat in a choir" is attested from c.1400; that of "urinal in a men's room" is from 1967.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stall&allowed_in_frame=0">stall (n.2)</a> <a href="http://dictionary.reference.com/search?q=stall" class="dictionary" title="Look up stall at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stall at Dictionary.com" title="Look up stall at Dictionary.com" /></a></dt>
+<dd class="highlight">"pretense to avoid doing something," variant of <span class="foreign">stale</span> "bird used as a decoy to lure other birds" (mid-15c.), from Anglo-Fr. <span class="foreign">estale</span> "decoy, pigeon used to lure a hawk" (13c., cf. <span class="foreign">stool pigeon</span>), lit. "standstill," from O.Fr. <span class="foreign">estal</span> "place, stand, stall," from Frankish <span class="foreign">*stal-</span> "position," cognate with O.E. <span class="foreign">steall</span> (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). Cf. O.E. <span class="foreign">st&aelig;lhran</span> "decoy reindeer," Ger. <span class="foreign">stellvogel</span> "decoy bird." Figurative sense of "deception, means of allurement" is first recorded 1520s. Meaning "evasive trick or story, pretext, excuse" first recorded 1812 (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (v.)); sense entwined with that of "thief's assistant" (1590s).
+<blockquote>
+The stallers up are gratified with such part of the gains acquired as the liberality of the knuckling gentlemen may prompt them to bestow. [J.H. Vaux, "Flash Dictionary," 1812]</blockquote>
+
+</dd>
+
+<dt><a href="/index.php?term=stall&allowed_in_frame=0">stall (v.)</a> <a href="http://dictionary.reference.com/search?q=stall" class="dictionary" title="Look up stall at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stall at Dictionary.com" title="Look up stall at Dictionary.com" /></a></dt>
+<dd>1590s, "to screen a pickpocket from observation," from <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.2) "decoy." Meaning "to precaricate, be evasive, play for time" is attested from 1903. Of engines or engine-powered vehicles, it is attested from 1904 (trans.), 1914 (intrans.), from earlier sense of "to become stuck, come to a standstill" (c.1400), which is directly from O.Fr. <span class="foreign">estale</span> or O.E. <span class="foreign">steall</span> (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). Related: <span class="foreign">Stalled</span>; <span class="foreign">stalling</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stallion&allowed_in_frame=0">stallion (n.)</a> <a href="http://dictionary.reference.com/search?q=stallion" class="dictionary" title="Look up stallion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stallion at Dictionary.com" title="Look up stallion at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "uncastrated male horse," from O.Fr. <span class="foreign">estalon</span> "male horse," from Frankish <span class="foreign">*stal</span>, cognate with O.H.G. <span class="foreign">stal</span> "stable" (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). The notion is probably of a horse kept in a stable to service mares. Transferred sense of "lascivious man" is attested from 1550s.</dd>
+
+<dt><a href="/index.php?term=stalwart&allowed_in_frame=0">stalwart (adj.)</a> <a href="http://dictionary.reference.com/search?q=stalwart" class="dictionary" title="Look up stalwart at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stalwart at Dictionary.com" title="Look up stalwart at Dictionary.com" /></a></dt>
+<dd>late 14c., Scottish variant of O.E. <span class="foreign">st&aelig;lwier&eth;e</span> "good, serviceable," probably a contracted compound of <span class="foreign">sta&eth;ol</span> "foundation, support" (from P.Gmc. <span class="foreign">*stathlaz</span>, from PIE root <span class="foreign">*sta-</span> "to stand, set down, make or be firm;" see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>) + <span class="foreign">wier&eth;e</span> "good, excellent, worthy" (see <a href="/index.php?term=worth&allowed_in_frame=0" class="crossreference">worth</a>). Another theory traces the first element of <span class="foreign">st&aelig;lwier&eth;e</span> to O.E. <span class="foreign">st&aelig;l</span> "place," from P.Gmc. <span class="foreign">*st&aelig;laz</span>. In U.S. political history, applied 1877 by Blaine to Republicans who refused to give up their hostility to and distrust of the South.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stamen&allowed_in_frame=0">stamen (n.)</a> <a href="http://dictionary.reference.com/search?q=stamen" class="dictionary" title="Look up stamen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stamen at Dictionary.com" title="Look up stamen at Dictionary.com" /></a></dt>
+<dd class="highlight">"pollen-bearing organ of a flower," 1660s, from Modern Latin (1625, Spigelus), from L. <span class="foreign">stamen</span> "stamen" (Pliny), lit. "thread of the warp" in the upright loom (related to <span class="foreign">stare</span> "to stand"), from PIE <span class="foreign">*sta-men-</span> (cf. Gk. <span class="foreign">stemon</span> "warp," also used by Hesychius for some part of a plant, Goth. <span class="foreign">stoma</span>, Skt. <span class="foreign">sthaman</span> "place," also "strength"), from root <span class="foreign">*sta-</span> "to stand" (see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>).</dd>
+
+<dt><a href="/index.php?term=stamina&allowed_in_frame=0">stamina (n.)</a> <a href="http://dictionary.reference.com/search?q=stamina" class="dictionary" title="Look up stamina at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stamina at Dictionary.com" title="Look up stamina at Dictionary.com" /></a></dt>
+<dd>1670s, "rudiments or original elements of something," from L. <span class="foreign">stamina</span> "threads," pl. of <span class="foreign">stamen</span> (gen. <span class="foreign">staminis</span>) "thread, warp" (see <a href="/index.php?term=stamen&allowed_in_frame=0" class="crossreference">stamen</a>). Sense of "power to resist or recover, strength, endurance" first recorded 1726 (originally plural), from earlier meaning "congenital vital capacities of a person or animal," also in part from Latin application to the threads spun by the Fates to determine the length and course of one's life, and partly from a figurative use of L. <span class="foreign">stamen</span> "the warp (of cloth)" on the notion of the warp as the "foundation" of a fabric.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658764 -->
+<!-- Page was generated in 0.204049 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=anklet&allowed_in_frame=0">anklet (n.)</a> <a href="http://dictionary.reference.com/search?q=anklet" class="dictionary" title="Look up anklet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anklet at Dictionary.com" title="Look up anklet at Dictionary.com" /></a></dt>
+<dd class="highlight">"ring for an ankle," 1810, from <a href="/index.php?term=ankle&allowed_in_frame=0" class="crossreference">ankle</a>, with diminutive suffix <span class="foreign">-let</span>, after <a href="/index.php?term=bracelet&allowed_in_frame=0" class="crossreference">bracelet</a>.</dd>
+
+<dt><a href="/index.php?term=ankylosaurus&allowed_in_frame=0">ankylosaurus (n.)</a> <a href="http://dictionary.reference.com/search?q=ankylosaurus" class="dictionary" title="Look up ankylosaurus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ankylosaurus at Dictionary.com" title="Look up ankylosaurus at Dictionary.com" /></a></dt>
+<dd>Cretaceous armored dinosaur, 1907, Modern Latin, from Gk. <span class="foreign">ankylos</span> "crooked" (see <a href="/index.php?term=angle&allowed_in_frame=0" class="crossreference">angle</a> (n.)) + <a href="/index.php?term=-saurus&allowed_in_frame=0" class="crossreference">-saurus</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ankylosis&allowed_in_frame=0">ankylosis (n.)</a> <a href="http://dictionary.reference.com/search?q=ankylosis" class="dictionary" title="Look up ankylosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ankylosis at Dictionary.com" title="Look up ankylosis at Dictionary.com" /></a></dt>
+<dd class="highlight">stiffening of joints after injury or surgery, alternative (and more etymological) spelling of <a href="/index.php?term=anchylosis&allowed_in_frame=0" class="crossreference">anchylosis</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=anlage&allowed_in_frame=0">anlage (n.)</a> <a href="http://dictionary.reference.com/search?q=anlage" class="dictionary" title="Look up anlage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anlage at Dictionary.com" title="Look up anlage at Dictionary.com" /></a></dt>
+<dd>"basis of a later development" (plural <span class="foreign">anlagen</span>), 1892, from Ger. <span class="foreign">anlage</span> "foundation, basis," from <span class="foreign">anlagen</span> (v.) "to establish," from <span class="foreign">an</span> "on" + <span class="foreign">legen</span> "to lay" (see <a href="/index.php?term=lay&allowed_in_frame=0" class="crossreference">lay</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Ann&allowed_in_frame=0">Ann</a> <a href="http://dictionary.reference.com/search?q=Ann" class="dictionary" title="Look up Ann at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ann at Dictionary.com" title="Look up Ann at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, alternative form of <span class="foreign">Anna</span>, from L. <span class="foreign">Anna</span>, from Greek, from Hebrew <span class="foreign">Hannah</span> (see <a href="/index.php?term=Hannah&allowed_in_frame=0" class="crossreference">Hannah</a>). In U.S. black slang, "white woman," also "a black woman who is considered to be acting 'too white;' " also <span class="foreign">Miss Ann</span>. She is the spouse of <span class="foreign">Mr. Charlie</span>.</dd>
+
+<dt><a href="/index.php?term=Anna&allowed_in_frame=0">Anna</a> <a href="http://dictionary.reference.com/search?q=Anna" class="dictionary" title="Look up Anna at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anna at Dictionary.com" title="Look up Anna at Dictionary.com" /></a></dt>
+<dd>fem. proper name, from L. <span class="foreign">Anna</span>, from Gk. <span class="foreign">Anna</span>, from Heb. <span class="foreign">Hannah</span>, lit. "grace, graciousness" (see <a href="/index.php?term=Hannah&allowed_in_frame=0" class="crossreference">Hannah</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=annal&allowed_in_frame=0">annal (n.)</a> <a href="http://dictionary.reference.com/search?q=annal" class="dictionary" title="Look up annal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annal at Dictionary.com" title="Look up annal at Dictionary.com" /></a></dt>
+<dd class="highlight">rare singular of <a href="/index.php?term=annals&allowed_in_frame=0" class="crossreference">annals</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=annalist&allowed_in_frame=0">annalist (n.)</a> <a href="http://dictionary.reference.com/search?q=annalist" class="dictionary" title="Look up annalist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annalist at Dictionary.com" title="Look up annalist at Dictionary.com" /></a></dt>
+<dd>"one who keeps a chronicle of events by year," 1610s, from Fr. <span class="foreign">analiste</span>; see <a href="/index.php?term=annals&allowed_in_frame=0" class="crossreference">annals</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annalize&allowed_in_frame=0">annalize (v.)</a> <a href="http://dictionary.reference.com/search?q=annalize" class="dictionary" title="Look up annalize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annalize at Dictionary.com" title="Look up annalize at Dictionary.com" /></a></dt>
+<dd class="highlight">"record in annals," 1610s, from <a href="/index.php?term=annals&allowed_in_frame=0" class="crossreference">annals</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Annalized</span>; <span class="foreign">annalizing</span>.</dd>
+
+<dt><a href="/index.php?term=annals&allowed_in_frame=0">annals (n.)</a> <a href="http://dictionary.reference.com/search?q=annals" class="dictionary" title="Look up annals at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annals at Dictionary.com" title="Look up annals at Dictionary.com" /></a></dt>
+<dd>1560s, from L. <span class="foreign">annales libri</span> "chronicles," lit. "yearlies, yearly books," noun use of plural of <span class="foreign">annalis</span> "pertaining to a year," from <span class="foreign">annus</span> "year" (see <a href="/index.php?term=annual&allowed_in_frame=0" class="crossreference">annual</a> (adj.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Annam&allowed_in_frame=0">Annam</a> <a href="http://dictionary.reference.com/search?q=Annam" class="dictionary" title="Look up Annam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Annam at Dictionary.com" title="Look up Annam at Dictionary.com" /></a></dt>
+<dd class="highlight">old alternative name for Vietnam, from Chinese, lit. "pacified south," the name given to the old nation of Nam Viet by the Chinese after they conquered it 111 B.C.E. From <span class="foreign">an</span> "peace" + <span class="foreign">nan</span> "south." It was discarded upon restoration of Viet independence in 939 C.E., but it stuck in Western geographies and was reapplied to the region c.1790 by the French.</dd>
+
+<dt><a href="/index.php?term=Anne&allowed_in_frame=0">Anne</a> <a href="http://dictionary.reference.com/search?q=Anne" class="dictionary" title="Look up Anne at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anne at Dictionary.com" title="Look up Anne at Dictionary.com" /></a></dt>
+<dd>alternative form of the fem. proper name <a href="/index.php?term=Anna&allowed_in_frame=0" class="crossreference">Anna</a> (q.v.). In Christian tradition, the name of the mother of the Virgin Mary.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anneal&allowed_in_frame=0">anneal (v.)</a> <a href="http://dictionary.reference.com/search?q=anneal" class="dictionary" title="Look up anneal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anneal at Dictionary.com" title="Look up anneal at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">on&aelig;lan</span> "to set on fire, kindle," from <span class="foreign">on-</span> "on" + <span class="foreign">&aelig;lan</span> "to burn, bake," from P.Gmc. <span class="foreign">*ailan</span>, "probably" [Watkins] from PIE <span class="foreign">*ai-</span> "to burn" (see <a href="/index.php?term=ash&allowed_in_frame=0" class="crossreference">ash</a> (1)); related to O.E. <span class="foreign">&aelig;led</span> "fire, firebrand," O.N. <span class="foreign">eldr</span>, Dan. <span class="foreign">ild</span> "fire." Related: <span class="foreign">Annealed</span>; <span class="foreign">annealing</span>.</dd>
+
+<dt><a href="/index.php?term=annelid&allowed_in_frame=0">annelid (n.)</a> <a href="http://dictionary.reference.com/search?q=annelid" class="dictionary" title="Look up annelid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annelid at Dictionary.com" title="Look up annelid at Dictionary.com" /></a></dt>
+<dd>"segmented worm," 1834, from Fr. <span class="foreign">ann&eacute;lide</span>, source of the phylum name <span class="foreign">Annelida</span>, coined in Modern Latin 1801 by French naturalist J.B.P. Lamarck (1744-1829), from <span class="foreign">annel&eacute;s</span> "ringed ones" (from L. <span class="foreign">anulus</span> "little ring," a dim. of <span class="foreign">anus</span>; see <a href="/index.php?term=anus&allowed_in_frame=0" class="crossreference">anus</a>) + Gk. <span class="foreign">eidos</span> "form, shape" (see <a href="/index.php?term=-oid&allowed_in_frame=0" class="crossreference">-oid</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=annex&allowed_in_frame=0">annex (v.)</a> <a href="http://dictionary.reference.com/search?q=annex" class="dictionary" title="Look up annex at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annex at Dictionary.com" title="Look up annex at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "to connect with," from O.Fr. <span class="foreign">annexer</span> "to join" (13c.), from M.L. <span class="foreign">annexare</span>, frequentative of L. <span class="foreign">annecetere</span> "to bind to," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">nectere</span> "to tie, bind" (see <a href="/index.php?term=nexus&allowed_in_frame=0" class="crossreference">nexus</a>). Almost always meaning "to join in a subordinate capacity." Of nations or territories, c.1400. Related: <span class="foreign">Annexed</span>; <span class="foreign">annexing</span>.</dd>
+
+<dt><a href="/index.php?term=annex&allowed_in_frame=0">annex (n.)</a> <a href="http://dictionary.reference.com/search?q=annex" class="dictionary" title="Look up annex at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annex at Dictionary.com" title="Look up annex at Dictionary.com" /></a></dt>
+<dd>1540s, "an adjunct, accessory," from Fr. <span class="foreign">annexe</span>, from <span class="foreign">annexer</span> (see <a href="/index.php?term=annex&allowed_in_frame=0" class="crossreference">annex</a> (v.)). Meaning "supplementary building" is from 1861.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annexation&allowed_in_frame=0">annexation (n.)</a> <a href="http://dictionary.reference.com/search?q=annexation" class="dictionary" title="Look up annexation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annexation at Dictionary.com" title="Look up annexation at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from M.L. <span class="foreign">annexiationem</span> (nom. <span class="foreign">annexatio</span>) "action of annexing," noun of action from pp. stem of <span class="foreign">annexare</span> (see <a href="/index.php?term=annex&allowed_in_frame=0" class="crossreference">annex</a>).  The Middle English noun form was <span class="foreign">annexion</span> "union; joining; territory acquired" (mid-15c.).</dd>
+
+<dt><a href="/index.php?term=Annie&allowed_in_frame=0">Annie</a> <a href="http://dictionary.reference.com/search?q=Annie" class="dictionary" title="Look up Annie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Annie at Dictionary.com" title="Look up Annie at Dictionary.com" /></a></dt>
+<dd>dim. of fem. proper name <span class="foreign">Ann</span> or <span class="foreign">Anne</span> (see <a href="/index.php?term=Anna&allowed_in_frame=0" class="crossreference">Anna</a>). <span class="foreign">Annie Oakley</span> (1860-1926) was the famous rifle markswoman.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annihilate&allowed_in_frame=0">annihilate (v.)</a> <a href="http://dictionary.reference.com/search?q=annihilate" class="dictionary" title="Look up annihilate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annihilate at Dictionary.com" title="Look up annihilate at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from an obsolete adjective meaning "reduced to nothing" (late 14c.), originally the pp. of a verb, <span class="foreign">anihil</span>, from O.Fr. <span class="foreign">annichiler</span> (14c.), from L.L. <span class="foreign">annihilare</span> "to reduce to nothing," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">nihil</span> "nothing" (see <a href="/index.php?term=nil&allowed_in_frame=0" class="crossreference">nil</a>). Related: <span class="foreign">Annihilated</span>; <span class="foreign">annihilating</span>.</dd>
+
+<dt><a href="/index.php?term=annihilation&allowed_in_frame=0">annihilation (n.)</a> <a href="http://dictionary.reference.com/search?q=annihilation" class="dictionary" title="Look up annihilation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annihilation at Dictionary.com" title="Look up annihilation at Dictionary.com" /></a></dt>
+<dd>1630s, from M.Fr. <span class="foreign">annihilation</span> (restored from O.Fr. <span class="foreign">anichilacion</span>, 14c.), or directly from L.L. <span class="foreign">annihilationem</span> (nom. <span class="foreign">annihilatio</span>), noun of action from pp. stem of <span class="foreign">annihilare</span> (see <a href="/index.php?term=annihilate&allowed_in_frame=0" class="crossreference">annihilate</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=anniversary&allowed_in_frame=0">anniversary (n.)</a> <a href="http://dictionary.reference.com/search?q=anniversary" class="dictionary" title="Look up anniversary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anniversary at Dictionary.com" title="Look up anniversary at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., originally especially of the day of a person's death, from M.L. <span class="foreign">anniversarium</span>, from L. <span class="foreign">anniversarius</span> (adj.) "returning annually," from <span class="foreign">annus</span> (gen. <span class="foreign">anni</span>) "year" (see <a href="/index.php?term=annual&allowed_in_frame=0" class="crossreference">annual</a> (adj.)) + <span class="foreign">versus</span>, pp. of <span class="foreign">vertere</span> "to turn" (see <a href="/index.php?term=versus&allowed_in_frame=0" class="crossreference">versus</a>). The adjective came to be used as a noun in Church Latin as <span class="foreign">anniversaria (dies)</span> in reference to saints' days. An Old English word for "anniversary" (n.) was <span class="foreign">myndd&#230;g</span>, lit. "mind-day."</dd>
+
+<dt><a href="/index.php?term=Anno+Domini&allowed_in_frame=0">Anno Domini</a> <a href="http://dictionary.reference.com/search?q=Anno+Domini" class="dictionary" title="Look up Anno Domini at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anno Domini at Dictionary.com" title="Look up Anno Domini at Dictionary.com" /></a></dt>
+<dd>1570s, Latin, lit. "in the year of (our) Lord."</dd>
+
+<dt class="highlight"><a href="/index.php?term=annotate&allowed_in_frame=0">annotate (v.)</a> <a href="http://dictionary.reference.com/search?q=annotate" class="dictionary" title="Look up annotate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annotate at Dictionary.com" title="Look up annotate at Dictionary.com" /></a></dt>
+<dd class="highlight">1733, from L. <span class="foreign">annotatus</span>, pp. of <span class="foreign">annotare</span> "to note down" (see <a href="/index.php?term=annotation&allowed_in_frame=0" class="crossreference">annotation</a>). Related: <span class="foreign">Annotated</span>; <span class="foreign">annotating</span>. Not in Johnson's "Dictionary," but used therein in defining <span class="foreign">comment</span>. Form <span class="foreign">annote</span> is recorded from mid-15c. Related: <span class="foreign">Annotated</span>; <span class="foreign">annotating</span>.</dd>
+
+<dt><a href="/index.php?term=annotation&allowed_in_frame=0">annotation (n.)</a> <a href="http://dictionary.reference.com/search?q=annotation" class="dictionary" title="Look up annotation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annotation at Dictionary.com" title="Look up annotation at Dictionary.com" /></a></dt>
+<dd>mid-15c., from L. <span class="foreign">annotationem</span> (nom. <span class="foreign">annotatio</span>), noun of action from pp. stem of <span class="foreign">annotare</span> "to add notes to," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">notare</span> "to note, mark" (see <a href="/index.php?term=note&allowed_in_frame=0" class="crossreference">note</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=announce&allowed_in_frame=0">announce (v.)</a> <a href="http://dictionary.reference.com/search?q=announce" class="dictionary" title="Look up announce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up announce at Dictionary.com" title="Look up announce at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1500, "proclaim, make known," from O.Fr. <span class="foreign">anoncier</span> "announce, proclaim" (12c., Mod.Fr. <span class="foreign">annoncer</span>), from L. <span class="foreign">annuntiare</span>, <span class="foreign">adnuntiare</span> "to announce, relate," lit. "to bring news," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">nuntiare</span> "relate, report," from <span class="foreign">nuntius</span> "messenger" (see <a href="/index.php?term=nuncio&allowed_in_frame=0" class="crossreference">nuncio</a>). Related: <span class="foreign">Announced</span>; <span class="foreign">announcing</span>.</dd>
+
+<dt><a href="/index.php?term=announcement&allowed_in_frame=0">announcement (n.)</a> <a href="http://dictionary.reference.com/search?q=announcement" class="dictionary" title="Look up announcement at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up announcement at Dictionary.com" title="Look up announcement at Dictionary.com" /></a></dt>
+<dd>1798, from Fr. <span class="foreign">announcement</span>, from O.Fr. <span class="foreign">anoncier</span> (see <a href="/index.php?term=announce&allowed_in_frame=0" class="crossreference">announce</a>). Or else formed in English from <span class="foreign">announce</span> + <span class="foreign">-ment</span>. Earlier in same sense was <span class="foreign">announcing</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=announcer&allowed_in_frame=0">announcer (n.)</a> <a href="http://dictionary.reference.com/search?q=announcer" class="dictionary" title="Look up announcer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up announcer at Dictionary.com" title="Look up announcer at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, agent noun from <a href="/index.php?term=announce&allowed_in_frame=0" class="crossreference">announce</a>. Radio sense is recorded from 1922.</dd>
+
+<dt><a href="/index.php?term=annoy&allowed_in_frame=0">annoy (v.)</a> <a href="http://dictionary.reference.com/search?q=annoy" class="dictionary" title="Look up annoy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annoy at Dictionary.com" title="Look up annoy at Dictionary.com" /></a></dt>
+<dd>late 13c., from Anglo-Fr. <span class="foreign">anuier</span>, O.Fr. <span class="foreign">enoiier</span>, <span class="foreign">anuier</span> "to weary, vex, anger; be troublesome or irksome to," from L.L. <span class="foreign">inodiare</span> "make loathsome," from L. <span class="foreign">(esse) in odio</span> "(it is to me) hateful," ablative of <span class="foreign">odium</span> "hatred" (see <a href="/index.php?term=odium&allowed_in_frame=0" class="crossreference">odium</a>). Earliest form of the word in English was as a noun, c.1200, "feeling of irritation, displeasure, distaste." Related: <a href="/index.php?term=Annoyed&allowed_in_frame=0" class="crossreference">Annoyed</a>; <span class="foreign">annoying</span>; <span class="foreign">annoyingly</span>. Middle English also had <span class="foreign">annoyful</span> and <span class="foreign">annoyous</span> (both late 14c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=annoyance&allowed_in_frame=0">annoyance (n.)</a> <a href="http://dictionary.reference.com/search?q=annoyance" class="dictionary" title="Look up annoyance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annoyance at Dictionary.com" title="Look up annoyance at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "act of annoying," from O.Fr. <span class="foreign">enoiance</span> "ill-humor, irritation," from <span class="foreign">anuiant</span>, prp. of <span class="foreign">anuier</span> "to be troublesome, annoy, harass" (see <a href="/index.php?term=annoy&allowed_in_frame=0" class="crossreference">annoy</a>). Meaning "state of being annoyed" is from c.1500. Earlier, <span class="foreign">annoying</span> was used in the sense of "act of offending" (c.1300), and a noun <span class="foreign">annoy</span> (c.1200) in a sense "feeling of irritation, displeasure, distaste."</dd>
+
+<dt><a href="/index.php?term=annoyed&allowed_in_frame=0">annoyed (adj.)</a> <a href="http://dictionary.reference.com/search?q=annoyed" class="dictionary" title="Look up annoyed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annoyed at Dictionary.com" title="Look up annoyed at Dictionary.com" /></a></dt>
+<dd>"vexed, peeved, offended," late 13c., pp. adjective from <a href="/index.php?term=annoy&allowed_in_frame=0" class="crossreference">annoy</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=annual&allowed_in_frame=0">annual (adj.)</a> <a href="http://dictionary.reference.com/search?q=annual" class="dictionary" title="Look up annual at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annual at Dictionary.com" title="Look up annual at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">annuel</span> (12c.) or directly from L.L. <span class="foreign">annualem</span> (nom. <span class="foreign">annualis</span>), corresponding to L. <span class="foreign">annalis</span> as adjective form of <span class="foreign">annus</span> "year," from PIE <span class="foreign">*at-no-,</span> from root <span class="foreign">*at-</span> "to go," on notion of "period gone through" (cf. Skt. <span class="foreign">atati</span> "goes, wanders," Goth. <span class="foreign">a&thorn;nam</span> (dative plural) "year," Oscan <span class="foreign">akno-</span> "year, holiday, time of offering"). Used of plants since 1710.</dd>
+
+<dt><a href="/index.php?term=annual&allowed_in_frame=0">annual (n.)</a> <a href="http://dictionary.reference.com/search?q=annual" class="dictionary" title="Look up annual at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annual at Dictionary.com" title="Look up annual at Dictionary.com" /></a></dt>
+<dd>c.1400, originally "service commemorating the anniversary of a person's death," from <a href="/index.php?term=annual&allowed_in_frame=0" class="crossreference">annual</a> (adj.). By 1824 as short for <span class="foreign">annual plant</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annualize&allowed_in_frame=0">annualize (v.)</a> <a href="http://dictionary.reference.com/search?q=annualize" class="dictionary" title="Look up annualize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annualize at Dictionary.com" title="Look up annualize at Dictionary.com" /></a></dt>
+<dd class="highlight">in economics and finance, 1904; see <a href="/index.php?term=annual&allowed_in_frame=0" class="crossreference">annual</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Annualized</span>; <span class="foreign">annualizing</span>.</dd>
+
+<dt><a href="/index.php?term=annually&allowed_in_frame=0">annually (adv.)</a> <a href="http://dictionary.reference.com/search?q=annually" class="dictionary" title="Look up annually at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annually at Dictionary.com" title="Look up annually at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=annual&allowed_in_frame=0" class="crossreference">annual</a> (adj.) + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Annuit+Coeptis&allowed_in_frame=0">Annuit Coeptis</a> <a href="http://dictionary.reference.com/search?q=Annuit+Coeptis" class="dictionary" title="Look up Annuit Coeptis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Annuit Coeptis at Dictionary.com" title="Look up Annuit Coeptis at Dictionary.com" /></a></dt>
+<dd class="highlight">on the Great Seal of the United States of America, condensed by Charles Thompson, designer of the seal in its final form, from L. <span class="foreign">Juppiter omnipotes, audacibus annue coeptis</span> "All-powerful Jupiter favor (my) daring undertakings," line 625 of book IX of Virgil's "Aeneid." The words also appear in Virgil's "Georgics," book I, line 40: <span class="foreign">Da facilem cursam, atque audacibus annue coeptis</span> "Give (me) an easy course, and favor (my) daring undertakings." Thompson changed the imperative <span class="foreign">annue</span> to <span class="foreign">annuit</span>, the third person singular form of the same verb in either the present tense or the perfect tense. The motto also lacks a subject.
+<BR><BR>
+The motto is often translated as "He (God) is favorable to our undertakings," but this is not the only possible translation. Thomson wrote: "The pyramid signifies Strength and Duration: The Eye over it & Motto allude to the many signal interpositions of providence in favour of the American cause." The original design (by William Barton) showed the pyramid and the motto <span class="foreign">Deo Favente Perennis</span> "God favoring through the years."</dd>
+
+<dt><a href="/index.php?term=annuity&allowed_in_frame=0">annuity (n.)</a> <a href="http://dictionary.reference.com/search?q=annuity" class="dictionary" title="Look up annuity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annuity at Dictionary.com" title="Look up annuity at Dictionary.com" /></a></dt>
+<dd>early 15c., "a yearly allowance, grant payable in annual installments," from Anglo-Fr., O.Fr. <span class="foreign">annuit&eacute;</span> (14c.) or directly from M.L. <span class="foreign">annuitatem</span> (nom. <span class="foreign">annuitas</span>), from L. <span class="foreign">annus</span> "year" (see <a href="/index.php?term=annual&allowed_in_frame=0" class="crossreference">annual</a> (adj.)). Meaning "an investment that entitles one to equal annual payments" is from 1690s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annul&allowed_in_frame=0">annul (v.)</a> <a href="http://dictionary.reference.com/search?q=annul" class="dictionary" title="Look up annul at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annul at Dictionary.com" title="Look up annul at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">anuller</span> (13c.) or directly from L.L. <span class="foreign">annullare</span> "to make to nothing," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">nullum</span>, neuter of <span class="foreign">nullus</span> "nothing" (see <a href="/index.php?term=null&allowed_in_frame=0" class="crossreference">null</a>). Related: <span class="foreign">Annulled</span>; <span class="foreign">annulling</span>.</dd>
+
+<dt><a href="/index.php?term=annular&allowed_in_frame=0">annular (adj.)</a> <a href="http://dictionary.reference.com/search?q=annular" class="dictionary" title="Look up annular at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annular at Dictionary.com" title="Look up annular at Dictionary.com" /></a></dt>
+<dd>"ring-shaped," 1570s, from Fr. <span class="foreign">annulaire</span> (16c.) or directly from L. <span class="foreign">annularis</span> "pertaining to a ring," from <span class="foreign">annulus</span>, dim. of <span class="foreign">anus</span> "ring" (see <a href="/index.php?term=anus&allowed_in_frame=0" class="crossreference">anus</a>). An <span class="foreign">annular eclipse</span> (1727) is one in which the dark body of the moon is smaller than the disk of the sun, so that at the height of it the sun appears as a ring of light. Related: <span class="foreign">Annularity</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annulment&allowed_in_frame=0">annulment (n.)</a> <a href="http://dictionary.reference.com/search?q=annulment" class="dictionary" title="Look up annulment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annulment at Dictionary.com" title="Look up annulment at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "act of reducing to nothing;" see <a href="/index.php?term=annul&allowed_in_frame=0" class="crossreference">annul</a> + <a href="/index.php?term=-ment&allowed_in_frame=0" class="crossreference">-ment</a>. Meaning "act of declaring invalid" is recorded from 1864.</dd>
+
+<dt><a href="/index.php?term=annulus&allowed_in_frame=0">annulus (n.)</a> <a href="http://dictionary.reference.com/search?q=annulus" class="dictionary" title="Look up annulus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annulus at Dictionary.com" title="Look up annulus at Dictionary.com" /></a></dt>
+<dd>1560s, medical, from misspelling of L. <span class="foreign">anulus</span> "little ring, finger ring," a dim. of <span class="foreign">anus</span> (see <a href="/index.php?term=anus&allowed_in_frame=0" class="crossreference">anus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=annunciate&allowed_in_frame=0">annunciate (v.)</a> <a href="http://dictionary.reference.com/search?q=annunciate" class="dictionary" title="Look up annunciate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annunciate at Dictionary.com" title="Look up annunciate at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from pp. adj. <span class="foreign">annunciate</span> (late 14c.) or directly from L. <span class="foreign">annunciatus</span>, misspelling of <span class="foreign">annuntiatus</span>, pp. of <span class="foreign">annuntiare</span> (see <a href="/index.php?term=announce&allowed_in_frame=0" class="crossreference">announce</a>). In some cases perhaps a back formation from <a href="/index.php?term=annunciation&allowed_in_frame=0" class="crossreference">annunciation</a>. Related: <span class="foreign">Annunciated</span>; <span class="foreign">annunciating</span>.</dd>
+
+<dt><a href="/index.php?term=annunciation&allowed_in_frame=0">annunciation (n.)</a> <a href="http://dictionary.reference.com/search?q=annunciation" class="dictionary" title="Look up annunciation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annunciation at Dictionary.com" title="Look up annunciation at Dictionary.com" /></a></dt>
+<dd>early 14c., "Lady Day," from Anglo-Fr. <span class="foreign">anunciacioun</span>, O.Fr. <span class="foreign">anonciacion</span>, from L. <span class="foreign">annuntiationem</span> (nom. <span class="foreign">annuntiatio</span>), noun of action from pp. stem of <span class="foreign">annuntiare</span> (see <a href="/index.php?term=announce&allowed_in_frame=0" class="crossreference">announce</a>). The Church festival (March 25) commemorating the visit of the angel Gabriel to the Virgin Mary, foretelling the incarnation. General sense of "an announcing" is from 1560s. Old English for "Annunciation Day" was <span class="foreign">bodungd&aelig;g</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=annus+mirabilis&allowed_in_frame=0">annus mirabilis (n.)</a> <a href="http://dictionary.reference.com/search?q=annus+mirabilis" class="dictionary" title="Look up annus mirabilis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up annus mirabilis at Dictionary.com" title="Look up annus mirabilis at Dictionary.com" /></a></dt>
+<dd class="highlight">1667, Latin, lit. "wonderful year, year of wonders," title of a publication by Dryden, with reference to 1666, which was a year of calamities in London (plague, fire, war).</dd>
+
+<dt><a href="/index.php?term=anode&allowed_in_frame=0">anode (n.)</a> <a href="http://dictionary.reference.com/search?q=anode" class="dictionary" title="Look up anode at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anode at Dictionary.com" title="Look up anode at Dictionary.com" /></a></dt>
+<dd>1834, coined from Gk. <span class="foreign">anodos</span> "way up," from <span class="foreign">ana</span> "up" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">hodos</span> "way" (see <a href="/index.php?term=cede&allowed_in_frame=0" class="crossreference">cede</a>). Proposed by the Rev. William Whewell (1794-1866), English polymath, and published by English chemist and physicist Michael Faraday (1791-1867). So called from the path the electrical current was thought to take. Related: <span class="foreign">Anodic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anodize&allowed_in_frame=0">anodize (v.)</a> <a href="http://dictionary.reference.com/search?q=anodize" class="dictionary" title="Look up anodize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anodize at Dictionary.com" title="Look up anodize at Dictionary.com" /></a></dt>
+<dd class="highlight">1931, from <a href="/index.php?term=anode&allowed_in_frame=0" class="crossreference">anode</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Anodized</span>; <span class="foreign">anodizing</span>.</dd>
+
+<dt><a href="/index.php?term=anodyne&allowed_in_frame=0">anodyne (adj.)</a> <a href="http://dictionary.reference.com/search?q=anodyne" class="dictionary" title="Look up anodyne at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anodyne at Dictionary.com" title="Look up anodyne at Dictionary.com" /></a></dt>
+<dd>1540s, from M.L. <span class="foreign">anodynus</span> "pain-removing, allaying pain," from L. <span class="foreign">anodynus</span> "painless," from Gk. <span class="foreign">anodynos</span> "free from pain," from <span class="foreign">an-</span> "without" (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">odyne</span> "pain," a word perhaps from PIE root <span class="foreign">*ed-</span> "to eat" (cf., from the same root, Lith. <span class="foreign">ed&#382;ioti</span> "to devour, bite," <span class="foreign">ed&#382;iotis</span> "to suffer pain;" see <a href="/index.php?term=eat&allowed_in_frame=0" class="crossreference">eat</a>). In old slang, frequently a euphemism for "death;" e.g. <span class="foreign">anodyne necklace</span> "hangman's noose."</dd>
+
+<dt class="highlight"><a href="/index.php?term=anoint&allowed_in_frame=0">anoint (v.)</a> <a href="http://dictionary.reference.com/search?q=anoint" class="dictionary" title="Look up anoint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anoint at Dictionary.com" title="Look up anoint at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300 (implied in <span class="foreign">anointing</span>), from O.Fr. <span class="foreign">enoint</span> "smeared on," pp. of <span class="foreign">enoindre</span> "smear on," from L. <span class="foreign">inunguere</span> "to anoint," from <span class="foreign">in-</span> "on" + <span class="foreign">unguere</span> "to smear" (see <a href="/index.php?term=unguent&allowed_in_frame=0" class="crossreference">unguent</a>). Originally in reference to grease or oil smeared on for medicinal purposes; its use in the Coverdale Bible in reference to Christ (cf. <span class="foreign">The Lord's Anointed</span>, see <a href="/index.php?term=chrism&allowed_in_frame=0" class="crossreference">chrism</a>) has spiritualized the word. Related: <a href="/index.php?term=Anointed&allowed_in_frame=0" class="crossreference">Anointed</a>; <span class="foreign">anointing</span>.</dd>
+
+<dt><a href="/index.php?term=anointed&allowed_in_frame=0">anointed (adj.)</a> <a href="http://dictionary.reference.com/search?q=anointed" class="dictionary" title="Look up anointed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anointed at Dictionary.com" title="Look up anointed at Dictionary.com" /></a></dt>
+<dd>late 14c., "smeared with oil," pp. adjective from <a href="/index.php?term=anoint&allowed_in_frame=0" class="crossreference">anoint</a> (v.). Noun meaning "a consecrated one" (e.g. <span class="foreign">Lord's Anointed</span>) is recorded from 1520s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anole&allowed_in_frame=0">anole (n.)</a> <a href="http://dictionary.reference.com/search?q=anole" class="dictionary" title="Look up anole at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anole at Dictionary.com" title="Look up anole at Dictionary.com" /></a></dt>
+<dd class="highlight">or <span class="foreign">anoli</span>, 1906, from a native name in the Antilles.</dd>
+
+<dt><a href="/index.php?term=anomalo-&allowed_in_frame=0">anomalo-</a> <a href="http://dictionary.reference.com/search?q=anomalo-" class="dictionary" title="Look up anomalo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anomalo- at Dictionary.com" title="Look up anomalo- at Dictionary.com" /></a></dt>
+<dd>word-forming element meaning "deviating from the usual, abnormal," from comb. form of Gk. <span class="foreign">anomalos</span> "uneven, irregular" (see <a href="/index.php?term=anomaly&allowed_in_frame=0" class="crossreference">anomaly</a>).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657955 -->
+<!-- Page was generated in 0.173880 seconds. -->
+ </body>
+</html>
+<!-- -->

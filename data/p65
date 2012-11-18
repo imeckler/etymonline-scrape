@@ -1,0 +1,437 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=publicist&allowed_in_frame=0">publicist (n.)</a> <a href="http://dictionary.reference.com/search?q=publicist" class="dictionary" title="Look up publicist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up publicist at Dictionary.com" title="Look up publicist at Dictionary.com" /></a></dt>
+<dd class="highlight">1792, from French; originally "writer on 
+current topics;" meaning "press agent" is from 1930. See <a href="/index.php?term=public&allowed_in_frame=0" class="crossreference">public</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=publicity&allowed_in_frame=0">publicity (n.)</a> <a href="http://dictionary.reference.com/search?q=publicity" class="dictionary" title="Look up publicity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up publicity at Dictionary.com" title="Look up publicity at Dictionary.com" /></a></dt>
+<dd>1791, "condition of being public," from Fr. <span class="foreign">publicit&eacute;</span> (1690s), from M.L. <span class="foreign">publicitatem</span> (nom. <span class="foreign">publicitas</span>), from L. <span class="foreign">publicus</span> (see <a href="/index.php?term=public&allowed_in_frame=0" class="crossreference">public</a>). Sense of "making something known, advertising" is from 1826. <span class="foreign">Publicity stunt</span> first recorded 1926.</dd>
+
+<dt class="highlight"><a href="/index.php?term=publicize&allowed_in_frame=0">publicize (n.)</a> <a href="http://dictionary.reference.com/search?q=publicize" class="dictionary" title="Look up publicize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up publicize at Dictionary.com" title="Look up publicize at Dictionary.com" /></a></dt>
+<dd class="highlight">1928; see <a href="/index.php?term=public&allowed_in_frame=0" class="crossreference">public</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Publicized</span>; <span class="foreign">publicizing</span>.</dd>
+
+<dt><a href="/index.php?term=publicly&allowed_in_frame=0">publicly (adv.)</a> <a href="http://dictionary.reference.com/search?q=publicly" class="dictionary" title="Look up publicly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up publicly at Dictionary.com" title="Look up publicly at Dictionary.com" /></a></dt>
+<dd>1560s, from <a href="/index.php?term=public&allowed_in_frame=0" class="crossreference">public</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). Variant <span class="foreign">publically</span> is modern (1920), perhaps based on the fact that <span class="foreign">publicly</span> is the only exception in this class of words, which as a rule are spelled <span class="foreign">-ically</span>, though they often are pronounced otherwise.</dd>
+
+<dt class="highlight"><a href="/index.php?term=publish&allowed_in_frame=0">publish (v.)</a> <a href="http://dictionary.reference.com/search?q=publish" class="dictionary" title="Look up publish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up publish at Dictionary.com" title="Look up publish at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "to make public," from M.E. <span class="foreign">publicen</span> (c.1300), altered (by influence of <span class="foreign">banish</span>, <span class="foreign">finish</span>, etc.) from O.Fr. <span class="foreign">publier</span>, from L. <span class="foreign">publicare</span> "make public," from <span class="foreign">publicus</span> "public" (see <a href="/index.php?term=public&allowed_in_frame=0" class="crossreference">public</a>). The meaning "to issue (a book, engraving, etc.) for sale to the public" is first recorded 1520s. Related: <span class="foreign">Published</span>; <span class="foreign">publishing</span>.</dd>
+
+<dt><a href="/index.php?term=publisher&allowed_in_frame=0">publisher (n.)</a> <a href="http://dictionary.reference.com/search?q=publisher" class="dictionary" title="Look up publisher at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up publisher at Dictionary.com" title="Look up publisher at Dictionary.com" /></a></dt>
+<dd>mid-15c., "one who announces in public," agent noun from <a href="/index.php?term=publish&allowed_in_frame=0" class="crossreference">publish</a> (v.). Meaning "one whose business is bringing out for sale books, periodicals, engravings, etc." is from 1740.</dd>
+
+<dt class="highlight"><a href="/index.php?term=puce&allowed_in_frame=0">puce (n.)</a> <a href="http://dictionary.reference.com/search?q=puce" class="dictionary" title="Look up puce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puce at Dictionary.com" title="Look up puce at Dictionary.com" /></a></dt>
+<dd class="highlight">1787, from Fr. <span class="foreign">puce</span> "flea," from L. <span class="foreign">pucilem</span> (nom. <span class="foreign">pulex</span>) "flea," from PIE <span class="foreign">*plou-</span> "flea" (cf. Skt. <span class="foreign">plusih</span>, Gk. <span class="foreign">psylla</span>, O.C.S. <span class="foreign">blucha</span>, Lith. <span class="foreign">blusa</span>, Arm. <span class="foreign">lu</span> "flea"). It is the color of a flea.</dd>
+
+<dt><a href="/index.php?term=puck&allowed_in_frame=0">puck (n.)</a> <a href="http://dictionary.reference.com/search?q=puck" class="dictionary" title="Look up puck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puck at Dictionary.com" title="Look up puck at Dictionary.com" /></a></dt>
+<dd>"hockey disk," 1891, possibly from <span class="foreign">puck</span> (v.) "to hit, strike" (1861), which perhaps is related to <a href="/index.php?term=poke&allowed_in_frame=0" class="crossreference">poke</a> via notion of "push." Another suggestion traces the noun to Ir. <span class="foreign">poc</span> "bag." <span class="foreign">Puckster</span> headlinese for "ice hockey player" is attested from 1939.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Puck&allowed_in_frame=0">Puck</a> <a href="http://dictionary.reference.com/search?q=Puck" class="dictionary" title="Look up Puck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Puck at Dictionary.com" title="Look up Puck at Dictionary.com" /></a></dt>
+<dd class="highlight">"mischievous fairy" (in "A Midsummer Night's Dream"), probably from <span class="foreign">pouke</span> "devil, evil spirit" (c.1300), from O.E. <span class="foreign">puca,</span> cognate with O.N. <span class="foreign">puki</span> "devil," of unknown origin (cf. <a href="/index.php?term=pug&allowed_in_frame=0" class="crossreference">pug</a>). Capitalized since 16c. His disguised name was <span class="foreign">Robin Goodfellow</span>.</dd>
+
+<dt><a href="/index.php?term=pucker&allowed_in_frame=0">pucker</a> <a href="http://dictionary.reference.com/search?q=pucker" class="dictionary" title="Look up pucker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pucker at Dictionary.com" title="Look up pucker at Dictionary.com" /></a></dt>
+<dd>1590s, possibly a frequentative form of <span class="foreign">pock</span>, dialectal variant of <span class="foreign">poke</span> "bag, sack," which would give it the same notion as in <span class="foreign">to purse the lips</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=puckish&allowed_in_frame=0">puckish</a> <a href="http://dictionary.reference.com/search?q=puckish" class="dictionary" title="Look up puckish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puckish at Dictionary.com" title="Look up puckish at Dictionary.com" /></a></dt>
+<dd class="highlight">1874, from <a href="/index.php?term=Puck&allowed_in_frame=0" class="crossreference">Puck</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>.</dd>
+
+<dt><a href="/index.php?term=pud&allowed_in_frame=0">pud (n.)</a> <a href="http://dictionary.reference.com/search?q=pud" class="dictionary" title="Look up pud at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pud at Dictionary.com" title="Look up pud at Dictionary.com" /></a></dt>
+<dd>slang for "penis," 1939 (in James Joyce), according to OED and DAS from <span class="foreign">pudding</span> in the same slang sense (1719); from the original "sausage" sense of <a href="/index.php?term=pudding&allowed_in_frame=0" class="crossreference">pudding</a> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pudding&allowed_in_frame=0">pudding (n.)</a> <a href="http://dictionary.reference.com/search?q=pudding" class="dictionary" title="Look up pudding at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pudding at Dictionary.com" title="Look up pudding at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "a kind of sausage: the stomach or one of the entrails of a pig, sheep, etc., stuffed with minced meat, suet, seasoning, boiled and kept till needed," perhaps from a West Germanic stem <span class="foreign">*pud-</span> "to swell" (cf. O.E. <span class="foreign">puduc</span> "a wen," Westphalian dialect <span class="foreign">puddek</span> "lump, pudding," Low Ger. <span class="foreign">pudde-wurst</span> "black pudding," English dialectal <span class="foreign">pod</span> "belly," also cf. <a href="/index.php?term=pudgy&allowed_in_frame=0" class="crossreference">pudgy</a>).
+<BR><BR>
+Other possibility is that it is from O.Fr. <span class="foreign">boudin</span> "sausage," from V.L. <span class="foreign">*botellinus</span>, from L. <span class="foreign">botellus</span> "sausage" (change of Fr. <span class="foreign">b-</span> to English <span class="foreign">p-</span> presents difficulties, but cf. <a href="/index.php?term=purse&allowed_in_frame=0" class="crossreference">purse</a>). The modern sense had emerged by 1670, from extension to other foods boiled or steamed in a bag or sack. German <span class="foreign">pudding</span>, Fr. <span class="foreign">pouding</span>, Swed. <span class="foreign">pudding</span>, Ir. <span class="foreign">putog</span> are from English.</dd>
+
+<dt><a href="/index.php?term=puddinghead&allowed_in_frame=0">puddinghead (n.)</a> <a href="http://dictionary.reference.com/search?q=puddinghead" class="dictionary" title="Look up puddinghead at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puddinghead at Dictionary.com" title="Look up puddinghead at Dictionary.com" /></a></dt>
+<dd>"amiable stupid person," 1851, from <a href="/index.php?term=pudding&allowed_in_frame=0" class="crossreference">pudding</a> + <a href="/index.php?term=head&allowed_in_frame=0" class="crossreference">head</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=puddle&allowed_in_frame=0">puddle (n.)</a> <a href="http://dictionary.reference.com/search?q=puddle" class="dictionary" title="Look up puddle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puddle at Dictionary.com" title="Look up puddle at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "small pool of dirty water," frequentative or diminutive of O.E. <span class="foreign">pudd</span> "ditch," related to Ger. <span class="foreign">pudeln</span> "to splash in water" (cf. <a href="/index.php?term=poodle&allowed_in_frame=0" class="crossreference">poodle</a>). Originally used of pools and ponds as well. The verb "to dabble in water, poke in mud" (mid-15c.) led to sense in iron manufacture of "to turn and stir (molten iron) in a furnace."</dd>
+
+<dt><a href="/index.php?term=pudendum&allowed_in_frame=0">pudendum (n.)</a> <a href="http://dictionary.reference.com/search?q=pudendum" class="dictionary" title="Look up pudendum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pudendum at Dictionary.com" title="Look up pudendum at Dictionary.com" /></a></dt>
+<dd>late 14c., from L. <span class="foreign">pudendum</span> (pl. <span class="foreign">pudenda</span>), lit. "thing to be ashamed of," neuter gerundive of <span class="foreign">pudere</span> "make ashamed," from PIE root <span class="foreign">*(s)peud-</span> "to punish, repulse."</dd>
+
+<dt class="highlight"><a href="/index.php?term=pudge&allowed_in_frame=0">pudge (n.)</a> <a href="http://dictionary.reference.com/search?q=pudge" class="dictionary" title="Look up pudge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pudge at Dictionary.com" title="Look up pudge at Dictionary.com" /></a></dt>
+<dd class="highlight">"short, thick-set person," 1808; see <a href="/index.php?term=pudgy&allowed_in_frame=0" class="crossreference">pudgy</a>.</dd>
+
+<dt><a href="/index.php?term=pudgy&allowed_in_frame=0">pudgy (adj.)</a> <a href="http://dictionary.reference.com/search?q=pudgy" class="dictionary" title="Look up pudgy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pudgy at Dictionary.com" title="Look up pudgy at Dictionary.com" /></a></dt>
+<dd>1836, from colloquial <span class="foreign">pudge</span> (1808) "anything short and thick" + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Perhaps related to <span class="foreign">pudsy</span> "plump" (1754), possibly a dim. of nursery word <span class="foreign">pud</span> "hand, forepaw." A connection with <a href="/index.php?term=pudding&allowed_in_frame=0" class="crossreference">pudding</a> also has been conjectured.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pueblo&allowed_in_frame=0">pueblo (n.)</a> <a href="http://dictionary.reference.com/search?q=pueblo" class="dictionary" title="Look up pueblo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pueblo at Dictionary.com" title="Look up pueblo at Dictionary.com" /></a></dt>
+<dd class="highlight">"Indian village," 1808, from Sp. <span class="foreign">pueblo</span> "village, small town," from L. <span class="foreign">populum</span>, accusative of <span class="foreign">populus</span> "people."</dd>
+
+<dt><a href="/index.php?term=puerile&allowed_in_frame=0">puerile</a> <a href="http://dictionary.reference.com/search?q=puerile" class="dictionary" title="Look up puerile at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puerile at Dictionary.com" title="Look up puerile at Dictionary.com" /></a></dt>
+<dd>1660s, "youthful, boyish," from L. <span class="foreign">puerilis</span> "childish," from <span class="foreign">puer</span> "boy, child" (see <a href="/index.php?term=puerility&allowed_in_frame=0" class="crossreference">puerility</a>). Disparaging sense, "juvenile, immature," is from 1680s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=puerility&allowed_in_frame=0">puerility (n.)</a> <a href="http://dictionary.reference.com/search?q=puerility" class="dictionary" title="Look up puerility at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puerility at Dictionary.com" title="Look up puerility at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from M.Fr. <span class="foreign">pu&eacute;rilit&eacute;</span>, from L. <span class="foreign">puerilitatem</span> (nom. <span class="foreign">puerilitas</span>) "childishness," from <span class="foreign">puerilis</span> "childish, boyish," from <span class="foreign">puer</span> "child, boy," from PIE <span class="foreign">*pu-</span> "small, little, young" (cf. Skt. <span class="foreign">putrah</span> "son, boy," Avestan <span class="foreign">puthra-</span> "son, child;" cf. <a href="/index.php?term=few&allowed_in_frame=0" class="crossreference">few</a>).</dd>
+
+<dt><a href="/index.php?term=puerperal&allowed_in_frame=0">puerperal (adj.)</a> <a href="http://dictionary.reference.com/search?q=puerperal" class="dictionary" title="Look up puerperal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puerperal at Dictionary.com" title="Look up puerperal at Dictionary.com" /></a></dt>
+<dd>1768, from L. <span class="foreign">puerpera</span> "bearing a child," from <span class="foreign">puer</span> "child, boy" (see <a href="/index.php?term=puerility&allowed_in_frame=0" class="crossreference">puerility</a>) + <span class="foreign">parere</span> "to bear" (see <a href="/index.php?term=pare&allowed_in_frame=0" class="crossreference">pare</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=puerperium&allowed_in_frame=0">puerperium</a> <a href="http://dictionary.reference.com/search?q=puerperium" class="dictionary" title="Look up puerperium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puerperium at Dictionary.com" title="Look up puerperium at Dictionary.com" /></a></dt>
+<dd class="highlight">1890, from L. <span class="foreign">puerperus</span> (see <a href="/index.php?term=puerperal&allowed_in_frame=0" class="crossreference">puerperal</a>).</dd>
+
+<dt><a href="/index.php?term=Puerto+Rico&allowed_in_frame=0">Puerto Rico</a> <a href="http://dictionary.reference.com/search?q=Puerto+Rico" class="dictionary" title="Look up Puerto Rico at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Puerto Rico at Dictionary.com" title="Look up Puerto Rico at Dictionary.com" /></a></dt>
+<dd>Spanish, lit. "rich harbor;" the name given in 1493 by Chrstopher Columbus to the larege bay on the north side of the island; he called the island <span class="foreign">San Juan</span>. Over time the name of the bay became the name of the island and the name of the island was taken by the town that grew up at the bay. Often spelled <span class="foreign">Porto Rico</span> in 19c. Related: <span class="foreign">Puerto Rican</span> (attested in 1858 as <span class="foreign">Porto Riquenean</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=puff&allowed_in_frame=0">puff</a> <a href="http://dictionary.reference.com/search?q=puff" class="dictionary" title="Look up puff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puff at Dictionary.com" title="Look up puff at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">pyffian</span> "an act of puffing," of imitative origin. Used of small swellings and round protuberances since 1530s. Meaning "type of light pastry" is recorded from early 15c.; that of "small pad for applying powder to skin or hair" is from 1650s. Figurative sense of "flattery, inflated praise" is first recorded 1732. <span class="foreign">Puff-ball</span>, type of fungus, is from 1640s; <span class="foreign">puffer</span>, type of fish, is from 1814.</dd>
+
+<dt><a href="/index.php?term=puffery&allowed_in_frame=0">puffery</a> <a href="http://dictionary.reference.com/search?q=puffery" class="dictionary" title="Look up puffery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puffery at Dictionary.com" title="Look up puffery at Dictionary.com" /></a></dt>
+<dd>"inflated laudation" [OED], 1782, from <a href="/index.php?term=puff&allowed_in_frame=0" class="crossreference">puff</a> in its figurative sense + <a href="/index.php?term=-ery&allowed_in_frame=0" class="crossreference">-ery</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=puffin&allowed_in_frame=0">puffin</a> <a href="http://dictionary.reference.com/search?q=puffin" class="dictionary" title="Look up puffin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puffin at Dictionary.com" title="Look up puffin at Dictionary.com" /></a></dt>
+<dd class="highlight">N. Atlantic seabird, mid-14c., perhaps connected with <span class="foreign">puff</span> on notion of appearance, or from some Celtic word (earliest association is with Cornwall and Scilly), and altered by influence of <span class="foreign">puff</span>.</dd>
+
+<dt><a href="/index.php?term=puffy&allowed_in_frame=0">puffy</a> <a href="http://dictionary.reference.com/search?q=puffy" class="dictionary" title="Look up puffy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puffy at Dictionary.com" title="Look up puffy at Dictionary.com" /></a></dt>
+<dd>1610s, of wind, "gusty," from <a href="/index.php?term=puff&allowed_in_frame=0" class="crossreference">puff</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Of other things, "swollen," from 1660s. Earliest attested use is figurative, "bombastic" (1590s). </dd>
+
+<dt class="highlight"><a href="/index.php?term=pug&allowed_in_frame=0">pug</a> <a href="http://dictionary.reference.com/search?q=pug" class="dictionary" title="Look up pug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pug at Dictionary.com" title="Look up pug at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, general term of endearment, probably related to <a href="/index.php?term=puck&allowed_in_frame=0" class="crossreference">puck</a> (2); one of the earliest senses is "sprite, imp" (1610s). The sense of "miniature dog" is from 1749; that of "monkey" is 1660s. The word at various times meant "a bargeman" (1590s), "a harlot" (c.1600), and "an upper servant in a great house" (1847). <span class="foreign">Pug-nose</span> is from 1778, based on similarity to either the monkey or the dog.</dd>
+
+<dt><a href="/index.php?term=pugilism&allowed_in_frame=0">pugilism</a> <a href="http://dictionary.reference.com/search?q=pugilism" class="dictionary" title="Look up pugilism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pugilism at Dictionary.com" title="Look up pugilism at Dictionary.com" /></a></dt>
+<dd>1791, from L. <span class="foreign">pugil</span> "boxer," related to <span class="foreign">pugnus</span> "fist" (see <a href="/index.php?term=pugnacious&allowed_in_frame=0" class="crossreference">pugnacious</a>) + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. <span class="foreign">Pugilation</span> "fighting with fists," now obsolete, is recorded from 1650s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pugilist&allowed_in_frame=0">pugilist</a> <a href="http://dictionary.reference.com/search?q=pugilist" class="dictionary" title="Look up pugilist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pugilist at Dictionary.com" title="Look up pugilist at Dictionary.com" /></a></dt>
+<dd class="highlight">1790, from L. <span class="foreign">pugil</span> "boxer," related to <span class="foreign">pugnus</span> "fist" (see <a href="/index.php?term=pugnacious&allowed_in_frame=0" class="crossreference">pugnacious</a>). Related: <span class="foreign">Pugilistic</span>.</dd>
+
+<dt><a href="/index.php?term=pugnacious&allowed_in_frame=0">pugnacious</a> <a href="http://dictionary.reference.com/search?q=pugnacious" class="dictionary" title="Look up pugnacious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pugnacious at Dictionary.com" title="Look up pugnacious at Dictionary.com" /></a></dt>
+<dd>1640s, from L. <span class="foreign">pugnacis</span>, gen. of <span class="foreign">pugnax</span> "combative," from <span class="foreign">pugnare</span> "to fight," from <span class="foreign">pugnus</span> "fist," from PIE root <span class="foreign">*peug-</span> "to stick, stab" (cf. Gk. <span class="foreign">pyx</span> "with clenched fist," <span class="foreign">pygme</span> "fist, boxing," <span class="foreign">pyktes</span> "boxer;" L. <span class="foreign">pungere</span> "to pierce, prick").</dd>
+
+<dt class="highlight"><a href="/index.php?term=puissance&allowed_in_frame=0">puissance</a> <a href="http://dictionary.reference.com/search?q=puissance" class="dictionary" title="Look up puissance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puissance at Dictionary.com" title="Look up puissance at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from O.Fr. <span class="foreign">puissance</span> (12c.), from <span class="foreign">puissant</span> (see <a href="/index.php?term=puissant&allowed_in_frame=0" class="crossreference">puissant</a>).</dd>
+
+<dt><a href="/index.php?term=puissant&allowed_in_frame=0">puissant</a> <a href="http://dictionary.reference.com/search?q=puissant" class="dictionary" title="Look up puissant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puissant at Dictionary.com" title="Look up puissant at Dictionary.com" /></a></dt>
+<dd>mid-15c., from M.Fr. <span class="foreign">puissant</span> "being powerful," earlier <span class="foreign">poissant</span>, from stem of <span class="foreign">poeir</span> "to be able" (see <a href="/index.php?term=power&allowed_in_frame=0" class="crossreference">power</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=puke&allowed_in_frame=0">puke (v.)</a> <a href="http://dictionary.reference.com/search?q=puke" class="dictionary" title="Look up puke at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up puke at Dictionary.com" title="Look up puke at Dictionary.com" /></a></dt>
+<dd class="highlight">1600, probably of imitative origin (cf. Ger. <span class="foreign">spucken</span> "to spit," L. <span class="foreign">spuere</span>); first recorded in the "Seven Ages of Man" speech in Shakespeare's "As You Like It." The noun meaning "material thrown up in vomiting" is from 1961.</dd>
+
+<dt><a href="/index.php?term=pulchritude&allowed_in_frame=0">pulchritude</a> <a href="http://dictionary.reference.com/search?q=pulchritude" class="dictionary" title="Look up pulchritude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulchritude at Dictionary.com" title="Look up pulchritude at Dictionary.com" /></a></dt>
+<dd>"beauty," c.1400, from L. <span class="foreign">pulchritudo,</span> from <span class="foreign">pulcher</span> "beautiful," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pulchritudinous&allowed_in_frame=0">pulchritudinous</a> <a href="http://dictionary.reference.com/search?q=pulchritudinous" class="dictionary" title="Look up pulchritudinous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulchritudinous at Dictionary.com" title="Look up pulchritudinous at Dictionary.com" /></a></dt>
+<dd class="highlight">1912, Amer.Eng., from <a href="/index.php?term=pulchritude&allowed_in_frame=0" class="crossreference">pulchritude</a> (cf. L. <span class="foreign">pulchritudino</span> "beauty").</dd>
+
+<dt><a href="/index.php?term=pule&allowed_in_frame=0">pule</a> <a href="http://dictionary.reference.com/search?q=pule" class="dictionary" title="Look up pule at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pule at Dictionary.com" title="Look up pule at Dictionary.com" /></a></dt>
+<dd>1530s, from Fr. <span class="foreign">piauler</span> (16c.) "to cheep, chirp."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pulitzer&allowed_in_frame=0">Pulitzer</a> <a href="http://dictionary.reference.com/search?q=Pulitzer" class="dictionary" title="Look up Pulitzer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pulitzer at Dictionary.com" title="Look up Pulitzer at Dictionary.com" /></a></dt>
+<dd class="highlight">annual awards for distinguished work in U.S. journalism, letters, music, etc., 1918, named for U.S. journalist Joseph <span class="foreign">Pulitzer</span> (1847-1911), publisher of the "New York Globe," who established them in 1917 through an endowment to Columbia University.</dd>
+
+<dt><a href="/index.php?term=pull&allowed_in_frame=0">pull (v.)</a> <a href="http://dictionary.reference.com/search?q=pull" class="dictionary" title="Look up pull at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pull at Dictionary.com" title="Look up pull at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">pullian</span> "to pluck or draw out," of unknown origin, perhaps related to Low Ger. <span class="foreign">pulen</span> "remove the shell or husk." Original sense preserved in <span class="foreign">pull teeth, pull weeds</span>, etc., by late 16c. it had replaced <a href="/index.php?term=draw&allowed_in_frame=0" class="crossreference">draw</a> as the main word for this activity. Related: <span class="foreign">Pulled</span>; <span class="foreign">pulling</span>.
+<BR><BR>
+Common in slang usages 19c.-20c.; to <span class="foreign">pull (someone's) chain</span> in figurative sense is from 1980, probably on the notion of a captive animal; to <span class="foreign">pull (someone's) leg</span> is from 1886, on notion of "playfully tripping." To <span class="foreign">pull one's punches</span> is from 1934; <span class="foreign">pull in</span> "arrive" is 1905, from the railroad; to <span class="foreign">pull (something) on (someone)</span> is from 1916; to <span class="foreign">pull (something) out of one's ass</span> is Army slang from 1970s. To <span class="foreign">pull rank</span> is from 1923; to <span class="foreign">pull the rug from under (someone)</span> is from 1946.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pull&allowed_in_frame=0">pull (n.)</a> <a href="http://dictionary.reference.com/search?q=pull" class="dictionary" title="Look up pull at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pull at Dictionary.com" title="Look up pull at Dictionary.com" /></a></dt>
+<dd class="highlight">"personal or private influence," 1889, Amer.Eng., from <a href="/index.php?term=pull&allowed_in_frame=0" class="crossreference">pull</a> (v.).</dd>
+
+<dt><a href="/index.php?term=pullet&allowed_in_frame=0">pullet</a> <a href="http://dictionary.reference.com/search?q=pullet" class="dictionary" title="Look up pullet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pullet at Dictionary.com" title="Look up pullet at Dictionary.com" /></a></dt>
+<dd>mid-14c., "young fowl," from Anglo-Fr. <span class="foreign">pullet</span>, O.Fr. <span class="foreign">poulette</span>, dim. of <span class="foreign">poule</span> "hen," from V.L. <span class="foreign">*pulla</span>, fem. of L. <span class="foreign">pullus</span> "young animal, young fowl" (see <a href="/index.php?term=foal&allowed_in_frame=0" class="crossreference">foal</a> (n.)). Technically, a young hen from the time she begins to lay until the first molt.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pulley&allowed_in_frame=0">pulley</a> <a href="http://dictionary.reference.com/search?q=pulley" class="dictionary" title="Look up pulley at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulley at Dictionary.com" title="Look up pulley at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from O.Fr. <span class="foreign">polie</span> (mid-12c.), from M.L. <span class="foreign">poliva</span>, from Medieval Gk. <span class="foreign">*polidia</span>, pl. of <span class="foreign">*polidion</span> "little pivot," dim. of Gk. <span class="foreign">polos</span> "pivot, axis" (see <a href="/index.php?term=pole&allowed_in_frame=0" class="crossreference">pole</a> (2)).</dd>
+
+<dt><a href="/index.php?term=Pullman&allowed_in_frame=0">Pullman</a> <a href="http://dictionary.reference.com/search?q=Pullman" class="dictionary" title="Look up Pullman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pullman at Dictionary.com" title="Look up Pullman at Dictionary.com" /></a></dt>
+<dd>sleeping car on a passenger train, 1867, <span class="foreign">Pullman car</span>, in recognition of U.S. inventor George M. <span class="foreign">Pullman</span> (1831-1897) of Chicago, who designed a railroad car with folding berths.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pullover&allowed_in_frame=0">pullover (n.)</a> <a href="http://dictionary.reference.com/search?q=pullover" class="dictionary" title="Look up pullover at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pullover at Dictionary.com" title="Look up pullover at Dictionary.com" /></a></dt>
+<dd class="highlight">1907, from <a href="/index.php?term=pull&allowed_in_frame=0" class="crossreference">pull</a> (v.) + <a href="/index.php?term=over&allowed_in_frame=0" class="crossreference">over</a> (adv.), in reference to the method of putting it on. </dd>
+
+<dt><a href="/index.php?term=pullulate&allowed_in_frame=0">pullulate</a> <a href="http://dictionary.reference.com/search?q=pullulate" class="dictionary" title="Look up pullulate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pullulate at Dictionary.com" title="Look up pullulate at Dictionary.com" /></a></dt>
+<dd>1610s, from L. <span class="foreign">pullulatus</span>, pp. of <span class="foreign">pullulare</span> "grow, sprout," from <span class="foreign">pullulus</span>, dim. of <span class="foreign">pullus</span> "young animal" (see <a href="/index.php?term=foal&allowed_in_frame=0" class="crossreference">foal</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pulmonary&allowed_in_frame=0">pulmonary (adj.)</a> <a href="http://dictionary.reference.com/search?q=pulmonary" class="dictionary" title="Look up pulmonary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulmonary at Dictionary.com" title="Look up pulmonary at Dictionary.com" /></a></dt>
+<dd class="highlight">1704, from L. <span class="foreign">pulmonarius</span> "of the lungs," from <span class="foreign">pulmonem</span> (nom. <span class="foreign">pulmo,</span> gen. <span class="foreign">pulmonis</span>) "lung," cognate with Gk. <span class="foreign">pleumon</span> "lung," O.C.S. <span class="foreign">plusta</span>, Lith. <span class="foreign">plauciai</span> "lungs," all from PIE <span class="foreign">*pleu-</span> "to flow, to float, to swim" (see <a href="/index.php?term=pluvial&allowed_in_frame=0" class="crossreference">pluvial</a>). The notion probably is from the fact that, when thrown into a pot of water, lungs of a slaughtered animal float, while the heart, liver, etc., do not. (cf. M.E. <span class="foreign">lights</span> "the lungs," lit. "the light (in weight) organs").</dd>
+
+<dt><a href="/index.php?term=pulp&allowed_in_frame=0">pulp (n.)</a> <a href="http://dictionary.reference.com/search?q=pulp" class="dictionary" title="Look up pulp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulp at Dictionary.com" title="Look up pulp at Dictionary.com" /></a></dt>
+<dd>1560s, from L. <span class="foreign">pulpa</span> "animal or plant pulp, pith of wood." The adjective meaning "sensational" is from <span class="foreign">pulp magazine</span> (1931), so called from <span class="foreign">pulp</span> in sense of "the type of rough paper used in cheaply made magazines and books" (1727). <span class="foreign">Pulp fiction</span> attested by 1955.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pulpit&allowed_in_frame=0">pulpit (n.)</a> <a href="http://dictionary.reference.com/search?q=pulpit" class="dictionary" title="Look up pulpit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulpit at Dictionary.com" title="Look up pulpit at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from L.L. <span class="foreign">pulpitum</span> "raised structure on which preachers stand," in classical L. "scaffold, platform for actors," of unknown origin. Also borrowed in M.H.G. as <span class="foreign">pulpit</span> (Ger. <span class="foreign">Pult</span> "desk"). Sense of "Christian preachers and ministers generally" is from 1560s.</dd>
+
+<dt><a href="/index.php?term=pulque&allowed_in_frame=0">pulque</a> <a href="http://dictionary.reference.com/search?q=pulque" class="dictionary" title="Look up pulque at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pulque at Dictionary.com" title="Look up pulque at Dictionary.com" /></a></dt>
+<dd>1690s, from Amer.Sp. <span class="foreign">pulque</span>, of unknown origin, said to be a word from Araucanian (native language spoken in part of Chile).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658650 -->
+<!-- Page was generated in 0.215996 seconds. -->
+ </body>
+</html>
+<!-- -->

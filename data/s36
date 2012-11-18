@@ -1,0 +1,465 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sirloin&allowed_in_frame=0">sirloin</a> <a href="http://dictionary.reference.com/search?q=sirloin" class="dictionary" title="Look up sirloin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sirloin at Dictionary.com" title="Look up sirloin at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., <span class="foreign">surloine</span>, from M.Fr. <span class="foreign">surlonge</span>, lit. "upper part of the loin," from <span class="foreign">sur</span> "over, above" + <span class="foreign">longe</span> "loin," from O.Fr. <span class="foreign">loigne</span> (see <a href="/index.php?term=loin&allowed_in_frame=0" class="crossreference">loin</a>). English spelling with <span class="foreign">sir-</span> dates from 17c., supposedly because the cut of beef was "knighted" by an English king for its superiority, a tale variously told of Henry VIII, James I, and Charles II, though none is chronologically possible.</dd>
+
+<dt><a href="/index.php?term=sirocco&allowed_in_frame=0">sirocco (n.)</a> <a href="http://dictionary.reference.com/search?q=sirocco" class="dictionary" title="Look up sirocco at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sirocco at Dictionary.com" title="Look up sirocco at Dictionary.com" /></a></dt>
+<dd>"hot wind blowing from the Libyan deserts," 1610s, from It. <span class="foreign">sirocco</span>, from vulgar Arabic <span class="foreign">shoruq</span> "the east wind," from Arabic <span class="foreign">sharqi</span> "eastern, east wind," from <span class="foreign">sharq</span> "east," from <span class="foreign">sharaqa</span> "to rise" (in reference to the sun).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sirrah&allowed_in_frame=0">sirrah</a> <a href="http://dictionary.reference.com/search?q=sirrah" class="dictionary" title="Look up sirrah at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sirrah at Dictionary.com" title="Look up sirrah at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, term of address used to men or boys expressing anger or contempt, archaic extended form of <a href="/index.php?term=sir&allowed_in_frame=0" class="crossreference">sir</a> (in U.S., <span class="foreign">siree</span>, attested from 1823).</dd>
+
+<dt><a href="/index.php?term=sis&allowed_in_frame=0">sis</a> <a href="http://dictionary.reference.com/search?q=sis" class="dictionary" title="Look up sis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sis at Dictionary.com" title="Look up sis at Dictionary.com" /></a></dt>
+<dd>1650s, abbreviated form of <a href="/index.php?term=sister&allowed_in_frame=0" class="crossreference">sister</a>; in Amer.Eng., applied generally to girls and young women (1859).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sis-boom-bah&allowed_in_frame=0">sis-boom-bah</a> <a href="http://dictionary.reference.com/search?q=sis-boom-bah" class="dictionary" title="Look up sis-boom-bah at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sis-boom-bah at Dictionary.com" title="Look up sis-boom-bah at Dictionary.com" /></a></dt>
+<dd class="highlight">cheerleading chant, originally (1867) an echoic phrase imitating the sound of a skyrocket flight (<span class="foreign">sis</span>), the burst of the fireworks (<span class="foreign">boom</span>), and the reaction of the crowd (<span class="foreign">(b)ah</span>).</dd>
+
+<dt><a href="/index.php?term=sisal&allowed_in_frame=0">sisal (n.)</a> <a href="http://dictionary.reference.com/search?q=sisal" class="dictionary" title="Look up sisal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sisal at Dictionary.com" title="Look up sisal at Dictionary.com" /></a></dt>
+<dd>1843, from <span class="foreign">Sisal</span>, port in Yucatan, from which the rope-making fiber was exported.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sissy&allowed_in_frame=0">sissy</a> <a href="http://dictionary.reference.com/search?q=sissy" class="dictionary" title="Look up sissy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sissy at Dictionary.com" title="Look up sissy at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, "sister," extended form of <a href="/index.php?term=sis&allowed_in_frame=0" class="crossreference">sis</a> (q.v.). Meaning "effeminate man" is recorded from 1887; the adj. in this sense is from 1891. <span class="foreign">Sissy bar</span> is recorded from 1969.</dd>
+
+<dt><a href="/index.php?term=sist&allowed_in_frame=0">sist</a> <a href="http://dictionary.reference.com/search?q=sist" class="dictionary" title="Look up sist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sist at Dictionary.com" title="Look up sist at Dictionary.com" /></a></dt>
+<dd>legal term, from L. <span class="foreign">sistere</span> “to cause to stand” (see <a href="/index.php?term=assist&allowed_in_frame=0" class="crossreference">assist</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sister&allowed_in_frame=0">sister</a> <a href="http://dictionary.reference.com/search?q=sister" class="dictionary" title="Look up sister at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sister at Dictionary.com" title="Look up sister at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sweostor, swuster,</span> or a Scandinavian cognate (cf. O.N. <span class="foreign">systir</span>, Swed. <span class="foreign">syster</span>, Dan. <span class="foreign">s&oslash;ster</span>), in either case from P.Gmc. <span class="foreign">*swestr-</span> (cf. O.S. <span class="foreign">swestar</span>, O.Fris. <span class="foreign">swester</span>, M.Du. <span class="foreign">suster</span>, Du. <span class="foreign">zuster</span>, O.H.G. <span class="foreign">swester</span>, Ger. <span class="foreign">Schwester</span>, Goth. <span class="foreign">swistar</span>), from PIE <span class="foreign">*swesor</span>, one of the most persistent and unchanging PIE root words, recognizable in almost every modern I.E. language (cf. Skt. <span class="foreign">svasar-</span>, Avestan <span class="foreign">shanhar-</span>, L. <span class="foreign">soror</span>, O.C.S., Rus. <span class="foreign">sestra</span>, Lith. <span class="foreign">sesuo</span>, O.Ir. <span class="foreign">siur</span>, Welsh <span class="foreign">chwaer</span>, Gk. <span class="foreign">eor</span>). Probably from PIE roots <span class="foreign">*swe-</span> "one's own" + <span class="foreign">*ser-</span> "woman." For vowel evolution, see <a href="/index.php?term=bury&allowed_in_frame=0" class="crossreference">bury</a>. Used of nuns in O.E.; of a woman in general from 1906; of a black woman from 1926; and in the sense of "fellow feminist" from 1912.</dd>
+
+<dt><a href="/index.php?term=sister-in-law&allowed_in_frame=0">sister-in-law</a> <a href="http://dictionary.reference.com/search?q=sister-in-law" class="dictionary" title="Look up sister-in-law at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sister-in-law at Dictionary.com" title="Look up sister-in-law at Dictionary.com" /></a></dt>
+<dd>mid-15c.; see <a href="/index.php?term=sister&allowed_in_frame=0" class="crossreference">sister</a> + <a href="/index.php?term=in-law&allowed_in_frame=0" class="crossreference">in-law</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sisterhood&allowed_in_frame=0">sisterhood</a> <a href="http://dictionary.reference.com/search?q=sisterhood" class="dictionary" title="Look up sisterhood at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sisterhood at Dictionary.com" title="Look up sisterhood at Dictionary.com" /></a></dt>
+<dd class="highlight">"state of being a sister," late 14c., from <a href="/index.php?term=sister&allowed_in_frame=0" class="crossreference">sister</a> + <a href="/index.php?term=-hood&allowed_in_frame=0" class="crossreference">-hood</a>. Meaning "a society of sisters" (usually a religious order) is from 1590s; sense of "women having some common characteristic or calling" is from c.1600.</dd>
+
+<dt><a href="/index.php?term=Sistine&allowed_in_frame=0">Sistine</a> <a href="http://dictionary.reference.com/search?q=Sistine" class="dictionary" title="Look up Sistine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sistine at Dictionary.com" title="Look up Sistine at Dictionary.com" /></a></dt>
+<dd>1769, lit. "pertaining to Pope Sixtus," from It. <span class="foreign">sistino,</span> from <span class="foreign">Sixtus,</span> name of five popes, from L. <span class="foreign">sextus</span> "sixth" (see <a href="/index.php?term=Sextus&allowed_in_frame=0" class="crossreference">Sextus</a>). The "chapel" is named for Sixtus IV (Francesco della Rovere), pope 1471-84, who had it built.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sisyphean&allowed_in_frame=0">sisyphean</a> <a href="http://dictionary.reference.com/search?q=sisyphean" class="dictionary" title="Look up sisyphean at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sisyphean at Dictionary.com" title="Look up sisyphean at Dictionary.com" /></a></dt>
+<dd class="highlight">"resembling the labors of Sisyphus," 1630s, from <a href="/index.php?term=Sisyphus&allowed_in_frame=0" class="crossreference">Sisyphus</a> + <a href="/index.php?term=-an&allowed_in_frame=0" class="crossreference">-an</a>.</dd>
+
+<dt><a href="/index.php?term=Sisyphus&allowed_in_frame=0">Sisyphus</a> <a href="http://dictionary.reference.com/search?q=Sisyphus" class="dictionary" title="Look up Sisyphus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sisyphus at Dictionary.com" title="Look up Sisyphus at Dictionary.com" /></a></dt>
+<dd>Gk. <span class="foreign">Sisyphos</span>, a name of unknown origin. King of Corinth, famed as "the craftiest of men," he was condemned in the afterlife to roll uphill a stone which perpetually rolls down again.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sit&allowed_in_frame=0">sit (v.)</a> <a href="http://dictionary.reference.com/search?q=sit" class="dictionary" title="Look up sit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sit at Dictionary.com" title="Look up sit at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sittan</span> "to be seated, to seat oneself" (class V strong verb; past tense <span class="foreign">s&aelig;t</span>, pp. <span class="foreign">seten</span>), from P.Gmc. <span class="foreign">*setjanan</span> (cf. O.S. <span class="foreign">sittian</span>, O.N. <span class="foreign">sitja</span>, O.Fris. <span class="foreign">sitta</span>, M.Du. <span class="foreign">sitten</span>, Du. <span class="foreign">zitten</span>, O.H.G. <span class="foreign">sizzan</span>, Ger. <span class="foreign">sitzen</span>, Goth. <span class="foreign">sitan</span>), from PIE root <span class="foreign">*sed-</span> "to sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>).
+<BR><BR>
+In reference to a legislative assembly, from 1510s. Meaning "to baby-sit" is recorded from 1966. <span class="foreign">Sitting room</span> first recorded 1771. Slang <span class="foreign">sitting duck</span> "easy target" first recorded 1944; lit. sense is from 1867 (it is considered not sporting to shoot at one). <span class="foreign">Sitting pretty</span> is from 1916. To <span class="foreign">sit on one's hands</span> was originally "to withhold applause" (1926); later, "to do nothing" (1959). To <span class="foreign">sit around</span> "be idle, do nothing" is 1915, American English. To <span class="foreign">sit out</span> "not take part" is from 1620s.</dd>
+
+<dt><a href="/index.php?term=sit-in&allowed_in_frame=0">sit-in</a> <a href="http://dictionary.reference.com/search?q=sit-in" class="dictionary" title="Look up sit-in at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sit-in at Dictionary.com" title="Look up sit-in at Dictionary.com" /></a></dt>
+<dd>1936, in ref. to session musicians; 1937, in ref. to union action; 1941, in ref. to student protests.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sit-up&allowed_in_frame=0">sit-up</a> <a href="http://dictionary.reference.com/search?q=sit-up" class="dictionary" title="Look up sit-up at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sit-up at Dictionary.com" title="Look up sit-up at Dictionary.com" /></a></dt>
+<dd class="highlight">kind of physical exercise, 1955.</dd>
+
+<dt><a href="/index.php?term=sitar&allowed_in_frame=0">sitar</a> <a href="http://dictionary.reference.com/search?q=sitar" class="dictionary" title="Look up sitar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sitar at Dictionary.com" title="Look up sitar at Dictionary.com" /></a></dt>
+<dd>1845, from Hindi <span class="foreign">sitar,</span> from Pers. <span class="foreign">sitar</span> "three-stringed," from <span class="foreign">si</span> "three" (O.Pers. <span class="foreign">thri-</span>) + <span class="foreign">tar</span> "string" (see <a href="/index.php?term=tenet&allowed_in_frame=0" class="crossreference">tenet</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sitcom&allowed_in_frame=0">sitcom</a> <a href="http://dictionary.reference.com/search?q=sitcom" class="dictionary" title="Look up sitcom at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sitcom at Dictionary.com" title="Look up sitcom at Dictionary.com" /></a></dt>
+<dd class="highlight">1964, from <span class="foreign">sit(uation) com(edy)</span>, a phrase first attested 1953 (in a "TV Guide" article, with reference to "I Love Lucy").
+<blockquote>Even Bing Crosby has succumbed to series TV and will appear in a sitcom as an electrical engineer who happens to break into song once a week. ["Life," Sept. 18, 1964]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=site&allowed_in_frame=0">site</a> <a href="http://dictionary.reference.com/search?q=site" class="dictionary" title="Look up site at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up site at Dictionary.com" title="Look up site at Dictionary.com" /></a></dt>
+<dd>"place or position occupied by something," late 14c., from Anglo-Fr. <span class="foreign">site</span>, from L. <span class="foreign">situs</span> "place, position," from <span class="foreign">si-,</span> root of <span class="foreign">sinere</span> "let, leave alone, permit."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sith&allowed_in_frame=0">sith</a> <a href="http://dictionary.reference.com/search?q=sith" class="dictionary" title="Look up sith at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sith at Dictionary.com" title="Look up sith at Dictionary.com" /></a></dt>
+<dd class="highlight">M.E., reduced from O.E. <span class="foreign">si&eth;&eth;an</span> “then, thereupon; continuously, during which; seeing that,” from <span class="foreign">*si&eth; &thorn;on</span> “subsequent to that.”</dd>
+
+<dt><a href="/index.php?term=situ&allowed_in_frame=0">situ</a> <a href="http://dictionary.reference.com/search?q=situ" class="dictionary" title="Look up situ at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up situ at Dictionary.com" title="Look up situ at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=in situ&allowed_in_frame=0" class="crossreference">in situ</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=situate&allowed_in_frame=0">situate</a> <a href="http://dictionary.reference.com/search?q=situate" class="dictionary" title="Look up situate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up situate at Dictionary.com" title="Look up situate at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "to give a site to," from M.L. <span class="foreign">situatus</span>, pp. of <span class="foreign">situare</span> "to place, locate," from L. <span class="foreign">situs</span> "place, position" (see <a href="/index.php?term=site&allowed_in_frame=0" class="crossreference">site</a>).</dd>
+
+<dt><a href="/index.php?term=situation&allowed_in_frame=0">situation</a> <a href="http://dictionary.reference.com/search?q=situation" class="dictionary" title="Look up situation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up situation at Dictionary.com" title="Look up situation at Dictionary.com" /></a></dt>
+<dd>late 15c., "place, position, or location," from M.L. <span class="foreign">situationem</span> (nom. <span class="foreign">situatio</span>), from L.L. <span class="foreign">situatus</span>, pp. of <span class="foreign">situare</span> (see <a href="/index.php?term=situate&allowed_in_frame=0" class="crossreference">situate</a>). Meaning "state of affairs" is from 1750; meaning "employment post" is from 1803. <span class="foreign">Situation ethics</span> first attested 1955.</dd>
+
+<dt class="highlight"><a href="/index.php?term=situational&allowed_in_frame=0">situational</a> <a href="http://dictionary.reference.com/search?q=situational" class="dictionary" title="Look up situational at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up situational at Dictionary.com" title="Look up situational at Dictionary.com" /></a></dt>
+<dd class="highlight">1903, from <a href="/index.php?term=situation&allowed_in_frame=0" class="crossreference">situation</a>. <span class="foreign">Situational ethics</span> attested from 1969.</dd>
+
+<dt><a href="/index.php?term=situs&allowed_in_frame=0">situs</a> <a href="http://dictionary.reference.com/search?q=situs" class="dictionary" title="Look up situs at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up situs at Dictionary.com" title="Look up situs at Dictionary.com" /></a></dt>
+<dd>Latin, “situation, position.”</dd>
+
+<dt class="highlight"><a href="/index.php?term=sitz-bath&allowed_in_frame=0">sitz-bath</a> <a href="http://dictionary.reference.com/search?q=sitz-bath" class="dictionary" title="Look up sitz-bath at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sitz-bath at Dictionary.com" title="Look up sitz-bath at Dictionary.com" /></a></dt>
+<dd class="highlight">1849, a hybrid, from Ger. <span class="foreign">Sitzbad</span>, lit. "bath in a sitting position," with Eng. <a href="/index.php?term=bath&allowed_in_frame=0" class="crossreference">bath</a> for Ger. <span class="foreign">Bad</span>.</dd>
+
+<dt><a href="/index.php?term=sitzkrieg&allowed_in_frame=0">sitzkrieg</a> <a href="http://dictionary.reference.com/search?q=sitzkrieg" class="dictionary" title="Look up sitzkrieg at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sitzkrieg at Dictionary.com" title="Look up sitzkrieg at Dictionary.com" /></a></dt>
+<dd>1940, "static warfare" (such as prevailed in Europe in the winter of 1939-40), R.A.F. coinage on analogy of <a href="/index.php?term=blitzkrieg&allowed_in_frame=0" class="crossreference">blitzkrieg</a> (q.v.), from Ger. <span class="foreign">sitz</span> "a sitting."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Siva&allowed_in_frame=0">Siva (n.)</a> <a href="http://dictionary.reference.com/search?q=Siva" class="dictionary" title="Look up Siva at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Siva at Dictionary.com" title="Look up Siva at Dictionary.com" /></a></dt>
+<dd class="highlight">one of the three supreme gods of Hinduism, lord of destruction and reproduction, 1788, from Hind. <span class="foreign">Shiva</span>, from Skt. <span class="foreign">Sivah</span>, lit. "propitious, gracious," from PIE <span class="foreign">*ki-wo-</span>, from root <span class="foreign">*kei-</span> "beloved, dear" (connected with L. <span class="foreign">civis</span> "citizen," lit. "member of a household"), also "to lie, couch" (cf. <a href="/index.php?term=cemetery&allowed_in_frame=0" class="crossreference">cemetery</a>).</dd>
+
+<dt><a href="/index.php?term=six&allowed_in_frame=0">six</a> <a href="http://dictionary.reference.com/search?q=six" class="dictionary" title="Look up six at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up six at Dictionary.com" title="Look up six at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">siex,</span> from P.Gmc. <span class="foreign">*sekhs</span> (cf. O.S. <span class="foreign">seks</span>, O.N., O.Fris. <span class="foreign">sex</span>, M.Du. <span class="foreign">sesse</span>, Du. <span class="foreign">zes</span>, O.H.G. <span class="foreign">sehs</span>, Ger. <span class="foreign">sechs</span>, Goth. <span class="foreign">saihs</span>), from PIE <span class="foreign">*seks</span> (cf. Skt. <span class="foreign">sas</span>, Avestan <span class="foreign">kshvash</span>, Gk. <span class="foreign">hex</span>, L. <span class="foreign">sex</span>, O.C.S. <span class="foreign">sesti</span>, Lith. <span class="foreign">sesi</span>, O.Ir. <span class="foreign">se</span>, Welsh <span class="foreign">chwech</span>). <span class="foreign">Six-shooter</span> is first attested 1844; <span class="foreign">six-pack</span> of beverage is from 1952. <span class="foreign">Six of one and half-a-dozen of the other</span> "little difference" is recorded from 1836. Phrase <span class="foreign">at sixes and sevens</span> "hazarding all ones chances," is first in Chaucer, perhaps from dicing (the original form was <span class="foreign">on six and seven</span>) and could be a corruption of <span class="foreign">on cinque and sice</span>, using the Fr. names (which were common in M.E.) for the highest numbers on the dice. </dd>
+
+<dt class="highlight"><a href="/index.php?term=sixpence&allowed_in_frame=0">sixpence</a> <a href="http://dictionary.reference.com/search?q=sixpence" class="dictionary" title="Look up sixpence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sixpence at Dictionary.com" title="Look up sixpence at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., “sum of six pennies,” from <a href="/index.php?term=six&allowed_in_frame=0" class="crossreference">six</a> + <a href="/index.php?term=pence&allowed_in_frame=0" class="crossreference">pence</a>. As a specific British coin, from 1590s.</dd>
+
+<dt><a href="/index.php?term=sixteen&allowed_in_frame=0">sixteen</a> <a href="http://dictionary.reference.com/search?q=sixteen" class="dictionary" title="Look up sixteen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sixteen at Dictionary.com" title="Look up sixteen at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sixtyne</span>, from <span class="foreign">siex</span> (see <a href="/index.php?term=six&allowed_in_frame=0" class="crossreference">six</a>) + <a href="/index.php?term=teen&allowed_in_frame=0" class="crossreference">teen</a> (q.v.). Cf. O.Fris. <span class="foreign">sextine</span>, M.Du. <span class="foreign">sestien</span>, O.N. <span class="foreign">sextan</span>.
+<blockquote>The age of the gods is always sixteen. Sixteen represents the number of perfection, of plenitude. In man it is after the sixteenth year that the first elements of decay begin to appear, and when the moon reaches the sixteenth digit it begins to decrease. [Alain Dani&eacute;lou, "The Myths and Gods of India"]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=sixth&allowed_in_frame=0">sixth</a> <a href="http://dictionary.reference.com/search?q=sixth" class="dictionary" title="Look up sixth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sixth at Dictionary.com" title="Look up sixth at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">syxte</span>, from <span class="foreign">siex</span> (see <a href="/index.php?term=six&allowed_in_frame=0" class="crossreference">six</a>). <span class="foreign">Sixth sense</span> "supernatural perception of objects" is attested from 1807; earlier it meant "the sense that apprehends sexual pleasure" (1690s).</dd>
+
+<dt><a href="/index.php?term=sixties&allowed_in_frame=0">sixties</a> <a href="http://dictionary.reference.com/search?q=sixties" class="dictionary" title="Look up sixties at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sixties at Dictionary.com" title="Look up sixties at Dictionary.com" /></a></dt>
+<dd>1848 as the years of someone's life between 60 and 69; 1827 as a decade of years in a given century. See <a href="/index.php?term=sixty&allowed_in_frame=0" class="crossreference">sixty</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sixty&allowed_in_frame=0">sixty</a> <a href="http://dictionary.reference.com/search?q=sixty" class="dictionary" title="Look up sixty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sixty at Dictionary.com" title="Look up sixty at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sixtig</span>, from <span class="foreign">siex</span> (see <a href="/index.php?term=six&allowed_in_frame=0" class="crossreference">six</a>) + <span class="foreign">-tig</span> (see <a href="/index.php?term=-ty&allowed_in_frame=0" class="crossreference">-ty</a> (1)). Phrase <span class="foreign">sixty-four dollar question</span> is 1942, from radio quiz show where that was the top prize. <span class="foreign">Sixty-nine</span> in sexual sense is first attested 1888, as a translation of Fr. <span class="foreign">faire soixante neuf</span>, lit. "to do 69."</dd>
+
+<dt><a href="/index.php?term=size&allowed_in_frame=0">size (n.)</a> <a href="http://dictionary.reference.com/search?q=size" class="dictionary" title="Look up size at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up size at Dictionary.com" title="Look up size at Dictionary.com" /></a></dt>
+<dd>c.1300, "an ordinance to fix the amount of a payment or tax," from O.Fr. <span class="foreign">sise,</span> shortened form of <span class="foreign">assise</span> "session, assessment, regulation, manner" (see <a href="/index.php?term=assize&allowed_in_frame=0" class="crossreference">assize</a>), probably a misdivision of <span class="foreign">l'assise</span> as <span class="foreign">la sise</span>. The sense of "extent, amount, magnitude" (c.1400) is from the notion of regulating something by fixing the amount of it (weights, food portions, etc.). Specific sense of "set of dimensions of an article of clothing or shoe" is attested from 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=size&allowed_in_frame=0">size (v.)</a> <a href="http://dictionary.reference.com/search?q=size" class="dictionary" title="Look up size at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up size at Dictionary.com" title="Look up size at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, "to regulate," from <a href="/index.php?term=size&allowed_in_frame=0" class="crossreference">size</a> (n.). Meaning "to make of a certain size" is from c.1600; that of "to classify according to size" is first attested 1630s. Verbal phrase <span class="foreign">size up</span> "estimate, assess" is from 1847 and retains the root sense of <a href="/index.php?term=size&allowed_in_frame=0" class="crossreference">size</a> (n.).</dd>
+
+<dt><a href="/index.php?term=sizeable&allowed_in_frame=0">sizeable</a> <a href="http://dictionary.reference.com/search?q=sizeable" class="dictionary" title="Look up sizeable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sizeable at Dictionary.com" title="Look up sizeable at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">sizable</span>, 1610s, from <a href="/index.php?term=size&allowed_in_frame=0" class="crossreference">size</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Sizeably</span>; <span class="foreign">sizeableness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sizer&allowed_in_frame=0">sizer</a> <a href="http://dictionary.reference.com/search?q=sizer" class="dictionary" title="Look up sizer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sizer at Dictionary.com" title="Look up sizer at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, agent noun from <a href="/index.php?term=size&allowed_in_frame=0" class="crossreference">size</a>.</dd>
+
+<dt><a href="/index.php?term=sizzle&allowed_in_frame=0">sizzle (v.)</a> <a href="http://dictionary.reference.com/search?q=sizzle" class="dictionary" title="Look up sizzle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sizzle at Dictionary.com" title="Look up sizzle at Dictionary.com" /></a></dt>
+<dd>c.1600, perhaps a frequentative form of M.E. <span class="foreign">sissen</span> "hiss, buzz," of imitative origin. The figurative sense is attested from 1859. Related: <span class="foreign">Sizzled</span>; <span class="foreign">sizzling</span>. The noun is first recorded 1823.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ska&allowed_in_frame=0">ska (n.)</a> <a href="http://dictionary.reference.com/search?q=ska" class="dictionary" title="Look up ska at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ska at Dictionary.com" title="Look up ska at Dictionary.com" /></a></dt>
+<dd class="highlight">1964, Jamaican, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=skag&allowed_in_frame=0">skag (n.)</a> <a href="http://dictionary.reference.com/search?q=skag" class="dictionary" title="Look up skag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skag at Dictionary.com" title="Look up skag at Dictionary.com" /></a></dt>
+<dd>"heroin," 1967, American English, earlier "cigarette" (1915), of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=skald&allowed_in_frame=0">skald (n.)</a> <a href="http://dictionary.reference.com/search?q=skald" class="dictionary" title="Look up skald at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skald at Dictionary.com" title="Look up skald at Dictionary.com" /></a></dt>
+<dd class="highlight">1763, "Scandinavian poet and singer of medieval times," from O.N. <span class="foreign">skald</span> "skald, poet" (9c.), of unknown origin, perhaps from PIE root <span class="foreign">*sekw-</span> "to say, utter." The modern word is an antiquarian revival. "Usually applied to Norwegian and Icelandic poets of the Viking period and down to <span class="foreign">c</span> 1250, but often without any clear idea as to their function and the character of their work." [OED]</dd>
+
+<dt><a href="/index.php?term=skank&allowed_in_frame=0">skank (n.)</a> <a href="http://dictionary.reference.com/search?q=skank" class="dictionary" title="Look up skank at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skank at Dictionary.com" title="Look up skank at Dictionary.com" /></a></dt>
+<dd>"unattractive woman," 1965, perhaps from <span class="foreign">skag</span> in this sense (1920s), of unknown origin. Meaning "dance to reggae music" is 1976, probably not the same word, but also of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=skanky&allowed_in_frame=0">skanky (adj.)</a> <a href="http://dictionary.reference.com/search?q=skanky" class="dictionary" title="Look up skanky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skanky at Dictionary.com" title="Look up skanky at Dictionary.com" /></a></dt>
+<dd class="highlight">"ugly, unattractive" (originally of women), by 1965, U.S. Black slang; see <a href="/index.php?term=skank&allowed_in_frame=0" class="crossreference">skank</a>.</dd>
+
+<dt><a href="/index.php?term=skat&allowed_in_frame=0">skat (n.)</a> <a href="http://dictionary.reference.com/search?q=skat" class="dictionary" title="Look up skat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skat at Dictionary.com" title="Look up skat at Dictionary.com" /></a></dt>
+<dd>"card game," 1864, from Ger. <span class="foreign">skat</span>, from It. <span class="foreign">scarto</span> "rejection of a card," cognate with Fr. <span class="foreign">&eacute;cart&eacute;</span> "card."</dd>
+
+<dt class="highlight"><a href="/index.php?term=skate&allowed_in_frame=0">skate (n.1)</a> <a href="http://dictionary.reference.com/search?q=skate" class="dictionary" title="Look up skate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skate at Dictionary.com" title="Look up skate at Dictionary.com" /></a></dt>
+<dd class="highlight">type of flat, cartilaginous fish, mid-14c., from O.N. <span class="foreign">skata</span>, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=skate&allowed_in_frame=0">skate (n.2)</a> <a href="http://dictionary.reference.com/search?q=skate" class="dictionary" title="Look up skate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skate at Dictionary.com" title="Look up skate at Dictionary.com" /></a></dt>
+<dd>"ice skate or roller skate," 1660s, <span class="foreign">skeates</span> "ice skates" (the custom was brought to England after the Restoration by exiled followers of Charles II who had taken refuge in Holland), from Du. <span class="foreign">schaats</span> (singular, mistaken in English as plural), from M.Du. <span class="foreign">schaetse</span>, from O.N.Fr. <span class="foreign">escache</span> "a stilt, trestle," from O.Fr. <span class="foreign">eschace</span> "stilt" (Fr. <span class="foreign">&eacute;chasse</span>), from Frankish <span class="foreign">*skakkja</span> "stilt" (cf. Fris. <span class="foreign">skatja</span> "stilt"), perhaps lit. "thing that shakes or moves fast" and related to root of O.E. <span class="foreign">sceacan</span> "to vibrate" (see <a href="/index.php?term=shake&allowed_in_frame=0" class="crossreference">shake</a>). Or perhaps the Du. word is connected to M.L.G. <span class="foreign">schenke</span>, O.E. <span class="foreign">scanca</span> "leg" (see <a href="/index.php?term=shank&allowed_in_frame=0" class="crossreference">shank</a>). Sense alteration in Dutch from "stilt" to "skate" is not clearly traced.</dd>
+
+<dt class="highlight"><a href="/index.php?term=skate&allowed_in_frame=0">skate (v.)</a> <a href="http://dictionary.reference.com/search?q=skate" class="dictionary" title="Look up skate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skate at Dictionary.com" title="Look up skate at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, from <a href="/index.php?term=skate&allowed_in_frame=0" class="crossreference">skate</a> (n.2). U.S. slang sense of "to get away with something" is attested from 1945. Related: <span class="foreign">Skated</span>; <span class="foreign">skating</span>.</dd>
+
+<dt><a href="/index.php?term=skateboard&allowed_in_frame=0">skateboard</a> <a href="http://dictionary.reference.com/search?q=skateboard" class="dictionary" title="Look up skateboard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up skateboard at Dictionary.com" title="Look up skateboard at Dictionary.com" /></a></dt>
+<dd>1964, from <a href="/index.php?term=skate&allowed_in_frame=0" class="crossreference">skate</a> (v.) on model of <a href="/index.php?term=surfboard&allowed_in_frame=0" class="crossreference">surfboard</a>. The phenomenon began c.1963 in southern California.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658737 -->
+<!-- Page was generated in 0.187418 seconds. -->
+ </body>
+</html>
+<!-- -->

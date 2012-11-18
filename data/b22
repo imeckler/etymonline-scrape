@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=b&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=b&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=b&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=b&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=b&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=b&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=b&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=b&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=b&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=b&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=b&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=b&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=b&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=b&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=b&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=b&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=b&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=b&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=b&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=b&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=b&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=b&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a class="current" href="/index.php?l=b&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=b&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=b&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=b&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=b&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=b&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=b&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=b&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=b&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=b&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=b&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=b&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=b&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=b&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=b&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=b&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=b&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=b&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=b&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=b&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=b&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=b&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=b&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=b&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=b&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=b&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=b&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=b&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=b&amp;p=50&allowed_in_frame=0">51</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=billow&allowed_in_frame=0">billow (v.)</a> <a href="http://dictionary.reference.com/search?q=billow" class="dictionary" title="Look up billow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up billow at Dictionary.com" title="Look up billow at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from <a href="/index.php?term=billow&allowed_in_frame=0" class="crossreference">billow</a> (n.). Related: <span class="foreign">Billowed</span>; <span class="foreign">billowing</span>.</dd>
+
+<dt><a href="/index.php?term=billowy&allowed_in_frame=0">billowy (adj.)</a> <a href="http://dictionary.reference.com/search?q=billowy" class="dictionary" title="Look up billowy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up billowy at Dictionary.com" title="Look up billowy at Dictionary.com" /></a></dt>
+<dd>1610s, from <a href="/index.php?term=billow&allowed_in_frame=0" class="crossreference">billow</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Billowiness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=billy&allowed_in_frame=0">billy (n.)</a> <a href="http://dictionary.reference.com/search?q=billy" class="dictionary" title="Look up billy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up billy at Dictionary.com" title="Look up billy at Dictionary.com" /></a></dt>
+<dd class="highlight">"club," 1848, American English, originally burglars' slang for "crowbar;" meaning "policeman's club" first recorded 1856, probably from nickname of <span class="foreign">William,</span> applied to various objects (cf. <span class="foreign">jack, jimmy, jenny</span>).</dd>
+
+<dt><a href="/index.php?term=bimbo&allowed_in_frame=0">bimbo (n.)</a> <a href="http://dictionary.reference.com/search?q=bimbo" class="dictionary" title="Look up bimbo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bimbo at Dictionary.com" title="Look up bimbo at Dictionary.com" /></a></dt>
+<dd>1919, "fellow, chap," from variant of It. <span class="foreign">bambino</span> "baby;" first attested in Italian-accented theater dialogue. Originally especially "stupid, inconsequential man, contemptible person;" by 1920 the sense of "floozie" had developed (popularized by "Variety" staffer Jack Conway, d.1928). Resurrection during 1980s U.S. political sex scandals led to derivatives including dim. <span class="foreign">bimbette</span> (1990) and male form <span class="foreign">himbo</span> (1988).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bimetallic&allowed_in_frame=0">bimetallic (adj.)</a> <a href="http://dictionary.reference.com/search?q=bimetallic" class="dictionary" title="Look up bimetallic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bimetallic at Dictionary.com" title="Look up bimetallic at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bi-metallic</span>, "composed of two metals," 1864, from <a href="/index.php?term=bi-&allowed_in_frame=0" class="crossreference">bi-</a> + <a href="/index.php?term=metalllic&allowed_in_frame=0" class="crossreference">metalllic</a>. In economics, 1876, from Fr. <span class="foreign">bim&eacute;talique</span> (Cornuschi).</dd>
+
+<dt><a href="/index.php?term=bimodal&allowed_in_frame=0">bimodal (adj.)</a> <a href="http://dictionary.reference.com/search?q=bimodal" class="dictionary" title="Look up bimodal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bimodal at Dictionary.com" title="Look up bimodal at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bi-modal</span>, 1891, from <a href="/index.php?term=bi-&allowed_in_frame=0" class="crossreference">bi-</a> + <a href="/index.php?term=modal&allowed_in_frame=0" class="crossreference">modal</a>. Related: <span class="foreign">Bimodality</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bimonthly&allowed_in_frame=0">bimonthly (adj.)</a> <a href="http://dictionary.reference.com/search?q=bimonthly" class="dictionary" title="Look up bimonthly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bimonthly at Dictionary.com" title="Look up bimonthly at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bi-monthly</span>, 1846, "happening once in two months, every two months," also "occurring twice a month," a hybrid from <a href="/index.php?term=bi-&allowed_in_frame=0" class="crossreference">bi-</a> + <span class="foreign">monthly</span> (see <a href="/index.php?term=month&allowed_in_frame=0" class="crossreference">month</a>).</dd>
+
+<dt><a href="/index.php?term=bin&allowed_in_frame=0">bin (n.)</a> <a href="http://dictionary.reference.com/search?q=bin" class="dictionary" title="Look up bin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bin at Dictionary.com" title="Look up bin at Dictionary.com" /></a></dt>
+<dd>"receptacle," O.E. <span class="foreign">binne</span> "basket, manger, crib," probably from Gaulish, from O.Celt. <span class="foreign">*benna</span>, akin to Welsh <span class="foreign">benn</span> "a cart," especially one with a woven wicker body. The same Celtic word seems to be preserved in It. <span class="foreign">benna</span> "dung cart," Fr. <span class="foreign">benne</span> "grape-gatherer's creel," Du. <span class="foreign">benne</span> "large basket," all from L.L. <span class="foreign">benna</span> "cart," M.L. <span class="foreign">benna</span> "basket." Some linguists think there was a Germanic form parallel to the Celtic one.</dd>
+
+<dt class="highlight"><a href="/index.php?term=binary&allowed_in_frame=0">binary (adj.)</a> <a href="http://dictionary.reference.com/search?q=binary" class="dictionary" title="Look up binary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binary at Dictionary.com" title="Look up binary at Dictionary.com" /></a></dt>
+<dd class="highlight">"dual," mid-15c., from L.L. <span class="foreign">binarius</span> "consisting of two," from <span class="foreign">bini</span> "twofold, two apiece, two-by-two" (used especially of matched things), from <span class="foreign">bis</span> "double" (see <a href="/index.php?term=bis-&allowed_in_frame=0" class="crossreference">bis-</a>). <span class="foreign">Binary code</span> in computer terminology was in use by 1952, though the idea itself is ancient. <span class="foreign">Binary star</span> in astronomy is from 1802.</dd>
+
+<dt><a href="/index.php?term=binate&allowed_in_frame=0">binate (adj.)</a> <a href="http://dictionary.reference.com/search?q=binate" class="dictionary" title="Look up binate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binate at Dictionary.com" title="Look up binate at Dictionary.com" /></a></dt>
+<dd>"double," 1807, from L. <span class="foreign">bini</span> "two by two, twofold, two apiece" (see <a href="/index.php?term=binary&allowed_in_frame=0" class="crossreference">binary</a>) + <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=binaural&allowed_in_frame=0">binaural (adj.)</a> <a href="http://dictionary.reference.com/search?q=binaural" class="dictionary" title="Look up binaural at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binaural at Dictionary.com" title="Look up binaural at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to both ears," 1861, from L. <span class="foreign">bini</span> "twofold, two apiece" (see <a href="/index.php?term=binary&allowed_in_frame=0" class="crossreference">binary</a>) + <a href="/index.php?term=aural&allowed_in_frame=0" class="crossreference">aural</a>. In reference to electronic recordings, from 1933.</dd>
+
+<dt><a href="/index.php?term=bind&allowed_in_frame=0">bind (v.)</a> <a href="http://dictionary.reference.com/search?q=bind" class="dictionary" title="Look up bind at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bind at Dictionary.com" title="Look up bind at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">bindan</span> "to tie up with bonds" (literally and figuratively), also "to make captive; to cover with dressings and bandages" (class III strong verb; past tense <span class="foreign">band</span>, pp. <span class="foreign">bunden</span>), from P.Gmc. <span class="foreign">*bindan</span> (cf. O.S. <span class="foreign">bindan</span>, O.N., O.Fris. <span class="foreign">binda</span>, O.H.G. <span class="foreign">binten</span> "to bind," Ger. <span class="foreign">binden</span>, Goth. <span class="foreign">bindan</span>), from PIE root <span class="foreign">*bhendh-</span> "to bind" (see <a href="/index.php?term=bend&allowed_in_frame=0" class="crossreference">bend</a>). Intransitive sense of "stick together" is from 1670s. Of books, from c.1400.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bind&allowed_in_frame=0">bind (n.)</a> <a href="http://dictionary.reference.com/search?q=bind" class="dictionary" title="Look up bind at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bind at Dictionary.com" title="Look up bind at Dictionary.com" /></a></dt>
+<dd class="highlight">"anything that binds," in various senses, late O.E., from <a href="/index.php?term=bind&allowed_in_frame=0" class="crossreference">bind</a> (v.). Meaning "tight or awkward situation" is from 1851.</dd>
+
+<dt><a href="/index.php?term=binder&allowed_in_frame=0">binder (n.)</a> <a href="http://dictionary.reference.com/search?q=binder" class="dictionary" title="Look up binder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binder at Dictionary.com" title="Look up binder at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">bindere</span> "one who binds" (see <a href="/index.php?term=bind&allowed_in_frame=0" class="crossreference">bind</a>). Of various objects or products that bind, from early 16c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bindery&allowed_in_frame=0">bindery (n.)</a> <a href="http://dictionary.reference.com/search?q=bindery" class="dictionary" title="Look up bindery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bindery at Dictionary.com" title="Look up bindery at Dictionary.com" /></a></dt>
+<dd class="highlight">1810, American English; see <a href="/index.php?term=bind&allowed_in_frame=0" class="crossreference">bind</a> (v.) + <a href="/index.php?term=-ery&allowed_in_frame=0" class="crossreference">-ery</a>.</dd>
+
+<dt><a href="/index.php?term=binding&allowed_in_frame=0">binding (n.)</a> <a href="http://dictionary.reference.com/search?q=binding" class="dictionary" title="Look up binding at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binding at Dictionary.com" title="Look up binding at Dictionary.com" /></a></dt>
+<dd>mid-13c., verbal noun from <a href="/index.php?term=bind&allowed_in_frame=0" class="crossreference">bind</a> (v.). Meaning "thing that binds" is from c.1300; "state of being bound" is from late 14c. Meaning "covering of a book" is recorded from 1640s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bindle&allowed_in_frame=0">bindle (n.)</a> <a href="http://dictionary.reference.com/search?q=bindle" class="dictionary" title="Look up bindle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bindle at Dictionary.com" title="Look up bindle at Dictionary.com" /></a></dt>
+<dd class="highlight">"tramp's bundle," c.1900, perhaps from <a href="/index.php?term=bundle&allowed_in_frame=0" class="crossreference">bundle</a> (n.) or Scottish dialectal <span class="foreign">bindle</span> "cord or rope to bind things." Related: <span class="foreign">Bindlestiff</span>.</dd>
+
+<dt><a href="/index.php?term=bine&allowed_in_frame=0">bine (n.)</a> <a href="http://dictionary.reference.com/search?q=bine" class="dictionary" title="Look up bine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bine at Dictionary.com" title="Look up bine at Dictionary.com" /></a></dt>
+<dd>"climbing stem, flexible shoot of a shrub," 1727, from a dialectal form of <a href="/index.php?term=bind&allowed_in_frame=0" class="crossreference">bind</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bing&allowed_in_frame=0">bing (n.)</a> <a href="http://dictionary.reference.com/search?q=bing" class="dictionary" title="Look up bing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bing at Dictionary.com" title="Look up bing at Dictionary.com" /></a></dt>
+<dd class="highlight">"heap or pile," 1510s, from O.N. <span class="foreign">bingr</span> "heap." Also used from early 14c. as a word for <a href="/index.php?term=bin&allowed_in_frame=0" class="crossreference">bin</a>, perhaps from notion of "place where things are piled."</dd>
+
+<dt><a href="/index.php?term=binge&allowed_in_frame=0">binge (n.)</a> <a href="http://dictionary.reference.com/search?q=binge" class="dictionary" title="Look up binge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binge at Dictionary.com" title="Look up binge at Dictionary.com" /></a></dt>
+<dd>1854, "drinking bout," also (v.) "drink heavily, soak up alcohol;" dialectal use of <span class="foreign">binge</span> "soak" (a wooden vessel). Noted originally as a Northampton dialect word. Sense extended c. World War I to include eating as well as drinking. Related: <span class="foreign">Binged</span>; <span class="foreign">binging</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bingo&allowed_in_frame=0">bingo (n.)</a> <a href="http://dictionary.reference.com/search?q=bingo" class="dictionary" title="Look up bingo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bingo at Dictionary.com" title="Look up bingo at Dictionary.com" /></a></dt>
+<dd class="highlight">lotto-like game of chance, 1936; many theories about its origin, none satisfying; the most likely is <span class="foreign">bingo!</span> as an exclamation of sudden realization or surprise (attested from 1923). Uncertain connection to the slang word for "brandy" (1690s); attested as "liquor" in Amer.Eng., 1861. Thomas Chandler Haliburton ("Sam Slick") in "The Americans at Home" (1854) recounts a story of a drinking game in which the children's song about the farmer's dog was sung and when it came time to spell out the name, every participant had to take a letter in turn, and anyone who missed or flubbed had to drink.</dd>
+
+<dt><a href="/index.php?term=binnacle&allowed_in_frame=0">binnacle (n.)</a> <a href="http://dictionary.reference.com/search?q=binnacle" class="dictionary" title="Look up binnacle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binnacle at Dictionary.com" title="Look up binnacle at Dictionary.com" /></a></dt>
+<dd>"wooden box for a ship's compass," c.1750, corruption of <span class="foreign">bittacle</span> (1620s), which is probably from Sp. <span class="foreign">bitacula</span> or Port. <span class="foreign">bitacola</span>, both from L. <span class="foreign">habitaculum</span> "little dwelling place," from <span class="foreign">habitare</span> "to inhabit" (see <a href="/index.php?term=habit&allowed_in_frame=0" class="crossreference">habit</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=binocle&allowed_in_frame=0">binocle (n.)</a> <a href="http://dictionary.reference.com/search?q=binocle" class="dictionary" title="Look up binocle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binocle at Dictionary.com" title="Look up binocle at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, from Fr. <span class="foreign">binocle</span> (17c.), from L. <span class="foreign">bini-</span> "two by two, twofold, two apiece" (see <a href="/index.php?term=binary&allowed_in_frame=0" class="crossreference">binary</a>) + <span class="foreign">oculus</span> "eye" (see <a href="/index.php?term=eye&allowed_in_frame=0" class="crossreference">eye</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=binocular&allowed_in_frame=0">binocular (adj.)</a> <a href="http://dictionary.reference.com/search?q=binocular" class="dictionary" title="Look up binocular at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binocular at Dictionary.com" title="Look up binocular at Dictionary.com" /></a></dt>
+<dd>1738, "involving both eyes," earlier "having two eyes" (1713), from Fr. <span class="foreign">binoculaire</span>, from L. <span class="foreign">bini</span> "two by two, twofold, two apiece" (see <a href="/index.php?term=binary&allowed_in_frame=0" class="crossreference">binary</a>) + <span class="foreign">ocularis</span> "of the eye," from <span class="foreign">oculus</span> "eye" (see <a href="/index.php?term=eye&allowed_in_frame=0" class="crossreference">eye</a> (n.)). The double-tubed telescopic instrument (1871, short for <span class="foreign">binocular glass</span>) earlier was called a <a href="/index.php?term=binocle&allowed_in_frame=0" class="crossreference">binocle</a>. Related: <span class="foreign">Binocularity</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=binoculars&allowed_in_frame=0">binoculars (n.)</a> <a href="http://dictionary.reference.com/search?q=binoculars" class="dictionary" title="Look up binoculars at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binoculars at Dictionary.com" title="Look up binoculars at Dictionary.com" /></a></dt>
+<dd class="highlight">1866; see <a href="/index.php?term=binocular&allowed_in_frame=0" class="crossreference">binocular</a>. Earlier <span class="foreign">binocle</span> (1690s).</dd>
+
+<dt><a href="/index.php?term=binomial&allowed_in_frame=0">binomial</a> <a href="http://dictionary.reference.com/search?q=binomial" class="dictionary" title="Look up binomial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up binomial at Dictionary.com" title="Look up binomial at Dictionary.com" /></a></dt>
+<dd>1550s (n.); 1560s (adj.), from L.L. <span class="foreign">binomius</span> "having two personal names," a hybrid from <span class="foreign">bi-</span> (see <a href="/index.php?term=bi-&allowed_in_frame=0" class="crossreference">bi-</a>) + <span class="foreign">nomius</span>, from <span class="foreign">nomen</span> (see <a href="/index.php?term=name&allowed_in_frame=0" class="crossreference">name</a>). Taken up 16c. in the algebraic sense "consisting of two terms."</dd>
+
+<dt class="highlight"><a href="/index.php?term=bint&allowed_in_frame=0">bint (n.)</a> <a href="http://dictionary.reference.com/search?q=bint" class="dictionary" title="Look up bint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bint at Dictionary.com" title="Look up bint at Dictionary.com" /></a></dt>
+<dd class="highlight">"girlfriend," 1855, British English, from Arabic <span class="foreign">bint</span> "daughter;" adopted by British servicemen in the Middle East.</dd>
+
+<dt><a href="/index.php?term=bio&allowed_in_frame=0">bio</a> <a href="http://dictionary.reference.com/search?q=bio" class="dictionary" title="Look up bio at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bio at Dictionary.com" title="Look up bio at Dictionary.com" /></a></dt>
+<dd>short for <a href="/index.php?term=biography&allowed_in_frame=0" class="crossreference">biography</a>, attested from 1961.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bio-&allowed_in_frame=0">bio-</a> <a href="http://dictionary.reference.com/search?q=bio-" class="dictionary" title="Look up bio- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bio- at Dictionary.com" title="Look up bio- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element, from Gk. <span class="foreign">bio-</span>, comb. form of <span class="foreign">bios</span> "one's life, course or way of living, lifetime" (as opposed to <span class="foreign">zoe</span> "animal life, organic life"), from PIE root <span class="foreign">*gweie-</span> "to live" (cf. Skt. <span class="foreign">jivah</span> "alive, living;" O.E. <span class="foreign">cwic</span> "alive;" L. <span class="foreign">vivus</span> "living, alive," <span class="foreign">vita</span> "life;" M.Pers. <span class="foreign">zhiwak</span> "alive;" O.C.S. <span class="foreign">zivo</span> "to live;" Lith. <span class="foreign">gyvas</span> "living, alive;" O.Ir. <span class="foreign">bethu</span> "life," <span class="foreign">bith</span> "age;" Welsh <span class="foreign">byd</span> "world"). Equivalent of L. <a href="/index.php?term=vita&allowed_in_frame=0" class="crossreference">vita</a>. The correct usage is that in <a href="/index.php?term=biography&allowed_in_frame=0" class="crossreference">biography</a>, but in modern science it has been extended to mean "organic life."</dd>
+
+<dt><a href="/index.php?term=biocentric&allowed_in_frame=0">biocentric (adj.)</a> <a href="http://dictionary.reference.com/search?q=biocentric" class="dictionary" title="Look up biocentric at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biocentric at Dictionary.com" title="Look up biocentric at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-centric</span>, 1889, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=-centric&allowed_in_frame=0" class="crossreference">-centric</a>. <span class="foreign">Anti-biocentric</span> attested from 1882.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biochemical&allowed_in_frame=0">biochemical (adj.)</a> <a href="http://dictionary.reference.com/search?q=biochemical" class="dictionary" title="Look up biochemical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biochemical at Dictionary.com" title="Look up biochemical at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bio-chemical</span>, 1851, after Ger. <span class="foreign">biochemisch</span>, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=chemical&allowed_in_frame=0" class="crossreference">chemical</a>. Related: <span class="foreign">Biochemically</span>.</dd>
+
+<dt><a href="/index.php?term=biochemist&allowed_in_frame=0">biochemist (n.)</a> <a href="http://dictionary.reference.com/search?q=biochemist" class="dictionary" title="Look up biochemist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biochemist at Dictionary.com" title="Look up biochemist at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-chemist</span>, 1897; see <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=chemist&allowed_in_frame=0" class="crossreference">chemist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biochemistry&allowed_in_frame=0">biochemistry (n.)</a> <a href="http://dictionary.reference.com/search?q=biochemistry" class="dictionary" title="Look up biochemistry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biochemistry at Dictionary.com" title="Look up biochemistry at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bio-chemistry</span>, 1857, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=chemistry&allowed_in_frame=0" class="crossreference">chemistry</a>.</dd>
+
+<dt><a href="/index.php?term=biocide&allowed_in_frame=0">biocide (n.)</a> <a href="http://dictionary.reference.com/search?q=biocide" class="dictionary" title="Look up biocide at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biocide at Dictionary.com" title="Look up biocide at Dictionary.com" /></a></dt>
+<dd>"destruction of living tissue or living species," 1947, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=-cide&allowed_in_frame=0" class="crossreference">-cide</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biodegradable&allowed_in_frame=0">biodegradable (adj.)</a> <a href="http://dictionary.reference.com/search?q=biodegradable" class="dictionary" title="Look up biodegradable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biodegradable at Dictionary.com" title="Look up biodegradable at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bio-degradable</span>, 1960, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=degrade&allowed_in_frame=0" class="crossreference">degrade</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>.</dd>
+
+<dt><a href="/index.php?term=biodiesel&allowed_in_frame=0">biodiesel (n.)</a> <a href="http://dictionary.reference.com/search?q=biodiesel" class="dictionary" title="Look up biodiesel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biodiesel at Dictionary.com" title="Look up biodiesel at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-diesel</span>, 1992, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=diesel&allowed_in_frame=0" class="crossreference">diesel</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biodiversity&allowed_in_frame=0">biodiversity (n.)</a> <a href="http://dictionary.reference.com/search?q=biodiversity" class="dictionary" title="Look up biodiversity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biodiversity at Dictionary.com" title="Look up biodiversity at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bio-diversity</span>, by 1988, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=diversity&allowed_in_frame=0" class="crossreference">diversity</a>.</dd>
+
+<dt><a href="/index.php?term=bioethics&allowed_in_frame=0">bioethics (n.)</a> <a href="http://dictionary.reference.com/search?q=bioethics" class="dictionary" title="Look up bioethics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bioethics at Dictionary.com" title="Look up bioethics at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-ethics</span>, coined 1970 by U.S. biochemist Van Rensselaer Potter II (1911-2001), who defined it as "Biology combined with diverse humanistic knowledge forging a science that sets a system of medical and environmental priorities for acceptable survival." From <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=ethics&allowed_in_frame=0" class="crossreference">ethics</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biofeedback&allowed_in_frame=0">biofeedback (n.)</a> <a href="http://dictionary.reference.com/search?q=biofeedback" class="dictionary" title="Look up biofeedback at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biofeedback at Dictionary.com" title="Look up biofeedback at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bio-feedback</span>, 1969, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=feedback&allowed_in_frame=0" class="crossreference">feedback</a>. Said to have been coined by U.S. psychologist and parapsychologist Gardner Murphy (1890-1975).</dd>
+
+<dt><a href="/index.php?term=biofuel&allowed_in_frame=0">biofuel (n.)</a> <a href="http://dictionary.reference.com/search?q=biofuel" class="dictionary" title="Look up biofuel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biofuel at Dictionary.com" title="Look up biofuel at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-fuel</span>, by 1984, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=fuel&allowed_in_frame=0" class="crossreference">fuel</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=biogenesis&allowed_in_frame=0">biogenesis (n.)</a> <a href="http://dictionary.reference.com/search?q=biogenesis" class="dictionary" title="Look up biogenesis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biogenesis at Dictionary.com" title="Look up biogenesis at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bio-genesis</span>, 1870, "theory that living organisms arise only from pre-existing living matter," coined by English biologist T.H. Huxley (1825-1895) from Gk. <span class="foreign">bios</span> "life" (see <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a>) + <a href="/index.php?term=genesis&allowed_in_frame=0" class="crossreference">genesis</a> (q.v.). Related: <span class="foreign">Biogenetic</span>; <span class="foreign">biogenetical</span>.</dd>
+
+<dt><a href="/index.php?term=biogenic&allowed_in_frame=0">biogenic (adj.)</a> <a href="http://dictionary.reference.com/search?q=biogenic" class="dictionary" title="Look up biogenic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biogenic at Dictionary.com" title="Look up biogenic at Dictionary.com" /></a></dt>
+<dd>1904, with reference to Haeckel's recapitulation theory; 1913 as "produced by living organisms," from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <span class="foreign">genic</span> "produced by" (see <a href="/index.php?term=genus&allowed_in_frame=0" class="crossreference">genus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=biogeny&allowed_in_frame=0">biogeny (n.)</a> <a href="http://dictionary.reference.com/search?q=biogeny" class="dictionary" title="Look up biogeny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biogeny at Dictionary.com" title="Look up biogeny at Dictionary.com" /></a></dt>
+<dd class="highlight">1870, "biogenesis;" see <a href="/index.php?term=biogenic&allowed_in_frame=0" class="crossreference">biogenic</a>. As "history of the evolution of an organism," 1879.</dd>
+
+<dt><a href="/index.php?term=biogeography&allowed_in_frame=0">biogeography (n.)</a> <a href="http://dictionary.reference.com/search?q=biogeography" class="dictionary" title="Look up biogeography at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biogeography at Dictionary.com" title="Look up biogeography at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-geography</span>, 1892, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=geography&allowed_in_frame=0" class="crossreference">geography</a>. Related: <span class="foreign">Biogeographical</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biographer&allowed_in_frame=0">biographer (n.)</a> <a href="http://dictionary.reference.com/search?q=biographer" class="dictionary" title="Look up biographer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biographer at Dictionary.com" title="Look up biographer at Dictionary.com" /></a></dt>
+<dd class="highlight">1715; see <a href="/index.php?term=biography&allowed_in_frame=0" class="crossreference">biography</a> + <a href="/index.php?term=-er&allowed_in_frame=0" class="crossreference">-er</a> (1). Earlier was <span class="foreign">biographist</span> (1660s).</dd>
+
+<dt><a href="/index.php?term=biographical&allowed_in_frame=0">biographical (adj.)</a> <a href="http://dictionary.reference.com/search?q=biographical" class="dictionary" title="Look up biographical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biographical at Dictionary.com" title="Look up biographical at Dictionary.com" /></a></dt>
+<dd>1738; see <a href="/index.php?term=biography&allowed_in_frame=0" class="crossreference">biography</a> + <a href="/index.php?term=-ical&allowed_in_frame=0" class="crossreference">-ical</a>. Related: <span class="foreign">Biographically</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=biography&allowed_in_frame=0">biography (n.)</a> <a href="http://dictionary.reference.com/search?q=biography" class="dictionary" title="Look up biography at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biography at Dictionary.com" title="Look up biography at Dictionary.com" /></a></dt>
+<dd class="highlight">1680s, probably from L. <span class="foreign">biographia</span>, from Late Gk. <span class="foreign">biographia</span> "description of life," from Gk. <span class="foreign">bio-</span> "life" (see <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a>) + <span class="foreign">graphia</span> "record, account" (see <a href="/index.php?term=-graphy&allowed_in_frame=0" class="crossreference">-graphy</a>). <span class="foreign">Biographia</span> was not in classical Greek (<span class="foreign">bios</span> alone was the word for it), though it is attested in later Greek from c.500.</dd>
+
+<dt><a href="/index.php?term=biohazard&allowed_in_frame=0">biohazard (n.)</a> <a href="http://dictionary.reference.com/search?q=biohazard" class="dictionary" title="Look up biohazard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biohazard at Dictionary.com" title="Look up biohazard at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">bio-hazard</span>, 1973, from <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a> + <a href="/index.php?term=hazard&allowed_in_frame=0" class="crossreference">hazard</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=biological&allowed_in_frame=0">biological (adj.)</a> <a href="http://dictionary.reference.com/search?q=biological" class="dictionary" title="Look up biological at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biological at Dictionary.com" title="Look up biological at Dictionary.com" /></a></dt>
+<dd class="highlight">1840, from <a href="/index.php?term=biology&allowed_in_frame=0" class="crossreference">biology</a> + <a href="/index.php?term=-ical&allowed_in_frame=0" class="crossreference">-ical</a>. <span class="foreign">Biological clock</span> attested from 1955; not especially of human reproductive urges until c.1991. Related: <span class="foreign">Biologically</span>.</dd>
+
+<dt><a href="/index.php?term=biologist&allowed_in_frame=0">biologist (n.)</a> <a href="http://dictionary.reference.com/search?q=biologist" class="dictionary" title="Look up biologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up biologist at Dictionary.com" title="Look up biologist at Dictionary.com" /></a></dt>
+<dd>1813, from <a href="/index.php?term=biology&allowed_in_frame=0" class="crossreference">biology</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>. Earliest use is in reference to human life. In modern scientific sense, by 1874.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=b&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=b&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=b&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=b&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=b&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=b&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=b&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=b&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=b&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=b&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=b&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=b&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=b&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=b&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=b&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=b&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=b&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=b&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=b&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=b&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=b&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=b&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a class="current" href="/index.php?l=b&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=b&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=b&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=b&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=b&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=b&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=b&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=b&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=b&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=b&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=b&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=b&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=b&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=b&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=b&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=b&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=b&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=b&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=b&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=b&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=b&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=b&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=b&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=b&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=b&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=b&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=b&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=b&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=b&amp;p=50&allowed_in_frame=0">51</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658022 -->
+<!-- Page was generated in 0.179597 seconds. -->
+ </body>
+</html>
+<!-- -->

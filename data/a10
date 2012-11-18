@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=adjectival&allowed_in_frame=0">adjectival (adj.)</a> <a href="http://dictionary.reference.com/search?q=adjectival" class="dictionary" title="Look up adjectival at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjectival at Dictionary.com" title="Look up adjectival at Dictionary.com" /></a></dt>
+<dd class="highlight">1797, from <a href="/index.php?term=adjective&allowed_in_frame=0" class="crossreference">adjective</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1).</dd>
+
+<dt><a href="/index.php?term=adjective&allowed_in_frame=0">adjective</a> <a href="http://dictionary.reference.com/search?q=adjective" class="dictionary" title="Look up adjective at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjective at Dictionary.com" title="Look up adjective at Dictionary.com" /></a></dt>
+<dd>late 14c., as an adjective, "adjectival," in <span class="foreign">noun adjective</span>, from O.Fr. <span class="foreign">adjectif</span> (14c.), from L. <span class="foreign">adjectivum</span> "that is added to (the noun)," neut. of <span class="foreign">adjectivus</span> "added," from pp. of <span class="foreign">adicere</span> "to throw or place (a thing) near," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + comb. form of <span class="foreign">iacere</span> "to throw" (see <a href="/index.php?term=jet&allowed_in_frame=0" class="crossreference">jet</a> (v.)). Also as a noun from late 14c. (adjectives not clearly distinguished from nouns in Middle English). In 19c. Britain, the word itself often was a euphemism for the taboo adjective <a href="/index.php?term=bloody&allowed_in_frame=0" class="crossreference">bloody</a>.<blockquote>They ... slept until it was cool enough to go out with their 'Towny,' whose vocabulary contained less than six hundred words, and the Adjective. [Kipling, "Soldiers Three," 1888]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=adjoin&allowed_in_frame=0">adjoin (v.)</a> <a href="http://dictionary.reference.com/search?q=adjoin" class="dictionary" title="Look up adjoin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjoin at Dictionary.com" title="Look up adjoin at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "unite, ally" from O.Fr. <span class="foreign">ajoin-</span> stem of <span class="foreign">ajoindre</span> "join together, unite," from L. <span class="foreign">adjungere</span> "fasten on, harness, join to," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">jungere</span> "to bind together" (see <a href="/index.php?term=jugular&allowed_in_frame=0" class="crossreference">jugular</a>). Meaning "be contiguous with, be adjacent to" is from late 14c. Related: <span class="foreign">Adjoined</span>; <span class="foreign">adjoining</span>.</dd>
+
+<dt><a href="/index.php?term=adjourn&allowed_in_frame=0">adjourn (v.)</a> <a href="http://dictionary.reference.com/search?q=adjourn" class="dictionary" title="Look up adjourn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjourn at Dictionary.com" title="Look up adjourn at Dictionary.com" /></a></dt>
+<dd>early 14c., <span class="foreign">ajournen</span>, "assign a day" (for convening or reconvening), from O.Fr. <span class="foreign">ajourner</span> (12c.) "meet" (at an appointed time), from the phrase <span class="foreign">&agrave; jorn</span> "to a stated day" (<span class="foreign">&agrave;</span> "to" + <span class="foreign">journ</span> "day," from L. <span class="foreign">diurnus</span> "daily;" see <a href="/index.php?term=diurnal&allowed_in_frame=0" class="crossreference">diurnal</a>). The sense is to set a date for a re-meeting. Meaning "to close a meeting" (with or without intention to reconvene) is from early 15c. Meaning "to go in a body to another place" (1640s) is colloquial. The unhistorical <span class="foreign">-d-</span> was added 16c. Related: <span class="foreign">Adjourned</span>; <span class="foreign">adjourning</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjournment&allowed_in_frame=0">adjournment (n.)</a> <a href="http://dictionary.reference.com/search?q=adjournment" class="dictionary" title="Look up adjournment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjournment at Dictionary.com" title="Look up adjournment at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from O.Fr. <span class="foreign">ajornement</span> "daybreak, dawn; summons (to appear in court)," from <span class="foreign">ajorner</span> (see <a href="/index.php?term=adjourn&allowed_in_frame=0" class="crossreference">adjourn</a>).</dd>
+
+<dt><a href="/index.php?term=adjudge&allowed_in_frame=0">adjudge (v.)</a> <a href="http://dictionary.reference.com/search?q=adjudge" class="dictionary" title="Look up adjudge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjudge at Dictionary.com" title="Look up adjudge at Dictionary.com" /></a></dt>
+<dd>late 14c., "to make a judicial decision," from O.Fr. <span class="foreign">ajugier</span> "to judge, pass judgment on," from L. <span class="foreign">adjudicare</span> "grant or award as a judge," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">judicare</span> "to judge," which is related to <span class="foreign">judicem</span> (see <a href="/index.php?term=judge&allowed_in_frame=0" class="crossreference">judge</a> (v.)). Sense of "to have an opinion" is from c.1400. Related: <span class="foreign">Adjudged</span>; <span class="foreign">adjudging</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjudicate&allowed_in_frame=0">adjudicate (v.)</a> <a href="http://dictionary.reference.com/search?q=adjudicate" class="dictionary" title="Look up adjudicate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjudicate at Dictionary.com" title="Look up adjudicate at Dictionary.com" /></a></dt>
+<dd class="highlight">1700, from L. <span class="foreign">adjudicatus</span>, pp. of <span class="foreign">adjudicare</span> (see <a href="/index.php?term=adjudge&allowed_in_frame=0" class="crossreference">adjudge</a>). Related: <span class="foreign">Adjudicated</span>; <span class="foreign">adjudicating</span>.</dd>
+
+<dt><a href="/index.php?term=adjudication&allowed_in_frame=0">adjudication (n.)</a> <a href="http://dictionary.reference.com/search?q=adjudication" class="dictionary" title="Look up adjudication at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjudication at Dictionary.com" title="Look up adjudication at Dictionary.com" /></a></dt>
+<dd>1690s, from Fr. <span class="foreign">adjudication</span> or directly from L.L. <span class="foreign">adjudicationem</span> (nom. <span class="foreign">adjudicatio</span>), noun of action from pp. stem of <span class="foreign">adjudicare</span> (see <a href="/index.php?term=adjudge&allowed_in_frame=0" class="crossreference">adjudge</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjudicative&allowed_in_frame=0">adjudicative (adj.)</a> <a href="http://dictionary.reference.com/search?q=adjudicative" class="dictionary" title="Look up adjudicative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjudicative at Dictionary.com" title="Look up adjudicative at Dictionary.com" /></a></dt>
+<dd class="highlight">1809; see <a href="/index.php?term=adjudicate&allowed_in_frame=0" class="crossreference">adjudicate</a> + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>.</dd>
+
+<dt><a href="/index.php?term=adjudicator&allowed_in_frame=0">adjudicator (n.)</a> <a href="http://dictionary.reference.com/search?q=adjudicator" class="dictionary" title="Look up adjudicator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjudicator at Dictionary.com" title="Look up adjudicator at Dictionary.com" /></a></dt>
+<dd>1804, agent noun in Latin form from <a href="/index.php?term=adjudicate&allowed_in_frame=0" class="crossreference">adjudicate</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjunct&allowed_in_frame=0">adjunct (n.)</a> <a href="http://dictionary.reference.com/search?q=adjunct" class="dictionary" title="Look up adjunct at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjunct at Dictionary.com" title="Look up adjunct at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, from L. <span class="foreign">adjunctus</span> "closely connected, joined, united;" as a noun, "a characteristic, essential attribute," pp. of <span class="foreign">adjungere</span> "join to" (see <a href="/index.php?term=adjoin&allowed_in_frame=0" class="crossreference">adjoin</a>).</dd>
+
+<dt><a href="/index.php?term=adjunct&allowed_in_frame=0">adjunct (adj.)</a> <a href="http://dictionary.reference.com/search?q=adjunct" class="dictionary" title="Look up adjunct at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjunct at Dictionary.com" title="Look up adjunct at Dictionary.com" /></a></dt>
+<dd>1590s, from L. <span class="foreign">adjunctus</span> "closely connected, joined, united," pp. of <span class="foreign">adjungere</span> "join to" (see <a href="/index.php?term=adjoin&allowed_in_frame=0" class="crossreference">adjoin</a>). <span class="foreign">Adjunct professor</span> is 1826, American English.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjuration&allowed_in_frame=0">adjuration (n.)</a> <a href="http://dictionary.reference.com/search?q=adjuration" class="dictionary" title="Look up adjuration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjuration at Dictionary.com" title="Look up adjuration at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "exorcism," from L.L. <span class="foreign">adjurationem</span> (nom. <span class="foreign">adjuratio</span>) "a swearing to," noun of action from pp. stem of <span class="foreign">adjurare</span> (see <a href="/index.php?term=adjure&allowed_in_frame=0" class="crossreference">adjure</a>). Originally a term in exorcism (with <span class="foreign">conjuration</span>). General sense is from 17c.</dd>
+
+<dt><a href="/index.php?term=adjure&allowed_in_frame=0">adjure (v.)</a> <a href="http://dictionary.reference.com/search?q=adjure" class="dictionary" title="Look up adjure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjure at Dictionary.com" title="Look up adjure at Dictionary.com" /></a></dt>
+<dd>late 14c., "to bind by oath; to question under oath," from L. <span class="foreign">adjurare</span> "confirm by oath, add an oath, to swear to in addition," in L.L. "to put (someone) to an oath," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">jurare</span> "swear," from <span class="foreign">jus</span> (gen. <span class="foreign">juris</span>) "law" (see <a href="/index.php?term=jurist&allowed_in_frame=0" class="crossreference">jurist</a>). Related: <span class="foreign">Adjured</span>; <span class="foreign">adjuring</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjust&allowed_in_frame=0">adjust (v.)</a> <a href="http://dictionary.reference.com/search?q=adjust" class="dictionary" title="Look up adjust at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjust at Dictionary.com" title="Look up adjust at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">ajusten</span>, "to correct, remedy;" reborrowed by c.1600 in sense "arrange, settle, compose," from M.Fr. <span class="foreign">adjuster</span>, O.Fr. <span class="foreign">ajouter</span> "to join" (12c.), from L.L. <span class="foreign">adjuxtare</span> "to bring near," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">juxta</span> "next," related to <span class="foreign">jungere</span> "to join" (see <a href="/index.php?term=jugular&allowed_in_frame=0" class="crossreference">jugular</a>). Influenced by folk etymology derivation from L. <span class="foreign">justus</span> "just, equitable, fair." Meaning "to arrange (something) so as to conform with (a standard or another thing)" is from 1660s. Insurance sense is from 1755. Meaning "to get used to" first recorded 1924. Related: <span class="foreign">Adjusted</span>; <span class="foreign">adjusting</span>.</dd>
+
+<dt><a href="/index.php?term=adjustable&allowed_in_frame=0">adjustable (adj.)</a> <a href="http://dictionary.reference.com/search?q=adjustable" class="dictionary" title="Look up adjustable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjustable at Dictionary.com" title="Look up adjustable at Dictionary.com" /></a></dt>
+<dd>1775, from <a href="/index.php?term=adjust&allowed_in_frame=0" class="crossreference">adjust</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Adjustably</span>; <span class="foreign">adjustability</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjuster&allowed_in_frame=0">adjuster (n.)</a> <a href="http://dictionary.reference.com/search?q=adjuster" class="dictionary" title="Look up adjuster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjuster at Dictionary.com" title="Look up adjuster at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, agent noun in English form from <a href="/index.php?term=adjust&allowed_in_frame=0" class="crossreference">adjust</a>. Insurance sense is from 1830.</dd>
+
+<dt><a href="/index.php?term=adjustment&allowed_in_frame=0">adjustment (n.)</a> <a href="http://dictionary.reference.com/search?q=adjustment" class="dictionary" title="Look up adjustment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjustment at Dictionary.com" title="Look up adjustment at Dictionary.com" /></a></dt>
+<dd>1640s, from Fr. <span class="foreign">ajustement</span> or else a native formation from <a href="/index.php?term=adjust&allowed_in_frame=0" class="crossreference">adjust</a> (v.) + <a href="/index.php?term=-ment&allowed_in_frame=0" class="crossreference">-ment</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adjustor&allowed_in_frame=0">adjustor (n.)</a> <a href="http://dictionary.reference.com/search?q=adjustor" class="dictionary" title="Look up adjustor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjustor at Dictionary.com" title="Look up adjustor at Dictionary.com" /></a></dt>
+<dd class="highlight">1857, of certain muscles, agent noun in Latin form from <a href="/index.php?term=adjust&allowed_in_frame=0" class="crossreference">adjust</a> (v.).</dd>
+
+<dt><a href="/index.php?term=adjutant&allowed_in_frame=0">adjutant (n.)</a> <a href="http://dictionary.reference.com/search?q=adjutant" class="dictionary" title="Look up adjutant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adjutant at Dictionary.com" title="Look up adjutant at Dictionary.com" /></a></dt>
+<dd>"military officer who assists superior officers," c.1600, from L. <span class="foreign">adiutantem</span> (nom. <span class="foreign">adiutans</span>),  prp. of <span class="foreign">adiutare</span> "to give help to, help zealously, serve," frequentative of <span class="foreign">adiuvare</span> (pp. <span class="foreign">adiutus</span>) "help, assist, aid, support," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">iuvare</span> "to help, give strength, support," perhaps from same root as <span class="foreign">iuvenis</span> "young person" (see <a href="/index.php?term=young&allowed_in_frame=0" class="crossreference">young</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=administer&allowed_in_frame=0">administer (v.)</a> <a href="http://dictionary.reference.com/search?q=administer" class="dictionary" title="Look up administer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up administer at Dictionary.com" title="Look up administer at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">administren</span>, <span class="foreign">aministren</span> "to manage as a steward," from O.Fr. <span class="foreign">amenistrer</span> "help, aid, be of service to" (12c., Mod.Fr. <span class="foreign">administrer</span>, the <span class="foreign">-d-</span> restored 16c.), and directly from L. <span class="foreign">administrare</span> "manage, control, guide, superintend; rule direct," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">ministrare</span> "serve" (see <a href="/index.php?term=minister&allowed_in_frame=0" class="crossreference">minister</a> (v.)). Used of medicine, etc., "to give," from 1540s. Related: <span class="foreign">Administered</span>; <span class="foreign">administering</span>.</dd>
+
+<dt><a href="/index.php?term=administrate&allowed_in_frame=0">administrate (v.)</a> <a href="http://dictionary.reference.com/search?q=administrate" class="dictionary" title="Look up administrate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up administrate at Dictionary.com" title="Look up administrate at Dictionary.com" /></a></dt>
+<dd>1630s, from L. <span class="foreign">administratus</span>, pp. of <span class="foreign">administrare</span> (see <a href="/index.php?term=administer&allowed_in_frame=0" class="crossreference">administer</a>). In modern use a back formation from <span class="foreign">administration</span>. Related: <span class="foreign">Administrated</span>; <span class="foreign">administrating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=administration&allowed_in_frame=0">administration (n.)</a> <a href="http://dictionary.reference.com/search?q=administration" class="dictionary" title="Look up administration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up administration at Dictionary.com" title="Look up administration at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "act of giving or dispensing; late 14c., "management, act of administering," from L. <span class="foreign">administrationem</span> (nom. <span class="foreign">administratio</span>) "direction, management," noun of action from pp. stem of <span class="foreign">administrare</span> (see <a href="/index.php?term=administer&allowed_in_frame=0" class="crossreference">administer</a>). Early 15c. as "management of a deceased person's estate." Meaning "the government" is attested from 1731 in British usage. Meaning "a U.S. president's period in office" is first recorded 1796 in writings of George Washington.</dd>
+
+<dt><a href="/index.php?term=administrative&allowed_in_frame=0">administrative (adj.)</a> <a href="http://dictionary.reference.com/search?q=administrative" class="dictionary" title="Look up administrative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up administrative at Dictionary.com" title="Look up administrative at Dictionary.com" /></a></dt>
+<dd>1731, from L. <span class="foreign">administrativus</span>, from pp. stem of <span class="foreign">administrare</span> (see <a href="/index.php?term=administer&allowed_in_frame=0" class="crossreference">administer</a>). Related: <span class="foreign">Administratively</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=administrator&allowed_in_frame=0">administrator (n.)</a> <a href="http://dictionary.reference.com/search?q=administrator" class="dictionary" title="Look up administrator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up administrator at Dictionary.com" title="Look up administrator at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from M.Fr. <span class="foreign">administrateur</span> or directly from L. <span class="foreign">administrator</span> "a manager, conductor," agent noun from pp. stem of <span class="foreign">administrare</span> (see <a href="/index.php?term=administer&allowed_in_frame=0" class="crossreference">administer</a>). Estate sense is earliest. For ending, see <a href="/index.php?term=-er&allowed_in_frame=0" class="crossreference">-er</a>.</dd>
+
+<dt><a href="/index.php?term=admirable&allowed_in_frame=0">admirable (adj.)</a> <a href="http://dictionary.reference.com/search?q=admirable" class="dictionary" title="Look up admirable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admirable at Dictionary.com" title="Look up admirable at Dictionary.com" /></a></dt>
+<dd>mid-15c., "worthy of admiration," from M.Fr. <span class="foreign">admirable</span> (O.Fr. <span class="foreign">amirable</span>), from L. <span class="foreign">admirabilis</span> "admirable, wonderful," from <span class="foreign">admirari</span> "to admire" (see <a href="/index.php?term=admiration&allowed_in_frame=0" class="crossreference">admiration</a>). In early years it also carried a stronger sense of "awe-inspiring."
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=admirably&allowed_in_frame=0">admirably (adv.)</a> <a href="http://dictionary.reference.com/search?q=admirably" class="dictionary" title="Look up admirably at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admirably at Dictionary.com" title="Look up admirably at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from <a href="/index.php?term=admirable&allowed_in_frame=0" class="crossreference">admirable</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=admiral&allowed_in_frame=0">admiral (n.)</a> <a href="http://dictionary.reference.com/search?q=admiral" class="dictionary" title="Look up admiral at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admiral at Dictionary.com" title="Look up admiral at Dictionary.com" /></a></dt>
+<dd>c.1200, "Saracen commander," from O.Fr. <span class="foreign">amirail</span> (12c.) "Saracen military commander; any military commander," probably ultimately from Arabic title <span class="foreign">amir-ar-rahl</span> "chief of the transport," officer in the Mediterranean fleet, from <span class="foreign">amir</span> "leader;" influenced by L. <span class="foreign">ad-mirabilis</span> (see <a href="/index.php?term=admire&allowed_in_frame=0" class="crossreference">admire</a>). Italian form <span class="foreign">almiraglio</span>, Sp. <span class="foreign">almirante</span> are from confusion with Arabic words in <span class="foreign">al-</span>. Meaning "highest-ranking naval officer" is from early 15c. As a type of butterfly, from 1720, possibly a corruption of <span class="foreign">admirable</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=admiralty&allowed_in_frame=0">admiralty (n.)</a> <a href="http://dictionary.reference.com/search?q=admiralty" class="dictionary" title="Look up admiralty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admiralty at Dictionary.com" title="Look up admiralty at Dictionary.com" /></a></dt>
+<dd class="highlight">"naval branch of English executive," early 15c., from O.Fr. <span class="foreign">amiralte</span>, from <span class="foreign">amirail</span> (see <a href="/index.php?term=admiral&allowed_in_frame=0" class="crossreference">admiral</a>).</dd>
+
+<dt><a href="/index.php?term=admiration&allowed_in_frame=0">admiration (n.)</a> <a href="http://dictionary.reference.com/search?q=admiration" class="dictionary" title="Look up admiration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admiration at Dictionary.com" title="Look up admiration at Dictionary.com" /></a></dt>
+<dd>early 15c., "wonder," from M.Fr. <span class="foreign">admiration</span> (14c.) or directly from L. <span class="foreign">admirationem</span> (nom. <span class="foreign">admiratio</span>) "a wondering at, admiration," noun of state from pp. stem of <span class="foreign">admirari</span> "admire," from <span class="foreign">ad-</span> "at" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">mirari</span> "to wonder," from <span class="foreign">mirus</span> "wonderful" (see <a href="/index.php?term=miracle&allowed_in_frame=0" class="crossreference">miracle</a>). The sense has weakened steadily since 16c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=admire&allowed_in_frame=0">admire (v.)</a> <a href="http://dictionary.reference.com/search?q=admire" class="dictionary" title="Look up admire at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admire at Dictionary.com" title="Look up admire at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c. (implied in <span class="foreign">admired</span>), from M.Fr. <span class="foreign">admirer</span> (O.Fr. <span class="foreign">amirer</span>, 14c.), or directly from L. <span class="foreign">admirari</span> "to wonder at" (see <a href="/index.php?term=admiration&allowed_in_frame=0" class="crossreference">admiration</a>). Related: <span class="foreign">Admiring</span>; <span class="foreign">admiringly</span>.</dd>
+
+<dt><a href="/index.php?term=admirer&allowed_in_frame=0">admirer (n.)</a> <a href="http://dictionary.reference.com/search?q=admirer" class="dictionary" title="Look up admirer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admirer at Dictionary.com" title="Look up admirer at Dictionary.com" /></a></dt>
+<dd>c.1600, agent noun from <a href="/index.php?term=admire&allowed_in_frame=0" class="crossreference">admire</a> (v.). "In common speech, a lover" [Johnson], a sense recorded from 1704.</dd>
+
+<dt class="highlight"><a href="/index.php?term=admissibility&allowed_in_frame=0">admissibility (n.)</a> <a href="http://dictionary.reference.com/search?q=admissibility" class="dictionary" title="Look up admissibility at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admissibility at Dictionary.com" title="Look up admissibility at Dictionary.com" /></a></dt>
+<dd class="highlight">1763, from <a href="/index.php?term=admissible&allowed_in_frame=0" class="crossreference">admissible</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=admissible&allowed_in_frame=0">admissible (adj.)</a> <a href="http://dictionary.reference.com/search?q=admissible" class="dictionary" title="Look up admissible at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admissible at Dictionary.com" title="Look up admissible at Dictionary.com" /></a></dt>
+<dd>1610s, from M.Fr. <span class="foreign">admissible</span>, from pp. stem of L. <span class="foreign">admittere</span> (see <a href="/index.php?term=admit&allowed_in_frame=0" class="crossreference">admit</a>). Legal sense is recorded from 1849.</dd>
+
+<dt class="highlight"><a href="/index.php?term=admission&allowed_in_frame=0">admission (n.)</a> <a href="http://dictionary.reference.com/search?q=admission" class="dictionary" title="Look up admission at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admission at Dictionary.com" title="Look up admission at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "acceptance, reception, approval," from L. <span class="foreign">admissionem</span> (nom. <span class="foreign">admissio</span>) "a letting in," noun of action from pp. stem of <span class="foreign">admittere</span> (see <a href="/index.php?term=admit&allowed_in_frame=0" class="crossreference">admit</a>). Meaning "an acknowledging" is from 1530s. Sense of "a literal act of letting in" is from 1620s. As short for <span class="foreign">admission price</span>, by 1792.</dd>
+
+<dt><a href="/index.php?term=admit&allowed_in_frame=0">admit (v.)</a> <a href="http://dictionary.reference.com/search?q=admit" class="dictionary" title="Look up admit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admit at Dictionary.com" title="Look up admit at Dictionary.com" /></a></dt>
+<dd>late 14c., "let in," from L. <span class="foreign">admittere</span> "to allow to enter, let in, let come, give access," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">mittere</span> "let go, send" (see <a href="/index.php?term=mission&allowed_in_frame=0" class="crossreference">mission</a>). Sense of "to concede as valid or true" is first recorded early 15c. Related: <span class="foreign">Admitted</span>; <span class="foreign">Admitting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=admittance&allowed_in_frame=0">admittance (n.)</a> <a href="http://dictionary.reference.com/search?q=admittance" class="dictionary" title="Look up admittance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admittance at Dictionary.com" title="Look up admittance at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "the action of admitting," formed in English from <a href="/index.php?term=admit&allowed_in_frame=0" class="crossreference">admit</a> + <a href="/index.php?term=-ance&allowed_in_frame=0" class="crossreference">-ance</a> (if from Latin, it would have been <span class="foreign">*admittence</span>; French uses <span class="foreign">acc&egrave;s</span> in this sense). Used formerly in senses where <a href="/index.php?term=admission&allowed_in_frame=0" class="crossreference">admission</a> now prevails. <span class="foreign">Admissure</span> was used in this sense from mid-15c.</dd>
+
+<dt><a href="/index.php?term=admittedly&allowed_in_frame=0">admittedly (adv.)</a> <a href="http://dictionary.reference.com/search?q=admittedly" class="dictionary" title="Look up admittedly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admittedly at Dictionary.com" title="Look up admittedly at Dictionary.com" /></a></dt>
+<dd>1780, from pp. of <a href="/index.php?term=admit&allowed_in_frame=0" class="crossreference">admit</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=admixture&allowed_in_frame=0">admixture (n.)</a> <a href="http://dictionary.reference.com/search?q=admixture" class="dictionary" title="Look up admixture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admixture at Dictionary.com" title="Look up admixture at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, with <a href="/index.php?term=-ure&allowed_in_frame=0" class="crossreference">-ure</a>, from <span class="foreign">admix</span> (1530s), a back formation from <span class="foreign">admixt</span> (early 15c.), from L. <span class="foreign">admixtus</span> "mixed with," pp. of <span class="foreign">admiscere</span> "to add to by mingling, mix with," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">miscere</span> "to mix" (see <a href="/index.php?term=mix&allowed_in_frame=0" class="crossreference">mix</a>). In Middle English <span class="foreign">admixt</span> was mistaken as a pp. of a (then) non-existent <span class="foreign">*admix</span>. Earlier in this sense was <span class="foreign">admixtion</span> (late 14c.).</dd>
+
+<dt><a href="/index.php?term=admonish&allowed_in_frame=0">admonish (v.)</a> <a href="http://dictionary.reference.com/search?q=admonish" class="dictionary" title="Look up admonish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admonish at Dictionary.com" title="Look up admonish at Dictionary.com" /></a></dt>
+<dd>mid-14c., <span class="foreign">amonesten</span> "remind, urge, exhort, warn, give warning," from O.Fr. <span class="foreign">amonester</span> (12c.) "urge, encourage, warn," from V.L. <span class="foreign">*admonestare</span>, from L. <span class="foreign">admonere</span> "bring to mind, remind, suggest;" also "warn, advise, urge," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">monere</span> "advise, warn" (see <a href="/index.php?term=monitor&allowed_in_frame=0" class="crossreference">monitor</a> (n.)). The <span class="foreign">-d-</span> was restored on Latin model. The ending was influenced by words in <span class="foreign">-ish</span> (e.g. <span class="foreign">astonish</span>, <span class="foreign">abolish</span>). Related: <span class="foreign">Admonished</span>; <span class="foreign">admonishing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=admonition&allowed_in_frame=0">admonition (n.)</a> <a href="http://dictionary.reference.com/search?q=admonition" class="dictionary" title="Look up admonition at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admonition at Dictionary.com" title="Look up admonition at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">amonicioun</span> "reminding, instruction," from O.Fr. <span class="foreign">amonicion</span> "admonition, exhortation," from L. <span class="foreign">admonitionem</span> (nom. <span class="foreign">admonitio</span>), noun of action from pp. stem of <span class="foreign">admonere</span> (see <a href="/index.php?term=admonish&allowed_in_frame=0" class="crossreference">admonish</a>). Meaning "warning" is early 15c. The <span class="foreign">-d-</span> was restored in English 17c.</dd>
+
+<dt><a href="/index.php?term=admonitory&allowed_in_frame=0">admonitory (adj.)</a> <a href="http://dictionary.reference.com/search?q=admonitory" class="dictionary" title="Look up admonitory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up admonitory at Dictionary.com" title="Look up admonitory at Dictionary.com" /></a></dt>
+<dd>1590s, from L.L. <span class="foreign">admonitorius</span>, from L. <span class="foreign">admonitus</span>, pp. of <span class="foreign">admonere</span> (see <a href="/index.php?term=admonish&allowed_in_frame=0" class="crossreference">admonish</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ado&allowed_in_frame=0">ado (n.)</a> <a href="http://dictionary.reference.com/search?q=ado" class="dictionary" title="Look up ado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ado at Dictionary.com" title="Look up ado at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "conflict, fighting; difficulty, trouble," compounded from <span class="foreign">at do</span>, dialectal in Norse influenced areas of England for <span class="foreign">to do</span>, as some Scandinavian languages used <span class="foreign">at</span> with infinitive of a verb where Modern English uses <span class="foreign">to</span>. For sense development, cf. <a href="/index.php?term=to-do&allowed_in_frame=0" class="crossreference">to-do</a>. Meaning "fuss" is from early 15c. Also used in Middle English for "dealings, traffic," and "sexual intercourse" (both c.1400).</dd>
+
+<dt><a href="/index.php?term=adobe&allowed_in_frame=0">adobe (n.)</a> <a href="http://dictionary.reference.com/search?q=adobe" class="dictionary" title="Look up adobe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adobe at Dictionary.com" title="Look up adobe at Dictionary.com" /></a></dt>
+<dd>1739, American English, from Sp. <span class="foreign">adobe</span>, from oral form of Arabic <span class="foreign">al-tob</span> "the brick," from Coptic <span class="foreign">tube</span> "brick," a word found in hieroglyphics.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adolescence&allowed_in_frame=0">adolescence (n.)</a> <a href="http://dictionary.reference.com/search?q=adolescence" class="dictionary" title="Look up adolescence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adolescence at Dictionary.com" title="Look up adolescence at Dictionary.com" /></a></dt>
+<dd class="highlight">"age following childhood" (especially the period from the 15th to the 21st year), early 15c., from M.Fr. <span class="foreign">adolescence</span> (14c.), from L. <span class="foreign">adolescentia</span> "youth," noun of state from <span class="foreign">adolescentem</span> (see <a href="/index.php?term=adolescent&allowed_in_frame=0" class="crossreference">adolescent</a>).</dd>
+
+<dt><a href="/index.php?term=adolescent&allowed_in_frame=0">adolescent (n.)</a> <a href="http://dictionary.reference.com/search?q=adolescent" class="dictionary" title="Look up adolescent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adolescent at Dictionary.com" title="Look up adolescent at Dictionary.com" /></a></dt>
+<dd>mid-15c., "youth, young man," from M.Fr. <span class="foreign">adolescent</span> (15c.) or directly from L. <span class="foreign">adolescentem</span> (nom. <span class="foreign">adolescens</span>) "growing, near maturity, youthful," prp. of <span class="foreign">adolescere</span> "grow up, come to maturity, ripen," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">alescere</span> "be nourished," hence, "increase, grow up," inchoative of <span class="foreign">alere</span> "to nourish" (see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>). <span class="foreign">Adolesce</span> was a back-formed verb used early 20c. by H.G. Wells, G.B. Shaw, Louis MacNeice, but it seems not to have taken.</dd>
+
+<dt class="highlight"><a href="/index.php?term=adolescent&allowed_in_frame=0">adolescent (adj.)</a> <a href="http://dictionary.reference.com/search?q=adolescent" class="dictionary" title="Look up adolescent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up adolescent at Dictionary.com" title="Look up adolescent at Dictionary.com" /></a></dt>
+<dd class="highlight">1785, from L. <span class="foreign">adolescentem</span> (nom. <span class="foreign">adolescens</span>) "growing, near maturity, youthful," prp. of <span class="foreign">adolescere</span> "grow up, come to maturity, ripen" (see <a href="/index.php?term=adolescent&allowed_in_frame=0" class="crossreference">adolescent</a> (n.)). </dd>
+
+<dt><a href="/index.php?term=Adolph&allowed_in_frame=0">Adolph</a> <a href="http://dictionary.reference.com/search?q=Adolph" class="dictionary" title="Look up Adolph at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Adolph at Dictionary.com" title="Look up Adolph at Dictionary.com" /></a></dt>
+<dd>masc. proper name, from O.H.G. <span class="foreign">Athalwolf</span> "noble wolf," from <span class="foreign">athal</span> "noble" (see <a href="/index.php?term=atheling&allowed_in_frame=0" class="crossreference">atheling</a>) + <span class="foreign">wolf</span> (see <a href="/index.php?term=wolf&allowed_in_frame=0" class="crossreference">wolf</a> (n.)). The <span class="foreign">-ph</span> is from the Latinized form of the name.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Adonai&allowed_in_frame=0">Adonai</a> <a href="http://dictionary.reference.com/search?q=Adonai" class="dictionary" title="Look up Adonai at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Adonai at Dictionary.com" title="Look up Adonai at Dictionary.com" /></a></dt>
+<dd class="highlight">Old Testament word for "God," late 14c., from Medieval Latin, from Hebrew, lit. "my lord," from <span class="foreign">adon</span> (see <a href="/index.php?term=Adonis&allowed_in_frame=0" class="crossreference">Adonis</a>) + suffix of 1st person.</dd>
+
+<dt><a href="/index.php?term=Adonis&allowed_in_frame=0">Adonis</a> <a href="http://dictionary.reference.com/search?q=Adonis" class="dictionary" title="Look up Adonis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Adonis at Dictionary.com" title="Look up Adonis at Dictionary.com" /></a></dt>
+<dd>"a beau," 1620s, from Gk. <span class="foreign">Adonis</span>, name of the youth beloved by Aphrodite, from Phoenician <span class="foreign">adon</span> "lord," probably originally "ruler," from base <span class="foreign">a-d-n</span> "to judge, rule." <a href="/index.php?term=Adonai&allowed_in_frame=0" class="crossreference">Adonai</a> is the Hebrew cognate.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657927 -->
+<!-- Page was generated in 0.167664 seconds. -->
+ </body>
+</html>
+<!-- -->

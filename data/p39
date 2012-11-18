@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=plover&allowed_in_frame=0">plover (n.)</a> <a href="http://dictionary.reference.com/search?q=plover" class="dictionary" title="Look up plover at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plover at Dictionary.com" title="Look up plover at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from Anglo-Fr. <span class="foreign">plover</span>, O.Fr. <span class="foreign">pluvier</span>, earlier <span class="foreign">plovier</span> (c.1200), from V.L. <span class="foreign">*plovarius</span>, lit. "belonging to rain," from L. <span class="foreign">pluvia</span> "rain." Perhaps so called because the birds' migration arrival coincides with the start of the rainy season, or from its supposed restlessness when rain approaches.</dd>
+
+<dt><a href="/index.php?term=plow&allowed_in_frame=0">plow (n.)</a> <a href="http://dictionary.reference.com/search?q=plow" class="dictionary" title="Look up plow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plow at Dictionary.com" title="Look up plow at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">plog, ploh</span> "plow, plowland (a measure of land)," possibly from Scandinavian (cf. O.N. <span class="foreign">plogr</span> "plow"), from P.Gmc. <span class="foreign">*plogo-</span> (cf. O.Fris. <span class="foreign">ploch</span>, M.L.G. <span class="foreign">ploch</span>, M.Du. <span class="foreign">ploech</span>, O.H.G. <span class="foreign">pfluog</span>). O.C.S. <span class="foreign">plugu</span>, Lith. <span class="foreign">plugas</span> "plow" are Germanic loan-words, as is probably L. <span class="foreign">plovus, plovum</span> "plow," a word said by Pliny to be of Rhaetian origin. Replaced O.E. <span class="foreign">sulh</span>, cognate with L. <span class="foreign">sulcus</span> "furrow." As a name for the star pattern also known as the Big Dipper or <a href="/index.php?term=Charles's Wain&allowed_in_frame=0" class="crossreference">Charles's Wain</a>, it is attested by early 15c., perhaps early 14c. The three "handle" stars (in the Dipper configuration) generally are the team of oxen pulling the plow, though sometimes they are the handle.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plow&allowed_in_frame=0">plow (v.)</a> <a href="http://dictionary.reference.com/search?q=plow" class="dictionary" title="Look up plow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plow at Dictionary.com" title="Look up plow at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from <a href="/index.php?term=plow&allowed_in_frame=0" class="crossreference">plow</a> (n.). Related: <span class="foreign">Plowed</span>; <span class="foreign">plowing</span>.</dd>
+
+<dt><a href="/index.php?term=plowshare&allowed_in_frame=0">plowshare (n.)</a> <a href="http://dictionary.reference.com/search?q=plowshare" class="dictionary" title="Look up plowshare at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plowshare at Dictionary.com" title="Look up plowshare at Dictionary.com" /></a></dt>
+<dd>late 14c., from <a href="/index.php?term=plow&allowed_in_frame=0" class="crossreference">plow</a> + <a href="/index.php?term=share&allowed_in_frame=0" class="crossreference">share</a> (n.2). To <span class="foreign">beat swords into plowshares</span> is from Isaiah ii:4.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ploy&allowed_in_frame=0">ploy (n.)</a> <a href="http://dictionary.reference.com/search?q=ploy" class="dictionary" title="Look up ploy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ploy at Dictionary.com" title="Look up ploy at Dictionary.com" /></a></dt>
+<dd class="highlight">1722, "anything with which one amuses oneself," Scottish and northern England dialect, possibly a shortened form of <span class="foreign">employ</span> or <span class="foreign">deploy</span>. Popularized in the sense "move or gambit made to gain advantage" by British humorist Stephen Potter (1900-1969).</dd>
+
+<dt><a href="/index.php?term=pluck&allowed_in_frame=0">pluck (n.)</a> <a href="http://dictionary.reference.com/search?q=pluck" class="dictionary" title="Look up pluck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pluck at Dictionary.com" title="Look up pluck at Dictionary.com" /></a></dt>
+<dd>"courage, boldness," 1785, from <a href="/index.php?term=pluck&allowed_in_frame=0" class="crossreference">pluck</a> (v.); originally boxing slang, from meaning "heart, viscera" (1610s) as that which is "plucked" from slaughtered livestock. Perhaps influenced by figurative use of the verb in <span class="foreign">pluck up</span> (one's courage, etc.), attested from c.1300.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pluck&allowed_in_frame=0">pluck (v.)</a> <a href="http://dictionary.reference.com/search?q=pluck" class="dictionary" title="Look up pluck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pluck at Dictionary.com" title="Look up pluck at Dictionary.com" /></a></dt>
+<dd class="highlight">late O.E. <span class="foreign">ploccian</span> "pull off, cull," from W.Gmc. <span class="foreign">*plokken</span> (cf. M.L.G. <span class="foreign">plucken</span>, M.Du. <span class="foreign">plocken</span>, Flem. <span class="foreign">plokken</span>), perhaps from V.L. <span class="foreign">*piluccare</span> (cf. O.Fr. <span class="foreign">peluchier</span>, late 12c.), a frequentative, ultimately from L. <span class="foreign">pilare</span> "pull out hair," from <span class="foreign">pilus</span> "hair" (see <a href="/index.php?term=pile&allowed_in_frame=0" class="crossreference">pile</a> (n.3)). But despite the similarities, OED finds difficulties with this and cites gaps in historical evidence. Related: <span class="foreign">Plucked</span>; <span class="foreign">plucking</span>.
+<blockquote><span class="foreign">To pluck a rose,</span> an expression said to be used by women for going to the necessary house, which in the country usually stands in the garden. [F. Grose, "Classical Dictionary of the Vulgar Tongue," 1785]</blockquote>This euphemistic use is attested from 1610s.</dd>
+
+<dt><a href="/index.php?term=plucky&allowed_in_frame=0">plucky (adj.)</a> <a href="http://dictionary.reference.com/search?q=plucky" class="dictionary" title="Look up plucky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plucky at Dictionary.com" title="Look up plucky at Dictionary.com" /></a></dt>
+<dd>1842, from <a href="/index.php?term=pluck&allowed_in_frame=0" class="crossreference">pluck</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plug&allowed_in_frame=0">plug (v.)</a> <a href="http://dictionary.reference.com/search?q=plug" class="dictionary" title="Look up plug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plug at Dictionary.com" title="Look up plug at Dictionary.com" /></a></dt>
+<dd class="highlight">"close tightly (a hole), fill," 1620s, from <a href="/index.php?term=plug&allowed_in_frame=0" class="crossreference">plug</a> (n.). Meaning "work energetically at" is c.1865. Sense of "popularize by repetition" is from 1906. Slang sense "put a bullet into" is recorded from 1870. Related: <span class="foreign">Plugged</span>; <span class="foreign">plugging</span>. </dd>
+
+<dt><a href="/index.php?term=plug&allowed_in_frame=0">plug (n.)</a> <a href="http://dictionary.reference.com/search?q=plug" class="dictionary" title="Look up plug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plug at Dictionary.com" title="Look up plug at Dictionary.com" /></a></dt>
+<dd>1620s, originally a seamen's term, probably from Du. <span class="foreign">plug</span>, from M.Du. <span class="foreign">plugge</span> "bung, stopper," related to Norw. <span class="foreign">plugg</span>, Dan. <span class="foreign">pl&oslash;g</span>, M.L.G. <span class="foreign">pluck</span>, Ger. <span class="foreign">pflock</span>; ultimate origin uncertain. Sense of "wad or stick of tobacco" is attested from 1728. Electrical sense is from 1883; meaning "sparking device in an internal combustion engine" is from 1886. Meaning "advertisement" first recorded 1902, American English, perhaps from verb sense "work energetically at" (c.1865).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plug-ugly&allowed_in_frame=0">plug-ugly (n.)</a> <a href="http://dictionary.reference.com/search?q=plug-ugly" class="dictionary" title="Look up plug-ugly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plug-ugly at Dictionary.com" title="Look up plug-ugly at Dictionary.com" /></a></dt>
+<dd class="highlight">"ruffian," 1856, originally in Baltimore, Maryland, from <a href="/index.php?term=plug&allowed_in_frame=0" class="crossreference">plug</a> (n.), American English slang for the stovepipe hats then popular among young men, + <a href="/index.php?term=ugly&allowed_in_frame=0" class="crossreference">ugly</a>.</dd>
+
+<dt><a href="/index.php?term=plum&allowed_in_frame=0">plum (n.)</a> <a href="http://dictionary.reference.com/search?q=plum" class="dictionary" title="Look up plum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plum at Dictionary.com" title="Look up plum at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">plume</span>, early Germanic borrowing (cf. M.Du. <span class="foreign">prume</span>, O.H.G. <span class="foreign">phruma</span>, Ger. <span class="foreign">Pflaume</span>) from V.L. <span class="foreign">*pruna</span>, from L. <span class="foreign">prunum</span> "plum," from Gk. <span class="foreign">prounon</span>, later form of <span class="foreign">proumnon</span>, from an Asiatic language. Change of <span class="foreign">pr-</span> to <span class="foreign">pl-</span> is unique to Germanic. Meaning "something desirable" is first recorded 1780, probably in reference to the sugar-rich bits of a plum pudding, etc.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plumage&allowed_in_frame=0">plumage (n.)</a> <a href="http://dictionary.reference.com/search?q=plumage" class="dictionary" title="Look up plumage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumage at Dictionary.com" title="Look up plumage at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "feathers," from O.Fr. <span class="foreign">plumage</span> (14c.), from <span class="foreign">plume</span> (see <a href="/index.php?term=plume&allowed_in_frame=0" class="crossreference">plume</a>).</dd>
+
+<dt><a href="/index.php?term=plumb&allowed_in_frame=0">plumb (n.)</a> <a href="http://dictionary.reference.com/search?q=plumb" class="dictionary" title="Look up plumb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumb at Dictionary.com" title="Look up plumb at Dictionary.com" /></a></dt>
+<dd>c.1300, "lead hung on a string to show the vertical line," from O.Fr. <span class="foreign">*plombe</span>, <span class="foreign">plomme</span> "sounding lead," from L.L. <span class="foreign">*plumba</span>, originally plural of L. <span class="foreign">plumbum</span> "lead," the metal, of unknown origin, related to Gk. <span class="foreign">molybdos</span> "lead" (dialectal <span class="foreign">bolimos</span>), probably from an extinct Mediterranean language, perhaps Iberian. <span class="foreign">Plumb-bob</span> is from 1835. </dd>
+
+<dt class="highlight"><a href="/index.php?term=plumb&allowed_in_frame=0">plumb (v.)</a> <a href="http://dictionary.reference.com/search?q=plumb" class="dictionary" title="Look up plumb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumb at Dictionary.com" title="Look up plumb at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "to sink" (like lead), from <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.). Meaning "take soundings with a plumb" is first recorded 1560s; figurative sense of "to get to the bottom of" is from 1590s. Related: <span class="foreign">Plumbed</span>; <a href="/index.php?term=plumbing&allowed_in_frame=0" class="crossreference">plumbing</a>.</dd>
+
+<dt><a href="/index.php?term=plumb&allowed_in_frame=0">plumb (adj.)</a> <a href="http://dictionary.reference.com/search?q=plumb" class="dictionary" title="Look up plumb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumb at Dictionary.com" title="Look up plumb at Dictionary.com" /></a></dt>
+<dd>"perpendicular, vertical," mid-15c., from <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.). The notion of "exact measurement" led to extended sense of "completely, downright" (1748), sometimes spelled <span class="foreign">plump</span> or <span class="foreign">plunk</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plumbago&allowed_in_frame=0">plumbago (n.)</a> <a href="http://dictionary.reference.com/search?q=plumbago" class="dictionary" title="Look up plumbago at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumbago at Dictionary.com" title="Look up plumbago at Dictionary.com" /></a></dt>
+<dd class="highlight">"graphite," 1784, from L. <span class="foreign">plumbago</span> "a type of lead ore, black lead," from <span class="foreign">plumbum</span> "lead" (see <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.)); it renders Gk. <span class="foreign">molybdaina</span>, which was used of yellow lead oxide and also of a type of plant.</dd>
+
+<dt><a href="/index.php?term=plumber&allowed_in_frame=0">plumber (n.)</a> <a href="http://dictionary.reference.com/search?q=plumber" class="dictionary" title="Look up plumber at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumber at Dictionary.com" title="Look up plumber at Dictionary.com" /></a></dt>
+<dd>late 14c. (from c.1100 as a surname), "a worker in any sort of lead" (roofs, gutters, pipes), from O.Fr. <span class="foreign">plummier</span> (Fr. <span class="foreign">plombier</span>), from L. <span class="foreign">plumbarius</span> "worker in lead," properly an adjective, "pertaining to lead," from <span class="foreign">plumbum</span> "lead" (see <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.)). Meaning focused 19c. on "workman who installs pipes and fittings" as lead water pipes became the principal concern of the trade. In U.S. Nixon administration (1969-74), the name of a special unit for investigation of "leaks" of government secrets.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plumbing&allowed_in_frame=0">plumbing (n.)</a> <a href="http://dictionary.reference.com/search?q=plumbing" class="dictionary" title="Look up plumbing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plumbing at Dictionary.com" title="Look up plumbing at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "the weighting of a fishing line," from prp. of <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (v.). Specific meaning "water and drainage pipes" is recorded by 1875, American English.
+<blockquote>
+THE apparatus by which the water from a reservoir is carried about over a building and delivered at points convenient for use, is called by the general name of <span class="foreign">plumbing</span>. The word "plumbing" means lead-work; and it is used to signify this water apparatus of a house because the pipes of which it largely consists are usually made of lead. [Edward Abbott, "Long Look House: A Book for Boys and Girls," Boston, 1877]
+</blockquote>
+Slang meaning "a person's reproductive organs" attested from 1975.</dd>
+
+<dt><a href="/index.php?term=plume&allowed_in_frame=0">plume (n.)</a> <a href="http://dictionary.reference.com/search?q=plume" class="dictionary" title="Look up plume at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plume at Dictionary.com" title="Look up plume at Dictionary.com" /></a></dt>
+<dd>late 14c., "a feather" (especially a large and conspicuous one), from O.Fr. <span class="foreign">plume</span>, from L. <span class="foreign">pluma</span> "feather, down," from PIE root <span class="foreign">*pleus-</span> "to pluck, a feather, fleece" (cf. O.E. <span class="foreign">fleos</span> "fleece"). Meaning "a long streamer of smoke, etc." is first attested 1878. The verb meaning "to dress the feathers" is from 1702. Related: <span class="foreign">Plumed</span>; <span class="foreign">plumes</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plummet&allowed_in_frame=0">plummet (n.)</a> <a href="http://dictionary.reference.com/search?q=plummet" class="dictionary" title="Look up plummet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plummet at Dictionary.com" title="Look up plummet at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "ball of lead, plumb of a bob-line," from O.Fr. <span class="foreign">plomet</span>, dim. of <span class="foreign">plom</span> "sounding lead" (see <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=plummet&allowed_in_frame=0">plummet (v.)</a> <a href="http://dictionary.reference.com/search?q=plummet" class="dictionary" title="Look up plummet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plummet at Dictionary.com" title="Look up plummet at Dictionary.com" /></a></dt>
+<dd>1620s, from <a href="/index.php?term=plummet&allowed_in_frame=0" class="crossreference">plummet</a> (n.). Originally "to fathom, take soundings;" meaning "to fall rapidly" first recorded 1937, perhaps originally among aviators. Related: <span class="foreign">Plummeted</span>; <span class="foreign">plummeting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plump&allowed_in_frame=0">plump (adj.)</a> <a href="http://dictionary.reference.com/search?q=plump" class="dictionary" title="Look up plump at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plump at Dictionary.com" title="Look up plump at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "blunt, dull" (in manners), from Du. <span class="foreign">plomp</span> "blunt, thick, massive, stumpy," probably related to <span class="foreign">plompen</span> "fall or drop heavily" (see <a href="/index.php?term=plump&allowed_in_frame=0" class="crossreference">plump</a> (v.)). Meaning "fleshy, of rounded form" is from 1540s in English.</dd>
+
+<dt><a href="/index.php?term=plump&allowed_in_frame=0">plump (v.)</a> <a href="http://dictionary.reference.com/search?q=plump" class="dictionary" title="Look up plump at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plump at Dictionary.com" title="Look up plump at Dictionary.com" /></a></dt>
+<dd>c.1300, "to fall or strike with a full impact," from M.Du. <span class="foreign">plompen,</span> or M.L.G. <span class="foreign">plumpen</span>, probably of imitative origin. Meaning "to plump (something) up, to cause to swell" is first recorded 1530s, from the adj.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plunder&allowed_in_frame=0">plunder (n.)</a> <a href="http://dictionary.reference.com/search?q=plunder" class="dictionary" title="Look up plunder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plunder at Dictionary.com" title="Look up plunder at Dictionary.com" /></a></dt>
+<dd class="highlight">"goods taken by force," 1640s, from <a href="/index.php?term=plunder&allowed_in_frame=0" class="crossreference">plunder</a> (v.). </dd>
+
+<dt><a href="/index.php?term=plunder&allowed_in_frame=0">plunder (v.)</a> <a href="http://dictionary.reference.com/search?q=plunder" class="dictionary" title="Look up plunder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plunder at Dictionary.com" title="Look up plunder at Dictionary.com" /></a></dt>
+<dd>1630s, from M.H.G. <span class="foreign">plunderen</span> "to plunder," originally "to take away household furniture," from <span class="foreign">plunder</span> "household goods, clothes" (cf. M.H.G. <span class="foreign">plunder</span> "lumber, baggage," 14c.; M.Du. <span class="foreign">plunder</span> "household goods;" Fris., Du. <span class="foreign">plunje</span> "clothes"). A word acquired by English via the Thirty Years War and applied in native use after the outbreak of the Civil War in 1642. Related: <span class="foreign">Plundered</span>; <span class="foreign">plundering</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plunge&allowed_in_frame=0">plunge (v.)</a> <a href="http://dictionary.reference.com/search?q=plunge" class="dictionary" title="Look up plunge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plunge at Dictionary.com" title="Look up plunge at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">plungier</span> (mid-12c.), from V.L. <span class="foreign">*plumbicare</span> "to heave the lead," from L. <span class="foreign">plumbum</span> "lead" (see <a href="/index.php?term=plumb&allowed_in_frame=0" class="crossreference">plumb</a> (n.)). Original notion perhaps is of a sounding lead or a fishing net weighted with lead. Related: <span class="foreign">Plunged</span>; <span class="foreign">plunging</span>. Figurative use in <span class="foreign">take the plunge</span> "commit oneself" is from 1845. <span class="foreign">Plunging neckline</span> attested from 1949.</dd>
+
+<dt><a href="/index.php?term=plunger&allowed_in_frame=0">plunger (n.)</a> <a href="http://dictionary.reference.com/search?q=plunger" class="dictionary" title="Look up plunger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plunger at Dictionary.com" title="Look up plunger at Dictionary.com" /></a></dt>
+<dd>as a mechanism, 1777, agent noun from <a href="/index.php?term=plunge&allowed_in_frame=0" class="crossreference">plunge</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=plunk&allowed_in_frame=0">plunk (v.)</a> <a href="http://dictionary.reference.com/search?q=plunk" class="dictionary" title="Look up plunk at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plunk at Dictionary.com" title="Look up plunk at Dictionary.com" /></a></dt>
+<dd class="highlight">1805, "to pluck a stringed instrument;" 1808 in sense of "drop down abruptly." Probably of imitative origin in both cases. Related: <span class="foreign">Plunked</span>; <span class="foreign">plunking</span>.</dd>
+
+<dt><a href="/index.php?term=pluperfect&allowed_in_frame=0">pluperfect</a> <a href="http://dictionary.reference.com/search?q=pluperfect" class="dictionary" title="Look up pluperfect at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pluperfect at Dictionary.com" title="Look up pluperfect at Dictionary.com" /></a></dt>
+<dd>1520s, shortened from L. <span class="foreign">(tempus praeteritum) plus (quam) perfectum</span> "(past tense) more (than) perfect." Translates Gk. <span class="foreign">khronos hypersyntelikos</span>. See <a href="/index.php?term=plus&allowed_in_frame=0" class="crossreference">plus</a> and <a href="/index.php?term=perfect&allowed_in_frame=0" class="crossreference">perfect</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plural&allowed_in_frame=0">plural (adj.)</a> <a href="http://dictionary.reference.com/search?q=plural" class="dictionary" title="Look up plural at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plural at Dictionary.com" title="Look up plural at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">plurel</span> "more than one" (12c.), from L. <span class="foreign">pluralis</span> "of or belonging to more than one," from <span class="foreign">plus</span> (gen. <span class="foreign">pluris</span>) "more" (see <a href="/index.php?term=plus&allowed_in_frame=0" class="crossreference">plus</a>).</dd>
+
+<dt><a href="/index.php?term=pluralism&allowed_in_frame=0">pluralism (n.)</a> <a href="http://dictionary.reference.com/search?q=pluralism" class="dictionary" title="Look up pluralism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pluralism at Dictionary.com" title="Look up pluralism at Dictionary.com" /></a></dt>
+<dd>1818, as a term in church administration, from <a href="/index.php?term=plural&allowed_in_frame=0" class="crossreference">plural</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. Attested from 1882 as a term in philosophy for a theory which recognizes more than one ultimate principle. In political science, attested from 1919 (in Harold J. Laski) in sense "theory which opposes monolithic state power." General sense of "toleration of diversity within a society or state" is from 1933. Related: <span class="foreign">Pluralist</span>; <span class="foreign">pluralistic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plurality&allowed_in_frame=0">plurality (n.)</a> <a href="http://dictionary.reference.com/search?q=plurality" class="dictionary" title="Look up plurality at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plurality at Dictionary.com" title="Look up plurality at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "state of being plural," from O.Fr. <span class="foreign">pluralite</span> (14c.), from L.L. <span class="foreign">pluralitas</span>, from <span class="foreign">pluralis</span> (see <a href="/index.php?term=plural&allowed_in_frame=0" class="crossreference">plural</a>). Meaning "fact of there being many, multitude" is from mid-15c. Church sense of "holding of two or more offices concurrently" is from mid-14c. Meaning "greater number, more than half" is from 1570s but is etymologically improper, perhaps modeled on <span class="foreign">majority</span>. U.S. sense of "excess of votes over rival candidate(s)," especially when none has an absolute majority, is from 1828.</dd>
+
+<dt><a href="/index.php?term=pluripotent&allowed_in_frame=0">pluripotent</a> <a href="http://dictionary.reference.com/search?q=pluripotent" class="dictionary" title="Look up pluripotent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pluripotent at Dictionary.com" title="Look up pluripotent at Dictionary.com" /></a></dt>
+<dd>1942, from <span class="foreign">pluri-</span>, comb. form of L. <span class="foreign">plus</span> (see <a href="/index.php?term=plus&allowed_in_frame=0" class="crossreference">plus</a>) + <a href="/index.php?term=potent&allowed_in_frame=0" class="crossreference">potent</a>. <span class="foreign">Pluripotential</span> attested from 1925.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plus&allowed_in_frame=0">plus</a> <a href="http://dictionary.reference.com/search?q=plus" class="dictionary" title="Look up plus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plus at Dictionary.com" title="Look up plus at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, the oral rendering of the arithmetical sign <span class="foreign">+</span>, from L. <span class="foreign">plus</span> "more" (comparative of <span class="foreign">multus</span> "much"), altered by influence of <span class="foreign">minus</span> from <span class="foreign">*pleos,</span> from PIE <span class="foreign">*ple-</span> "full" (see <a href="/index.php?term=poly-&allowed_in_frame=0" class="crossreference">poly-</a>). Placed after a whole number to indicate "and a little more," it is attested from 1902. As a conjunction, "and," it is American English colloquial, attested from 1968. <span class="foreign">Plus fours</span> (1921) were four inches longer in the leg than standard knickerbockers, to produce an overhang, originally a style assoc. with golfers. The plus sign itself has been well-known since at least late 15c. and is perhaps an abbreviation of L. <span class="foreign">et</span> (see <a href="/index.php?term=et cetera&allowed_in_frame=0" class="crossreference">et cetera</a>).</dd>
+
+<dt><a href="/index.php?term=plus+ca+change&allowed_in_frame=0">plus ca change</a> <a href="http://dictionary.reference.com/search?q=plus+ca+change" class="dictionary" title="Look up plus ca change at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plus ca change at Dictionary.com" title="Look up plus ca change at Dictionary.com" /></a></dt>
+<dd>1903, French, <span class="foreign">plus &ccedil;a change, plus c'est la m&ecirc;me chose</span> (1849), lit. "the more it changes, the more it stays the same."</dd>
+
+<dt class="highlight"><a href="/index.php?term=plush&allowed_in_frame=0">plush (adj.)</a> <a href="http://dictionary.reference.com/search?q=plush" class="dictionary" title="Look up plush at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plush at Dictionary.com" title="Look up plush at Dictionary.com" /></a></dt>
+<dd class="highlight">"swank, luxurious," 1927, from <a href="/index.php?term=plush&allowed_in_frame=0" class="crossreference">plush</a> (n.). <span class="foreign">Plushy</span> in this sense is recorded from 1923. Related: <span class="foreign">Plushness</span>.</dd>
+
+<dt><a href="/index.php?term=plush&allowed_in_frame=0">plush (n.)</a> <a href="http://dictionary.reference.com/search?q=plush" class="dictionary" title="Look up plush at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plush at Dictionary.com" title="Look up plush at Dictionary.com" /></a></dt>
+<dd>"soft fabric," 1590s, from M.Fr. <span class="foreign">pluche</span> "shag, plush," contraction of <span class="foreign">peluche</span> "hairy fabric," from O.Fr. <span class="foreign">peluchier</span> "to pull, to tug, to pluck" (the final process in weaving plush), from V.L. <span class="foreign">*piluccare</span> "remove hair" (see <a href="/index.php?term=pluck&allowed_in_frame=0" class="crossreference">pluck</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pluto&allowed_in_frame=0">Pluto</a> <a href="http://dictionary.reference.com/search?q=Pluto" class="dictionary" title="Look up Pluto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pluto at Dictionary.com" title="Look up Pluto at Dictionary.com" /></a></dt>
+<dd class="highlight">Roman god of the underworld, brother of Zeus and Neptune, from L. <span class="foreign">Pluto,</span> from Gk. <span class="foreign">Plouton</span> "god of wealth," lit. "wealth, riches," probably originally "overflowing," from PIE <span class="foreign">*pleu-</span> "to flow" (see <a href="/index.php?term=pluvial&allowed_in_frame=0" class="crossreference">pluvial</a>). The planet (since downgraded) was discovered 1930 by C.W. Tombaugh; <span class="foreign">Minerva</span> also was suggested as a name for it. The cartoon dog first appeared in Walt Disney's "Moose Hunt," released April 1931.</dd>
+
+<dt><a href="/index.php?term=plutocracy&allowed_in_frame=0">plutocracy (n.)</a> <a href="http://dictionary.reference.com/search?q=plutocracy" class="dictionary" title="Look up plutocracy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plutocracy at Dictionary.com" title="Look up plutocracy at Dictionary.com" /></a></dt>
+<dd>1650s, from Gk. <span class="foreign">ploutokratia</span> "rule or power of the wealthy or of wealth," from <span class="foreign">ploutos</span> "wealth" (see <a href="/index.php?term=Pluto&allowed_in_frame=0" class="crossreference">Pluto</a>) + <span class="foreign">-kratia</span> "rule," from <span class="foreign">kratos</span> "rule, power."</dd>
+
+<dt class="highlight"><a href="/index.php?term=plutocrat&allowed_in_frame=0">plutocrat (n.)</a> <a href="http://dictionary.reference.com/search?q=plutocrat" class="dictionary" title="Look up plutocrat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plutocrat at Dictionary.com" title="Look up plutocrat at Dictionary.com" /></a></dt>
+<dd class="highlight">1850, back formation from <a href="/index.php?term=plutocracy&allowed_in_frame=0" class="crossreference">plutocracy</a>. Related: <span class="foreign">Plutocratic</span> (1866); <span class="foreign">plutocratical</span> (1833).</dd>
+
+<dt><a href="/index.php?term=Plutonian&allowed_in_frame=0">Plutonian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Plutonian" class="dictionary" title="Look up Plutonian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Plutonian at Dictionary.com" title="Look up Plutonian at Dictionary.com" /></a></dt>
+<dd>1660s, "pertaining to the god Pluto," from L. <span class="foreign">Plutonius</span>, from Gk. <span class="foreign">Ploutonius</span>, from <span class="foreign">Plouton</span> "pertaining to Pluto" (see <a href="/index.php?term=Pluto&allowed_in_frame=0" class="crossreference">Pluto</a>). Geological sense is from 1828. Planetary sense by 1952.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plutonic&allowed_in_frame=0">plutonic (adj.)</a> <a href="http://dictionary.reference.com/search?q=plutonic" class="dictionary" title="Look up plutonic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plutonic at Dictionary.com" title="Look up plutonic at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to or involving intense heat deep in the earth's crust," 1796, from <a href="/index.php?term=Pluto&allowed_in_frame=0" class="crossreference">Pluto</a> (q.v.) as god of the underworld; especially in reference to early 19c. geological theory (championed by Hutton) that attributed most of the earth's features to action of internal heat, and which triumphed over its rival, <span class="foreign">neptunism</span>, which attributed them to water.</dd>
+
+<dt><a href="/index.php?term=plutonium&allowed_in_frame=0">plutonium (n.)</a> <a href="http://dictionary.reference.com/search?q=plutonium" class="dictionary" title="Look up plutonium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plutonium at Dictionary.com" title="Look up plutonium at Dictionary.com" /></a></dt>
+<dd>1942, from <a href="/index.php?term=Pluto&allowed_in_frame=0" class="crossreference">Pluto</a>, the planet, + element ending <span class="foreign">-ium</span>. Discovered at University of California, Berkeley, in 1941, the element named on suggestion of Seaborg and Wahl because it follows <a href="/index.php?term=neptunium&allowed_in_frame=0" class="crossreference">neptunium</a> in the periodic table as Pluto follows Neptune in the Solar System. The name <span class="foreign">plutonium</span> had been proposed for barium and was sometimes used in this sense early 19c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pluvial&allowed_in_frame=0">pluvial (adj.)</a> <a href="http://dictionary.reference.com/search?q=pluvial" class="dictionary" title="Look up pluvial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pluvial at Dictionary.com" title="Look up pluvial at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, "pertaining to rain," from Fr. <span class="foreign">pluvial</span> (12c.), from L. <span class="foreign">pluvialis</span> "pertaining to rain," from <span class="foreign">(aqua) pluvia</span> "rain (water)," from fem. of <span class="foreign">pluvius</span> "rainy," from <span class="foreign">plovere</span> "to rain," from PIE root <span class="foreign">*pleu-</span> "to flow, to swim" (cf. Skt. <span class="foreign">plavate</span> "navigates, swims;" Gk. <span class="foreign">plynein</span> "to wash," <span class="foreign">plein</span> "to navigate," <span class="foreign">ploein</span> "to float, swim," <span class="foreign">plotos</span> "floating, navigable;" Armenian <span class="foreign">luanam</span> "I wash;" O.E. <span class="foreign">flowan</span> "to flow;" O.C.S. <span class="foreign">plovo</span> "to flow, navigate;" Lith. <span class="foreign">pilu</span>, <span class="foreign">pilti</span> "to pour out," <span class="foreign">plauju</span>, <span class="foreign">plauti</span> "to swim, rinse").
+
+</dd>
+
+<dt><a href="/index.php?term=ply&allowed_in_frame=0">ply (v.)</a> <a href="http://dictionary.reference.com/search?q=ply" class="dictionary" title="Look up ply at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ply at Dictionary.com" title="Look up ply at Dictionary.com" /></a></dt>
+<dd>"work with, use," c.1300, shortened form of <span class="foreign">applien</span> "join to, apply," from O.Fr. <span class="foreign">aplier</span>, from L. <span class="foreign">applicare</span> "to attach, apply," from <span class="foreign">ap-</span> "on" + <span class="foreign">plicare</span> "to lay, fold, twist," from PIE root <span class="foreign">*plek-</span> "to plait, twist" (cf. Gk. <span class="foreign">plekein</span> "to plait," L. <span class="foreign">plectere</span> "to plait, braid, intertwine," O.C.S. <span class="foreign">plesti</span> "to braid, plait, twist," Goth. <span class="foreign">flahta</span> "braid"). Sense of "travel regularly" is first 1803. Related: <span class="foreign">Plied</span>; <span class="foreign">plies</span>; <span class="foreign">plying</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ply&allowed_in_frame=0">ply (n.)</a> <a href="http://dictionary.reference.com/search?q=ply" class="dictionary" title="Look up ply at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ply at Dictionary.com" title="Look up ply at Dictionary.com" /></a></dt>
+<dd class="highlight">"layer," late 15c., from M.Fr. <span class="foreign">pli</span> "a fold" (13c.), from O.Fr. <span class="foreign">ploi</span> (12c.), from stem of <span class="foreign">ployer</span> (later <span class="foreign">pleier</span>) "to bend, to fold," from L. <span class="foreign">plicare</span> "to fold, lay" see <a href="/index.php?term=ply&allowed_in_frame=0" class="crossreference">ply</a> (v.)). Now mainly in <a href="/index.php?term=plywood&allowed_in_frame=0" class="crossreference">plywood</a>.</dd>
+
+<dt><a href="/index.php?term=Plymouth&allowed_in_frame=0">Plymouth</a> <a href="http://dictionary.reference.com/search?q=Plymouth" class="dictionary" title="Look up Plymouth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Plymouth at Dictionary.com" title="Look up Plymouth at Dictionary.com" /></a></dt>
+<dd>city in Devon, England, named for its location at the mouth of the Plym River; the river is in turn named for <span class="foreign">Plympton</span>, lit. “plum-tree farm.” Earlier Plymouth was <span class="foreign">Sutton Prior</span>. The town in Massachusetts, U.S., was named 1620 by immigrants on the “Mayflower,” which had sailed from Plymouth, England.</dd>
+
+<dt class="highlight"><a href="/index.php?term=plywood&allowed_in_frame=0">plywood (n.)</a> <a href="http://dictionary.reference.com/search?q=plywood" class="dictionary" title="Look up plywood at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up plywood at Dictionary.com" title="Look up plywood at Dictionary.com" /></a></dt>
+<dd class="highlight">1907, from <a href="/index.php?term=ply&allowed_in_frame=0" class="crossreference">ply</a> (n.) + <a href="/index.php?term=wood&allowed_in_frame=0" class="crossreference">wood</a> (n.). So called because the layers are arranged so that the grain of one runs at right angles to that of the next.</dd>
+
+<dt><a href="/index.php?term=pneuma&allowed_in_frame=0">pneuma (n.)</a> <a href="http://dictionary.reference.com/search?q=pneuma" class="dictionary" title="Look up pneuma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pneuma at Dictionary.com" title="Look up pneuma at Dictionary.com" /></a></dt>
+<dd>from Gk. <span class="foreign">pneuma</span> "wind, breath, spirit," from <span class="foreign">pnein</span> "to blow, to breathe," from PIE root <span class="foreign">*pneu-</span> "to breathe," of imitative origin.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658617 -->
+<!-- Page was generated in 0.193935 seconds. -->
+ </body>
+</html>
+<!-- -->

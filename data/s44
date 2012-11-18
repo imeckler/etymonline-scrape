@@ -1,0 +1,473 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sneeze&allowed_in_frame=0">sneeze (v.)</a> <a href="http://dictionary.reference.com/search?q=sneeze" class="dictionary" title="Look up sneeze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sneeze at Dictionary.com" title="Look up sneeze at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">fneosan</span> "to snort, sneeze," from P.Gmc. <span class="foreign">*fneusanan</span> (cf. M.Du. <span class="foreign">fniesen</span>, Du. <span class="foreign">fniezen</span> "to sneeze;" O.N. <span class="foreign">fnysa</span> "to snort;" O.N. <span class="foreign">hnjosa</span>, Swed. <span class="foreign">nysa</span> "to sneeze;" O.H.G. <span class="foreign">niosan</span>, Ger. <span class="foreign">niesen</span> "to sneeze"), from P.Gmc. base <span class="foreign">*fneu-s-</span> "sneeze," of imitative origin, as is PIE <span class="foreign">*pneu-</span> "to breathe" (cf. Gk. <span class="foreign">pnein</span> "to breathe").
+<BR><BR>
+Other imitative words for it, perhaps in various ways related to each other, include L. <span class="foreign">sternuere</span> (cf. It. <span class="foreign">starnutare</span>, Fr. <span class="foreign">&eacute;ternuer</span>, Sp. <span class="foreign">estornudar</span>), Bret. <span class="foreign">strevia</span>, Skt. <span class="foreign">ksu-</span>, Lith. <span class="foreign">&#269;iaudeti</span>, Pol. <span class="foreign">kicha&#263;</span>, Rus. <span class="foreign">&#269;ichat'</span>. English forms in <span class="foreign">sn-</span> appear late 15c.; change may be due to a misreading of <span class="foreign">fn-</span>, or from Norse influence. But OED suggests M.E. <span class="foreign">fnese</span> had been reduced to simple <span class="foreign">nese</span> by early 15c., and <span class="foreign">sneeze</span> is a "strengthened form" of this, "assisted by its phonetic appropriateness." Related: <span class="foreign">Sneezed</span>; <span class="foreign">sneezing</span>. <span class="foreign">To sneeze at</span> "to regard as of little value" (usually with negative) is attested from 1806.</dd>
+
+<dt><a href="/index.php?term=sneeze&allowed_in_frame=0">sneeze (n.)</a> <a href="http://dictionary.reference.com/search?q=sneeze" class="dictionary" title="Look up sneeze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sneeze at Dictionary.com" title="Look up sneeze at Dictionary.com" /></a></dt>
+<dd>1640s, from <a href="/index.php?term=sneeze&allowed_in_frame=0" class="crossreference">sneeze</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=snick&allowed_in_frame=0">snick</a> <a href="http://dictionary.reference.com/search?q=snick" class="dictionary" title="Look up snick at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snick at Dictionary.com" title="Look up snick at Dictionary.com" /></a></dt>
+<dd class="highlight">1962, American English, from common pronunciation of <span class="foreign">SNCC</span>, acronym for "Student Non-violent Co-ordinating Committee," black civil rights organization. </dd>
+
+<dt><a href="/index.php?term=snicker&allowed_in_frame=0">snicker (v.)</a> <a href="http://dictionary.reference.com/search?q=snicker" class="dictionary" title="Look up snicker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snicker at Dictionary.com" title="Look up snicker at Dictionary.com" /></a></dt>
+<dd>1690s, possibly of imitative origin, similar to Du. <span class="foreign">snikken</span> "to gasp, sob." Related: <span class="foreign">Snickered</span>; <span class="foreign">snickering</span>. The noun is first recorded 1836, from the verb.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snickersnee&allowed_in_frame=0">snickersnee</a> <a href="http://dictionary.reference.com/search?q=snickersnee" class="dictionary" title="Look up snickersnee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snickersnee at Dictionary.com" title="Look up snickersnee at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, originally "fight with knives," from <span class="foreign">snick-or-snee</span> (1610s), from Du. <span class="foreign">steken</span> "to thrust, stick" + <span class="foreign">snijden</span> "to cut" (cf. Ger. <span class="foreign">schneiden</span>).</dd>
+
+<dt><a href="/index.php?term=snide&allowed_in_frame=0">snide (adj.)</a> <a href="http://dictionary.reference.com/search?q=snide" class="dictionary" title="Look up snide at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snide at Dictionary.com" title="Look up snide at Dictionary.com" /></a></dt>
+<dd>1859, thieves' slang "counterfeit, sham," of unknown origin. Of persons, "cunning, sharp," from 1883. Sense of "sneering" is first attested 1933.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sniff&allowed_in_frame=0">sniff (v.)</a> <a href="http://dictionary.reference.com/search?q=sniff" class="dictionary" title="Look up sniff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sniff at Dictionary.com" title="Look up sniff at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., of imitative origin; possibly related to <span class="foreign">snyvelen</span> (see <a href="/index.php?term=snivel&allowed_in_frame=0" class="crossreference">snivel</a>). As a synonym for <span class="foreign">smell</span> (v.) it dates from 1845. In reference to cocaine from 1925. Related: <span class="foreign">Sniffed</span>; <span class="foreign">sniffing</span>. The noun is first recorded 1767; the scornful sense is from 1859.</dd>
+
+<dt><a href="/index.php?term=sniffle&allowed_in_frame=0">sniffle (v.)</a> <a href="http://dictionary.reference.com/search?q=sniffle" class="dictionary" title="Look up sniffle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sniffle at Dictionary.com" title="Look up sniffle at Dictionary.com" /></a></dt>
+<dd>1819, frequentative form of <a href="/index.php?term=sniff&allowed_in_frame=0" class="crossreference">sniff</a>. Related: <span class="foreign">Sniffled</span>; <span class="foreign">sniffling</span>. <span class="foreign">The sniffles</span> "runny nose, head cold" is recorded from 1825.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snifter&allowed_in_frame=0">snifter (n.)</a> <a href="http://dictionary.reference.com/search?q=snifter" class="dictionary" title="Look up snifter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snifter at Dictionary.com" title="Look up snifter at Dictionary.com" /></a></dt>
+<dd class="highlight">1844, "a drink of liquor," earlier "a sniff," from an obsolete verb meaning "to sniff, snivel" (mid-14c.), of imitative origin. Meaning "large bulbous stemmed glass for drinking brandy" is from 1937. The association of "drinking liquor" with words for "inhaling, snuffling" (e.g. <a href="/index.php?term=snort&allowed_in_frame=0" class="crossreference">snort</a>) is perhaps borrowed from snuff-taking and the nasal reaction to it.</dd>
+
+<dt><a href="/index.php?term=snigger&allowed_in_frame=0">snigger (v.)</a> <a href="http://dictionary.reference.com/search?q=snigger" class="dictionary" title="Look up snigger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snigger at Dictionary.com" title="Look up snigger at Dictionary.com" /></a></dt>
+<dd>1706, variant form of <a href="/index.php?term=snicker&allowed_in_frame=0" class="crossreference">snicker</a> (v.). Related: <span class="foreign">Sniggered</span>; <span class="foreign">sniggering</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=sniggler&allowed_in_frame=0">sniggler</a> <a href="http://dictionary.reference.com/search?q=sniggler" class="dictionary" title="Look up sniggler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sniggler at Dictionary.com" title="Look up sniggler at Dictionary.com" /></a></dt>
+<dd class="highlight">1840, in reference to fishing (especially for eels), agent noun from <span class="foreign">sniggle</span> (v.) attested in this sense from 1670s.</dd>
+
+<dt><a href="/index.php?term=snip&allowed_in_frame=0">snip (n.)</a> <a href="http://dictionary.reference.com/search?q=snip" class="dictionary" title="Look up snip at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snip at Dictionary.com" title="Look up snip at Dictionary.com" /></a></dt>
+<dd>1550s, "small piece of cut-out cloth," probably from Dutch or Low German <span class="foreign">snippen</span> "to snip, shred," of imitative origin. <span class="foreign">Snip-snap-snorum</span>, the card game, is 1755, from Low German.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snip&allowed_in_frame=0">snip (v.)</a> <a href="http://dictionary.reference.com/search?q=snip" class="dictionary" title="Look up snip at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snip at Dictionary.com" title="Look up snip at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, from <a href="/index.php?term=snip&allowed_in_frame=0" class="crossreference">snip</a> (n.). Related: <span class="foreign">Snipped</span>; <span class="foreign">snipping</span>.</dd>
+
+<dt><a href="/index.php?term=snipe&allowed_in_frame=0">snipe (v.)</a> <a href="http://dictionary.reference.com/search?q=snipe" class="dictionary" title="Look up snipe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snipe at Dictionary.com" title="Look up snipe at Dictionary.com" /></a></dt>
+<dd>"shoot from a hidden place," 1773 (among British soldiers in India), in reference to hunting snipe as game, from <a href="/index.php?term=snipe&allowed_in_frame=0" class="crossreference">snipe</a> (n.). Related: <span class="foreign">Sniped</span>; <span class="foreign">sniping</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snipe&allowed_in_frame=0">snipe (n.)</a> <a href="http://dictionary.reference.com/search?q=snipe" class="dictionary" title="Look up snipe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snipe at Dictionary.com" title="Look up snipe at Dictionary.com" /></a></dt>
+<dd class="highlight">long-billed marsh bird, early 14c., from O.N. <span class="foreign">-snipa</span> in <span class="foreign">myrisnipa</span> "moor snipe;" perhaps a common Germanic term (cf. O.S. <span class="foreign">sneppa</span>, M.Du. <span class="foreign">snippe</span>, Du. <span class="foreign">snip</span>, O.H.G. <span class="foreign">snepfa</span>, Ger. <span class="foreign">Schnepfe</span> "snipe"). The Old English name was <span class="foreign">snite</span>, which is of uncertain derivation. An opprobrious term (cf. <a href="/index.php?term=guttersnipe&allowed_in_frame=0" class="crossreference">guttersnipe</a>) since c.1600.</dd>
+
+<dt><a href="/index.php?term=sniper&allowed_in_frame=0">sniper (n.)</a> <a href="http://dictionary.reference.com/search?q=sniper" class="dictionary" title="Look up sniper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sniper at Dictionary.com" title="Look up sniper at Dictionary.com" /></a></dt>
+<dd>"sharpshooter; one who shoots from a hidden place," 1824, agent noun from <a href="/index.php?term=snipe&allowed_in_frame=0" class="crossreference">snipe</a> (v.). The birds were considered a challenging target for an expert shooter:
+<blockquote>
+Snipe Shooting is a good trial of the gunner's skill, who often engages in this diversion, without the assistance of a dog of any kind; a steady pointer, however, is a good companion. ["Sportsman's Calendar," London, December 1818]
+</blockquote>
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=snippers&allowed_in_frame=0">snippers (n.)</a> <a href="http://dictionary.reference.com/search?q=snippers" class="dictionary" title="Look up snippers at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snippers at Dictionary.com" title="Look up snippers at Dictionary.com" /></a></dt>
+<dd class="highlight">"scissors," 1590s, plural agent noun from <a href="/index.php?term=snip&allowed_in_frame=0" class="crossreference">snip</a> (v.).</dd>
+
+<dt><a href="/index.php?term=snippet&allowed_in_frame=0">snippet (n.)</a> <a href="http://dictionary.reference.com/search?q=snippet" class="dictionary" title="Look up snippet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snippet at Dictionary.com" title="Look up snippet at Dictionary.com" /></a></dt>
+<dd>1660s, diminutive form of <a href="/index.php?term=snip&allowed_in_frame=0" class="crossreference">snip</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=snippy&allowed_in_frame=0">snippy (adj.)</a> <a href="http://dictionary.reference.com/search?q=snippy" class="dictionary" title="Look up snippy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snippy at Dictionary.com" title="Look up snippy at Dictionary.com" /></a></dt>
+<dd class="highlight">1727, "parsimonious;" 1848, "fault-finding, sharp," from <a href="/index.php?term=snip&allowed_in_frame=0" class="crossreference">snip</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Snippily</span>; <span class="foreign">snippiness</span>.</dd>
+
+<dt><a href="/index.php?term=snit&allowed_in_frame=0">snit (n.)</a> <a href="http://dictionary.reference.com/search?q=snit" class="dictionary" title="Look up snit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snit at Dictionary.com" title="Look up snit at Dictionary.com" /></a></dt>
+<dd>"state of agitation, fit of temper," 1939, American English, of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snitch&allowed_in_frame=0">snitch (n.)</a> <a href="http://dictionary.reference.com/search?q=snitch" class="dictionary" title="Look up snitch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snitch at Dictionary.com" title="Look up snitch at Dictionary.com" /></a></dt>
+<dd class="highlight">"informer," 1785, probably from underworld slang meaning "the nose" (1700), which apparently developed from an earlier meaning "fillip on the nose" (1670s).</dd>
+
+<dt><a href="/index.php?term=snitch&allowed_in_frame=0">snitch (v.)</a> <a href="http://dictionary.reference.com/search?q=snitch" class="dictionary" title="Look up snitch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snitch at Dictionary.com" title="Look up snitch at Dictionary.com" /></a></dt>
+<dd>1803, "to inform," from <a href="/index.php?term=snitch&allowed_in_frame=0" class="crossreference">snitch</a> (n.). Meaning "to steal, pilfer" is attested from 1904, perhaps a variant of <a href="/index.php?term=snatch&allowed_in_frame=0" class="crossreference">snatch</a> (v.). Related: <span class="foreign">Snitched</span>; <span class="foreign">snitching</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snite&allowed_in_frame=0">snite (v.)</a> <a href="http://dictionary.reference.com/search?q=snite" class="dictionary" title="Look up snite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snite at Dictionary.com" title="Look up snite at Dictionary.com" /></a></dt>
+<dd class="highlight">"to blow the nose," c.1100, now Scottish and dialectal, from O.E. <span class="foreign">snytan</span>, related to O.N. <span class="foreign">snyta</span>, M.Du. <span class="foreign">snuten</span>, O.H.G. <span class="foreign">snuzen</span>, Ger. <span class="foreign">schneuzen</span> "to blow one's nose," and to <a href="/index.php?term=snot&allowed_in_frame=0" class="crossreference">snot</a>.</dd>
+
+<dt><a href="/index.php?term=snivel&allowed_in_frame=0">snivel (v.)</a> <a href="http://dictionary.reference.com/search?q=snivel" class="dictionary" title="Look up snivel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snivel at Dictionary.com" title="Look up snivel at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">*snyflan</span> "to run at the nose" (cf. <span class="foreign">snyflung</span> "running of the nose"), related to <span class="foreign">snofl</span> "nasal mucus." Meaning "to be in an (affected) tearful state" is from 1680s. Related: <span class="foreign">Snivelled</span>; <span class="foreign">snivelling</span>. <span class="foreign">Snivelling</span> "mean-spirited, weak" is recorded from 1640s; Melville coined <span class="foreign">snivelization</span> (1849).</dd>
+
+<dt class="highlight"><a href="/index.php?term=snob&allowed_in_frame=0">snob (n.)</a> <a href="http://dictionary.reference.com/search?q=snob" class="dictionary" title="Look up snob at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snob at Dictionary.com" title="Look up snob at Dictionary.com" /></a></dt>
+<dd class="highlight">1781, "a shoemaker, a shoemaker's apprentice," of unknown origin. It came to be used in Cambridge University slang c.1796 for "townsman, local merchant," and by 1831 it was being used for "person of the ordinary or lower classes." Meaning "person who vulgarly apes his social superiors" arose 1843, popularized 1848 by William Thackeray's "Book of Snobs." The meaning later broadened to include those who insist on their gentility, in addition to those who merely aspire to it, and by 1911 the word had its main modern sense of "one who despises those considered inferior in rank, attainment, or taste."</dd>
+
+<dt><a href="/index.php?term=snobbery&allowed_in_frame=0">snobbery (n.)</a> <a href="http://dictionary.reference.com/search?q=snobbery" class="dictionary" title="Look up snobbery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snobbery at Dictionary.com" title="Look up snobbery at Dictionary.com" /></a></dt>
+<dd>"the class of snobs," 1833, from <a href="/index.php?term=snob&allowed_in_frame=0" class="crossreference">snob</a> + <a href="/index.php?term=-ery&allowed_in_frame=0" class="crossreference">-ery</a>. Meaning "snobbishness" is from 1843.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snobbish&allowed_in_frame=0">snobbish (adj.)</a> <a href="http://dictionary.reference.com/search?q=snobbish" class="dictionary" title="Look up snobbish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snobbish at Dictionary.com" title="Look up snobbish at Dictionary.com" /></a></dt>
+<dd class="highlight">1840, "pertaining to snobs," from <a href="/index.php?term=snob&allowed_in_frame=0" class="crossreference">snob</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. Meaning "with the character of a snob" is from 1849. Related: <span class="foreign">Snobbishly</span>; <span class="foreign">snobbishness</span>.</dd>
+
+<dt><a href="/index.php?term=snobby&allowed_in_frame=0">snobby (adj.)</a> <a href="http://dictionary.reference.com/search?q=snobby" class="dictionary" title="Look up snobby at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snobby at Dictionary.com" title="Look up snobby at Dictionary.com" /></a></dt>
+<dd>1846, from <a href="/index.php?term=snob&allowed_in_frame=0" class="crossreference">snob</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Snobbiness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snog&allowed_in_frame=0">snog (v.)</a> <a href="http://dictionary.reference.com/search?q=snog" class="dictionary" title="Look up snog at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snog at Dictionary.com" title="Look up snog at Dictionary.com" /></a></dt>
+<dd class="highlight">"to flirt, cuddle," 1945, British English slang, of unknown origin. Related: <span class="foreign">Snogged</span>; <a href="/index.php?term=snogging&allowed_in_frame=0" class="crossreference">snogging</a>.
+</dd>
+
+<dt><a href="/index.php?term=snogging&allowed_in_frame=0">snogging (n.)</a> <a href="http://dictionary.reference.com/search?q=snogging" class="dictionary" title="Look up snogging at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snogging at Dictionary.com" title="Look up snogging at Dictionary.com" /></a></dt>
+<dd>"kissing and cuddling," British English slang, 1945, of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snollygoster&allowed_in_frame=0">snollygoster</a> <a href="http://dictionary.reference.com/search?q=snollygoster" class="dictionary" title="Look up snollygoster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snollygoster at Dictionary.com" title="Look up snollygoster at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, Amer.Eng. slang, fanciful coinage.</dd>
+
+<dt><a href="/index.php?term=snood&allowed_in_frame=0">snood (n.)</a> <a href="http://dictionary.reference.com/search?q=snood" class="dictionary" title="Look up snood at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snood at Dictionary.com" title="Look up snood at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">snod</span> "ribbon for the hair," from P.Gmc. <span class="foreign">*snodo</span> (cf. Swed. <span class="foreign">snod</span> "string, cord"), from PIE root <span class="foreign">*(s)ne-</span> "to spin, sew" (cf. Lett. <span class="foreign">snate</span> "a linen cover," O.Ir. <span class="foreign">snathe</span> "thread;" see <a href="/index.php?term=needle&allowed_in_frame=0" class="crossreference">needle</a>). Meaning "net or bag worn over a woman's hair" first recorded 1938.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snook&allowed_in_frame=0">snook (n.)</a> <a href="http://dictionary.reference.com/search?q=snook" class="dictionary" title="Look up snook at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snook at Dictionary.com" title="Look up snook at Dictionary.com" /></a></dt>
+<dd class="highlight">"derisive gesture," 1791, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=snooker&allowed_in_frame=0">snooker (n.)</a> <a href="http://dictionary.reference.com/search?q=snooker" class="dictionary" title="Look up snooker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snooker at Dictionary.com" title="Look up snooker at Dictionary.com" /></a></dt>
+<dd>1889, the game and the word said to have been invented in India by British officers as a diversion from billiards. The name is perhaps a reference (with reference to the rawness of play by a fellow officer) to British slang <span class="foreign">snooker</span> "newly joined cadet" (1872). Tradition ascribes the coinage to Col. Sir Neville Chamberlain (not the later prime minister of the same name), at the time subaltern in the Devonshire Regiment in Jubbulpore. The verb meaning "to cheat" is from early 1900s, probably because novices can be easily tricked in the game.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snookums&allowed_in_frame=0">snookums</a> <a href="http://dictionary.reference.com/search?q=snookums" class="dictionary" title="Look up snookums at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snookums at Dictionary.com" title="Look up snookums at Dictionary.com" /></a></dt>
+<dd class="highlight">trivial term of endearment, 1919, from <span class="foreign">Snooks</span>, proper name used in Britain for "a hypothetical person" (1860), cf. <span class="foreign">Joe Blow</span> in U.S. As an actual proper name, <span class="foreign">Snooks</span> dates back to the Domesday Book and may be from O.E. <span class="foreign">*snoc</span> "a projecting point of land" (perhaps here with sense of "a big nose").</dd>
+
+<dt><a href="/index.php?term=snoop&allowed_in_frame=0">snoop (v.)</a> <a href="http://dictionary.reference.com/search?q=snoop" class="dictionary" title="Look up snoop at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snoop at Dictionary.com" title="Look up snoop at Dictionary.com" /></a></dt>
+<dd>1832, "to go around in a prying manner," American English, "to appropriate," probably from Du. <span class="foreign">snoepen</span> "to pry," also "eat in secret, eat sweets, sneak," probably related to <span class="foreign">snappen</span> "to bite, snatch" (see <a href="/index.php?term=snap&allowed_in_frame=0" class="crossreference">snap</a>). Specific meaning "to pry into other people's business" is attested from 1921. Related: <span class="foreign">Snooped</span>; <span class="foreign">snooping</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snoop&allowed_in_frame=0">snoop (n.)</a> <a href="http://dictionary.reference.com/search?q=snoop" class="dictionary" title="Look up snoop at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snoop at Dictionary.com" title="Look up snoop at Dictionary.com" /></a></dt>
+<dd class="highlight">"detective," 1891, from <a href="/index.php?term=snoop&allowed_in_frame=0" class="crossreference">snoop</a> (v.).</dd>
+
+<dt><a href="/index.php?term=snoopy&allowed_in_frame=0">snoopy (adj.)</a> <a href="http://dictionary.reference.com/search?q=snoopy" class="dictionary" title="Look up snoopy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snoopy at Dictionary.com" title="Look up snoopy at Dictionary.com" /></a></dt>
+<dd>1895, from <a href="/index.php?term=snoop&allowed_in_frame=0" class="crossreference">snoop</a> (v.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). The cartoon dog of that name in the "Peanuts" newspaper comic strip debuted in 1950.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snoot&allowed_in_frame=0">snoot (n.)</a> <a href="http://dictionary.reference.com/search?q=snoot" class="dictionary" title="Look up snoot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snoot at Dictionary.com" title="Look up snoot at Dictionary.com" /></a></dt>
+<dd class="highlight">"the nose," 1861, originally a Scottish variant of <a href="/index.php?term=snout&allowed_in_frame=0" class="crossreference">snout</a>.</dd>
+
+<dt><a href="/index.php?term=snootful&allowed_in_frame=0">snootful (n.)</a> <a href="http://dictionary.reference.com/search?q=snootful" class="dictionary" title="Look up snootful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snootful at Dictionary.com" title="Look up snootful at Dictionary.com" /></a></dt>
+<dd>"as much (liquor) as one can take," 1885, from <a href="/index.php?term=snoot&allowed_in_frame=0" class="crossreference">snoot</a> (n.) + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snooty&allowed_in_frame=0">snooty (adj.)</a> <a href="http://dictionary.reference.com/search?q=snooty" class="dictionary" title="Look up snooty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snooty at Dictionary.com" title="Look up snooty at Dictionary.com" /></a></dt>
+<dd class="highlight">"proud, arrogant," 1918, noted that year as college slang, from <a href="/index.php?term=snoot&allowed_in_frame=0" class="crossreference">snoot</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Probably with suggestions of <span class="foreign">snouty</span> (1858); the notion being of "looking down one's nose." Related: <span class="foreign">Snootily</span>; <span class="foreign">snootiness</span>.</dd>
+
+<dt><a href="/index.php?term=snooze&allowed_in_frame=0">snooze</a> <a href="http://dictionary.reference.com/search?q=snooze" class="dictionary" title="Look up snooze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snooze at Dictionary.com" title="Look up snooze at Dictionary.com" /></a></dt>
+<dd>1789, cant word, of unknown origin, perhaps echoic of a snore. Related: <span class="foreign">Snoozed</span>; <span class="foreign">snoozing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snore&allowed_in_frame=0">snore (v.)</a> <a href="http://dictionary.reference.com/search?q=snore" class="dictionary" title="Look up snore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snore at Dictionary.com" title="Look up snore at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., probably related to <span class="foreign">snort</span> and both probably of imitative origin (cf. Du. <span class="foreign">snorken</span>, M.H.G. <span class="foreign">snarchen</span>, Ger. <span class="foreign">schnarchen</span>, Swed. <span class="foreign">snarka</span>). Related: <span class="foreign">Snored</span>; <span class="foreign">snoring</span>. The noun is from c.1600.</dd>
+
+<dt><a href="/index.php?term=snorkel&allowed_in_frame=0">snorkel (n.)</a> <a href="http://dictionary.reference.com/search?q=snorkel" class="dictionary" title="Look up snorkel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snorkel at Dictionary.com" title="Look up snorkel at Dictionary.com" /></a></dt>
+<dd>1944, "airshaft for submarines," from Ger. <span class="foreign">Schnorchel</span>, from Ger. navy slang <span class="foreign">Schnorchel</span> "nose, snout," related to <span class="foreign">schnarchen</span> "to snore" (see <a href="/index.php?term=snore&allowed_in_frame=0" class="crossreference">snore</a>). So called from its resemblance to a nose and its noise when in use. The anglicized spelling first recorded 1949. The meaning "curved tube used by a swimmer to breathe under water" is first recorded 1951.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snort&allowed_in_frame=0">snort (v.)</a> <a href="http://dictionary.reference.com/search?q=snort" class="dictionary" title="Look up snort at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snort at Dictionary.com" title="Look up snort at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "to snore," probably related to <a href="/index.php?term=snore&allowed_in_frame=0" class="crossreference">snore</a>. Meaning "breathe through the nose with a harsh sound" first recorded 1520s. Sense of "express contempt" is from 1818. Meaning "to inhale cocaine" is first attested 1935. Related: <span class="foreign">Snorted</span>; <span class="foreign">snorting</span>. As a noun, "a drink of liquor" (especially whiskey), from 1889.</dd>
+
+<dt><a href="/index.php?term=snot&allowed_in_frame=0">snot (n.)</a> <a href="http://dictionary.reference.com/search?q=snot" class="dictionary" title="Look up snot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snot at Dictionary.com" title="Look up snot at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">gesnot</span> "nasal mucus," from P.Gmc. <span class="foreign">*snuttan</span> (cf. O.Fris. <span class="foreign">snotta</span>, M.L.G., M.Du. <span class="foreign">snotte</span>, M.L.G. <span class="foreign">snute</span>), from the same base as <a href="/index.php?term=snout&allowed_in_frame=0" class="crossreference">snout</a>. Old English also had a verb <a href="/index.php?term=snite&allowed_in_frame=0" class="crossreference">snite</a> "wipe or pick one's nose." Meaning "despicable person" is from 1809.</dd>
+
+<dt class="highlight"><a href="/index.php?term=snotty&allowed_in_frame=0">snotty (adj.)</a> <a href="http://dictionary.reference.com/search?q=snotty" class="dictionary" title="Look up snotty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snotty at Dictionary.com" title="Look up snotty at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, "full of snot," from <a href="/index.php?term=snot&allowed_in_frame=0" class="crossreference">snot</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Meaning "impudent, curt, conceited" is from 1870. <span class="foreign">Snotnose</span> "upstart" is from 1941.</dd>
+
+<dt><a href="/index.php?term=snout&allowed_in_frame=0">snout (n.)</a> <a href="http://dictionary.reference.com/search?q=snout" class="dictionary" title="Look up snout at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snout at Dictionary.com" title="Look up snout at Dictionary.com" /></a></dt>
+<dd>early 13c., "trunk or projecting nose of an animal," from M.L.G. and M.Du. <span class="foreign">snute</span> "snout," from P.Gmc. <span class="foreign">*snut-</span> (cf. Ger. <span class="foreign">Schnauze</span>, Norw. <span class="foreign">snut</span>, Dan. <span class="foreign">snude</span> "snout"), related to O.E. <span class="foreign">gesnot</span> (see <a href="/index.php?term=snot&allowed_in_frame=0" class="crossreference">snot</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=snow&allowed_in_frame=0">snow (n.)</a> <a href="http://dictionary.reference.com/search?q=snow" class="dictionary" title="Look up snow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snow at Dictionary.com" title="Look up snow at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">snaw</span> "snow," from P.Gmc. <span class="foreign">*snaiwaz</span> (cf. O.S., O.H.G. <span class="foreign">sneo</span>, O.Fris., M.L.G. <span class="foreign">sne</span>, M.Du. <span class="foreign">snee</span>, Du. <span class="foreign">sneeuw</span>, Ger. <span class="foreign">Schnee</span>, O.N. <span class="foreign">snjor</span>, Goth. <span class="foreign">snaiws</span> "snow"), from PIE root <span class="foreign">*sniegwh-</span> "snow, to snow" (cf. Gk. <span class="foreign">nipha</span>, L. <span class="foreign">nix</span> (gen. <span class="foreign">nivis</span>), O.Ir. <span class="foreign">snechta</span>, Welsh <span class="foreign">nyf</span>, Lith. <span class="foreign">sniegas</span>, O.Prus. <span class="foreign">snaygis</span>, O.C.S. <span class="foreign">snegu</span>, Rus. <span class="foreign">snieg'</span>, Slovak <span class="foreign">sneh</span> "snow"). The cognate in Sanskrit, <span class="foreign">snihyati</span>, came to mean "he gets wet." As slang for "cocaine" it is attested from 1914.</dd>
+
+<dt><a href="/index.php?term=snow&allowed_in_frame=0">snow (v.)</a> <a href="http://dictionary.reference.com/search?q=snow" class="dictionary" title="Look up snow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up snow at Dictionary.com" title="Look up snow at Dictionary.com" /></a></dt>
+<dd>c.1300, replacing O.E. <span class="foreign">sniwan,</span> which would have yielded modern <span class="foreign">snew</span> (which existed as a parallel form until 17c. and, in Yorkshire, even later), from the root of <a href="/index.php?term=snow&allowed_in_frame=0" class="crossreference">snow</a> (n.).
+<blockquote>Also &thorn;ikke as snow &thorn;at snew,
+<BR>Or al so hail &thorn;at stormes blew.
+<BR>[Robert Mannyng of Brunne, transl. Wace's "Chronicle," c.1330]
+</blockquote>
+The figurative sense of "overwhelm" is 1880, Amer.Eng., in phrase to <span class="foreign">snow (someone) under</span>. <span class="foreign">Snow job</span> "strong, persistent persuasion in a dubious cause" is World War II armed forces slang, probably from the same metaphoric image.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658746 -->
+<!-- Page was generated in 0.188124 seconds. -->
+ </body>
+</html>
+<!-- -->

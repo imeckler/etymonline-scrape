@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=solemn&allowed_in_frame=0">solemn (adj.)</a> <a href="http://dictionary.reference.com/search?q=solemn" class="dictionary" title="Look up solemn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solemn at Dictionary.com" title="Look up solemn at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., from O.Fr. <span class="foreign">solempne</span> (Fr. <span class="foreign">solennel</span>), from L. <span class="foreign">sollemnis</span> "formal, ceremonial, traditional," perhaps related to <span class="foreign">sollus</span> "whole" (see <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a> (adj.).</dd>
+
+<dt><a href="/index.php?term=solemnity&allowed_in_frame=0">solemnity (n.)</a> <a href="http://dictionary.reference.com/search?q=solemnity" class="dictionary" title="Look up solemnity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solemnity at Dictionary.com" title="Look up solemnity at Dictionary.com" /></a></dt>
+<dd>late 13c., "observance of ceremony," from O.Fr. <span class="foreign">solempnete</span>, from L. <span class="foreign">solempnitas</span>, from <span class="foreign">sollemnis</span> (see <a href="/index.php?term=solemn&allowed_in_frame=0" class="crossreference">solemn</a>). Meaning "state of being solemn" is from 1712. Related: <span class="foreign">Solemnities</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solemnization&allowed_in_frame=0">solemnization (n.)</a> <a href="http://dictionary.reference.com/search?q=solemnization" class="dictionary" title="Look up solemnization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solemnization at Dictionary.com" title="Look up solemnization at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from O.Fr. <span class="foreign">solem(p)nisation</span> or directly from M.L. <span class="foreign">solempnizationem</span> (nom. <span class="foreign">solempnizatio</span>, from L. <span class="foreign">sollemnis</span> (see <a href="/index.php?term=solemn&allowed_in_frame=0" class="crossreference">solemn</a>).</dd>
+
+<dt><a href="/index.php?term=solemnize&allowed_in_frame=0">solemnize (v.)</a> <a href="http://dictionary.reference.com/search?q=solemnize" class="dictionary" title="Look up solemnize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solemnize at Dictionary.com" title="Look up solemnize at Dictionary.com" /></a></dt>
+<dd>late 14c.; see <a href="/index.php?term=solemn&allowed_in_frame=0" class="crossreference">solemn</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Solemnized</span>; <span class="foreign">solemnizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solenoid&allowed_in_frame=0">solenoid (n.)</a> <a href="http://dictionary.reference.com/search?q=solenoid" class="dictionary" title="Look up solenoid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solenoid at Dictionary.com" title="Look up solenoid at Dictionary.com" /></a></dt>
+<dd class="highlight">"coil of insulated wire carrying an electrical current and having magnetic properties," 1827, from Fr. <span class="foreign">sol&eacute;no&#239;de</span>, from Gk. <span class="foreign">solen</span> "pipe, channel" + comb. form of <span class="foreign">eidos</span> "form, shape" (see <a href="/index.php?term=-oid&allowed_in_frame=0" class="crossreference">-oid</a>).</dd>
+
+<dt><a href="/index.php?term=soleus&allowed_in_frame=0">soleus (n.)</a> <a href="http://dictionary.reference.com/search?q=soleus" class="dictionary" title="Look up soleus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soleus at Dictionary.com" title="Look up soleus at Dictionary.com" /></a></dt>
+<dd>Modern Latin, from L. <span class="foreign">solea</span> "sole" (see <a href="/index.php?term=sole&allowed_in_frame=0" class="crossreference">sole</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=solfege&allowed_in_frame=0">solfege</a> <a href="http://dictionary.reference.com/search?q=solfege" class="dictionary" title="Look up solfege at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solfege at Dictionary.com" title="Look up solfege at Dictionary.com" /></a></dt>
+<dd class="highlight">1912, from <span class="foreign">solfeggio</span> (1774), from It. <span class="foreign">solfeggio</span>, from <span class="foreign">sol-fa</span>, representing musical notes (see <a href="/index.php?term=sol-fa&allowed_in_frame=0" class="crossreference">sol-fa</a>).</dd>
+
+<dt><a href="/index.php?term=solicit&allowed_in_frame=0">solicit (v.)</a> <a href="http://dictionary.reference.com/search?q=solicit" class="dictionary" title="Look up solicit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solicit at Dictionary.com" title="Look up solicit at Dictionary.com" /></a></dt>
+<dd>early 15c., "to disturb, trouble," from M.Fr. <span class="foreign">soliciter</span>, from L. <span class="foreign">solicitare</span> "to disturb, rouse," from <span class="foreign">sollicitus</span> "agitated," from <span class="foreign">sollus</span> "whole, entire" + <span class="foreign">citus</span> "aroused," pp. of <span class="foreign">ciere</span> "shake, excite, set in motion" (see <a href="/index.php?term=cite&allowed_in_frame=0" class="crossreference">cite</a>). Related: <span class="foreign">Solicited</span>; <span class="foreign">soliciting</span>.
+<BR><BR>
+Meaning "to further (business affairs)" evolved mid-15c. from Middle French sense of "manage affairs." The sexual sense (often in reference to prostitutes) is attested from 1701, probably from a merger of the business sense and an earlier sense of "to court or beg the favor of" (a woman), attested from 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solicitate&allowed_in_frame=0">solicitate (v.)</a> <a href="http://dictionary.reference.com/search?q=solicitate" class="dictionary" title="Look up solicitate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solicitate at Dictionary.com" title="Look up solicitate at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from pp. stem of L. <span class="foreign">solicitare</span> (see <a href="/index.php?term=solicit&allowed_in_frame=0" class="crossreference">solicit</a>).</dd>
+
+<dt><a href="/index.php?term=solicitation&allowed_in_frame=0">solicitation (n.)</a> <a href="http://dictionary.reference.com/search?q=solicitation" class="dictionary" title="Look up solicitation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solicitation at Dictionary.com" title="Look up solicitation at Dictionary.com" /></a></dt>
+<dd>late 15c., "management," from O.Fr. <span class="foreign">solicitation</span> or directly from L. <span class="foreign">solicitationem</span> (nom. <span class="foreign">solicitatio</span>), from <span class="foreign">solicitare</span> (see <a href="/index.php?term=solicit&allowed_in_frame=0" class="crossreference">solicit</a>). Meaning "action of soliciting" is from 1530s. Specific sexual sense is from c.1600.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solicitor&allowed_in_frame=0">solicitor (n.)</a> <a href="http://dictionary.reference.com/search?q=solicitor" class="dictionary" title="Look up solicitor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solicitor at Dictionary.com" title="Look up solicitor at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "one who urges," from M.Fr. <span class="foreign">soliciteur</span>, from <span class="foreign">soliciter</span> (see <a href="/index.php?term=solicit&allowed_in_frame=0" class="crossreference">solicit</a>). Meaning "one who conducts matters on behalf of another" is from early 15c. As a name for a specific class of legal practitioners in Britain, it is attested from 1570s.</dd>
+
+<dt><a href="/index.php?term=solicitous&allowed_in_frame=0">solicitous (adj.)</a> <a href="http://dictionary.reference.com/search?q=solicitous" class="dictionary" title="Look up solicitous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solicitous at Dictionary.com" title="Look up solicitous at Dictionary.com" /></a></dt>
+<dd>1560s, from L. <span class="foreign">sollicitus</span> "restless, uneasy, careful" (see <a href="/index.php?term=solicit&allowed_in_frame=0" class="crossreference">solicit</a>). Related: <span class="foreign">Solicitously</span>; <span class="foreign">solicitousness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solicitude&allowed_in_frame=0">solicitude (n.)</a> <a href="http://dictionary.reference.com/search?q=solicitude" class="dictionary" title="Look up solicitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solicitude at Dictionary.com" title="Look up solicitude at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from O.Fr. <span class="foreign">solicitude</span> or directly from L. <span class="foreign">solicitudo</span>, from <span class="foreign">solicitare</span> (see <a href="/index.php?term=solicit&allowed_in_frame=0" class="crossreference">solicit</a>).</dd>
+
+<dt><a href="/index.php?term=solid&allowed_in_frame=0">solid (adj.)</a> <a href="http://dictionary.reference.com/search?q=solid" class="dictionary" title="Look up solid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solid at Dictionary.com" title="Look up solid at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">solide</span> "firm, dense, compact," from L. <span class="foreign">solidus</span> "firm, whole, entire" (related to <span class="foreign">salvus</span> "safe"), from PIE root <span class="foreign">*sol-</span> "whole" (cf. Gk. <span class="foreign">holos</span> "whole," L. <span class="foreign">salus</span> "health;" see <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a> (adj.)). Slang sense of "wonderful, remarkable" first attested 1920 among jazz musicians. The noun is recorded from late 15c. <span class="foreign">Solid South</span> in U.S. political history is attested from 1858. <span class="foreign">Solid state</span> as a term in physics is recorded from 1953; meaning "employing transistors (as opposed to vacuum tubes)" is from 1959.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solidarity&allowed_in_frame=0">solidarity (n.)</a> <a href="http://dictionary.reference.com/search?q=solidarity" class="dictionary" title="Look up solidarity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solidarity at Dictionary.com" title="Look up solidarity at Dictionary.com" /></a></dt>
+<dd class="highlight">1841, from Fr. <span class="foreign">solidarit&eacute;</span> "mutual responsibility," a coinage of the <span class="foreign">"Encyclop&eacute;die"</span> (1765), from <span class="foreign">solidaire</span> "interdependent, complete, entire," from <span class="foreign">solide</span> (see <a href="/index.php?term=solid&allowed_in_frame=0" class="crossreference">solid</a>). With a capital <span class="foreign">S</span>-, the name of an independent trade union movement in Poland, formed September 1980 and officially banned October 1982, from Pol. <span class="foreign">Solidarno&#347;&#263;</span>.</dd>
+
+<dt><a href="/index.php?term=solidary&allowed_in_frame=0">solidary</a> <a href="http://dictionary.reference.com/search?q=solidary" class="dictionary" title="Look up solidary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solidary at Dictionary.com" title="Look up solidary at Dictionary.com" /></a></dt>
+<dd>1818, from Fr. <span class="foreign">solidaire</span>, from <span class="foreign">solide</span> (see <a href="/index.php?term=solid&allowed_in_frame=0" class="crossreference">solid</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=solidification&allowed_in_frame=0">solidification (n.)</a> <a href="http://dictionary.reference.com/search?q=solidification" class="dictionary" title="Look up solidification at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solidification at Dictionary.com" title="Look up solidification at Dictionary.com" /></a></dt>
+<dd class="highlight">1811; noun of action from <a href="/index.php?term=solidify&allowed_in_frame=0" class="crossreference">solidify</a>.</dd>
+
+<dt><a href="/index.php?term=solidify&allowed_in_frame=0">solidify (v.)</a> <a href="http://dictionary.reference.com/search?q=solidify" class="dictionary" title="Look up solidify at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solidify at Dictionary.com" title="Look up solidify at Dictionary.com" /></a></dt>
+<dd>1799 (trans.); 1837 (intrans.), from Fr. <span class="foreign">solidifier</span>, from O.Fr. <span class="foreign">solide</span> (see <a href="/index.php?term=solid&allowed_in_frame=0" class="crossreference">solid</a> (adj.)). Related: <span class="foreign">Solidified</span>; <span class="foreign">solidifying</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solidity&allowed_in_frame=0">solidity (n.)</a> <a href="http://dictionary.reference.com/search?q=solidity" class="dictionary" title="Look up solidity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solidity at Dictionary.com" title="Look up solidity at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from Fr. <span class="foreign">solidit&eacute;</span> or directly from L. <span class="foreign">soliditatem</span>, from <span class="foreign">solidus</span> (see <a href="/index.php?term=solid&allowed_in_frame=0" class="crossreference">solid</a> (adj.)).</dd>
+
+<dt><a href="/index.php?term=solidus&allowed_in_frame=0">solidus (n.)</a> <a href="http://dictionary.reference.com/search?q=solidus" class="dictionary" title="Look up solidus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solidus at Dictionary.com" title="Look up solidus at Dictionary.com" /></a></dt>
+<dd>late 14c., pl. <span class="foreign">solidi</span>, used of both English shilling and Roman gold coin, from L.L. <span class="foreign">solidus</span>, an imperial Roman coin (worth about 25 <span class="foreign">denarii</span>), from <span class="foreign">nummus solidus</span>, lit. "solid coin" (see <a href="/index.php?term=solid&allowed_in_frame=0" class="crossreference">solid</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=solifidian&allowed_in_frame=0">solifidian (n.)</a> <a href="http://dictionary.reference.com/search?q=solifidian" class="dictionary" title="Look up solifidian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solifidian at Dictionary.com" title="Look up solifidian at Dictionary.com" /></a></dt>
+<dd class="highlight">"one who believes in salvation by faith alone" (based on Luther's translation of Rom. iii:28), 1590s, Reformation coinage from L. <span class="foreign">solus</span> "alone" + <span class="foreign">fides</span> "faith" (see <a href="/index.php?term=faith&allowed_in_frame=0" class="crossreference">faith</a>). </dd>
+
+<dt><a href="/index.php?term=soliloquize&allowed_in_frame=0">soliloquize (v.)</a> <a href="http://dictionary.reference.com/search?q=soliloquize" class="dictionary" title="Look up soliloquize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soliloquize at Dictionary.com" title="Look up soliloquize at Dictionary.com" /></a></dt>
+<dd>1759, from <a href="/index.php?term=soliloquy&allowed_in_frame=0" class="crossreference">soliloquy</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Soliloquized</span>; <span class="foreign">soliloquizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=soliloquy&allowed_in_frame=0">soliloquy (n.)</a> <a href="http://dictionary.reference.com/search?q=soliloquy" class="dictionary" title="Look up soliloquy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soliloquy at Dictionary.com" title="Look up soliloquy at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from L.L. <span class="foreign">soliloquium</span> "a talking to oneself," from L. <span class="foreign">solus</span> "alone" + <span class="foreign">loqui</span> "speak." First used in translation of L. <span class="foreign">"Liber Soliloquiorum,"</span> a treatise by Augustine, who is said to have coined the word, on analogy of Gk. <span class="foreign">monologia</span> (see <a href="/index.php?term=monologue&allowed_in_frame=0" class="crossreference">monologue</a>).</dd>
+
+<dt><a href="/index.php?term=solipsism&allowed_in_frame=0">solipsism (n.)</a> <a href="http://dictionary.reference.com/search?q=solipsism" class="dictionary" title="Look up solipsism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solipsism at Dictionary.com" title="Look up solipsism at Dictionary.com" /></a></dt>
+<dd>1874, coined from L. <span class="foreign">solus</span> "alone" + <span class="foreign">ipse</span> "self." The view or theory that self is the only object of real knowledge or the only thing that is real.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solipsistic&allowed_in_frame=0">solipsistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=solipsistic" class="dictionary" title="Look up solipsistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solipsistic at Dictionary.com" title="Look up solipsistic at Dictionary.com" /></a></dt>
+<dd class="highlight">1885, from <a href="/index.php?term=solipsism&allowed_in_frame=0" class="crossreference">solipsism</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt><a href="/index.php?term=solitaire&allowed_in_frame=0">solitaire (n.)</a> <a href="http://dictionary.reference.com/search?q=solitaire" class="dictionary" title="Look up solitaire at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solitaire at Dictionary.com" title="Look up solitaire at Dictionary.com" /></a></dt>
+<dd>1716, "solitary person, recluse," from Fr. <span class="foreign">solitaire,</span> from L. <span class="foreign">solitarius</span> (see <a href="/index.php?term=solitary&allowed_in_frame=0" class="crossreference">solitary</a>). Sense of "a precious stone set by itself" is from 1727. Meaning "card game played by one person" is first attested 1746.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solitary&allowed_in_frame=0">solitary (adj.)</a> <a href="http://dictionary.reference.com/search?q=solitary" class="dictionary" title="Look up solitary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solitary at Dictionary.com" title="Look up solitary at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">solitaire</span>, from L. <span class="foreign">solitarius</span> "alone, lonely," from <span class="foreign">solitas</span> "loneliness, solitude," from <span class="foreign">solus</span> "alone" (see <a href="/index.php?term=sole&allowed_in_frame=0" class="crossreference">sole</a> (adj.)).</dd>
+
+<dt><a href="/index.php?term=solitude&allowed_in_frame=0">solitude (n.)</a> <a href="http://dictionary.reference.com/search?q=solitude" class="dictionary" title="Look up solitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solitude at Dictionary.com" title="Look up solitude at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">solitude</span> "loneliness," from L. <span class="foreign">solitudinem</span> (nom. <span class="foreign">solitudo</span>) "loneliness," from <span class="foreign">solus</span> "alone" (see <a href="/index.php?term=sole&allowed_in_frame=0" class="crossreference">sole</a> (adj.)). "Not in common use in English until the 17th c." [OED]
+<blockquote>A man can be himself only so long as he is alone; ... if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free. [Schopenhauer, "The World as Will and Idea," 1818]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=solo&allowed_in_frame=0">solo (n.)</a> <a href="http://dictionary.reference.com/search?q=solo" class="dictionary" title="Look up solo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solo at Dictionary.com" title="Look up solo at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, "piece of music for one voice or instrument," from It. <span class="foreign">solo</span>, lit. "alone," from L. <span class="foreign">solus</span> "alone" (see <a href="/index.php?term=sole&allowed_in_frame=0" class="crossreference">sole</a> (adj.)). The adj. is recorded from 1712; non-musical sense of "alone, unassisted" is attested from 1909. The verb is first attested 1886.</dd>
+
+<dt><a href="/index.php?term=soloist&allowed_in_frame=0">soloist (n.)</a> <a href="http://dictionary.reference.com/search?q=soloist" class="dictionary" title="Look up soloist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soloist at Dictionary.com" title="Look up soloist at Dictionary.com" /></a></dt>
+<dd>1864, from <a href="/index.php?term=solo&allowed_in_frame=0" class="crossreference">solo</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Solomon&allowed_in_frame=0">Solomon</a> <a href="http://dictionary.reference.com/search?q=Solomon" class="dictionary" title="Look up Solomon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Solomon at Dictionary.com" title="Look up Solomon at Dictionary.com" /></a></dt>
+<dd class="highlight">masc. proper name, Biblical name of David's son, king of Judah and Israel and wisest of all men, from Gk. <span class="foreign">Solomon</span>, from Heb. <span class="foreign">Sh'lomoh</span>, from <span class="foreign">shelomo</span> "peaceful," from <span class="foreign">shalom</span> "peace." The Arabic form is <span class="foreign">Suleiman</span>. The common medieval form was <span class="foreign">Salomon</span> (Vulgate, Tyndale, Douai); <span class="foreign">Solomon</span> was used in Geneva Bible and KJV. Used allusively for "a wise ruler" since 1550s.</dd>
+
+<dt><a href="/index.php?term=solon&allowed_in_frame=0">solon (n.)</a> <a href="http://dictionary.reference.com/search?q=solon" class="dictionary" title="Look up solon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solon at Dictionary.com" title="Look up solon at Dictionary.com" /></a></dt>
+<dd>"legislator," 1620s, from Gk. <span class="foreign">Solon</span>, name of early lawgiver of Athens, one of the seven sages. Often (especially in U.S., where it is applied by journalists to Congressmen, township supervisors, etc.) with a tinge of sarcasm.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solstice&allowed_in_frame=0">solstice (n.)</a> <a href="http://dictionary.reference.com/search?q=solstice" class="dictionary" title="Look up solstice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solstice at Dictionary.com" title="Look up solstice at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., from O.Fr. <span class="foreign">solstice</span>, from L. <span class="foreign">solstitium</span> "point at which the sun seems to stand still," from <span class="foreign">sol</span> "sun" (see <a href="/index.php?term=sol&allowed_in_frame=0" class="crossreference">sol</a>) + pp. stem of <span class="foreign">sistere</span> "to come to a stop, make stand still" (see <a href="/index.php?term=assist&allowed_in_frame=0" class="crossreference">assist</a>).</dd>
+
+<dt><a href="/index.php?term=solubility&allowed_in_frame=0">solubility (n.)</a> <a href="http://dictionary.reference.com/search?q=solubility" class="dictionary" title="Look up solubility at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solubility at Dictionary.com" title="Look up solubility at Dictionary.com" /></a></dt>
+<dd>1670s, from <a href="/index.php?term=soluble&allowed_in_frame=0" class="crossreference">soluble</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=soluble&allowed_in_frame=0">soluble (adj.)</a> <a href="http://dictionary.reference.com/search?q=soluble" class="dictionary" title="Look up soluble at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soluble at Dictionary.com" title="Look up soluble at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "capable of being dissolved," from M.Fr. <span class="foreign">soluble</span>, from L.L. <span class="foreign">solubilis</span> "that may be loosened or dissolved," from stem of L. <span class="foreign">solvere</span> "loosen, dissolve" (see <a href="/index.php?term=solve&allowed_in_frame=0" class="crossreference">solve</a>). Meaning "capable of being solved" is attested from 1705.</dd>
+
+<dt><a href="/index.php?term=solum&allowed_in_frame=0">solum (n.)</a> <a href="http://dictionary.reference.com/search?q=solum" class="dictionary" title="Look up solum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solum at Dictionary.com" title="Look up solum at Dictionary.com" /></a></dt>
+<dd>Latin, "ground, soil," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solus&allowed_in_frame=0">solus</a> <a href="http://dictionary.reference.com/search?q=solus" class="dictionary" title="Look up solus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solus at Dictionary.com" title="Look up solus at Dictionary.com" /></a></dt>
+<dd class="highlight">Latin, "alone" (see <a href="/index.php?term=sole&allowed_in_frame=0" class="crossreference">sole</a> (adj.)). Used in stage directions (1590s) and in phrases <span class="foreign">solus cum sola</span> "alone with an unchaperoned woman" and <span class="foreign">solus cum solo</span> "all on one's own," both lit. "alone with alone."</dd>
+
+<dt><a href="/index.php?term=solute&allowed_in_frame=0">solute (n.)</a> <a href="http://dictionary.reference.com/search?q=solute" class="dictionary" title="Look up solute at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solute at Dictionary.com" title="Look up solute at Dictionary.com" /></a></dt>
+<dd>from L. <span class="foreign">solutus</span>, pp. of <span class="foreign">solvere</span> (see <a href="/index.php?term=solve&allowed_in_frame=0" class="crossreference">solve</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=solution&allowed_in_frame=0">solution (n.)</a> <a href="http://dictionary.reference.com/search?q=solution" class="dictionary" title="Look up solution at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solution at Dictionary.com" title="Look up solution at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "a solving or being solved," from O.Fr. <span class="foreign">solucion</span>, from L. <span class="foreign">solutionem</span> (nom. <span class="foreign">solutio</span>) "a loosening or unfastening," also "a solving," from pp. stem of <span class="foreign">solvere</span> "to loosen, untie, solve, dissolve" (see <a href="/index.php?term=solve&allowed_in_frame=0" class="crossreference">solve</a>). Meaning "liquid containing a dissolved substance" is first recorded 1590s.</dd>
+
+<dt><a href="/index.php?term=solvation&allowed_in_frame=0">solvation (n.)</a> <a href="http://dictionary.reference.com/search?q=solvation" class="dictionary" title="Look up solvation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solvation at Dictionary.com" title="Look up solvation at Dictionary.com" /></a></dt>
+<dd>1909, noun of action from <span class="foreign">solvate</span>, from <a href="/index.php?term=solvent&allowed_in_frame=0" class="crossreference">solvent</a> + <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solve&allowed_in_frame=0">solve (v.)</a> <a href="http://dictionary.reference.com/search?q=solve" class="dictionary" title="Look up solve at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solve at Dictionary.com" title="Look up solve at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "to disperse, dissipate, loosen," from L. <span class="foreign">solvere</span> "to loosen, dissolve, untie," from PIE <span class="foreign">*se-lu-</span>, from reflexive pronoun <span class="foreign">*swe-</span> + base <span class="foreign">*leu-</span> "to loosen, divide, cut apart" (cf. Gk. <span class="foreign">lyein</span> "to loosen, release, untie," O.E. <span class="foreign">-leosan</span> "to lose," <span class="foreign">leas</span> "loose;" see <a href="/index.php?term=lose&allowed_in_frame=0" class="crossreference">lose</a>). The meaning "explain, answer" is attested from 1530s; for sense evolution, see <a href="/index.php?term=solution&allowed_in_frame=0" class="crossreference">solution</a>. Mathematical use is attested from 1737.</dd>
+
+<dt><a href="/index.php?term=solvency&allowed_in_frame=0">solvency (n.)</a> <a href="http://dictionary.reference.com/search?q=solvency" class="dictionary" title="Look up solvency at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solvency at Dictionary.com" title="Look up solvency at Dictionary.com" /></a></dt>
+<dd>1727; see <a href="/index.php?term=solvent&allowed_in_frame=0" class="crossreference">solvent</a> + <a href="/index.php?term=-cy&allowed_in_frame=0" class="crossreference">-cy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=solvent&allowed_in_frame=0">solvent (adj.)</a> <a href="http://dictionary.reference.com/search?q=solvent" class="dictionary" title="Look up solvent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solvent at Dictionary.com" title="Look up solvent at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, "able to pay all one owes," from Fr. <span class="foreign">solvent</span>, from L. <span class="foreign">solventem</span> (nom. <span class="foreign">solvens</span>), prp. of <span class="foreign">solvere</span> "loosen, dissolve" (see <a href="/index.php?term=solve&allowed_in_frame=0" class="crossreference">solve</a>). Noun meaning "substance able to dissolve other substances" first recorded 1670s.</dd>
+
+<dt><a href="/index.php?term=solvitur+ambulando&allowed_in_frame=0">solvitur ambulando</a> <a href="http://dictionary.reference.com/search?q=solvitur+ambulando" class="dictionary" title="Look up solvitur ambulando at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up solvitur ambulando at Dictionary.com" title="Look up solvitur ambulando at Dictionary.com" /></a></dt>
+<dd>an appeal to practical experience for a solution or proof, Latin, lit. "(the problem) is solved by walking," originally in reference to the proof by Diogenes the Cynic of the possibility of motion.</dd>
+
+<dt class="highlight"><a href="/index.php?term=soma&allowed_in_frame=0">soma (n.)</a> <a href="http://dictionary.reference.com/search?q=soma" class="dictionary" title="Look up soma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up soma at Dictionary.com" title="Look up soma at Dictionary.com" /></a></dt>
+<dd class="highlight">name of an intoxicant used in ancient Vedic ritual, prepared from the juice of some plant, from Skt. <span class="foreign">soma</span>, from PIE <span class="foreign">*seu-</span> "juice," from root <span class="foreign">*seue-</span> "to take liquid" (see <a href="/index.php?term=sup&allowed_in_frame=0" class="crossreference">sup</a> (2)). In "Brave New World" (1932), the name of a state-dispensed narcotic producing euphoria and hallucination.</dd>
+
+<dt><a href="/index.php?term=Somalia&allowed_in_frame=0">Somalia</a> <a href="http://dictionary.reference.com/search?q=Somalia" class="dictionary" title="Look up Somalia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Somalia at Dictionary.com" title="Look up Somalia at Dictionary.com" /></a></dt>
+<dd>country named for the indigenous <span class="foreign">Somali</span> people, whose name is of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=somatic&allowed_in_frame=0">somatic (adj.)</a> <a href="http://dictionary.reference.com/search?q=somatic" class="dictionary" title="Look up somatic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somatic at Dictionary.com" title="Look up somatic at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to the body," 1775, from Fr. <span class="foreign">somatique,</span> from Gk. <span class="foreign">somatikos</span> "of the body," from <span class="foreign">soma</span> (gen. <span class="foreign">somatos</span>) "body."</dd>
+
+<dt><a href="/index.php?term=somatization&allowed_in_frame=0">somatization (n.)</a> <a href="http://dictionary.reference.com/search?q=somatization" class="dictionary" title="Look up somatization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somatization at Dictionary.com" title="Look up somatization at Dictionary.com" /></a></dt>
+<dd>1925, from Gk. <span class="foreign">somat-</span>, comb. form of <span class="foreign">soma</span> "body," + <a href="/index.php?term=-ization&allowed_in_frame=0" class="crossreference">-ization</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=somatosensory&allowed_in_frame=0">somatosensory (adj.)</a> <a href="http://dictionary.reference.com/search?q=somatosensory" class="dictionary" title="Look up somatosensory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somatosensory at Dictionary.com" title="Look up somatosensory at Dictionary.com" /></a></dt>
+<dd class="highlight">1952, from comb. form of Gk. <span class="foreign">soma</span> (gen. <span class="foreign">somatos</span>) "body" + <a href="/index.php?term=sensory&allowed_in_frame=0" class="crossreference">sensory</a>.</dd>
+
+<dt><a href="/index.php?term=somber&allowed_in_frame=0">somber (adj.)</a> <a href="http://dictionary.reference.com/search?q=somber" class="dictionary" title="Look up somber at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up somber at Dictionary.com" title="Look up somber at Dictionary.com" /></a></dt>
+<dd>1760 (earlier <span class="foreign">sombrous</span>, c.1730), from Fr. <span class="foreign">sombre</span> "dark, gloomy," from O.Fr. <span class="foreign">sombre</span>, from L.L. <span class="foreign">subumbrare</span> "to shadow," from <span class="foreign">sub</span> "under" + <span class="foreign">umbra</span> "shade, shadow," from PIE <span class="foreign">*andho-</span> "blind, dark" (see <a href="/index.php?term=umbrage&allowed_in_frame=0" class="crossreference">umbrage</a>).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658750 -->
+<!-- Page was generated in 0.192488 seconds. -->
+ </body>
+</html>
+<!-- -->

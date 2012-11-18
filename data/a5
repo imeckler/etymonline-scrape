@@ -1,0 +1,418 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=accelerator&allowed_in_frame=0">accelerator (n.)</a> <a href="http://dictionary.reference.com/search?q=accelerator" class="dictionary" title="Look up accelerator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accelerator at Dictionary.com" title="Look up accelerator at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from L. <span class="foreign">accelerator</span>, agent noun from <span class="foreign">accelerare</span> (see <a href="/index.php?term=accelerate&allowed_in_frame=0" class="crossreference">accelerate</a>). Motor vehicle sense is from 1900.</dd>
+
+<dt><a href="/index.php?term=accent&allowed_in_frame=0">accent (n.)</a> <a href="http://dictionary.reference.com/search?q=accent" class="dictionary" title="Look up accent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accent at Dictionary.com" title="Look up accent at Dictionary.com" /></a></dt>
+<dd>late 14c., "particular mode of pronunciation," from M.Fr. <span class="foreign">accent,</span> from O.Fr. <span class="foreign">acent</span> (13c.), from L. <span class="foreign">accentus</span> "song added to speech," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">cantus</span> "a singing," pp. of <span class="foreign">canere</span> "to sing" (see <a href="/index.php?term=chant&allowed_in_frame=0" class="crossreference">chant</a> (v.)). Loan-translation of Gk. <span class="foreign">prosoidia</span>, from <span class="foreign">pros-</span> "to" + <span class="foreign">oide</span> "song," which apparently described the pitch scheme in Greek verse. The decorating sense of "something that emphasizes or highlights" is from 1972.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accent&allowed_in_frame=0">accent (v.)</a> <a href="http://dictionary.reference.com/search?q=accent" class="dictionary" title="Look up accent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accent at Dictionary.com" title="Look up accent at Dictionary.com" /></a></dt>
+<dd class="highlight">"to pronounce with accent or stress," 1520s, from Fr. <span class="foreign">accenter</span>, from O.Fr. <span class="foreign">acenter</span>, from <span class="foreign">accent</span> (see <a href="/index.php?term=accent&allowed_in_frame=0" class="crossreference">accent</a> (n.)). Related: <span class="foreign">Accented</span>; <span class="foreign">accenting</span>.</dd>
+
+<dt><a href="/index.php?term=accentuate&allowed_in_frame=0">accentuate (v.)</a> <a href="http://dictionary.reference.com/search?q=accentuate" class="dictionary" title="Look up accentuate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accentuate at Dictionary.com" title="Look up accentuate at Dictionary.com" /></a></dt>
+<dd>1731, from M.L. <span class="foreign">accentuatus,</span> pp. of <span class="foreign">accentuare</span> "to accent," from L. <span class="foreign">accentus</span> (see <a href="/index.php?term=accent&allowed_in_frame=0" class="crossreference">accent</a> (n.)). Originally "to pronounce with an accent;" meaning "emphasize" is recorded from 1865.
+<blockquote>
+You've got to accentuate the positive
+<BR>Eliminate the negative
+<BR>Latch on to the affirmative
+<BR>Don't mess with Mister In-Between
+<BR><BR>["Ac-Cent-Tchu-Ate the Positive," 1944, music by Harold Arlen, lyrics by Johnny Mercer]
+</blockquote>
+Related: <span class="foreign">Accentuated</span>; <span class="foreign">accentuating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accentuation&allowed_in_frame=0">accentuation (n.)</a> <a href="http://dictionary.reference.com/search?q=accentuation" class="dictionary" title="Look up accentuation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accentuation at Dictionary.com" title="Look up accentuation at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, from M.L. <span class="foreign">accentuationem</span> (nom. <span class="foreign">accentuatio</span>) “intoning, chanting,” noun of action from pp. stem of <span class="foreign">accentuare</span> (see <a href="/index.php?term=accentuate&allowed_in_frame=0" class="crossreference">accentuate</a>).</dd>
+
+<dt><a href="/index.php?term=accept&allowed_in_frame=0">accept (v.)</a> <a href="http://dictionary.reference.com/search?q=accept" class="dictionary" title="Look up accept at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accept at Dictionary.com" title="Look up accept at Dictionary.com" /></a></dt>
+<dd>late 14c., "to take what is offered," from O.Fr. <span class="foreign">accepter</span> (14c.) or directly from L. <span class="foreign">acceptare</span> "take or receive willingly," frequentative of <span class="foreign">accipere</span> "receive," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">capere</span> "to take" (see <a href="/index.php?term=capable&allowed_in_frame=0" class="crossreference">capable</a>). Related: <span class="foreign">Accepted</span>; <span class="foreign">accepting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acceptability&allowed_in_frame=0">acceptability (n.)</a> <a href="http://dictionary.reference.com/search?q=acceptability" class="dictionary" title="Look up acceptability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acceptability at Dictionary.com" title="Look up acceptability at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, from L.L. <span class="foreign">acceptabilitas</span>, from L. <span class="foreign">acceptabilis</span> (see <a href="/index.php?term=acceptable&allowed_in_frame=0" class="crossreference">acceptable</a>).</dd>
+
+<dt><a href="/index.php?term=acceptable&allowed_in_frame=0">acceptable (adj.)</a> <a href="http://dictionary.reference.com/search?q=acceptable" class="dictionary" title="Look up acceptable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acceptable at Dictionary.com" title="Look up acceptable at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">acceptable</span>, from L. <span class="foreign">acceptabilis</span> "worthy of acceptance," from <span class="foreign">acceptare</span> (see <a href="/index.php?term=accept&allowed_in_frame=0" class="crossreference">accept</a>). Related: <span class="foreign">Acceptably</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acceptance&allowed_in_frame=0">acceptance (n.)</a> <a href="http://dictionary.reference.com/search?q=acceptance" class="dictionary" title="Look up acceptance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acceptance at Dictionary.com" title="Look up acceptance at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, from M.Fr. <span class="foreign">acceptance</span>, from <span class="foreign">accepter</span> (see <a href="/index.php?term=accept&allowed_in_frame=0" class="crossreference">accept</a>). Earlier in same sense was <span class="foreign">acceptation</span> (late 14c.).</dd>
+
+<dt><a href="/index.php?term=access&allowed_in_frame=0">access (n.)</a> <a href="http://dictionary.reference.com/search?q=access" class="dictionary" title="Look up access at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up access at Dictionary.com" title="Look up access at Dictionary.com" /></a></dt>
+<dd>early 14c., "an attack of fever," from O.Fr. <span class="foreign">acces</span> "onslaught, attack; onset (of an illness)" (14c.), from L. <span class="foreign">accessus</span> "a coming to, an approach," noun use of pp. of <span class="foreign">accedere</span> "approach" (see <a href="/index.php?term=accede&allowed_in_frame=0" class="crossreference">accede</a>). The later senses are directly from Latin. Meaning "an entrance" is from c.1600. Meaning "habit or power of getting into the presence of (someone or something)" is from late 14c. As a verb, first recorded 1962, originally in computing. Related: <span class="foreign">Accessed</span>; <span class="foreign">accessing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accessibility&allowed_in_frame=0">accessibility (n.)</a> <a href="http://dictionary.reference.com/search?q=accessibility" class="dictionary" title="Look up accessibility at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accessibility at Dictionary.com" title="Look up accessibility at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1800, from <a href="/index.php?term=accessible&allowed_in_frame=0" class="crossreference">accessible</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=accessible&allowed_in_frame=0">accessible (adj.)</a> <a href="http://dictionary.reference.com/search?q=accessible" class="dictionary" title="Look up accessible at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accessible at Dictionary.com" title="Look up accessible at Dictionary.com" /></a></dt>
+<dd>c.1400, "affording access," from M.Fr. <span class="foreign">accessible</span>, from L.L. <span class="foreign">accessibilis</span>, verbal adjective from L. <span class="foreign">accessus</span> "a coming near, approach" (see <a href="/index.php?term=access&allowed_in_frame=0" class="crossreference">access</a> (n.)). Meaning "easy to reach" is from 1640s; Of art or writing, "able to be readily understood," 1961 (a term not needed in the years before writing or art often deliberately was made not so).</dd>
+
+<dt class="highlight"><a href="/index.php?term=accession&allowed_in_frame=0">accession (n.)</a> <a href="http://dictionary.reference.com/search?q=accession" class="dictionary" title="Look up accession at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accession at Dictionary.com" title="Look up accession at Dictionary.com" /></a></dt>
+<dd class="highlight">"act of coming to a position," especially of a throne, 1640s, from L. <span class="foreign">accessionem</span> (nom. <span class="foreign">accessio</span>) "a going to, joining, increase," noun of action from pp. stem of <span class="foreign">accedere</span> (see <a href="/index.php?term=accede&allowed_in_frame=0" class="crossreference">accede</a>).</dd>
+
+<dt><a href="/index.php?term=accessorize&allowed_in_frame=0">accessorize (v.)</a> <a href="http://dictionary.reference.com/search?q=accessorize" class="dictionary" title="Look up accessorize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accessorize at Dictionary.com" title="Look up accessorize at Dictionary.com" /></a></dt>
+<dd>1939, from <a href="/index.php?term=accessory&allowed_in_frame=0" class="crossreference">accessory</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Accessorized</span>; <span class="foreign">accessorizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accessory&allowed_in_frame=0">accessory (n.)</a> <a href="http://dictionary.reference.com/search?q=accessory" class="dictionary" title="Look up accessory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accessory at Dictionary.com" title="Look up accessory at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">accessary</span>, early 15c. as a legal term in the criminal sense of "one aiding in a crime;" also "that which is subordinate to something else," from L.L. <span class="foreign">accessorius</span>, from <span class="foreign">accessor</span>, agent noun from <span class="foreign">accedere</span> (see <a href="/index.php?term=access&allowed_in_frame=0" class="crossreference">access</a> (n.)). Attested from 1896 as "woman's smaller articles of dress," hence <a href="/index.php?term=accessorize&allowed_in_frame=0" class="crossreference">accessorize</a>.</dd>
+
+<dt><a href="/index.php?term=accessory&allowed_in_frame=0">accessory (adj.)</a> <a href="http://dictionary.reference.com/search?q=accessory" class="dictionary" title="Look up accessory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accessory at Dictionary.com" title="Look up accessory at Dictionary.com" /></a></dt>
+<dd>1550s, "subordinate," from L.L. <span class="foreign">accessorius</span>, from <span class="foreign">accessor</span>, agent noun from <span class="foreign">accedere</span> (see <a href="/index.php?term=access&allowed_in_frame=0" class="crossreference">access</a> (n.)). Meaning "aiding in crime" is from c.1600.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accidence&allowed_in_frame=0">accidence (n.)</a> <a href="http://dictionary.reference.com/search?q=accidence" class="dictionary" title="Look up accidence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accidence at Dictionary.com" title="Look up accidence at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., in philosophy, "non-essential or incidental characteristic," also "part of grammar dealing with inflection" (mid-15c.), in some cases a misspelling of <span class="foreign">accidents</span>, or else directly from L. <span class="foreign">accidentia</span> (used as a term in grammar by Quintilian), neuter plural of <span class="foreign">accidens</span>, prp. of <span class="foreign">accidere</span> (see <a href="/index.php?term=accident&allowed_in_frame=0" class="crossreference">accident</a>). The grammar sense is because they change in accordance with use.</dd>
+
+<dt><a href="/index.php?term=accident&allowed_in_frame=0">accident (n.)</a> <a href="http://dictionary.reference.com/search?q=accident" class="dictionary" title="Look up accident at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accident at Dictionary.com" title="Look up accident at Dictionary.com" /></a></dt>
+<dd>late 14c., "an occurrence, incident, event," from O.Fr. <span class="foreign">accident</span> (12c.), from L. <span class="foreign">accidentem</span> (nom. <span class="foreign">accidens</span>), prp. of <span class="foreign">accidere</span> "happen, fall out, fall upon," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">cadere</span> "fall" (see <a href="/index.php?term=case&allowed_in_frame=0" class="crossreference">case</a> (n.1)). Meaning grew from "something that happens, an event," to "something that happens by chance," then "mishap." Philosohpical sense "non-essential characteristic of as thing" is late 14c. Meaning "unplanned child" is attested by 1932.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accidental&allowed_in_frame=0">accidental (adj.)</a> <a href="http://dictionary.reference.com/search?q=accidental" class="dictionary" title="Look up accidental at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accidental at Dictionary.com" title="Look up accidental at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., “non-essential,” from O.Fr. <span class="foreign">accidentel</span> or directly from M.L. <span class="foreign">accidentalis</span>, from L. <span class="foreign">accidentem</span> (see <a href="/index.php?term=accident&allowed_in_frame=0" class="crossreference">accident</a>). Meaning “outside the normal course of nature” is from early 15c.; that of "coming by chance" is from 1570s.</dd>
+
+<dt><a href="/index.php?term=accidental&allowed_in_frame=0">accidental (n.)</a> <a href="http://dictionary.reference.com/search?q=accidental" class="dictionary" title="Look up accidental at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accidental at Dictionary.com" title="Look up accidental at Dictionary.com" /></a></dt>
+<dd>late 14c., "non-essential quality," from <a href="/index.php?term=accidental&allowed_in_frame=0" class="crossreference">accidental</a> (adj.). The musical sense is from 1868.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accidentally&allowed_in_frame=0">accidentally (adv.)</a> <a href="http://dictionary.reference.com/search?q=accidentally" class="dictionary" title="Look up accidentally at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accidentally at Dictionary.com" title="Look up accidentally at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "non-essentially," also "unnaturally," from <a href="/index.php?term=accidental&allowed_in_frame=0" class="crossreference">accidental</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). Meaning "unintentionally" is recorded from 1580s; phrase <span class="foreign">accidentally on purpose</span> is recorded from 1862.</dd>
+
+<dt><a href="/index.php?term=acclaim&allowed_in_frame=0">acclaim (v.)</a> <a href="http://dictionary.reference.com/search?q=acclaim" class="dictionary" title="Look up acclaim at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acclaim at Dictionary.com" title="Look up acclaim at Dictionary.com" /></a></dt>
+<dd>early 14c., "to lay claim to," from L. <span class="foreign">acclamare</span> "to cry out at" (see <a href="/index.php?term=acclamation&allowed_in_frame=0" class="crossreference">acclamation</a>); the meaning "to applaud" is recorded by 1630s. Related: <span class="foreign">Acclaimed</span>; <span class="foreign">acclaiming</span>. The noun meaning "act of acclaiming" is first recorded 1667 in Milton.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acclamation&allowed_in_frame=0">acclamation (n.)</a> <a href="http://dictionary.reference.com/search?q=acclamation" class="dictionary" title="Look up acclamation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acclamation at Dictionary.com" title="Look up acclamation at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from L. <span class="foreign">acclamationem</span> (nom. <span class="foreign">acclamatio</span>) "a calling, exclamation, shout of approval," noun of action from pp. stem of <span class="foreign">acclamare</span> "shout approval or disapproval of, cry out at," from <span class="foreign">ad-</span> "toward" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">clamare</span> "cry out" (see <a href="/index.php?term=claim&allowed_in_frame=0" class="crossreference">claim</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=acclimate&allowed_in_frame=0">acclimate (v.)</a> <a href="http://dictionary.reference.com/search?q=acclimate" class="dictionary" title="Look up acclimate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acclimate at Dictionary.com" title="Look up acclimate at Dictionary.com" /></a></dt>
+<dd>1792, from Fr. <span class="foreign">acclimater</span>, from <span class="foreign">&agrave;</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">climat</span> (see <a href="/index.php?term=climate&allowed_in_frame=0" class="crossreference">climate</a>). Related: <span class="foreign">Acclimated</span>; <span class="foreign">acclimating</span>. The extended form <a href="/index.php?term=acclimatize&allowed_in_frame=0" class="crossreference">acclimatize</a> is now more common.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acclimation&allowed_in_frame=0">acclimation (n.)</a> <a href="http://dictionary.reference.com/search?q=acclimation" class="dictionary" title="Look up acclimation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acclimation at Dictionary.com" title="Look up acclimation at Dictionary.com" /></a></dt>
+<dd class="highlight">1826, noun of action from <a href="/index.php?term=acclimate&allowed_in_frame=0" class="crossreference">acclimate</a>.</dd>
+
+<dt><a href="/index.php?term=acclimatize&allowed_in_frame=0">acclimatize (v.)</a> <a href="http://dictionary.reference.com/search?q=acclimatize" class="dictionary" title="Look up acclimatize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acclimatize at Dictionary.com" title="Look up acclimatize at Dictionary.com" /></a></dt>
+<dd>1836; see <a href="/index.php?term=acclimate&allowed_in_frame=0" class="crossreference">acclimate</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>; a more recent formation than <span class="foreign">acclimate</span> and replacing it in many uses. Related: <span class="foreign">Acclimatized</span>; <span class="foreign">acclimatizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=acclivity&allowed_in_frame=0">acclivity (n.)</a> <a href="http://dictionary.reference.com/search?q=acclivity" class="dictionary" title="Look up acclivity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up acclivity at Dictionary.com" title="Look up acclivity at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from L. <span class="foreign">acclivitatem</span> (nom. <span class="foreign">acclivitas</span>) "an ascending direction, an upward steepness," from <span class="foreign">acclivis</span> "mounting upwards, ascending," from <span class="foreign">ad-</span> "up" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">clivus</span> "hill, a slope," from PIE <span class="foreign">*klei-wo-</span>, suffixed form of <span class="foreign">*klei-</span> "to lean" (see <a href="/index.php?term=lean&allowed_in_frame=0" class="crossreference">lean</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=accolade&allowed_in_frame=0">accolade (n.)</a> <a href="http://dictionary.reference.com/search?q=accolade" class="dictionary" title="Look up accolade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accolade at Dictionary.com" title="Look up accolade at Dictionary.com" /></a></dt>
+<dd>1620s, from Fr. <span class="foreign">accolade</span> (16c.), from Prov. <span class="foreign">acolada</span> or It. <span class="foreign">accollata</span>, ultimately from noun use of a fem. pp. from V.L. <span class="foreign">*accollare</span> "to embrace around the neck," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">collum</span> "neck" (see <a href="/index.php?term=collar&allowed_in_frame=0" class="crossreference">collar</a>). The original sense is of an embrace about the neck or the tapping of a sword on the shoulders to confer knighthood. Extended meaning "praise, award" is from 1852. Also see <a href="/index.php?term=-ade&allowed_in_frame=0" class="crossreference">-ade</a>. Earlier was <span class="foreign">accoll</span> (mid-14c.), from O.Fr. <span class="foreign">acolee</span> "an embrace, kiss, especially that given to a new-made knight," from verb <span class="foreign">acoler</span>. The French noun in the 16c. was transformed to <span class="foreign">accolade</span>, with the foreign suffix.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accommodate&allowed_in_frame=0">accommodate (v.)</a> <a href="http://dictionary.reference.com/search?q=accommodate" class="dictionary" title="Look up accommodate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accommodate at Dictionary.com" title="Look up accommodate at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from L. <span class="foreign">accomodatus</span> "suitable," pp. of <span class="foreign">accomodare</span> "make fit, adapt, fit one thing to another," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">commodare</span> "make fit," from <span class="foreign">commodus</span> "fit" (see <a href="/index.php?term=commode&allowed_in_frame=0" class="crossreference">commode</a>). Related: <span class="foreign">Accommodated</span>; <a href="/index.php?term=accommodating&allowed_in_frame=0" class="crossreference">accommodating</a>.</dd>
+
+<dt><a href="/index.php?term=accommodating&allowed_in_frame=0">accommodating (adj.)</a> <a href="http://dictionary.reference.com/search?q=accommodating" class="dictionary" title="Look up accommodating at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accommodating at Dictionary.com" title="Look up accommodating at Dictionary.com" /></a></dt>
+<dd>"obliging," 1775, prp. adjective from <a href="/index.php?term=accommodate&allowed_in_frame=0" class="crossreference">accommodate</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accommodation&allowed_in_frame=0">accommodation (n.)</a> <a href="http://dictionary.reference.com/search?q=accommodation" class="dictionary" title="Look up accommodation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accommodation at Dictionary.com" title="Look up accommodation at Dictionary.com" /></a></dt>
+<dd class="highlight">"room and provisions, lodging," c.1600, now usually plural (<span class="foreign">accommodations</span>) and chiefly U.S.; from Fr. <span class="foreign">accommodation</span>, from L. <span class="foreign">accommodationem</span> (nom. <span class="foreign">accommodatio</span>), noun of action from pp. stem of <span class="foreign">accommodare</span> (see <a href="/index.php?term=accommodate&allowed_in_frame=0" class="crossreference">accommodate</a>). Meaning "appliance, anything which affords aid" is from 1610s; that of "act of accommodating" is from 1640s.</dd>
+
+<dt><a href="/index.php?term=accommodations&allowed_in_frame=0">accommodations (n.)</a> <a href="http://dictionary.reference.com/search?q=accommodations" class="dictionary" title="Look up accommodations at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accommodations at Dictionary.com" title="Look up accommodations at Dictionary.com" /></a></dt>
+<dd>"lodgings and entertainment," see <a href="/index.php?term=accommodation&allowed_in_frame=0" class="crossreference">accommodation</a>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=accompaniment&allowed_in_frame=0">accompaniment (n.)</a> <a href="http://dictionary.reference.com/search?q=accompaniment" class="dictionary" title="Look up accompaniment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accompaniment at Dictionary.com" title="Look up accompaniment at Dictionary.com" /></a></dt>
+<dd class="highlight">1744, from Fr. <span class="foreign">accompagnement</span> (13c.), from <span class="foreign">accompagner</span> (see <a href="/index.php?term=accompany&allowed_in_frame=0" class="crossreference">accompany</a>). Musical sense is earliest.</dd>
+
+<dt><a href="/index.php?term=accompanist&allowed_in_frame=0">accompanist (n.)</a> <a href="http://dictionary.reference.com/search?q=accompanist" class="dictionary" title="Look up accompanist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accompanist at Dictionary.com" title="Look up accompanist at Dictionary.com" /></a></dt>
+<dd>"performer who takes the accompanying part in music," 1833, from <a href="/index.php?term=accompany&allowed_in_frame=0" class="crossreference">accompany</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accompany&allowed_in_frame=0">accompany (v.)</a> <a href="http://dictionary.reference.com/search?q=accompany" class="dictionary" title="Look up accompany at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accompany at Dictionary.com" title="Look up accompany at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "to be in company with," from M.Fr. <span class="foreign">accompagner</span>, from O.Fr. <span class="foreign">acompaignier</span> (12c.) "take as a companion," from <span class="foreign">&agrave;</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">compaignier</span>, from <span class="foreign">compaign</span> (see <a href="/index.php?term=companion&allowed_in_frame=0" class="crossreference">companion</a>). Related: <span class="foreign">Accompanied</span>; <span class="foreign">accompanying</span>.</dd>
+
+<dt><a href="/index.php?term=accomplice&allowed_in_frame=0">accomplice (n.)</a> <a href="http://dictionary.reference.com/search?q=accomplice" class="dictionary" title="Look up accomplice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accomplice at Dictionary.com" title="Look up accomplice at Dictionary.com" /></a></dt>
+<dd>1580s (earlier <span class="foreign">complice</span>, late 15c.), from O.Fr. <span class="foreign">complice</span> "a confederate," from L.L. <span class="foreign">complicem</span> (nom. <span class="foreign">complex</span>) "partner, confederate," from L. <span class="foreign">complicare</span> "fold together" (see <a href="/index.php?term=complicate&allowed_in_frame=0" class="crossreference">complicate</a>). With parasitic <span class="foreign">a-</span> on model of <span class="foreign">accomplish</span>, etc., or perhaps by assimilation of indefinite article in phrase <span class="foreign">a complice</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accomplish&allowed_in_frame=0">accomplish (v.)</a> <a href="http://dictionary.reference.com/search?q=accomplish" class="dictionary" title="Look up accomplish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accomplish at Dictionary.com" title="Look up accomplish at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">acompliss-</span>, prp. stem of <span class="foreign">acomplir</span> "to fulfill, fill up, complete" (12c.), from V.L. <span class="foreign">*accomplere</span>, from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">complere</span> "fill up" (see <a href="/index.php?term=complete&allowed_in_frame=0" class="crossreference">complete</a>). Related: <a href="/index.php?term=Accomplished&allowed_in_frame=0" class="crossreference">Accomplished</a>; <span class="foreign">accomplishing</span>.</dd>
+
+<dt><a href="/index.php?term=accomplished&allowed_in_frame=0">accomplished (adj.)</a> <a href="http://dictionary.reference.com/search?q=accomplished" class="dictionary" title="Look up accomplished at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accomplished at Dictionary.com" title="Look up accomplished at Dictionary.com" /></a></dt>
+<dd>late 15c., "perfect as a result of training," pp. adjective from <a href="/index.php?term=accomplish&allowed_in_frame=0" class="crossreference">accomplish</a> (q.v.). Meaning "completed" is from 1570s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accomplishment&allowed_in_frame=0">accomplishment (n.)</a> <a href="http://dictionary.reference.com/search?q=accomplishment" class="dictionary" title="Look up accomplishment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accomplishment at Dictionary.com" title="Look up accomplishment at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "performance of a task; state of completion," from O.Fr. <span class="foreign">acomplissement</span> "action of accomplishing," from <span class="foreign">acomplir</span> (see <a href="/index.php?term=accomplish&allowed_in_frame=0" class="crossreference">accomplish</a>). Meaning "thing completed" and that of "something that completes" someone and fits him or her for society are from c.1600.</dd>
+
+<dt><a href="/index.php?term=accord&allowed_in_frame=0">accord (v.)</a> <a href="http://dictionary.reference.com/search?q=accord" class="dictionary" title="Look up accord at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accord at Dictionary.com" title="Look up accord at Dictionary.com" /></a></dt>
+<dd>early 12c., from O.Fr. <span class="foreign">acorder</span> (12c.) "reconcile, agree, be in harmony," from V.L. <span class="foreign">*accordare</span> "make agree," lit. "be of one heart, bring heart to heart," from L. <span class="foreign">ad-</span> "to" + <span class="foreign">cor</span> (gen. <span class="foreign">cordis</span>) "heart" (see <a href="/index.php?term=heart&allowed_in_frame=0" class="crossreference">heart</a>). Related: <span class="foreign">Accorded</span>; <a href="/index.php?term=according&allowed_in_frame=0" class="crossreference">according</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accord&allowed_in_frame=0">accord (n.)</a> <a href="http://dictionary.reference.com/search?q=accord" class="dictionary" title="Look up accord at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accord at Dictionary.com" title="Look up accord at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., <span class="foreign">accourd</span>, from O.Fr. <span class="foreign">acord</span> "agreement," a back formation from <span class="foreign">acorder</span> (see <a href="/index.php?term=accord&allowed_in_frame=0" class="crossreference">accord</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=accordance&allowed_in_frame=0">accordance (n.)</a> <a href="http://dictionary.reference.com/search?q=accordance" class="dictionary" title="Look up accordance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accordance at Dictionary.com" title="Look up accordance at Dictionary.com" /></a></dt>
+<dd>c.1300, "compliance;" early 14c., "agreement, concurrence," from O.Fr. <span class="foreign">acordance</span> "agreeing, reconciliation, harmony," noun of action from <span class="foreign">acorder</span> (see <a href="/index.php?term=accord&allowed_in_frame=0" class="crossreference">accord</a>). Of things, "conformity, compatibility, harmony," late 14c. Phrase <span class="foreign">in accordance with</span> is attested from c.1810 (in Middle English, <span class="foreign">in accordance of</span> was the usual form).</dd>
+
+<dt class="highlight"><a href="/index.php?term=according&allowed_in_frame=0">according</a> <a href="http://dictionary.reference.com/search?q=according" class="dictionary" title="Look up according at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up according at Dictionary.com" title="Look up according at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "matching, similar, correponding," prp. adjective and adverb from <a href="/index.php?term=accord&allowed_in_frame=0" class="crossreference">accord</a> (v.). Meanings "conforming (to), compliant, in agreement; consistent, harmonious; suitable, appropriate" are from late 14c. <span class="foreign">According to</span> "referring to," lit. "in a manner agreeing with" is attested from mid-15c.</dd>
+
+<dt><a href="/index.php?term=accordingly&allowed_in_frame=0">accordingly (adv.)</a> <a href="http://dictionary.reference.com/search?q=accordingly" class="dictionary" title="Look up accordingly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accordingly at Dictionary.com" title="Look up accordingly at Dictionary.com" /></a></dt>
+<dd>mid-14c., "in agreement with," from <a href="/index.php?term=according&allowed_in_frame=0" class="crossreference">according</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). From mid-15c. as "properly; adequately;" meaning "in agreement with logic or expectation" is recorded 1680s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accordion&allowed_in_frame=0">accordion (n.)</a> <a href="http://dictionary.reference.com/search?q=accordion" class="dictionary" title="Look up accordion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accordion at Dictionary.com" title="Look up accordion at Dictionary.com" /></a></dt>
+<dd class="highlight">1831, from Ger. <span class="foreign">Akkordion</span>, from <span class="foreign">Akkord</span> "musical chord, concord of sounds, be in tune" (cf. It. <span class="foreign">accordare</span> "to attune an instrument"); ultimately from same source as English <a href="/index.php?term=accord&allowed_in_frame=0" class="crossreference">accord</a> (v.), with suffix on analogy of <span class="foreign">clarion</span>, etc. Invented 1829 by piano-maker Cyrill Demian (1772-1847) of Vienna.</dd>
+
+<dt><a href="/index.php?term=accost&allowed_in_frame=0">accost (v.)</a> <a href="http://dictionary.reference.com/search?q=accost" class="dictionary" title="Look up accost at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accost at Dictionary.com" title="Look up accost at Dictionary.com" /></a></dt>
+<dd>1570s, from M.Fr. <span class="foreign">accoster</span> "move up to," from It. <span class="foreign">accostare</span> or directly from L.L. <span class="foreign">accostare</span> "come up to the side," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">costa</span> "rib, side" (see <a href="/index.php?term=coast&allowed_in_frame=0" class="crossreference">coast</a> (n.)). The original notion is of fleets of warships attacking an enemy's coast. Related: <span class="foreign">Accosted</span>; <span class="foreign">accosting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=accouchement&allowed_in_frame=0">accouchement (n.)</a> <a href="http://dictionary.reference.com/search?q=accouchement" class="dictionary" title="Look up accouchement at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accouchement at Dictionary.com" title="Look up accouchement at Dictionary.com" /></a></dt>
+<dd class="highlight">1803, from Fr. <span class="foreign">accouchement</span>, noun of action from <span class="foreign">accoucher</span> (see <a href="/index.php?term=accoucheur&allowed_in_frame=0" class="crossreference">accoucheur</a>).</dd>
+
+<dt><a href="/index.php?term=accoucheur&allowed_in_frame=0">accoucheur (n.)</a> <a href="http://dictionary.reference.com/search?q=accoucheur" class="dictionary" title="Look up accoucheur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up accoucheur at Dictionary.com" title="Look up accoucheur at Dictionary.com" /></a></dt>
+<dd>1759, "midwife" (properly, "male midwife"), from Fr. <span class="foreign">accoucheur</span> (Jules Cl&eacute;ment, later 17c.), agent noun from <span class="foreign">accoucher</span> "to go to childbed, be delivered" (13c.) originally simply "to lie down" (12c.), from O.Fr. <span class="foreign">culcher</span> "to lie," from L. <span class="foreign">collocare</span>, from <span class="foreign">com-</span> "with" (see <a href="/index.php?term=com-&allowed_in_frame=0" class="crossreference">com-</a>) + <span class="foreign">locare</span> "to place" (see <a href="/index.php?term=locate&allowed_in_frame=0" class="crossreference">locate</a>). The fem. is <span class="foreign">accoucheuse</span> (1847).</dd>
+
+<dt class="highlight"><a href="/index.php?term=account&allowed_in_frame=0">account (n.)</a> <a href="http://dictionary.reference.com/search?q=account" class="dictionary" title="Look up account at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up account at Dictionary.com" title="Look up account at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "reckoning of money received and paid," from O.Fr. <span class="foreign">acont</span> "account, reckoning, terminal payment," from <span class="foreign">a</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">cont</span> "counting, reckoning of money to be paid," from L.L. <span class="foreign">computus</span> "a calculation," from L. <span class="foreign">computare</span> "calculate" (see <a href="/index.php?term=compute&allowed_in_frame=0" class="crossreference">compute</a>). Meaning "sum of (one's) money in a bank" is from 1833. Sense of "narration" is first attested 1610s. Plural <span class="foreign">accounts</span> used as a collective or singular in phrases such as <span class="foreign">to give accounts</span> (of something), is from mid-13c. Phrase <span class="foreign">by all accounts</span> is attested from 1798.</dd>
+
+<dt><a href="/index.php?term=account&allowed_in_frame=0">account (v.)</a> <a href="http://dictionary.reference.com/search?q=account" class="dictionary" title="Look up account at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up account at Dictionary.com" title="Look up account at Dictionary.com" /></a></dt>
+<dd>c.1300, "to count, enumerate," from O.Fr. <span class="foreign">aconter</span> "to count, render account" (Mod.Fr. <span class="foreign">conter</span>), from <span class="foreign">a</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">conter</span> "to count, tell" (see <a href="/index.php?term=count&allowed_in_frame=0" class="crossreference">count</a> (v.)). Meaning "to reckon for money given or received, render a reckoning," is from late 14c.; sense of "to explain" (c.1710) is from notion of "answer for money held in trust." Transferred sense of "value" is from late 14c. Related: <span class="foreign">Accounted</span>; <a href="/index.php?term=accounting&allowed_in_frame=0" class="crossreference">accounting</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657921 -->
+<!-- Page was generated in 0.158166 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=piebald&allowed_in_frame=0">piebald (adj.)</a> <a href="http://dictionary.reference.com/search?q=piebald" class="dictionary" title="Look up piebald at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piebald at Dictionary.com" title="Look up piebald at Dictionary.com" /></a></dt>
+<dd class="highlight">"of two different colors," 1580s, formed from <a href="/index.php?term=pie&allowed_in_frame=0" class="crossreference">pie</a> (n.2) "magpie" + <a href="/index.php?term=bald&allowed_in_frame=0" class="crossreference">bald</a> in its older sense of "spotted, white;" in reference to the black-and-white plumage of the magpie. Hence, "of mixed character, mongrel." Technically only of black-and-white colorings.</dd>
+
+<dt><a href="/index.php?term=piece&allowed_in_frame=0">piece (n.)</a> <a href="http://dictionary.reference.com/search?q=piece" class="dictionary" title="Look up piece at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piece at Dictionary.com" title="Look up piece at Dictionary.com" /></a></dt>
+<dd>c.1200, "fixed amount, measure, portion," from O.Fr. <span class="foreign">piece</span> "piece, buit portion; item; coin" (12c.), from V.L. <span class="foreign">*pettia</span>, probably from Gaulish <span class="foreign">*pettsi</span> (cf. Welsh <span class="foreign">peth</span> "thing," Breton <span class="foreign">pez</span> "piece, a little"), perhaps from an Old Celtic base <span class="foreign">*kwezd-i-</span>, from PIE root <span class="foreign">*kwezd-</span> "a part, piece" (cf. Rus. <span class="foreign">chast'</span> "part"). Related: <span class="foreign">Pieces</span>.
+<BR><BR>
+Sense of "portable firearm" first recorded 1580s; that of "chessman" is from 1560s. Meaning "person regarded as a sex object" is first recorded 1785 (cf. <span class="foreign">piece of ass</span>, human beings colloquially called <span class="foreign">piece of flesh</span> from 1590s; cf. also L. <span class="foreign">scortum</span> "bimbo, anyone available for a price," lit. "skin"). Meaning "a portion of a distance" is from 1610s; that of "literary composition" dates from 1530s. <span class="foreign">Piece of (one's) mind</span> is from 1570s. <span class="foreign">Piece of work</span> "remarkable person" echoes Hamlet. <span class="foreign">Piece</span> as "a coin" is attested in English from 1570s, hence <span class="foreign">Piece of eight</span>, old name for the Spanish dollar (c.1600) of the value of 8 reals.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piece&allowed_in_frame=0">piece (v.)</a> <a href="http://dictionary.reference.com/search?q=piece" class="dictionary" title="Look up piece at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piece at Dictionary.com" title="Look up piece at Dictionary.com" /></a></dt>
+<dd class="highlight">"to mend by adding pieces," late 14c., from <a href="/index.php?term=piece&allowed_in_frame=0" class="crossreference">piece</a> (n.). Sense of "to join, unite, put together" is from late 15c. Related: <span class="foreign">Pieced</span>; <span class="foreign">piecing</span>. </dd>
+
+<dt><a href="/index.php?term=piece+de+resistance&allowed_in_frame=0">piece de resistance (n.)</a> <a href="http://dictionary.reference.com/search?q=piece+de+resistance" class="dictionary" title="Look up piece de resistance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piece de resistance at Dictionary.com" title="Look up piece de resistance at Dictionary.com" /></a></dt>
+<dd>1831, from Fr. <span class="foreign">pi&egrave;ce de r&eacute;sistance</span>, originally "the most substantial dish in a meal." Lit. "piece of resistance;" there seems to be disagreement as to the exact signification.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piecemeal&allowed_in_frame=0">piecemeal (adv.)</a> <a href="http://dictionary.reference.com/search?q=piecemeal" class="dictionary" title="Look up piecemeal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piecemeal at Dictionary.com" title="Look up piecemeal at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300 (originally two words), from <a href="/index.php?term=piece&allowed_in_frame=0" class="crossreference">piece</a> (n.) + O.E. <span class="foreign">m&aelig;lum</span> "at a time," dative plural of <span class="foreign">m&aelig;l</span> "appointed time, food served" (see <a href="/index.php?term=meal&allowed_in_frame=0" class="crossreference">meal</a> (n.1)). The second element once was more commonly used, e.g. O.E. <span class="foreign">styccem&aelig;lum</span> "bit by bit," <span class="foreign">gearm&aelig;lum</span> "year by year." One-word form from 15c.</dd>
+
+<dt><a href="/index.php?term=piecework&allowed_in_frame=0">piecework (n.)</a> <a href="http://dictionary.reference.com/search?q=piecework" class="dictionary" title="Look up piecework at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piecework at Dictionary.com" title="Look up piecework at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">piece-work</span>, 1540s, from <a href="/index.php?term=piece&allowed_in_frame=0" class="crossreference">piece</a> (n.) + <a href="/index.php?term=work&allowed_in_frame=0" class="crossreference">work</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pied&allowed_in_frame=0">pied (adj.)</a> <a href="http://dictionary.reference.com/search?q=pied" class="dictionary" title="Look up pied at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pied at Dictionary.com" title="Look up pied at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., as if it were the past participle of a verb form of Middle English noun <span class="foreign">pie</span> "magpie" (see <a href="/index.php?term=pie&allowed_in_frame=0" class="crossreference">pie</a> (n.2)), in reference to the bird's black and white plumage. Earliest use is in reference to the <span class="foreign">pyed freres</span>, an order of friars who wore black and white. Also in <span class="foreign">pied piper</span> (1845, in Browning's poem based on the German legend; used allusively by 1939).</dd>
+
+<dt><a href="/index.php?term=pied+a+terre&allowed_in_frame=0">pied a terre (n.)</a> <a href="http://dictionary.reference.com/search?q=pied+a+terre" class="dictionary" title="Look up pied a terre at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pied a terre at Dictionary.com" title="Look up pied a terre at Dictionary.com" /></a></dt>
+<dd>"small town house or rooms used for short residences," 1829, French, <span class="foreign">pied &#224; terre</span>, lit. "foot on the ground."</dd>
+
+<dt class="highlight"><a href="/index.php?term=piedmont&allowed_in_frame=0">piedmont (n.)</a> <a href="http://dictionary.reference.com/search?q=piedmont" class="dictionary" title="Look up piedmont at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piedmont at Dictionary.com" title="Look up piedmont at Dictionary.com" /></a></dt>
+<dd class="highlight">name given to the fertile upland region along the eastern slope of the Appalachians, 1755, originally <span class="foreign">piemont</span>, from It. <span class="foreign">Piemonte</span>, lit. "mountain foot," name of the region at the foot of the Alps in northern Italy (see <a href="/index.php?term=Piedmont&allowed_in_frame=0" class="crossreference">Piedmont</a>). With <span class="foreign">-d-</span> added by 1855. Applied to similar features of other mountain ranges by 1860.</dd>
+
+<dt><a href="/index.php?term=Piedmont&allowed_in_frame=0">Piedmont</a> <a href="http://dictionary.reference.com/search?q=Piedmont" class="dictionary" title="Look up Piedmont at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Piedmont at Dictionary.com" title="Look up Piedmont at Dictionary.com" /></a></dt>
+<dd>region in northern Italy, from O.It. <span class="foreign">pie di monte</span> "foot of the mountains," from <span class="foreign">pie</span> "foot" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.)) + <span class="foreign">monte</span> "mountain" (see <a href="/index.php?term=mount&allowed_in_frame=0" class="crossreference">mount</a> (n.)). Related: <span class="foreign">Piedmontese</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piepowder&allowed_in_frame=0">piepowder (n.)</a> <a href="http://dictionary.reference.com/search?q=piepowder" class="dictionary" title="Look up piepowder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piepowder at Dictionary.com" title="Look up piepowder at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., "wayfarer, itinerant merchant, etc.," folk etymology alteration of O.Fr. <span class="foreign">pie pouldre</span> or M.L. <span class="foreign">pede-pulverosus</span>, both lit. "dusty-footed" (see <a href="/index.php?term=foot&allowed_in_frame=0" class="crossreference">foot</a> (n.) + <a href="/index.php?term=powder&allowed_in_frame=0" class="crossreference">powder</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=pier&allowed_in_frame=0">pier (n.)</a> <a href="http://dictionary.reference.com/search?q=pier" class="dictionary" title="Look up pier at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pier at Dictionary.com" title="Look up pier at Dictionary.com" /></a></dt>
+<dd>mid-12c., "support of a span of a bridge," from M.L. <span class="foreign">pera</span>, of unknown origin, perhaps from O.N.Fr. <span class="foreign">pire</span> "a breakwater," from V.L. <span class="foreign">*petricus</span>, from L. <span class="foreign">petra</span> "rock" (see <a href="/index.php?term=petrous&allowed_in_frame=0" class="crossreference">petrous</a>), but OED is against this. Meaning "solid structure in a harbor, used as a landing place for vessels," is attested from mid-15c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pierce&allowed_in_frame=0">pierce (v.)</a> <a href="http://dictionary.reference.com/search?q=pierce" class="dictionary" title="Look up pierce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pierce at Dictionary.com" title="Look up pierce at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c. "make a hole in; force one's way through," from Anglo-Fr. <span class="foreign">perser</span>, O.Fr. <span class="foreign">percier</span> "pierce, transfix, drive through" (12c., Mod.Fr. <span class="foreign">percer</span>), probably from V.L. <span class="foreign">*pertusiare</span>, frequentative of L. <span class="foreign">pertusus</span>, pp. of <span class="foreign">pertundere</span> "to thrust or bore through," from <span class="foreign">per-</span> "through" (see <a href="/index.php?term=per&allowed_in_frame=0" class="crossreference">per</a>) + <span class="foreign">tundere</span> "to beat, pound," from PIE <span class="foreign">*tund-</span>, from root <span class="foreign">*(s)teu-</span> "to push, strike, knock, beat, thrust" (see <a href="/index.php?term=obtuse&allowed_in_frame=0" class="crossreference">obtuse</a>). Related: <a href="/index.php?term=Pierced&allowed_in_frame=0" class="crossreference">Pierced</a>; <a href="/index.php?term=piercing&allowed_in_frame=0" class="crossreference">piercing</a>.</dd>
+
+<dt><a href="/index.php?term=pierced&allowed_in_frame=0">pierced (adj.)</a> <a href="http://dictionary.reference.com/search?q=pierced" class="dictionary" title="Look up pierced at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pierced at Dictionary.com" title="Look up pierced at Dictionary.com" /></a></dt>
+<dd>c.1400, pp. adjective from <a href="/index.php?term=pierce&allowed_in_frame=0" class="crossreference">pierce</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=piercer&allowed_in_frame=0">piercer (n.)</a> <a href="http://dictionary.reference.com/search?q=piercer" class="dictionary" title="Look up piercer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piercer at Dictionary.com" title="Look up piercer at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., agent noun from <a href="/index.php?term=pierce&allowed_in_frame=0" class="crossreference">pierce</a> (v.).</dd>
+
+<dt><a href="/index.php?term=piercing&allowed_in_frame=0">piercing (adj.)</a> <a href="http://dictionary.reference.com/search?q=piercing" class="dictionary" title="Look up piercing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piercing at Dictionary.com" title="Look up piercing at Dictionary.com" /></a></dt>
+<dd>in reference to cold, sound, etc., early 15c., prp. adjective from <a href="/index.php?term=pierce&allowed_in_frame=0" class="crossreference">pierce</a> (v.). Figuratively, of pain, grief, etc., from late 14c. Related: <span class="foreign">Piercingly</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piercing&allowed_in_frame=0">piercing (n.)</a> <a href="http://dictionary.reference.com/search?q=piercing" class="dictionary" title="Look up piercing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piercing at Dictionary.com" title="Look up piercing at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., verbal noun from <a href="/index.php?term=pierce&allowed_in_frame=0" class="crossreference">pierce</a> (v.).</dd>
+
+<dt><a href="/index.php?term=Pierian&allowed_in_frame=0">Pierian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Pierian" class="dictionary" title="Look up Pierian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pierian at Dictionary.com" title="Look up Pierian at Dictionary.com" /></a></dt>
+<dd>lit. "of Pieria," 1590s, from L. <span class="foreign">Pierius</span> "Pieria," from Gk. <span class="foreign">Pieria</span>, district in northern Thessaly, reputed home of the Muses; thus "pertaining to poetry."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pierre&allowed_in_frame=0">Pierre</a> <a href="http://dictionary.reference.com/search?q=Pierre" class="dictionary" title="Look up Pierre at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pierre at Dictionary.com" title="Look up Pierre at Dictionary.com" /></a></dt>
+<dd class="highlight">Modern French form of masc. proper name represented in Modern English by <a href="/index.php?term=Peter&allowed_in_frame=0" class="crossreference">Peter</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=pierrot&allowed_in_frame=0">pierrot (n.)</a> <a href="http://dictionary.reference.com/search?q=pierrot" class="dictionary" title="Look up pierrot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pierrot at Dictionary.com" title="Look up pierrot at Dictionary.com" /></a></dt>
+<dd>stock character in French pantomime, in English, "a buffoon," from Fr. <span class="foreign">Pierrot</span>, dim. of <a href="/index.php?term=Pierre&allowed_in_frame=0" class="crossreference">Pierre</a>; considered a typical name of a French peasant.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Piers&allowed_in_frame=0">Piers</a> <a href="http://dictionary.reference.com/search?q=Piers" class="dictionary" title="Look up Piers at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Piers at Dictionary.com" title="Look up Piers at Dictionary.com" /></a></dt>
+<dd class="highlight">common Old French form of masc. proper name <a href="/index.php?term=Peter&allowed_in_frame=0" class="crossreference">Peter</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=Pieta&allowed_in_frame=0">Pieta (n.)</a> <a href="http://dictionary.reference.com/search?q=Pieta" class="dictionary" title="Look up Pieta at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pieta at Dictionary.com" title="Look up Pieta at Dictionary.com" /></a></dt>
+<dd>"Virgin holding the dead body of Christ," 1640s, from It. <span class="foreign">pieta</span>, from L. <span class="foreign">pietatem</span> (see <a href="/index.php?term=piety&allowed_in_frame=0" class="crossreference">piety</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pietism&allowed_in_frame=0">pietism (n.)</a> <a href="http://dictionary.reference.com/search?q=pietism" class="dictionary" title="Look up pietism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pietism at Dictionary.com" title="Look up pietism at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">Pietism</span>, 1690s, from Ger. <span class="foreign">Pietismus</span>, originally applied in derision to the movement to revive personal piety in the Lutheran Church, begun in Frankfurt c.1670 by Philipp Jakob Spener (1635-1705). See <a href="/index.php?term=piety&allowed_in_frame=0" class="crossreference">piety</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt><a href="/index.php?term=pietist&allowed_in_frame=0">pietist (n.)</a> <a href="http://dictionary.reference.com/search?q=pietist" class="dictionary" title="Look up pietist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pietist at Dictionary.com" title="Look up pietist at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">Pietist</span>, 1690s; see <a href="/index.php?term=pietism&allowed_in_frame=0" class="crossreference">pietism</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>. As an adjective from 1705.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pietistic&allowed_in_frame=0">pietistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=pietistic" class="dictionary" title="Look up pietistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pietistic at Dictionary.com" title="Look up pietistic at Dictionary.com" /></a></dt>
+<dd class="highlight">1804, from <a href="/index.php?term=pietist&allowed_in_frame=0" class="crossreference">pietist</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. Related: <span class="foreign">Pietistical</span>.</dd>
+
+<dt><a href="/index.php?term=piety&allowed_in_frame=0">piety (n.)</a> <a href="http://dictionary.reference.com/search?q=piety" class="dictionary" title="Look up piety at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piety at Dictionary.com" title="Look up piety at Dictionary.com" /></a></dt>
+<dd>early 14c. (late 12c. as a surname), "mercy, tenderness, pity," from O.Fr. <span class="foreign">piete</span> "piety, faith; pity, compassion" (12c.), from L. <span class="foreign">pietatem</span> (nom. <span class="foreign">pietas</span>) "dutiful conduct, sense of duty; religiousness, piety; kindness; loyalty, patriotism; faithfulness to natural ties," from <span class="foreign">pius</span> "kind" (see <a href="/index.php?term=pious&allowed_in_frame=0" class="crossreference">pious</a>). Meaning "piousness" attested in English from c.1600. Also see <a href="/index.php?term=pity&allowed_in_frame=0" class="crossreference">pity</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=piezo-&allowed_in_frame=0">piezo-</a> <a href="http://dictionary.reference.com/search?q=piezo-" class="dictionary" title="Look up piezo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piezo- at Dictionary.com" title="Look up piezo- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "pressure," from comb. form of Gk. <span class="foreign">piezein</span> "to press tight, squeeze," from PIE <span class="foreign">*pi-sed-yo-</span> "to sit upon" (cf. Skt. <span class="foreign">pidayati</span> "presses, oppresses"), from <span class="foreign">*pi</span> "on," short for <span class="foreign">*epi</span> (see <a href="/index.php?term=epi-&allowed_in_frame=0" class="crossreference">epi-</a>) + <span class="foreign">*sed-</span> "to sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>). First in <span class="foreign">piezometer</span> (1820); in common use in word formation from c.1900.</dd>
+
+<dt><a href="/index.php?term=piezoelectric&allowed_in_frame=0">piezoelectric (adj.)</a> <a href="http://dictionary.reference.com/search?q=piezoelectric" class="dictionary" title="Look up piezoelectric at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piezoelectric at Dictionary.com" title="Look up piezoelectric at Dictionary.com" /></a></dt>
+<dd>1883, from <span class="foreign">piezoelectricity</span>, from Ger. <span class="foreign">piezoelectricit&#228;t</span> (Wilhelm G. Hankel, 1881), from <a href="/index.php?term=piezo-&allowed_in_frame=0" class="crossreference">piezo-</a> + <a href="/index.php?term=electric&allowed_in_frame=0" class="crossreference">electric</a>. As a noun from 1913.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piffle&allowed_in_frame=0">piffle (v.)</a> <a href="http://dictionary.reference.com/search?q=piffle" class="dictionary" title="Look up piffle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piffle at Dictionary.com" title="Look up piffle at Dictionary.com" /></a></dt>
+<dd class="highlight">1847, of unknown origin, perhaps an alteration of <span class="foreign">trifle</span>, by influence of <span class="foreign">piddle</span>, etc. Or perhaps onomatopoeic of a puff of air, with a diminutive suffix. As a noun by 1890.</dd>
+
+<dt><a href="/index.php?term=pig&allowed_in_frame=0">pig (n.)</a> <a href="http://dictionary.reference.com/search?q=pig" class="dictionary" title="Look up pig at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pig at Dictionary.com" title="Look up pig at Dictionary.com" /></a></dt>
+<dd>probably from O.E. <span class="foreign">*picg</span>, found in compounds, ultimate origin unknown. Originally "young pig" (the word for adults was <span class="foreign">swine</span>). Apparently related to Low Ger. <span class="foreign">bigge</span>, Du. <span class="foreign">big</span> ("but the phonology is difficult" -- OED). The meaning "oblong piece of metal" is first attested 1580s, on the notion of "large mass." Applied to persons, usually in contempt, since 1540s; the derogatory slang meaning "police officer" has been in underworld slang since at least 1811.
+<BR><BR>
+Another Old English word for "pig" was <span class="foreign">fearh</span>, related to <span class="foreign">furh</span> "furrow," from PIE <span class="foreign">*perk-</span> "dig, furrow" (cf. L. <span class="foreign">porc-us</span> "pig," see <a href="/index.php?term=pork&allowed_in_frame=0" class="crossreference">pork</a>). "This reflects a widespread IE tendency to name animals from typical attributes or activities" [Lass]. Synonyms <span class="foreign">grunter</span>, <span class="foreign">porker</span> are from sailors' and fishermen's euphemistic avoidance of uttering the word <span class="foreign">pig</span> at sea, a superstition perhaps based on the fate of the Gadarene swine, who drowned. The image of a <span class="foreign">pig in a poke</span> is attested from 1520s. Flying pigs as a type of something unreal is from 1610s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pig&allowed_in_frame=0">pig (v.)</a> <a href="http://dictionary.reference.com/search?q=pig" class="dictionary" title="Look up pig at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pig at Dictionary.com" title="Look up pig at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, "to huddle together," from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.). Related: <span class="foreign">Pigged</span>; <span class="foreign">pigging</span>. To <span class="foreign">pig out</span> "eat voraciously" attested by 1979.
+
+</dd>
+
+<dt><a href="/index.php?term=pig+iron&allowed_in_frame=0">pig iron (n.)</a> <a href="http://dictionary.reference.com/search?q=pig+iron" class="dictionary" title="Look up pig iron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pig iron at Dictionary.com" title="Look up pig iron at Dictionary.com" /></a></dt>
+<dd>1660s; see <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=iron&allowed_in_frame=0" class="crossreference">iron</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pig+Latin&allowed_in_frame=0">Pig Latin (n.)</a> <a href="http://dictionary.reference.com/search?q=Pig+Latin" class="dictionary" title="Look up Pig Latin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pig Latin at Dictionary.com" title="Look up Pig Latin at Dictionary.com" /></a></dt>
+<dd class="highlight">childish deformed language (there are many different versions), by 1889 (<span class="foreign">hog Latin</span> in same sense by 1807).
+<blockquote>
+The animals play quite an important part in the naming [of children's languages], as the hog, dog, fly, goose, pigeon, pig, all give names, with Mr. Hog leading. Among the names the Latins take the lead, and Hog Latin leads the list, being accredited as naming nearly as many languages as all the other names combined. Besides Hog Latin, there is Dog Latin, Pig Latin, Goose Latin, and Bum Latin. Then there is Greekish and Peddlers' French and Pigeon English. ... Very few can give any reason for the naming of the languages. In fact, no one can fully say where the great majority of names came from, for in most cases in the naming the following pretty well expresses the difficulty: "It was born before I was. I can't tell how young I was when I first heard of it." ["The Secret Language of Children," in "The North Western Monthly," October 1897]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=pigeon&allowed_in_frame=0">pigeon (n.)</a> <a href="http://dictionary.reference.com/search?q=pigeon" class="dictionary" title="Look up pigeon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigeon at Dictionary.com" title="Look up pigeon at Dictionary.com" /></a></dt>
+<dd>late 14c. (early 13c. as a surname), from O.Fr. <span class="foreign">pigeon</span> "young dove" (13c.), probably from V.L. <span class="foreign">*pibionem</span>, dissimilation from L.L. <span class="foreign">pipionem</span> (nom. <span class="foreign">pipio</span>) "squab, young chirping bird" (3c.), from <span class="foreign">pipire</span> "to peep, chirp," of imitative origin. Meaning "one easily duped" is from 1590s. Replaced <span class="foreign">culver</span> (O.E. <span class="foreign">culufre</span>, from V.L. <span class="foreign">*columbra</span>, from L. <span class="foreign">columbula</span>) and native <a href="/index.php?term=dove&allowed_in_frame=0" class="crossreference">dove</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pigeon-hole&allowed_in_frame=0">pigeon-hole (n.)</a> <a href="http://dictionary.reference.com/search?q=pigeon-hole" class="dictionary" title="Look up pigeon-hole at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigeon-hole at Dictionary.com" title="Look up pigeon-hole at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">pigeonhole</span>, 1570s, "a small recess for pigeons to nest in," from <a href="/index.php?term=pigeon&allowed_in_frame=0" class="crossreference">pigeon</a> + <a href="/index.php?term=hole&allowed_in_frame=0" class="crossreference">hole</a> (n.). Meaning "a compartment in a writing desk," etc. is from 1680s, based on resemblance. The verb is from 1840 literally; figurative sense of "label mentally" is from 1870.
+<blockquote>
+[Y]ou will have an inspector after you with note-book and ink-horn, and you will be booked and pigeon-holed for further use when wanted. ["Civilisation--The Census," "Blackwood's Magazine," Oct. 1854]
+</blockquote>
+Related: <span class="foreign">Pigeonholed</span>.
+</dd>
+
+<dt><a href="/index.php?term=pigeon-toed&allowed_in_frame=0">pigeon-toed (adj.)</a> <a href="http://dictionary.reference.com/search?q=pigeon-toed" class="dictionary" title="Look up pigeon-toed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigeon-toed at Dictionary.com" title="Look up pigeon-toed at Dictionary.com" /></a></dt>
+<dd>1788, originally of horses; see <a href="/index.php?term=pigeon&allowed_in_frame=0" class="crossreference">pigeon</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piggish&allowed_in_frame=0">piggish (adj.)</a> <a href="http://dictionary.reference.com/search?q=piggish" class="dictionary" title="Look up piggish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piggish at Dictionary.com" title="Look up piggish at Dictionary.com" /></a></dt>
+<dd class="highlight">1792, from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. Until 20c. usually "stubborn, selfish; unclean, coarse;" association with greedy eating is more recent. Related: <span class="foreign">Piggishly</span>; <span class="foreign">piggishness</span>.</dd>
+
+<dt><a href="/index.php?term=Piggly-Wiggly&allowed_in_frame=0">Piggly-Wiggly</a> <a href="http://dictionary.reference.com/search?q=Piggly-Wiggly" class="dictionary" title="Look up Piggly-Wiggly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Piggly-Wiggly at Dictionary.com" title="Look up Piggly-Wiggly at Dictionary.com" /></a></dt>
+<dd>chain of self-service grocery stores, started 1916 in Memphis. According to founder's reminiscence from 1921 arbitrary coinage, simply "something different from anything used before" ["Current Opinion"].</dd>
+
+<dt class="highlight"><a href="/index.php?term=piggy&allowed_in_frame=0">piggy (adj.)</a> <a href="http://dictionary.reference.com/search?q=piggy" class="dictionary" title="Look up piggy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piggy at Dictionary.com" title="Look up piggy at Dictionary.com" /></a></dt>
+<dd class="highlight">"resembling a pig," 1841, from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=piggy&allowed_in_frame=0">piggy (n.)</a> <a href="http://dictionary.reference.com/search?q=piggy" class="dictionary" title="Look up piggy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piggy at Dictionary.com" title="Look up piggy at Dictionary.com" /></a></dt>
+<dd>"a little pig," 1799, from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (3). Related: <span class="foreign">Piggies</span>. <span class="foreign">Piggy bank</span> attested from 1941 (<span class="foreign">pig bank</span> from 1937).</dd>
+
+<dt class="highlight"><a href="/index.php?term=piggyback&allowed_in_frame=0">piggyback (adj.)</a> <a href="http://dictionary.reference.com/search?q=piggyback" class="dictionary" title="Look up piggyback at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piggyback at Dictionary.com" title="Look up piggyback at Dictionary.com" /></a></dt>
+<dd class="highlight">1823, probably a folk etymology alteration of <span class="foreign">pick pack</span> (1560s), which perhaps is from <span class="foreign">pick</span>, a dialectal variant of <a href="/index.php?term=pitch&allowed_in_frame=0" class="crossreference">pitch</a> (v.). As a verb from 1952.</dd>
+
+<dt><a href="/index.php?term=pigheaded&allowed_in_frame=0">pigheaded (adj.)</a> <a href="http://dictionary.reference.com/search?q=pigheaded" class="dictionary" title="Look up pigheaded at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigheaded at Dictionary.com" title="Look up pigheaded at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">pig-headed</span>, see <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=headed&allowed_in_frame=0" class="crossreference">headed</a>. Usually, but not always, figurative.</dd>
+
+<dt class="highlight"><a href="/index.php?term=piglet&allowed_in_frame=0">piglet (n.)</a> <a href="http://dictionary.reference.com/search?q=piglet" class="dictionary" title="Look up piglet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up piglet at Dictionary.com" title="Look up piglet at Dictionary.com" /></a></dt>
+<dd class="highlight">1883, from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + dim. suffix <span class="foreign">-let</span>. Earlier name for baby pig was <a href="/index.php?term=farrow&allowed_in_frame=0" class="crossreference">farrow</a>.</dd>
+
+<dt><a href="/index.php?term=pigment&allowed_in_frame=0">pigment (n.)</a> <a href="http://dictionary.reference.com/search?q=pigment" class="dictionary" title="Look up pigment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigment at Dictionary.com" title="Look up pigment at Dictionary.com" /></a></dt>
+<dd>late 14c., from L. <span class="foreign">pigmentum</span> "coloring matter, pigment, paint," figuratively "prnament," from stem of <span class="foreign">pingere</span> "to color, paint" (see <a href="/index.php?term=paint&allowed_in_frame=0" class="crossreference">paint</a> (v.)). Variants of this word could have been known in Old English (e.g. 12c. <span class="foreign">pyhmentum</span>). As a verb from 1900. Related: <span class="foreign">Pigmented</span>; <span class="foreign">pigmenting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pigmentation&allowed_in_frame=0">pigmentation (n.)</a> <a href="http://dictionary.reference.com/search?q=pigmentation" class="dictionary" title="Look up pigmentation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigmentation at Dictionary.com" title="Look up pigmentation at Dictionary.com" /></a></dt>
+<dd class="highlight">1866, from <a href="/index.php?term=pigment&allowed_in_frame=0" class="crossreference">pigment</a> + <a href="/index.php?term=-ation&allowed_in_frame=0" class="crossreference">-ation</a>. Perhaps modeled on French.</dd>
+
+<dt><a href="/index.php?term=pigmentocracy&allowed_in_frame=0">pigmentocracy (n.)</a> <a href="http://dictionary.reference.com/search?q=pigmentocracy" class="dictionary" title="Look up pigmentocracy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigmentocracy at Dictionary.com" title="Look up pigmentocracy at Dictionary.com" /></a></dt>
+<dd>1952, apparently coined in the "Economist," from <a href="/index.php?term=pigment&allowed_in_frame=0" class="crossreference">pigment</a> + <a href="/index.php?term=-cracy&allowed_in_frame=0" class="crossreference">-cracy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pigmy&allowed_in_frame=0">pigmy</a> <a href="http://dictionary.reference.com/search?q=pigmy" class="dictionary" title="Look up pigmy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigmy at Dictionary.com" title="Look up pigmy at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=pygmy&allowed_in_frame=0" class="crossreference">pygmy</a>.</dd>
+
+<dt><a href="/index.php?term=pigskin&allowed_in_frame=0">pigskin (n.)</a> <a href="http://dictionary.reference.com/search?q=pigskin" class="dictionary" title="Look up pigskin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigskin at Dictionary.com" title="Look up pigskin at Dictionary.com" /></a></dt>
+<dd>"saddle leather," 1855, from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=skin&allowed_in_frame=0" class="crossreference">skin</a> (n.). As slang for "football" from 1894. </dd>
+
+<dt class="highlight"><a href="/index.php?term=pigsney&allowed_in_frame=0">pigsney (n.)</a> <a href="http://dictionary.reference.com/search?q=pigsney" class="dictionary" title="Look up pigsney at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigsney at Dictionary.com" title="Look up pigsney at Dictionary.com" /></a></dt>
+<dd class="highlight">(obsolete), late 14c., endearing form of address to a girl or woman, apparently from Middle English <span class="foreign">pigges eye</span>, lit. "pig's eye," with excrescent <span class="foreign">-n-</span> from <span class="foreign">min eye</span>, <span class="foreign">an eye</span>, etc. See OED for explanation of why this might have been felt as a compliment. <span class="foreign">In a pig's eye!</span> as an adverse retort is recorded from 1872.</dd>
+
+<dt><a href="/index.php?term=pigsty&allowed_in_frame=0">pigsty (n.)</a> <a href="http://dictionary.reference.com/search?q=pigsty" class="dictionary" title="Look up pigsty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pigsty at Dictionary.com" title="Look up pigsty at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=pig&allowed_in_frame=0" class="crossreference">pig</a> (n.) + <a href="/index.php?term=sty&allowed_in_frame=0" class="crossreference">sty</a>. Figurative use for "miserable, dirty hovel" is attested from 1820.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658610 -->
+<!-- Page was generated in 0.206677 seconds. -->
+ </body>
+</html>
+<!-- -->

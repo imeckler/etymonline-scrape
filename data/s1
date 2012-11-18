@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sacrament&allowed_in_frame=0">sacrament (n.)</a> <a href="http://dictionary.reference.com/search?q=sacrament" class="dictionary" title="Look up sacrament at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrament at Dictionary.com" title="Look up sacrament at Dictionary.com" /></a></dt>
+<dd class="highlight">late 12c., from O.Fr. <span class="foreign">sacrament</span> (12c.), from L. <span class="foreign">sacramentum</span> "a consecrating," from <span class="foreign">sacrare</span> "to consecrate" (see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>); a Church Latin loan-translation of Gk. <span class="foreign">mysterion</span> "mystery."</dd>
+
+<dt><a href="/index.php?term=sacramental&allowed_in_frame=0">sacramental (adj.)</a> <a href="http://dictionary.reference.com/search?q=sacramental" class="dictionary" title="Look up sacramental at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacramental at Dictionary.com" title="Look up sacramental at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">sacramental</span> or directly from L.L. <span class="foreign">sacramentalis</span>, from <span class="foreign">sacramentum</span> (see <a href="/index.php?term=sacrament&allowed_in_frame=0" class="crossreference">sacrament</a>). As a noun, "religious practice or object," mid-15c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Sacramento&allowed_in_frame=0">Sacramento</a> <a href="http://dictionary.reference.com/search?q=Sacramento" class="dictionary" title="Look up Sacramento at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sacramento at Dictionary.com" title="Look up Sacramento at Dictionary.com" /></a></dt>
+<dd class="highlight">California city, settled 1839, named for its river (1808), from Sp. <span class="foreign">sacramento</span>, in honor of the Holy Sacrament (see <a href="/index.php?term=Sacrament&allowed_in_frame=0" class="crossreference">Sacrament</a>).</dd>
+
+<dt><a href="/index.php?term=sacre+bleu&allowed_in_frame=0">sacre bleu</a> <a href="http://dictionary.reference.com/search?q=sacre+bleu" class="dictionary" title="Look up sacre bleu at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacre bleu at Dictionary.com" title="Look up sacre bleu at Dictionary.com" /></a></dt>
+<dd>stereotypical French oath, 1869, from Fr. <span class="foreign">sacr&eacute; bleu</span>, lit. "holy blue," a euphemism for <span class="foreign">sacr&eacute; Dieu</span> (1768), "holy God."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sacred&allowed_in_frame=0">sacred (adj.)</a> <a href="http://dictionary.reference.com/search?q=sacred" class="dictionary" title="Look up sacred at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacred at Dictionary.com" title="Look up sacred at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from pp. of obsolete verb <span class="foreign">sacren</span> "to make holy" (early 13c.), from O.Fr. <span class="foreign">sacrer</span> (12c.), from L. <span class="foreign">sacrare</span> "to make sacred, consecrate," from <span class="foreign">sacer</span> (gen. <span class="foreign">sacri</span>) "sacred, dedicated, holy, accursed," from Old Latin <span class="foreign">saceres,</span> which Tucker connects to base <span class="foreign">*saq-</span> "bind, restrict, enclose, protect," explaining that "words for both 'oath' & 'curse' are regularly words of 'binding.' " But Buck merely groups it with Oscan <span class="foreign">sakrim,</span> Umbrian <span class="foreign">sacra</span> and calls it "a distinctive Italic group, without any clear outside connections." Nasalized form is <span class="foreign">sancire</span> "make sacred, confirm, ratify, ordain." <span class="foreign">Sacred cow</span> "object of Hindu veneration," is from 1891; figurative sense of "one who must not be criticized" is first recorded 1910, reflecting Western views of Hinduism.</dd>
+
+<dt><a href="/index.php?term=sacrifice&allowed_in_frame=0">sacrifice (n.)</a> <a href="http://dictionary.reference.com/search?q=sacrifice" class="dictionary" title="Look up sacrifice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrifice at Dictionary.com" title="Look up sacrifice at Dictionary.com" /></a></dt>
+<dd>mid-13c., from O.Fr. <span class="foreign">sacrifise</span> (12c.), from L. <span class="foreign">sacrificium</span>, from <span class="foreign">sacrificus</span> "performing priestly functions or sacrifices," from <span class="foreign">sacra</span> "sacred rites" (properly neuter plural of <span class="foreign">sacer</span> "sacred;" see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>) + root of <span class="foreign">facere</span> "to do, perform" (see <a href="/index.php?term=factitious&allowed_in_frame=0" class="crossreference">factitious</a>). L. <span class="foreign">sacrificium</span> is glossed in Old English by <span class="foreign">ansegdniss</span>. Sense of "something given up for the sake of another" is first recorded 1590s. Baseball sense first attested 1880.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sacrifice&allowed_in_frame=0">sacrifice (v.)</a> <a href="http://dictionary.reference.com/search?q=sacrifice" class="dictionary" title="Look up sacrifice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrifice at Dictionary.com" title="Look up sacrifice at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "to offer something (to a deity, as a sacrifice)," from <a href="/index.php?term=sacrifice&allowed_in_frame=0" class="crossreference">sacrifice</a> (n.). Related: <span class="foreign">Sacrificed</span>; <span class="foreign">sacrificing</span>.</dd>
+
+<dt><a href="/index.php?term=sacrificial&allowed_in_frame=0">sacrificial (adj.)</a> <a href="http://dictionary.reference.com/search?q=sacrificial" class="dictionary" title="Look up sacrificial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrificial at Dictionary.com" title="Look up sacrificial at Dictionary.com" /></a></dt>
+<dd>c.1600, from L. <span class="foreign">sacrificium</span> (see <a href="/index.php?term=sacrifice&allowed_in_frame=0" class="crossreference">sacrifice</a>) + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Related: <span class="foreign">Sacrificially</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sacrilege&allowed_in_frame=0">sacrilege (n.)</a> <a href="http://dictionary.reference.com/search?q=sacrilege" class="dictionary" title="Look up sacrilege at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrilege at Dictionary.com" title="Look up sacrilege at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "crime of stealing what is consecrated to God," from O.Fr. <span class="foreign">sacrilege</span> (12c.), from L. <span class="foreign">sacrilegium</span> "temple robbery," from <span class="foreign">sacrilegus</span> "stealer of sacred things," from phrase <span class="foreign">sacrum legere</span> "to steal sacred things," from <span class="foreign">sacrum</span> "sacred object (from neuter singular of <span class="foreign">sacer</span> "sacred;" see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>) + <span class="foreign">legere</span> "take, pick up" (see <a href="/index.php?term=lecture&allowed_in_frame=0" class="crossreference">lecture</a> (n.)). Second element is not from <a href="/index.php?term=religion&allowed_in_frame=0" class="crossreference">religion</a>. Transferred sense of "profanation of anything held sacred" is attested from late 14c.</dd>
+
+<dt><a href="/index.php?term=sacrilegious&allowed_in_frame=0">sacrilegious (adj.)</a> <a href="http://dictionary.reference.com/search?q=sacrilegious" class="dictionary" title="Look up sacrilegious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrilegious at Dictionary.com" title="Look up sacrilegious at Dictionary.com" /></a></dt>
+<dd>mid-15c., from L. <span class="foreign">sacrilegiosum</span>, from <span class="foreign">sacrilegium</span> (see <a href="/index.php?term=sacrilege&allowed_in_frame=0" class="crossreference">sacrilege</a>). As a noun, "one who commits a sacrilege," early 14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sacristan&allowed_in_frame=0">sacristan (n.)</a> <a href="http://dictionary.reference.com/search?q=sacristan" class="dictionary" title="Look up sacristan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacristan at Dictionary.com" title="Look up sacristan at Dictionary.com" /></a></dt>
+<dd class="highlight">"officer charged with looking after the buildings and property of a church or religious house," early 14c. (late 12c. as a surname), from M.L. <span class="foreign">sacristanus</span>, from L. <span class="foreign">sacrista</span>, from <span class="foreign">sacer</span> (gen. <span class="foreign">sacri</span>) "sacred" (see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>). Cf. <a href="/index.php?term=sexton&allowed_in_frame=0" class="crossreference">sexton</a>, which is a doublet.</dd>
+
+<dt><a href="/index.php?term=sacristy&allowed_in_frame=0">sacristy (n.)</a> <a href="http://dictionary.reference.com/search?q=sacristy" class="dictionary" title="Look up sacristy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacristy at Dictionary.com" title="Look up sacristy at Dictionary.com" /></a></dt>
+<dd>"repository for sacred things," mid-15c., from Anglo-Fr. <span class="foreign">sacrestie</span>, from M.L. <span class="foreign">sacrista</span>, from L. <span class="foreign">sacer</span> "sacred" (see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sacrosanct&allowed_in_frame=0">sacrosanct (adj.)</a> <a href="http://dictionary.reference.com/search?q=sacrosanct" class="dictionary" title="Look up sacrosanct at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrosanct at Dictionary.com" title="Look up sacrosanct at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from L. <span class="foreign">sacrosanctus</span> "protected by religious sanction," from <span class="foreign">sacro</span>, ablative of <span class="foreign">sacrum</span> "religious sanction" (from neut. singular of <span class="foreign">sacer</span> "sacred") + <span class="foreign">sanctus</span>, pp. of <span class="foreign">sancire</span> "make sacred" (see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>). Earlier in partially anglicized form <span class="foreign">sacro-seint</span> (c.1500).</dd>
+
+<dt><a href="/index.php?term=sacrum&allowed_in_frame=0">sacrum (n.)</a> <a href="http://dictionary.reference.com/search?q=sacrum" class="dictionary" title="Look up sacrum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sacrum at Dictionary.com" title="Look up sacrum at Dictionary.com" /></a></dt>
+<dd>bone at the base of the spine, 1753, from L.L. <span class="foreign">os sacrum</span> "sacred bone," from L. <span class="foreign">os</span> "bone" + <span class="foreign">sacrum</span>, neuter of <span class="foreign">sacer</span> "sacred" (see <a href="/index.php?term=sacred&allowed_in_frame=0" class="crossreference">sacred</a>). Said to be so called because the bone was the part of animals that was offered in sacrifices. Translation of Gk. <span class="foreign">hieron osteon</span>. Greek <span class="foreign">hieros</span> also can mean "strong."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sad&allowed_in_frame=0">sad (adj.)</a> <a href="http://dictionary.reference.com/search?q=sad" class="dictionary" title="Look up sad at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sad at Dictionary.com" title="Look up sad at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">s&aelig;d</span> "sated," from P.Gmc. <span class="foreign">*sathaz</span> (cf. O.N. <span class="foreign">sa&eth;r</span>, M.Du. <span class="foreign">sat</span>, Du. <span class="foreign">zad</span>, O.H.G. <span class="foreign">sat</span>, Ger. <span class="foreign">satt</span>, Goth. <span class="foreign">sa&thorn;s</span> "satiated"), from PIE <span class="foreign">*seto-</span> (cf. L. <span class="foreign">satis</span> "enough, sufficient," O.C.S. <span class="foreign">sytu</span>, Lith. <span class="foreign">sotus</span>, O.Ir. <span class="foreign">saith</span> "satiety"), from root <span class="foreign">*sa-</span> "satisfied" (cf. Skt. <span class="foreign">a-sinvan</span> "insatiable"). Sense development seems to have passed through a meaning "heavy," and "weary, tired of" before emerging c.1300 as "unhappy." An alternative course would be through the common M.E. sense of "steadfast, firmly established, fixed" (e.g. <span class="foreign">sad-ware</span> "tough pewter vessels") and "serious" to "grave."
+<BR><BR>In the main modern sense, it replaced O.E. <span class="foreign">unrot</span>, negative of <span class="foreign">rot</span> "cheerful, glad." Slang sense of "inferior, pathetic" is from 1899; <span class="foreign">sad sack</span> is 1920s, popularized by World War II armed forces (specifically by cartoon character invented by Sgt. George Baker, 1942, and published in U.S. Armed Forces magazine "Yank"), probably a euphemistic shortening of common military slang phrase <span class="foreign">sad sack of shit</span>.</dd>
+
+<dt><a href="/index.php?term=sadden&allowed_in_frame=0">sadden (v.)</a> <a href="http://dictionary.reference.com/search?q=sadden" class="dictionary" title="Look up sadden at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sadden at Dictionary.com" title="Look up sadden at Dictionary.com" /></a></dt>
+<dd>"to make sorrowful," c.1400, from <a href="/index.php?term=sad&allowed_in_frame=0" class="crossreference">sad</a> + <a href="/index.php?term=-en&allowed_in_frame=0" class="crossreference">-en</a> (1). Earlier verb was simply <span class="foreign">sade</span>, from O.E. <span class="foreign">sadian</span>. Related: <span class="foreign">Saddened</span>; <span class="foreign">saddening</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=saddle&allowed_in_frame=0">saddle (n.)</a> <a href="http://dictionary.reference.com/search?q=saddle" class="dictionary" title="Look up saddle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saddle at Dictionary.com" title="Look up saddle at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sadol</span> "seat for a rider," from P.Gmc. <span class="foreign">*sathulaz</span> (cf. O.N. <span class="foreign">s&ouml;&eth;ull</span>, O.Fris. <span class="foreign">sadel</span>, Du. <span class="foreign">zadel, zaal</span>, Ger. <span class="foreign">Sattel</span>), from PIE <span class="foreign">*sed-</span> "to sit" (cf. L. <span class="foreign">sedere</span> "to sit," O.C.S. <span class="foreign">sedlo</span> "saddle;" see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>). Figurative phrase <span class="foreign">in the saddle</span> "in an active position of management" is attested from 1650s. <span class="foreign">Saddleback</span> is from 1540s.</dd>
+
+<dt><a href="/index.php?term=saddle&allowed_in_frame=0">saddle (v.)</a> <a href="http://dictionary.reference.com/search?q=saddle" class="dictionary" title="Look up saddle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saddle at Dictionary.com" title="Look up saddle at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sadolian</span> "to put a riding saddle on;" see <a href="/index.php?term=saddle&allowed_in_frame=0" class="crossreference">saddle</a> (n.). The meaning "to load with a burden" is first recorded 1690s. Related: <span class="foreign">Saddled</span>; <span class="foreign">saddling</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=saddlebag&allowed_in_frame=0">saddlebag (n.)</a> <a href="http://dictionary.reference.com/search?q=saddlebag" class="dictionary" title="Look up saddlebag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saddlebag at Dictionary.com" title="Look up saddlebag at Dictionary.com" /></a></dt>
+<dd class="highlight">1774, from <a href="/index.php?term=saddle&allowed_in_frame=0" class="crossreference">saddle</a> (n.) + <a href="/index.php?term=bag&allowed_in_frame=0" class="crossreference">bag</a> (n.).</dd>
+
+<dt><a href="/index.php?term=saddler&allowed_in_frame=0">saddler (n.)</a> <a href="http://dictionary.reference.com/search?q=saddler" class="dictionary" title="Look up saddler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saddler at Dictionary.com" title="Look up saddler at Dictionary.com" /></a></dt>
+<dd>"maker of saddles," c.1300 (late 13c. as a surname), agent noun from <a href="/index.php?term=saddle&allowed_in_frame=0" class="crossreference">saddle</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Sadducee&allowed_in_frame=0">Sadducee</a> <a href="http://dictionary.reference.com/search?q=Sadducee" class="dictionary" title="Look up Sadducee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sadducee at Dictionary.com" title="Look up Sadducee at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E., from L.L. <span class="foreign">Sadducaei</span> (pl.), from Gk. <span class="foreign">Zaddoukaios,</span> from Heb. <span class="foreign">tzedoqi,</span> from personal name <span class="foreign">Tzadhoq</span> "Zadok" (2 Sam. viii:17), the high priest from whom the priesthood of the captivity claimed descent. According to Josephus, the sect denied the resurrection of the dead and the existence of angels and spirits; but later historians regard them as more the political party of the priestly class than a sect per se.</dd>
+
+<dt><a href="/index.php?term=Sadie+Hawkins&allowed_in_frame=0">Sadie Hawkins</a> <a href="http://dictionary.reference.com/search?q=Sadie+Hawkins" class="dictionary" title="Look up Sadie Hawkins at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sadie Hawkins at Dictionary.com" title="Look up Sadie Hawkins at Dictionary.com" /></a></dt>
+<dd>1939, from name of character in U.S. newspaper cartoon strip "Li'l Abner," by Al Capp (1909-1979); in reference to a day in early November in which women take the lead in romantic matters.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sadism&allowed_in_frame=0">sadism (n.)</a> <a href="http://dictionary.reference.com/search?q=sadism" class="dictionary" title="Look up sadism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sadism at Dictionary.com" title="Look up sadism at Dictionary.com" /></a></dt>
+<dd class="highlight">"love of cruelty," 1888, from Fr. <span class="foreign">sadisme</span>, from Count Donatien A.F. <span class="foreign">de Sade</span> (1740-1815). Not a marquis, though usually now called one, he was notorious for cruel sexual practices he described in his novels.</dd>
+
+<dt><a href="/index.php?term=sadist&allowed_in_frame=0">sadist (n.)</a> <a href="http://dictionary.reference.com/search?q=sadist" class="dictionary" title="Look up sadist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sadist at Dictionary.com" title="Look up sadist at Dictionary.com" /></a></dt>
+<dd>1897 from <a href="/index.php?term=sadism&allowed_in_frame=0" class="crossreference">sadism</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sadistic&allowed_in_frame=0">sadistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=sadistic" class="dictionary" title="Look up sadistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sadistic at Dictionary.com" title="Look up sadistic at Dictionary.com" /></a></dt>
+<dd class="highlight">1892, after Ger. <span class="foreign">sadistisch</span>; see <a href="/index.php?term=sadism&allowed_in_frame=0" class="crossreference">sadism</a>. Related: <span class="foreign">Sadistically</span>.</dd>
+
+<dt><a href="/index.php?term=sadly&allowed_in_frame=0">sadly (adv.)</a> <a href="http://dictionary.reference.com/search?q=sadly" class="dictionary" title="Look up sadly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sadly at Dictionary.com" title="Look up sadly at Dictionary.com" /></a></dt>
+<dd>c.1300, “heavily,” also “solidly,” from <a href="/index.php?term=sad&allowed_in_frame=0" class="crossreference">sad</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). Meaning “sorrowfully” is mid-14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sadness&allowed_in_frame=0">sadness (n.)</a> <a href="http://dictionary.reference.com/search?q=sadness" class="dictionary" title="Look up sadness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sadness at Dictionary.com" title="Look up sadness at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., “seriousness,” from <a href="/index.php?term=sad&allowed_in_frame=0" class="crossreference">sad</a> + <a href="/index.php?term=-ness&allowed_in_frame=0" class="crossreference">-ness</a>. Meaning “sorrowfulness” is early 16c., perhaps c.1400.</dd>
+
+<dt><a href="/index.php?term=sado-masochism&allowed_in_frame=0">sado-masochism (n.)</a> <a href="http://dictionary.reference.com/search?q=sado-masochism" class="dictionary" title="Look up sado-masochism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sado-masochism at Dictionary.com" title="Look up sado-masochism at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">sadomasochism</span>, 1916, from comb. form of <a href="/index.php?term=sadism&allowed_in_frame=0" class="crossreference">sadism</a> + <a href="/index.php?term=masochism&allowed_in_frame=0" class="crossreference">masochism</a>. Abbreviation <span class="foreign">S & M</span> first attested 1965. An earlier word for sexualities that focused on violence was <span class="foreign">algolagnia</span> (1900), Modern Latin, coined in German in 1892 by German doctor and paranormalist Albert von Schrenck-Notzing (1862-1929) from Gk. <span class="foreign">algos</span> "pain" + <span class="foreign">lagneia</span> "lust."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sado-masochist&allowed_in_frame=0">sado-masochist (n.)</a> <a href="http://dictionary.reference.com/search?q=sado-masochist" class="dictionary" title="Look up sado-masochist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sado-masochist at Dictionary.com" title="Look up sado-masochist at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">sadomasochist</span>, 1919; from comb. form of <a href="/index.php?term=sadist&allowed_in_frame=0" class="crossreference">sadist</a> + <a href="/index.php?term=masochist&allowed_in_frame=0" class="crossreference">masochist</a>. Related: <span class="foreign">Sadomasochistic</span>; <span class="foreign">sado-masochistic</span>.</dd>
+
+<dt><a href="/index.php?term=safari&allowed_in_frame=0">safari (n.)</a> <a href="http://dictionary.reference.com/search?q=safari" class="dictionary" title="Look up safari at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safari at Dictionary.com" title="Look up safari at Dictionary.com" /></a></dt>
+<dd>1890 (attested from 1860 as a foreign word), from Swahili, lit. "journey, expedition," from Arabic, lit. "referring to a journey," from <span class="foreign">safar</span> "journey" (which itself is attested in English as a foreign word from 1858).</dd>
+
+<dt class="highlight"><a href="/index.php?term=safe&allowed_in_frame=0">safe (n.)</a> <a href="http://dictionary.reference.com/search?q=safe" class="dictionary" title="Look up safe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safe at Dictionary.com" title="Look up safe at Dictionary.com" /></a></dt>
+<dd class="highlight">"chest for keeping valuables," early 15c., <span class="foreign">save</span>, from M.Fr. <span class="foreign">en sauf</span> "in safety," from <span class="foreign">sauf</span> (see <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a> (adj.)). Spelling with <span class="foreign">-f-</span> first recorded 1680s, from influence of <span class="foreign">safe</span> (adj.).</dd>
+
+<dt><a href="/index.php?term=safe&allowed_in_frame=0">safe (adj.)</a> <a href="http://dictionary.reference.com/search?q=safe" class="dictionary" title="Look up safe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safe at Dictionary.com" title="Look up safe at Dictionary.com" /></a></dt>
+<dd>late 13c., "uninjured, unharmed," from O.Fr. <span class="foreign">sauf</span>, from L. <span class="foreign">salvus</span> "uninjured, healthy, safe," related to <span class="foreign">salus</span> "good health," <span class="foreign">saluber</span> "healthful," all from PIE <span class="foreign">*solwos</span> from root <span class="foreign">*sol-</span> "whole" (cf. L. <span class="foreign">solidus</span> "solid," Skt. <span class="foreign">sarvah</span> "uninjured, intact, whole," Avestan <span class="foreign">haurva-</span> "uninjured, intact," O.Pers. <span class="foreign">haruva-</span>, Gk. <span class="foreign">holos</span> "whole"). Meaning "not exposed to danger" is attested from late 14c.; of actions, etc., "free from risk," first recorded 1580s. <span class="foreign">Safe-conduct</span> (late 13c.) is from O.Fr. <span class="foreign">sauf-conduit</span> (13c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=safecracker&allowed_in_frame=0">safecracker (n.)</a> <a href="http://dictionary.reference.com/search?q=safecracker" class="dictionary" title="Look up safecracker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safecracker at Dictionary.com" title="Look up safecracker at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">safe-cracker</span>, 1897, from <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a> (n.) + agent noun from <a href="/index.php?term=crack&allowed_in_frame=0" class="crossreference">crack</a> (v.). Originally in reference to thieves who used dynamite.</dd>
+
+<dt><a href="/index.php?term=safeguard&allowed_in_frame=0">safeguard (n.)</a> <a href="http://dictionary.reference.com/search?q=safeguard" class="dictionary" title="Look up safeguard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safeguard at Dictionary.com" title="Look up safeguard at Dictionary.com" /></a></dt>
+<dd>early 15c., "protection, safety," from M.Fr. <span class="foreign">sauvegarde</span> "safekeeping, safeguard" (13c.), from O.Fr. <span class="foreign">salve, sauve</span> (fem. of <span class="foreign">sauf</span>; see <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a>) + <span class="foreign">garde</span> "a keeping" (see <a href="/index.php?term=guard&allowed_in_frame=0" class="crossreference">guard</a>). Meaning "something that offers security from danger" is recorded from late 15c. The verb is from late 15c. Related: <span class="foreign">Safeguarded</span>; <span class="foreign">safeguarding</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=safely&allowed_in_frame=0">safely (adv.)</a> <a href="http://dictionary.reference.com/search?q=safely" class="dictionary" title="Look up safely at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safely at Dictionary.com" title="Look up safely at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., from <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a> (adj.) + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=safety&allowed_in_frame=0">safety (n.)</a> <a href="http://dictionary.reference.com/search?q=safety" class="dictionary" title="Look up safety at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up safety at Dictionary.com" title="Look up safety at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">sauvete</span>, earlier <span class="foreign">salvetet</span> (11c.), from M.L. <span class="foreign">salvitatem</span> (nom. <span class="foreign">salvitas</span>) "safety," from L. <span class="foreign">salvus</span> (see <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a>). Meaning "trigger-lock on a gun" is attested from 1881. As a North American football position, first recorded 1881. <span class="foreign">Safety-pin</span> is from 1857; <span class="foreign">safety-valve</span> is from 1797; figurative sense recorded from 1818. <span class="foreign">Safety-net</span> in literal sense (in machinery) by 1916, later of aerial circus performances (1920s); figurative use by 1950. <span class="foreign">Safety-first</span> as an accident-prevention slogan first used in Britain in 1873 (said to be originally from U.S. railroads); widely used on Conservative Party election posters in 1922.</dd>
+
+<dt class="highlight"><a href="/index.php?term=saffron&allowed_in_frame=0">saffron (n.)</a> <a href="http://dictionary.reference.com/search?q=saffron" class="dictionary" title="Look up saffron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saffron at Dictionary.com" title="Look up saffron at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1200, from O.Fr. <span class="foreign">safran</span> (12c.), from M.L. <span class="foreign">safranum</span> (cf. It. <span class="foreign">zafferano</span>, Sp. <span class="foreign">azafran</span>), ultimately from Arabic <span class="foreign">za'faran</span>, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=sag&allowed_in_frame=0">sag (v.)</a> <a href="http://dictionary.reference.com/search?q=sag" class="dictionary" title="Look up sag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sag at Dictionary.com" title="Look up sag at Dictionary.com" /></a></dt>
+<dd>late 14c., possibly from a Scandinavian source related to O.N. <span class="foreign">sokkva</span> "to sink," or from M.L.G. <span class="foreign">sacken</span> "to settle, sink" (as dregs in wine), from denasalized derivative of P.Gmc. base <span class="foreign">*senkwanan</span> "to sink" (see <a href="/index.php?term=sink&allowed_in_frame=0" class="crossreference">sink</a>). A general North Sea Germanic word (cf. Du. <span class="foreign">zakken</span>, Swed. <span class="foreign">sacka</span>, Dan. <span class="foreign">sakke</span>). Related: <span class="foreign">Sagged</span>; <span class="foreign">sagging</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=sag&allowed_in_frame=0">sag (n.)</a> <a href="http://dictionary.reference.com/search?q=sag" class="dictionary" title="Look up sag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sag at Dictionary.com" title="Look up sag at Dictionary.com" /></a></dt>
+<dd class="highlight">1861, from <a href="/index.php?term=sag&allowed_in_frame=0" class="crossreference">sag</a> (v.).</dd>
+
+<dt><a href="/index.php?term=saga&allowed_in_frame=0">saga (n.)</a> <a href="http://dictionary.reference.com/search?q=saga" class="dictionary" title="Look up saga at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saga at Dictionary.com" title="Look up saga at Dictionary.com" /></a></dt>
+<dd>1709, an antiquarians' revival to describe the medieval prose narratives of Iceland and Norway, from O.N. <span class="foreign">saga</span> "saga, story," cognate with O.E. <span class="foreign">sagu</span> "a saying" (see <a href="/index.php?term=saw&allowed_in_frame=0" class="crossreference">saw</a> (n.2)). Properly, a narrative composition of Iceland or Norway in the Middle Ages, or one that has their characteristics.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sagacious&allowed_in_frame=0">sagacious (adj.)</a> <a href="http://dictionary.reference.com/search?q=sagacious" class="dictionary" title="Look up sagacious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sagacious at Dictionary.com" title="Look up sagacious at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from L. <span class="foreign">sagacem</span> (nom. <span class="foreign">sagax</span>); see <a href="/index.php?term=sagacity&allowed_in_frame=0" class="crossreference">sagacity</a>. Related: <span class="foreign">Sagaciously</span>.</dd>
+
+<dt><a href="/index.php?term=sagacity&allowed_in_frame=0">sagacity (n.)</a> <a href="http://dictionary.reference.com/search?q=sagacity" class="dictionary" title="Look up sagacity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sagacity at Dictionary.com" title="Look up sagacity at Dictionary.com" /></a></dt>
+<dd>c.1500, from O.Fr. <span class="foreign">sagacit&eacute;</span>, from L. <span class="foreign">sagacitatem</span> (nom. <span class="foreign">sagacitas</span>) "quality of being acute," from <span class="foreign">sagax</span> (gen. <span class="foreign">sagacis</span>) "of quick perception," related to <span class="foreign">sagus</span> "prophetic," <span class="foreign">sagire</span> "perceive keenly," from PIE root <span class="foreign">*sag-</span> "to track down, trace, seek" (cf. O.E. <span class="foreign">secan</span> "to seek;" see <a href="/index.php?term=seek&allowed_in_frame=0" class="crossreference">seek</a>). Also used 17c.-18c. of animals, meaning "acute sense of smell."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sage&allowed_in_frame=0">sage (n.1)</a> <a href="http://dictionary.reference.com/search?q=sage" class="dictionary" title="Look up sage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sage at Dictionary.com" title="Look up sage at Dictionary.com" /></a></dt>
+<dd class="highlight">kind of herb (<span class="foreign">Salvia officinalis</span>), early 14c., from O.Fr. <span class="foreign">sauge</span> (13c.), from L. <span class="foreign">salvia</span>, from <span class="foreign">salvus</span> "healthy" (see <a href="/index.php?term=safe&allowed_in_frame=0" class="crossreference">safe</a>). So called for its healing or preserving qualities (it was used to keep teeth clean and relieve sore gums, and boiled in water to make a drink to alleviate arthritis). In English folklore, sage, like parsley, is said to grow best where the wife is dominant.</dd>
+
+<dt><a href="/index.php?term=sage&allowed_in_frame=0">sage (adj.)</a> <a href="http://dictionary.reference.com/search?q=sage" class="dictionary" title="Look up sage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sage at Dictionary.com" title="Look up sage at Dictionary.com" /></a></dt>
+<dd>"wise," c.1300 (late 12c. as a surname), from O.Fr. <span class="foreign">sage</span> (11c.), from Gallo-Romance <span class="foreign">*sabius</span>, from V.L. <span class="foreign">*sapius</span>, from L. <span class="foreign">sapere</span> "have a taste, have good taste, be wise," from PIE root <span class="foreign">*sap-</span> "to taste" (see <a href="/index.php?term=sap&allowed_in_frame=0" class="crossreference">sap</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sage&allowed_in_frame=0">sage (n.2)</a> <a href="http://dictionary.reference.com/search?q=sage" class="dictionary" title="Look up sage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sage at Dictionary.com" title="Look up sage at Dictionary.com" /></a></dt>
+<dd class="highlight">"man of profound wisdom," mid-14c., from <a href="/index.php?term=sage&allowed_in_frame=0" class="crossreference">sage</a> (adj.). Originally applied to the <span class="foreign">Seven Sages</span> -- Thales, Solon, Periander, Cleobulus, Chilon, Bias, and Pittacus.</dd>
+
+<dt><a href="/index.php?term=sagebrush&allowed_in_frame=0">sagebrush (n.)</a> <a href="http://dictionary.reference.com/search?q=sagebrush" class="dictionary" title="Look up sagebrush at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sagebrush at Dictionary.com" title="Look up sagebrush at Dictionary.com" /></a></dt>
+<dd>1852, from <a href="/index.php?term=sage&allowed_in_frame=0" class="crossreference">sage</a> (n.) + <a href="/index.php?term=brush&allowed_in_frame=0" class="crossreference">brush</a> (n.2). Said to be so called for resemblance of its odor.
+<blockquote>
+Sage-brush is very fair fuel, but as a vegetable it is a distinguished failure. Nothing can abide the taste of it but the jackass and his illegitimate child, the mule. ["Mark Twain," "Roughing It"]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=sagely&allowed_in_frame=0">sagely (adv.)</a> <a href="http://dictionary.reference.com/search?q=sagely" class="dictionary" title="Look up sagely at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sagely at Dictionary.com" title="Look up sagely at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from <a href="/index.php?term=sage&allowed_in_frame=0" class="crossreference">sage</a> (adj.) + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=saggy&allowed_in_frame=0">saggy (adj.)</a> <a href="http://dictionary.reference.com/search?q=saggy" class="dictionary" title="Look up saggy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up saggy at Dictionary.com" title="Look up saggy at Dictionary.com" /></a></dt>
+<dd>1853, from <a href="/index.php?term=sag&allowed_in_frame=0" class="crossreference">sag</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Sagginess</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sagittal&allowed_in_frame=0">sagittal (adj.)</a> <a href="http://dictionary.reference.com/search?q=sagittal" class="dictionary" title="Look up sagittal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sagittal at Dictionary.com" title="Look up sagittal at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from Mod.L. <span class="foreign">sagittalis</span>, from L. <span class="foreign">sagitta</span> "arrow" (see <a href="/index.php?term=Sagittarius&allowed_in_frame=0" class="crossreference">Sagittarius</a>).</dd>
+
+<dt><a href="/index.php?term=Sagittarius&allowed_in_frame=0">Sagittarius</a> <a href="http://dictionary.reference.com/search?q=Sagittarius" class="dictionary" title="Look up Sagittarius at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sagittarius at Dictionary.com" title="Look up Sagittarius at Dictionary.com" /></a></dt>
+<dd>constellation, late 14c., from L., lit. "archer," properly "pertaining to arrows," from <span class="foreign">sagitta</span> "arrow," which probably is from a pre-Latin Mediterranean language. Meaning "person born under Sagittarius" (properly <span class="foreign">Sagittarian</span>) is attested from 1940.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658701 -->
+<!-- Page was generated in 0.172709 seconds. -->
+ </body>
+</html>
+<!-- -->

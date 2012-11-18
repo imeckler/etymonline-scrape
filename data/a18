@@ -1,0 +1,415 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=albatross&allowed_in_frame=0">albatross (n.)</a> <a href="http://dictionary.reference.com/search?q=albatross" class="dictionary" title="Look up albatross at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albatross at Dictionary.com" title="Look up albatross at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, probably from Spanish or Portuguese <span class="foreign">alcatraz</span> "pelican" (16c.), perhaps derived from Arabic <span class="foreign">al-ghattas</span> "sea eagle" [Barnhart]; or from Port. <span class="foreign">alcatruz</span> "the bucket of a water wheel" [OED], from Arabic <span class="foreign">al-qadus</span> "machine for drawing water, jar" (from Gk. <span class="foreign">kados</span> "jar"), in reference to the pelican's pouch (cf. Arabic <span class="foreign">saqqa</span> "pelican," lit. "water carrier"). Either way, the spelling was influenced by L. <span class="foreign">albus</span> "white." The name was extended, through some mistake, by English sailors to a larger sea-bird (order <span class="foreign">Tubinares</span>).
+<BR><BR>
+Albatrosses were considered good luck by sailors; figurative sense of "burden" (1936) is from Coleridge's "Rime of the Ancient Mariner" (1798) about the bad luck of a sailor who shoots an albatross and then is forced to wear its corpse as an indication that he, not the whole ship, offended against the bird. The prison-island of <span class="foreign">Alcatraz</span> in San Francisco Bay is named for pelicans that roosted there.</dd>
+
+<dt><a href="/index.php?term=albedo&allowed_in_frame=0">albedo (n.)</a> <a href="http://dictionary.reference.com/search?q=albedo" class="dictionary" title="Look up albedo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albedo at Dictionary.com" title="Look up albedo at Dictionary.com" /></a></dt>
+<dd>"ratio of light reflected from a surface," 1859, from L. <span class="foreign">albedo</span>, lit. "whiteness," from <span class="foreign">albus</span> "white" (see <a href="/index.php?term=alb&allowed_in_frame=0" class="crossreference">alb</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=albeit&allowed_in_frame=0">albeit (conj.)</a> <a href="http://dictionary.reference.com/search?q=albeit" class="dictionary" title="Look up albeit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albeit at Dictionary.com" title="Look up albeit at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., a contraction of <span class="foreign">al be it</span> "al(though) it be (that)."</dd>
+
+<dt><a href="/index.php?term=Albert&allowed_in_frame=0">Albert</a> <a href="http://dictionary.reference.com/search?q=Albert" class="dictionary" title="Look up Albert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Albert at Dictionary.com" title="Look up Albert at Dictionary.com" /></a></dt>
+<dd>masc. proper name, from German (the French form is <span class="foreign">Aubert</span>), from O.H.G. <span class="foreign">Adalbert</span>, cognate of O.E. <span class="foreign">&AElig;&thorn;elbeorht</span> "Noble-bright" (which was sometimes metathesized as <span class="foreign">&AElig;&thorn;elbriht</span>, hence the surname <span class="foreign">Albright</span>). Second element is from P.Gmc. <span class="foreign">berhta-</span> "bright," from PIE <span class="foreign">*bhereg-</span> "to shine; bright, white" (see <a href="/index.php?term=bright&allowed_in_frame=0" class="crossreference">bright</a>). It also figures in the names <span class="foreign">Egbert</span>, <span class="foreign">Gilbert</span>, <span class="foreign">Herbert</span>, <span class="foreign">Hubert</span>, <span class="foreign">Lambert</span>. As a kind of watch chain, from 1861 (see <a href="/index.php?term=Prince Albert&allowed_in_frame=0" class="crossreference">Prince Albert</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alberta&allowed_in_frame=0">Alberta</a> <a href="http://dictionary.reference.com/search?q=Alberta" class="dictionary" title="Look up Alberta at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alberta at Dictionary.com" title="Look up Alberta at Dictionary.com" /></a></dt>
+<dd class="highlight">Canadian province, founded in 1882 and named for Princess Louise Caroline <span class="foreign">Alberta</span> (1848-1939), fourth daughter of Queen Victoria, wife of the governor general, John Douglas Sutherland Campbell, Marquess of Lorne. She was named for her father, Prince Albert.</dd>
+
+<dt><a href="/index.php?term=Albigensian&allowed_in_frame=0">Albigensian</a> <a href="http://dictionary.reference.com/search?q=Albigensian" class="dictionary" title="Look up Albigensian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Albigensian at Dictionary.com" title="Look up Albigensian at Dictionary.com" /></a></dt>
+<dd>c.1600, "relating to the <span class="foreign">Albigenses</span>," Catharist religious reformers of southern France c.1020-1250, M.L. <span class="foreign">Albigenses</span> (12c.), from Fr. <span class="foreign">Albi</span>, name of the town in Languedoc where they lived and were first condemned as heretics (1176). The town name is from Roman personal name <span class="foreign">Albius</span>, from L. <span class="foreign">albus</span> "white."</dd>
+
+<dt class="highlight"><a href="/index.php?term=albinism&allowed_in_frame=0">albinism (n.)</a> <a href="http://dictionary.reference.com/search?q=albinism" class="dictionary" title="Look up albinism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albinism at Dictionary.com" title="Look up albinism at Dictionary.com" /></a></dt>
+<dd class="highlight">1836; see <a href="/index.php?term=albino&allowed_in_frame=0" class="crossreference">albino</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. Alternative form <span class="foreign">albinoism</span> is recorded from 1868.</dd>
+
+<dt><a href="/index.php?term=albino&allowed_in_frame=0">albino (n.)</a> <a href="http://dictionary.reference.com/search?q=albino" class="dictionary" title="Look up albino at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albino at Dictionary.com" title="Look up albino at Dictionary.com" /></a></dt>
+<dd>1777, from Spanish or Portuguese <span class="foreign">albino</span>, from L. <span class="foreign">albus</span> "white" (see <a href="/index.php?term=alb&allowed_in_frame=0" class="crossreference">alb</a>). Used by Portuguese of white-spotted African negroes. Extended 1859 to animals having the same peculiarity. A female albino formerly was an <span class="foreign">albiness</span> (1808).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Albion&allowed_in_frame=0">Albion</a> <a href="http://dictionary.reference.com/search?q=Albion" class="dictionary" title="Look up Albion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Albion at Dictionary.com" title="Look up Albion at Dictionary.com" /></a></dt>
+<dd class="highlight">ancient name of England, Old English, from Latin, sometimes said to be from the non-I.E. base <span class="foreign">*alb</span> "mountain," which also is suggested as the source of L. <span class="foreign">Alpes</span> "Alps," <span class="foreign">Albania</span>, and <span class="foreign">Alba</span>, an Irish name for "Scotland." But more likely from L. <span class="foreign">albus</span> "white" (see <a href="/index.php?term=alb&allowed_in_frame=0" class="crossreference">alb</a>), which would be an apt description of the chalk cliffs of the island's southern coast.<blockquote>Breoton is garsecges ealond, &eth;&aelig;t w&aelig;s iu geara Albion haten. [translation of Bede's <span class="foreign">"Historia Ecclesiastica Gentis Anglorum,"</span> c.900 C.E.]</blockquote><span class="foreign">Perfidious Albion</span> translates French rhetorical phrase <span class="foreign">la perfide Albion</span>, said to have been in use since 16c. but popularized by Napoleon I in the recruiting drive of 1813, a reference to the supposedly treacherous policies of Britain when dealing with foreign powers.</dd>
+
+<dt><a href="/index.php?term=album&allowed_in_frame=0">album (n.)</a> <a href="http://dictionary.reference.com/search?q=album" class="dictionary" title="Look up album at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up album at Dictionary.com" title="Look up album at Dictionary.com" /></a></dt>
+<dd>1650s, from L. <span class="foreign">album</span> "white color, whiteness," neut. of <span class="foreign">albus</span> "white" (see <a href="/index.php?term=alb&allowed_in_frame=0" class="crossreference">alb</a>). In classical times "a blank tablet on which the Pontifex Maximus registered the principal events of the year; a list of names." Revived 16c. by German scholars whose custom was to keep an <span class="foreign">album amicorum</span> of colleagues' signatures; meaning then expanded into "book to collect souvenirs." According to Johnson, "a book in which foreigners have long been accustomed to insert autographs of celebrated people." Photographic albums first recorded 1859. Meaning "long-playing gramophone record" is by 1951, because the sleeves they came in resembled large albums.</dd>
+
+<dt class="highlight"><a href="/index.php?term=albumen&allowed_in_frame=0">albumen (n.)</a> <a href="http://dictionary.reference.com/search?q=albumen" class="dictionary" title="Look up albumen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albumen at Dictionary.com" title="Look up albumen at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "white of an egg," from L. <span class="foreign">albumen</span> "white of an egg," lit. "whiteness," from <span class="foreign">albus</span> "white" (see <a href="/index.php?term=alb&allowed_in_frame=0" class="crossreference">alb</a>). The organic substance (which exists nearly pure in egg whites) so called from 1800, also known as <span class="foreign">albumin</span> (1869, from Fr. <span class="foreign">albumine</span>).</dd>
+
+<dt><a href="/index.php?term=albumin&allowed_in_frame=0">albumin</a> <a href="http://dictionary.reference.com/search?q=albumin" class="dictionary" title="Look up albumin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albumin at Dictionary.com" title="Look up albumin at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=albumen&allowed_in_frame=0" class="crossreference">albumen</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=albuminous&allowed_in_frame=0">albuminous (adj.)</a> <a href="http://dictionary.reference.com/search?q=albuminous" class="dictionary" title="Look up albuminous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albuminous at Dictionary.com" title="Look up albuminous at Dictionary.com" /></a></dt>
+<dd class="highlight">1791, from <a href="/index.php?term=albumen&allowed_in_frame=0" class="crossreference">albumen</a> + <a href="/index.php?term=-ous&allowed_in_frame=0" class="crossreference">-ous</a>.</dd>
+
+<dt><a href="/index.php?term=Albuquerque&allowed_in_frame=0">Albuquerque</a> <a href="http://dictionary.reference.com/search?q=Albuquerque" class="dictionary" title="Look up Albuquerque at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Albuquerque at Dictionary.com" title="Look up Albuquerque at Dictionary.com" /></a></dt>
+<dd>city in New Mexico, U.S., founded 1706 and named for Spanish administrator and viceroy of Mexico Francisco Fern&aacute;ndez de la Cueva, Duque de <span class="foreign">Alburquerque</span> (1617-1676); name altered by association with Portuguese soldier Alfonso de <span class="foreign">Albuquerque</span> (1453-1515), both named from <span class="foreign">Alburquerque</span>, a town in Spain close to the Portuguese border, meaning "white oak;" ultimately from L. <span class="foreign">albus</span> "white" and <span class="foreign">quercus</span> "oak."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alcatraz&allowed_in_frame=0">Alcatraz</a> <a href="http://dictionary.reference.com/search?q=Alcatraz" class="dictionary" title="Look up Alcatraz at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alcatraz at Dictionary.com" title="Look up Alcatraz at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=albatross&allowed_in_frame=0" class="crossreference">albatross</a>.</dd>
+
+<dt><a href="/index.php?term=Alcestis&allowed_in_frame=0">Alcestis</a> <a href="http://dictionary.reference.com/search?q=Alcestis" class="dictionary" title="Look up Alcestis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alcestis at Dictionary.com" title="Look up Alcestis at Dictionary.com" /></a></dt>
+<dd>wife of Admetus, she offered her life for her husband and was rescued from the Underworld by Herakles, from Gk. <span class="foreign">Alkestis,</span> lit. "valiant, courageous," from <span class="foreign">alke</span> "protection, help, strength, power."</dd>
+
+<dt class="highlight"><a href="/index.php?term=alchemical&allowed_in_frame=0">alchemical (adj.)</a> <a href="http://dictionary.reference.com/search?q=alchemical" class="dictionary" title="Look up alchemical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alchemical at Dictionary.com" title="Look up alchemical at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s; see <a href="/index.php?term=alchemy&allowed_in_frame=0" class="crossreference">alchemy</a> + <a href="/index.php?term=-ical&allowed_in_frame=0" class="crossreference">-ical</a>.</dd>
+
+<dt><a href="/index.php?term=alchemist&allowed_in_frame=0">alchemist (n.)</a> <a href="http://dictionary.reference.com/search?q=alchemist" class="dictionary" title="Look up alchemist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alchemist at Dictionary.com" title="Look up alchemist at Dictionary.com" /></a></dt>
+<dd>1510s, from O.Fr. <span class="foreign">alquemiste</span>, from M.L. <span class="foreign">alchimista</span> (see <a href="/index.php?term=alchemy&allowed_in_frame=0" class="crossreference">alchemy</a>). Earlier forms were <span class="foreign">alchemister</span> (late 14c.), <span class="foreign">alkanamyer</span> (late 15c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alchemy&allowed_in_frame=0">alchemy (n.)</a> <a href="http://dictionary.reference.com/search?q=alchemy" class="dictionary" title="Look up alchemy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alchemy at Dictionary.com" title="Look up alchemy at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">alchimie</span> (14c.), <span class="foreign">alquemie</span> (13c.), from M.L. <span class="foreign">alkimia</span>, from Arabic <span class="foreign">al-kimiya</span>, from Gk. <span class="foreign">khemeioa</span> (found c.300 C.E. in a decree of Diocletian against "the old writings of the Egyptians"), all meaning "alchemy." Perhaps from an old name for Egypt (<span class="foreign">Khemia</span>, lit. "land of black earth," found in Plutarch), or from Gk. <span class="foreign">khymatos</span> "that which is poured out," from <span class="foreign">khein</span> "to pour," related to <span class="foreign">khymos</span> "juice, sap" [Klein, citing W. Muss-Arnolt, calls this folk etymology]. The word seems to have elements of both origins.<blockquote>Mahn ... concludes, after an elaborate investigation, that Gr. <span class="foreign">khymeia</span> was probably the original, being first applied to pharmaceutical chemistry, which was chiefly concerned with juices or infusions of plants; that the pursuits of the Alexandrian alchemists were a subsequent development of chemical study, and that the notoriety of these may have caused the name of the art to be popularly associated with the ancient name of Egypt. [OED]</blockquote>The <span class="foreign">al-</span> is the Arabic definite article, "the." The art and the name were adopted by the Arabs from Alexandrians and thence returned to Europe via Spain. Alchemy was the "chemistry" of the Middle Ages and early modern times; since c.1600 the word has been applied distinctively to the pursuit of the transmutation of baser metals into gold, which, along with the search for the universal solvent and the panacea, were the chief occupations of early chemistry.</dd>
+
+<dt><a href="/index.php?term=alcohol&allowed_in_frame=0">alcohol (n.)</a> <a href="http://dictionary.reference.com/search?q=alcohol" class="dictionary" title="Look up alcohol at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alcohol at Dictionary.com" title="Look up alcohol at Dictionary.com" /></a></dt>
+<dd>1540s (early 15c. as <span class="foreign">alcofol</span>), "fine powder produced by sublimation," from M.L. <span class="foreign">alcohol</span> "powdered ore of antimony," from Arabic <span class="foreign">al-kuhul</span> "kohl," the fine metallic powder used to darken the eyelids, from <span class="foreign">kahala</span> "to stain, paint." The <span class="foreign">al-</span> is the Arabic definite article, "the."
+<BR><BR>
+"Powdered cosmetic" was the earliest sense in English; definition broadened 1670s to "any sublimated substance, the pure spirit of anything," including liquids. Modern sense of "intoxicating ingredient in strong liquor" is first recorded 1753, short for <span class="foreign">alcohol of wine</span>, which was extended to "the intoxicating element in fermented liquors." In organic chemistry, the word was extended 1850 to the class of compounds of the same type as this.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alcoholic&allowed_in_frame=0">alcoholic (adj.)</a> <a href="http://dictionary.reference.com/search?q=alcoholic" class="dictionary" title="Look up alcoholic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alcoholic at Dictionary.com" title="Look up alcoholic at Dictionary.com" /></a></dt>
+<dd class="highlight">1790, "of or pertaining to alcohol;" see <a href="/index.php?term=alcohol&allowed_in_frame=0" class="crossreference">alcohol</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. Meaning "caused by drunkenness" is attested by 1872; meaning "habitually drunk" by 1910. Noun sense of "one who is addicted to drinking in excess, chronic drunkard, old rounder" is recorded from 1891; earlier <span class="foreign">alcoholist</span> (1888). <span class="foreign">Alcoholics Anonymous</span> founded 1935 in Akron, Ohio, U.S. <span class="foreign">Alky</span> is first recorded 1844 as a slang shortening of "alcoholic liquor;" 1960 in the sense of "a drunkard."</dd>
+
+<dt><a href="/index.php?term=alcoholism&allowed_in_frame=0">alcoholism (n.)</a> <a href="http://dictionary.reference.com/search?q=alcoholism" class="dictionary" title="Look up alcoholism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alcoholism at Dictionary.com" title="Look up alcoholism at Dictionary.com" /></a></dt>
+<dd>"disease of alcohol addiction," 1852, from <a href="/index.php?term=alcohol&allowed_in_frame=0" class="crossreference">alcohol</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>, or else from Mod.L. <span class="foreign">alcoholismus</span>, coined in 1852 by Swedish professor of medicine Magnus Huss (1807-1890) to mean what we now would call "alcohol poisoning." In earlier times, alcoholism would have been <span class="foreign">habitual drunkenness</span> or some such term.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alcoran&allowed_in_frame=0">Alcoran</a> <a href="http://dictionary.reference.com/search?q=Alcoran" class="dictionary" title="Look up Alcoran at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alcoran at Dictionary.com" title="Look up Alcoran at Dictionary.com" /></a></dt>
+<dd class="highlight">older form of <span class="foreign">Koran</span>, mid-14c., from O.Fr. <span class="foreign">alcoran</span>, from Arabic <span class="foreign">al-quran</span> "the Koran" (see <a href="/index.php?term=Koran&allowed_in_frame=0" class="crossreference">Koran</a>), with the definite article (<span class="foreign">al-</span>) taken as part of the name.</dd>
+
+<dt><a href="/index.php?term=alcove&allowed_in_frame=0">alcove (n.)</a> <a href="http://dictionary.reference.com/search?q=alcove" class="dictionary" title="Look up alcove at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alcove at Dictionary.com" title="Look up alcove at Dictionary.com" /></a></dt>
+<dd>1670s, "vaulted recess," from Fr. <span class="foreign">alc&ocirc;ve</span> (17c.), from Sp. <span class="foreign">alcoba</span>, from Arabic <span class="foreign">al-qobbah</span> "the vaulted chamber," from Semitic base <span class="foreign">q-b-b</span> "to be bent, crooked, vaulted."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Aldebaran&allowed_in_frame=0">Aldebaran</a> <a href="http://dictionary.reference.com/search?q=Aldebaran" class="dictionary" title="Look up Aldebaran at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aldebaran at Dictionary.com" title="Look up Aldebaran at Dictionary.com" /></a></dt>
+<dd class="highlight">bright star in Taurus, late 14c., from Arabic <span class="foreign">Al Dabaran</span> "the follower" (of the Pleiades, which rise shortly before it does), from <span class="foreign">dabara</span> "he followed."</dd>
+
+<dt><a href="/index.php?term=aldehyde&allowed_in_frame=0">aldehyde (n.)</a> <a href="http://dictionary.reference.com/search?q=aldehyde" class="dictionary" title="Look up aldehyde at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aldehyde at Dictionary.com" title="Look up aldehyde at Dictionary.com" /></a></dt>
+<dd>first oxidation product of alcohol, 1833, discovered in 1774 by German-born Swedish chemist Carl Wilhelm Scheele (1742-1786), the name said to have been coined by German chemist Justus von Liebig (1803-1873) from abbreviation of Modern Latin <span class="foreign">alcohol dehydrogenatum</span> "dehydrogenated alcohol."</dd>
+
+<dt class="highlight"><a href="/index.php?term=alder&allowed_in_frame=0">alder (n.)</a> <a href="http://dictionary.reference.com/search?q=alder" class="dictionary" title="Look up alder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alder at Dictionary.com" title="Look up alder at Dictionary.com" /></a></dt>
+<dd class="highlight">tree related to the birch, O.E. <span class="foreign">alor</span> "alder" (with intrusive <span class="foreign">-d-</span> added 14c.; the historical form <span class="foreign">aller</span> survived until 18c. in literary English and persists in dialects, e.g. Lancashire <span class="foreign">owler</span>, which is partly from Norse), from P.Gmc. <span class="foreign">*aliso</span> (cf. O.N. <span class="foreign">&ouml;lr</span>, Dan. <span class="foreign">elle</span>, Swed. <span class="foreign">al</span>, Du. <span class="foreign">els</span>, Ger. <span class="foreign">erle</span>), from <span class="foreign">*el-</span>, the ancient PIE name of the tree (cf. Rus. <span class="foreign">olicha</span>, Pol. <span class="foreign">olcha</span>, L. <span class="foreign">alnus</span>, Lith. <span class="foreign">alksnis</span>).</dd>
+
+<dt><a href="/index.php?term=alderman&allowed_in_frame=0">alderman (n.)</a> <a href="http://dictionary.reference.com/search?q=alderman" class="dictionary" title="Look up alderman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alderman at Dictionary.com" title="Look up alderman at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">aldormonn</span> (Mercian), <span class="foreign">ealdormann</span> (W.Saxon) "ruler, prince, chief; chief officer of a shire," from <span class="foreign">aldor, ealder</span> "patriarch" (comparative of <span class="foreign">ald</span> "old;" see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>) + <span class="foreign">monn, mann</span> "man" (see <a href="/index.php?term=man&allowed_in_frame=0" class="crossreference">man</a> (n.)). A relic of the days when the elders were automatically in charge of the clan or tribe, but already in Old English used for king's viceroys, regardless of age. The word yielded in Old English to <span class="foreign">eorl</span>, and after the Norman Conquest to <a href="/index.php?term=count&allowed_in_frame=0" class="crossreference">count</a> (n.). Meaning "headman of a guild" (early 12c.) passed to "magistrate of a city" (c.1200) as the guilds became identified with municipal government.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Aldine&allowed_in_frame=0">Aldine</a> <a href="http://dictionary.reference.com/search?q=Aldine" class="dictionary" title="Look up Aldine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aldine at Dictionary.com" title="Look up Aldine at Dictionary.com" /></a></dt>
+<dd class="highlight">type font, 1837, from <span class="foreign">Aldus</span> Manutius (1450-1515), Venetian printer who used it in his popular editions of Greek and Roman classics. His name is a Latinized form of It. <span class="foreign">Aldo</span> Manuzio, the first name short for <span class="foreign">Teobaldo</span> (see <a href="/index.php?term=Theobald&allowed_in_frame=0" class="crossreference">Theobald</a>). The device characteristic of Aldine books is a figure of a dolphin on an anchor.</dd>
+
+<dt><a href="/index.php?term=ale&allowed_in_frame=0">ale (n.)</a> <a href="http://dictionary.reference.com/search?q=ale" class="dictionary" title="Look up ale at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ale at Dictionary.com" title="Look up ale at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">ealu</span> "ale, beer," from P.Gmc. <span class="foreign">*aluth-</span> (cf. O.S. <span class="foreign">alo</span>, O.N. <span class="foreign">&ouml;l</span>), perhaps from PIE root meaning "bitter" (cf. L. <span class="foreign">alumen</span> "alum"), or from PIE <span class="foreign">*alu-t</span> "ale," from root <span class="foreign">*alu-</span>, which has connotations of "sorcery, magic, possession, intoxication." The word was borrowed from Germanic into Lithuanian (<span class="foreign">alus</span>) and Old Church Slavonic (<span class="foreign">olu</span>).
+<blockquote>In the fifteenth century, and until the seventeenth, ale stood for the unhopped fermented malt liquor which had long been the native drink of these islands. Beer was the hopped malt liquor introduced from the Low Countires in the fifteenth century and popular first of all in the towns. By the eighteenth century, however, all malt liquor was hopped and there had been a silent mutation in the meaning of the two terms. For a time the terms became synonymous, in fact, but local habits of nomenclature still continued to perpetuate what had been a real difference: 'beer' was the malt liquor which tended to be found in towns, 'ale' was the term in general use in the country districts. [Peter Mathias, "The Brewing Industry in England," Cambridge University Press, 1959]</blockquote>Meaning "festival or merry-meeting at which much ale was drunk" was in Old English (see <a href="/index.php?term=bridal&allowed_in_frame=0" class="crossreference">bridal</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aleatory&allowed_in_frame=0">aleatory (adj.)</a> <a href="http://dictionary.reference.com/search?q=aleatory" class="dictionary" title="Look up aleatory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aleatory at Dictionary.com" title="Look up aleatory at Dictionary.com" /></a></dt>
+<dd class="highlight">"of uncertain outcome," lit. "depending on the throw of a die," 1690s, from L. <span class="foreign">aleatorius</span> "pertaining to a gamester," from <span class="foreign">aleator</span> "a dice player," from <span class="foreign">alea</span> "a game with dice; chance, hazard, risk; a die, the dice;" perhaps lit. "a joint-bone, a pivot-bone," and related to <a href="/index.php?term=axis&allowed_in_frame=0" class="crossreference">axis</a>.</dd>
+
+<dt><a href="/index.php?term=alectryomachy&allowed_in_frame=0">alectryomachy (n.)</a> <a href="http://dictionary.reference.com/search?q=alectryomachy" class="dictionary" title="Look up alectryomachy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alectryomachy at Dictionary.com" title="Look up alectryomachy at Dictionary.com" /></a></dt>
+<dd>"cock-fighting," 1650s, from Gk. <span class="foreign">alektryon</span> "cock" (see <a href="/index.php?term=alectryomancy&allowed_in_frame=0" class="crossreference">alectryomancy</a>) + <a href="/index.php?term=-machy&allowed_in_frame=0" class="crossreference">-machy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alectryomancy&allowed_in_frame=0">alectryomancy (n.)</a> <a href="http://dictionary.reference.com/search?q=alectryomancy" class="dictionary" title="Look up alectryomancy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alectryomancy at Dictionary.com" title="Look up alectryomancy at Dictionary.com" /></a></dt>
+<dd class="highlight">"divination by means of a cock and grains of corn," 1680s, from Latinized form of Gk. <span class="foreign">alektryon</span> "cock" + <span class="foreign">manteia</span> "oracle" (see <a href="/index.php?term=-mancy&allowed_in_frame=0" class="crossreference">-mancy</a>). The first element is lit. "warder-off, fighter," related to <span class="foreign">alexein</span> "to ward off, drive or keep off" (see <a href="/index.php?term=Alexander&allowed_in_frame=0" class="crossreference">Alexander</a>). And cf. <span class="foreign">Alekto</span>, one of the three Furies.</dd>
+
+<dt><a href="/index.php?term=alehouse&allowed_in_frame=0">alehouse (n.)</a> <a href="http://dictionary.reference.com/search?q=alehouse" class="dictionary" title="Look up alehouse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alehouse at Dictionary.com" title="Look up alehouse at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">ale-house</span>, O.E. <span class="foreign">eala-huse</span>; see <a href="/index.php?term=ale&allowed_in_frame=0" class="crossreference">ale</a> + <a href="/index.php?term=house&allowed_in_frame=0" class="crossreference">house</a> (n.). An <span class="foreign">alehouse</span> "is distinguished from a <span class="foreign">tavern</span>, where they sell wine" [Johnson].</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alemanni&allowed_in_frame=0">Alemanni</a> <a href="http://dictionary.reference.com/search?q=Alemanni" class="dictionary" title="Look up Alemanni at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alemanni at Dictionary.com" title="Look up Alemanni at Dictionary.com" /></a></dt>
+<dd class="highlight">name of a Suebic tribe or confederation that settled in Alsace and part of Switzerland (and source of Fr. <span class="foreign">Allemand</span> "German, a German"), from P.Gmc. <span class="foreign">*Alamanniz</span>, probably meaning "all-man" and denoting a wide alliance of tribes, but perhaps meaning "foreign men" (cf. <span class="foreign">Allobroges</span>, name of a Celtic tribe in what is now Savoy, in Latin lit. "the aliens," in reference to their having driven out the original inhabitants), in which case the <span class="foreign">al-</span> is cognate with the first element in L. <span class="foreign">alius</span> "the other" and English <a href="/index.php?term=else&allowed_in_frame=0" class="crossreference">else</a>.</dd>
+
+<dt><a href="/index.php?term=alembic&allowed_in_frame=0">alembic (n.)</a> <a href="http://dictionary.reference.com/search?q=alembic" class="dictionary" title="Look up alembic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alembic at Dictionary.com" title="Look up alembic at Dictionary.com" /></a></dt>
+<dd>late 14c., from M.Fr. <span class="foreign">alambic</span> (13c.), via Old Spanish, from Arabic <span class="foreign">al-anbiq</span> "distilling flask," from Gk. <span class="foreign">ambix</span> "cup," of unknown, possibly Semitic, origin. Often spelled <span class="foreign">limbeck</span> 15c.-17c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aleph&allowed_in_frame=0">aleph</a> <a href="http://dictionary.reference.com/search?q=aleph" class="dictionary" title="Look up aleph at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aleph at Dictionary.com" title="Look up aleph at Dictionary.com" /></a></dt>
+<dd class="highlight">Hebrew and Phoenician letter, c.1300, from Semitic languages, pausal form of <span class="foreign">eleph</span> "ox" (the character might have developed from a hieroglyph of an ox's head); also see <a href="/index.php?term=alphabet&allowed_in_frame=0" class="crossreference">alphabet</a>.</dd>
+
+<dt><a href="/index.php?term=alert&allowed_in_frame=0">alert (adv.)</a> <a href="http://dictionary.reference.com/search?q=alert" class="dictionary" title="Look up alert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alert at Dictionary.com" title="Look up alert at Dictionary.com" /></a></dt>
+<dd>"on the watch," 1590s, from Fr. <span class="foreign">alerte</span> "vigilant" (17c.), from phrase <span class="foreign">&agrave; l'erte</span> "on the watch," from It. <span class="foreign">all'erta</span> "to the height," from <span class="foreign">erta</span> "lookout, high tower," orig. fem. of <span class="foreign">erto,</span> pp. of <span class="foreign">ergere</span> "raise up," from L. <span class="foreign">erigere</span> "raise" (see <a href="/index.php?term=erect&allowed_in_frame=0" class="crossreference">erect</a>). The adjective is attested from 1610s, the noun from 1803, and the verb from 1868. Related: <span class="foreign">Alerted</span>; <span class="foreign">alerting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alertly&allowed_in_frame=0">alertly (adv.)</a> <a href="http://dictionary.reference.com/search?q=alertly" class="dictionary" title="Look up alertly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alertly at Dictionary.com" title="Look up alertly at Dictionary.com" /></a></dt>
+<dd class="highlight">1787, from <a href="/index.php?term=alert&allowed_in_frame=0" class="crossreference">alert</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=alertness&allowed_in_frame=0">alertness (n.)</a> <a href="http://dictionary.reference.com/search?q=alertness" class="dictionary" title="Look up alertness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alertness at Dictionary.com" title="Look up alertness at Dictionary.com" /></a></dt>
+<dd>1714, from <a href="/index.php?term=alert&allowed_in_frame=0" class="crossreference">alert</a> + <a href="/index.php?term=-ness&allowed_in_frame=0" class="crossreference">-ness</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alethea&allowed_in_frame=0">Alethea</a> <a href="http://dictionary.reference.com/search?q=Alethea" class="dictionary" title="Look up Alethea at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alethea at Dictionary.com" title="Look up Alethea at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, from Gk. <span class="foreign">aletheia</span> "truth, truthfulness," from <span class="foreign">alethes</span> "true," lit. "not concealing," from privative prefix <span class="foreign">a-</span> "not" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3)) + <span class="foreign">lethe</span> "forgetfulness, oblivion" (see <a href="/index.php?term=latent&allowed_in_frame=0" class="crossreference">latent</a>).</dd>
+
+<dt><a href="/index.php?term=Aleut&allowed_in_frame=0">Aleut</a> <a href="http://dictionary.reference.com/search?q=Aleut" class="dictionary" title="Look up Aleut at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aleut at Dictionary.com" title="Look up Aleut at Dictionary.com" /></a></dt>
+<dd>native of the Aleutian Islands, 1780, of unknown origin, probably from a native word. First applied by Russian explorers c.1750, perhaps from <span class="foreign">Alut</span>, name of a coastal village in Kamchatka [Bright]. Their name for themselves is <span class="foreign">unangax</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alewife&allowed_in_frame=0">alewife (n.)</a> <a href="http://dictionary.reference.com/search?q=alewife" class="dictionary" title="Look up alewife at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alewife at Dictionary.com" title="Look up alewife at Dictionary.com" /></a></dt>
+<dd class="highlight">herring-like fish of North America, 1630s, named from the word for female tavern keepers (late 14c.), from <a href="/index.php?term=ale&allowed_in_frame=0" class="crossreference">ale</a> + <a href="/index.php?term=wife&allowed_in_frame=0" class="crossreference">wife</a>; the fish so called in reference to its large abdomen.</dd>
+
+<dt><a href="/index.php?term=Alexander&allowed_in_frame=0">Alexander</a> <a href="http://dictionary.reference.com/search?q=Alexander" class="dictionary" title="Look up Alexander at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alexander at Dictionary.com" title="Look up Alexander at Dictionary.com" /></a></dt>
+<dd>masc. proper name, from Latin, from Gk. <span class="foreign">Alexandros</span> "defender of men," from <span class="foreign">alexein</span> "to ward off, keep off, turn (something) away, defend, protect" + <span class="foreign">aner</span> (gen. <span class="foreign">andros</span>) "man" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>). The first element is related to Gk. <span class="foreign">alke</span> "protection, help, strength, power, courage," <span class="foreign">alkimos</span> "strong;" cognate with Skt. <span class="foreign">raksati</span> "protects," O.E. <span class="foreign">ealgian</span> "to defend." As a kind of cocktail, it is attested from 1930.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alexandrine&allowed_in_frame=0">Alexandrine</a> <a href="http://dictionary.reference.com/search?q=Alexandrine" class="dictionary" title="Look up Alexandrine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alexandrine at Dictionary.com" title="Look up Alexandrine at Dictionary.com" /></a></dt>
+<dd class="highlight">in reference to a type of verse line, 1580s (adj.); 1660s (n.), said to be from O.Fr. <span class="foreign">Roman d'Alexandre</span>, name of a poem about Alexander the Great that was popular in the Middle Ages, which used a 12-syllable line of 6 feet (the French heroic verse); it was used in English to vary the heroic verse of 5 feet. The name also sometimes is said to be from <span class="foreign">Alexandre</span> de Paris, 13c. French poet, who used such a line (and who also wrote one of the popular Alexander the Great poems).</dd>
+
+<dt><a href="/index.php?term=Alexis&allowed_in_frame=0">Alexis</a> <a href="http://dictionary.reference.com/search?q=Alexis" class="dictionary" title="Look up Alexis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alexis at Dictionary.com" title="Look up Alexis at Dictionary.com" /></a></dt>
+<dd>masc. proper name, from Gk. <span class="foreign">alexis</span>, from <span class="foreign">alexein</span> "to ward off, keep, protect" (see <a href="/index.php?term=Alexander&allowed_in_frame=0" class="crossreference">Alexander</a>). The Latin form was <span class="foreign">Alexius</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alfalfa&allowed_in_frame=0">alfalfa (n.)</a> <a href="http://dictionary.reference.com/search?q=alfalfa" class="dictionary" title="Look up alfalfa at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alfalfa at Dictionary.com" title="Look up alfalfa at Dictionary.com" /></a></dt>
+<dd class="highlight">1845, from Sp. <span class="foreign">alfalfa,</span> earlier <span class="foreign">alfalfez,</span> from Arabic <span class="foreign">al-fisfisa</span> "fresh fodder."</dd>
+
+<dt><a href="/index.php?term=Alfred&allowed_in_frame=0">Alfred</a> <a href="http://dictionary.reference.com/search?q=Alfred" class="dictionary" title="Look up Alfred at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alfred at Dictionary.com" title="Look up Alfred at Dictionary.com" /></a></dt>
+<dd>masc. proper name, O.E. <span class="foreign">&AElig;lfr&aelig;d,</span> lit. "elf-counsel," from <span class="foreign">&aelig;lf</span> (see <a href="/index.php?term=elf&allowed_in_frame=0" class="crossreference">elf</a>) + <span class="foreign">r&aelig;d</span> "counsel," related to <a href="/index.php?term=read&allowed_in_frame=0" class="crossreference">read</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alga&allowed_in_frame=0">alga (n.)</a> <a href="http://dictionary.reference.com/search?q=alga" class="dictionary" title="Look up alga at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alga at Dictionary.com" title="Look up alga at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=algae&allowed_in_frame=0" class="crossreference">algae</a>.</dd>
+
+<dt><a href="/index.php?term=algae&allowed_in_frame=0">algae (n.)</a> <a href="http://dictionary.reference.com/search?q=algae" class="dictionary" title="Look up algae at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up algae at Dictionary.com" title="Look up algae at Dictionary.com" /></a></dt>
+<dd>(plural), 1794, from <span class="foreign">alga</span> (singular), 1550s, from L. <span class="foreign">alga</span> "seaweed," of uncertain origin, perhaps from a PIE root meaning "to putrefy, rot."</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657938 -->
+<!-- Page was generated in 0.178931 seconds. -->
+ </body>
+</html>
+<!-- -->

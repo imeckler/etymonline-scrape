@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=phallus&allowed_in_frame=0">phallus (n.)</a> <a href="http://dictionary.reference.com/search?q=phallus" class="dictionary" title="Look up phallus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phallus at Dictionary.com" title="Look up phallus at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, "an image of the penis," from L. <span class="foreign">phallus</span>, from Gk. <span class="foreign">phallos</span> "penis," also "carving or image of an erect penis (symbolizing the generative power in nature) used in the cult of Dionysus," from PIE <span class="foreign">*bhel-no-</span>, from root <span class="foreign">*bhel-</span> (2) "to blow, inflate, swell" (cf. O.N. <span class="foreign">boli</span> "bull," O.E. <span class="foreign">bulluc</span> "little bull," and possibly Gk. <span class="foreign">phalle</span> "whale;" see <a href="/index.php?term=bole&allowed_in_frame=0" class="crossreference">bole</a>). Used of the penis itself (often in symbolic context) from 1924, originally in jargon of psychoanalysis.</dd>
+
+<dt><a href="/index.php?term=phanero-&allowed_in_frame=0">phanero-</a> <a href="http://dictionary.reference.com/search?q=phanero-" class="dictionary" title="Look up phanero- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phanero- at Dictionary.com" title="Look up phanero- at Dictionary.com" /></a></dt>
+<dd>before vowels <span class="foreign">phaner-</span>, word-forming element meaning "visible, manifest," from Gk. <span class="foreign">phanero-</span>, comb. form of <span class="foreign">phaneros</span> "visible, manifest," from <span class="foreign">phainein</span> "to show" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=phantasm&allowed_in_frame=0">phantasm (n.)</a> <a href="http://dictionary.reference.com/search?q=phantasm" class="dictionary" title="Look up phantasm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phantasm at Dictionary.com" title="Look up phantasm at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., <span class="foreign">fantesme</span>, from O.Fr. <span class="foreign">fantosme</span> "a dream, illusion, fantasy; apparition, ghost, phantom" (12c.), and directly from L. <span class="foreign">phantasma</span> "an apparition, specter," from Gk. <span class="foreign">phantasma</span> "image, phantom, apparition; mere image, unreality," from <span class="foreign">phantazein</span> "to make visible, display," from stem of <span class="foreign">phainein</span> "to bring to light, make appear; come to light, be seen, appear; explain, expound, inform against; appear to be so," from PIE root <span class="foreign">*bha-</span> (1) "to shine" (cf. Skt. <span class="foreign">bhati</span> "shines, glitters," O.Ir. <span class="foreign">ban</span> "white, light, ray of light"). Spelling conformed to Latin from 16c. (see <a href="/index.php?term=ph&allowed_in_frame=0" class="crossreference">ph</a>). A spelling variant of <a href="/index.php?term=phantom&allowed_in_frame=0" class="crossreference">phantom</a>, "differentiated, but so that the differences are elusive" [Fowler].</dd>
+
+<dt><a href="/index.php?term=phantasma&allowed_in_frame=0">phantasma (n.)</a> <a href="http://dictionary.reference.com/search?q=phantasma" class="dictionary" title="Look up phantasma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phantasma at Dictionary.com" title="Look up phantasma at Dictionary.com" /></a></dt>
+<dd>1590s, from L. <span class="foreign">phantasma</span> (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=phantasmagoria&allowed_in_frame=0">phantasmagoria (n.)</a> <a href="http://dictionary.reference.com/search?q=phantasmagoria" class="dictionary" title="Look up phantasmagoria at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phantasmagoria at Dictionary.com" title="Look up phantasmagoria at Dictionary.com" /></a></dt>
+<dd class="highlight">1802, name of a "magic lantern" exhibition brought to London in 1802 by Parisian showman Paul de Philipstal, the name an alteration of Fr. <span class="foreign">phantasmagorie</span>, said to have been coined 1801 by French dramatist Louis-S&eacute;bastien Mercier as though to mean "crowd of phantoms," from Gk. <span class="foreign">phantasma</span> "image, phantom, apparition" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>) + second element probably a French form of Gk. <span class="foreign">agora</span> "assembly" (but this may have been chosen more for the dramatic sound than any literal sense). Transferred meaning "shifting scene of many elements" is attested from 1822. Related: <span class="foreign">Phantasmagorical</span>.</dd>
+
+<dt><a href="/index.php?term=phantasmal&allowed_in_frame=0">phantasmal (adj.)</a> <a href="http://dictionary.reference.com/search?q=phantasmal" class="dictionary" title="Look up phantasmal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phantasmal at Dictionary.com" title="Look up phantasmal at Dictionary.com" /></a></dt>
+<dd>1813, from <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Related: <span class="foreign">Phantasmally</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phantom&allowed_in_frame=0">phantom (n.)</a> <a href="http://dictionary.reference.com/search?q=phantom" class="dictionary" title="Look up phantom at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phantom at Dictionary.com" title="Look up phantom at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, <span class="foreign">fantum</span> "illusion, unreality," from O.Fr. <span class="foreign">fantosme</span> (12c.), from V.L. <span class="foreign">*fantauma</span>, from L. <span class="foreign">phantasma</span> "an apparition" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>). The <span class="foreign">ph-</span> was restored in English late 16c. (see <a href="/index.php?term=ph&allowed_in_frame=0" class="crossreference">ph</a>). Meaning "specter, spirit, ghost" is attested from late 14c.; that of "something having the form, but not the substance, of a real thing" is from 1707. As an adjective from early 15c.</dd>
+
+<dt><a href="/index.php?term=pharaoh&allowed_in_frame=0">pharaoh (n.)</a> <a href="http://dictionary.reference.com/search?q=pharaoh" class="dictionary" title="Look up pharaoh at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharaoh at Dictionary.com" title="Look up pharaoh at Dictionary.com" /></a></dt>
+<dd>title of the kings of ancient Egypt, O.E. <span class="foreign">Pharon</span>, from L. <span class="foreign">Pharaonem</span>, from Gk. <span class="foreign">Pharao</span>, from Heb. <span class="foreign">Par'oh</span>, from Egyptian <span class="foreign">Pero'</span>, lit. "great house."</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharisaic&allowed_in_frame=0">pharisaic (adj.)</a> <a href="http://dictionary.reference.com/search?q=pharisaic" class="dictionary" title="Look up pharisaic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharisaic at Dictionary.com" title="Look up pharisaic at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from Church L. <span class="foreign">pharisaicus</span>, from Gk. <span class="foreign">pharisaikos</span>, from <span class="foreign">pharisaios</span> (see <a href="/index.php?term=Pharisee&allowed_in_frame=0" class="crossreference">Pharisee</a>). Related: <span class="foreign">Pharisaical</span> (1530s).</dd>
+
+<dt><a href="/index.php?term=Pharisee&allowed_in_frame=0">Pharisee</a> <a href="http://dictionary.reference.com/search?q=Pharisee" class="dictionary" title="Look up Pharisee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pharisee at Dictionary.com" title="Look up Pharisee at Dictionary.com" /></a></dt>
+<dd>from O.E. <span class="foreign">Fariseos</span>, O.Fr. <span class="foreign">pharise</span> (13c.), and directly from L.L. <span class="foreign">Pharis&aelig;us</span>, from Gk. <span class="foreign">Pharisaios</span>, from Aramaic <span class="foreign">perishayya</span>, emphatic plural of <span class="foreign">perish</span> "separated, separatist," corresponding to Hebrew <span class="foreign">parush</span>, from <span class="foreign">parash</span> "he separated." Ancient Jewish sect (2c. B.C.E.-1c. C.E.) distinguished by strict observance but regarded as pretentious and self-righteous, at least by Jesus (Matt. xxiii:27). Meaning "self-righteous person, formalist, hypocrite" is attested from 1580s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharmaceutical&allowed_in_frame=0">pharmaceutical (adj.)</a> <a href="http://dictionary.reference.com/search?q=pharmaceutical" class="dictionary" title="Look up pharmaceutical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmaceutical at Dictionary.com" title="Look up pharmaceutical at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s (<span class="foreign">pharmaceutic</span> in the same sense is from 1540s), from L.L. <span class="foreign">pharmaceuticus</span> "of drugs," from Gk. <span class="foreign">pharmakeutikos</span>, from <span class="foreign">pharmakeus</span> "preparer of drugs, poisoner" (see <a href="/index.php?term=pharmacy&allowed_in_frame=0" class="crossreference">pharmacy</a>). Related: <span class="foreign">Pharmaceuticals</span>; <span class="foreign">pharmaceutically</span>.</dd>
+
+<dt><a href="/index.php?term=pharmacist&allowed_in_frame=0">pharmacist (n.)</a> <a href="http://dictionary.reference.com/search?q=pharmacist" class="dictionary" title="Look up pharmacist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmacist at Dictionary.com" title="Look up pharmacist at Dictionary.com" /></a></dt>
+<dd>1811; see <a href="/index.php?term=pharmacy&allowed_in_frame=0" class="crossreference">pharmacy</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>. Replaced obsolete <span class="foreign">pharmacian</span> (1720). The Latin word was <span class="foreign">pharmacopola</span>, the Greek <span class="foreign">pharmakopoles</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharmacokinetics&allowed_in_frame=0">pharmacokinetics (n.)</a> <a href="http://dictionary.reference.com/search?q=pharmacokinetics" class="dictionary" title="Look up pharmacokinetics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmacokinetics at Dictionary.com" title="Look up pharmacokinetics at Dictionary.com" /></a></dt>
+<dd class="highlight">1960, from <a href="/index.php?term=pharmaco-&allowed_in_frame=0" class="crossreference">pharmaco-</a> + <a href="/index.php?term=kinetic&allowed_in_frame=0" class="crossreference">kinetic</a>.</dd>
+
+<dt><a href="/index.php?term=pharmacologist&allowed_in_frame=0">pharmacologist (n.)</a> <a href="http://dictionary.reference.com/search?q=pharmacologist" class="dictionary" title="Look up pharmacologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmacologist at Dictionary.com" title="Look up pharmacologist at Dictionary.com" /></a></dt>
+<dd>1728, from <a href="/index.php?term=pharmacology&allowed_in_frame=0" class="crossreference">pharmacology</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharmacology&allowed_in_frame=0">pharmacology (n.)</a> <a href="http://dictionary.reference.com/search?q=pharmacology" class="dictionary" title="Look up pharmacology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmacology at Dictionary.com" title="Look up pharmacology at Dictionary.com" /></a></dt>
+<dd class="highlight">1721, formed in Modern Latin (1680s) from <a href="/index.php?term=pharmaco-&allowed_in_frame=0" class="crossreference">pharmaco-</a> + <a href="/index.php?term=-logy&allowed_in_frame=0" class="crossreference">-logy</a>. Related: <span class="foreign">Pharmacological</span>.</dd>
+
+<dt><a href="/index.php?term=pharmacopeia&allowed_in_frame=0">pharmacopeia (n.)</a> <a href="http://dictionary.reference.com/search?q=pharmacopeia" class="dictionary" title="Look up pharmacopeia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmacopeia at Dictionary.com" title="Look up pharmacopeia at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">pharmacopoeia</span>, "official book listing drugs and containing directions for their preparation," 1620s, from medical Latin, from Gk. <span class="foreign">pharmakopoiia</span> "preparation of drugs," from <span class="foreign">pharmakon</span> "drug" (see <a href="/index.php?term=pharmacy&allowed_in_frame=0" class="crossreference">pharmacy</a>) + <span class="foreign">poiein</span> "to make" (see <a href="/index.php?term=poet&allowed_in_frame=0" class="crossreference">poet</a>). First used as a book title by Anutius Foesius (1528-1595) of Basel. Related: <span class="foreign">Pharmacopeial</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharmacy&allowed_in_frame=0">pharmacy (n.)</a> <a href="http://dictionary.reference.com/search?q=pharmacy" class="dictionary" title="Look up pharmacy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharmacy at Dictionary.com" title="Look up pharmacy at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "a medicine," from O.Fr. <span class="foreign">farmacie</span> "a purgative" (13c.), from M.L. <span class="foreign">pharmacia</span>, from Gk. <span class="foreign">pharmakeia</span> "use of drugs, medicines, potions, or spells; poisoning, witchcraft; remedy, cure," from <span class="foreign">pharmakeus</span> (fem. <span class="foreign">pharmakis</span>) "preparer of drugs, poisoner, sorcorer" from <span class="foreign">pharmakon</span> "drug, poison, philter, charm, spell, enchantment." Meaning "use or administration of drugs" is attested from c.1400; that of "place where drugs are prepared and dispensed" is first recorded 1833. The <span class="foreign">ph-</span> was restored 16c. in French, 17c. in English (see <a href="/index.php?term=-ph-&allowed_in_frame=0" class="crossreference">-ph-</a>).</dd>
+
+<dt><a href="/index.php?term=Pharos&allowed_in_frame=0">Pharos (n.)</a> <a href="http://dictionary.reference.com/search?q=Pharos" class="dictionary" title="Look up Pharos at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pharos at Dictionary.com" title="Look up Pharos at Dictionary.com" /></a></dt>
+<dd>as a word for a lighthouse, 1550s, in reference to the island of <span class="foreign">Pharos</span> off the coast of Alexandria, on which Ptolemy Philadelphius built a mighty lighthouse.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharyngeal&allowed_in_frame=0">pharyngeal (adj.)</a> <a href="http://dictionary.reference.com/search?q=pharyngeal" class="dictionary" title="Look up pharyngeal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharyngeal at Dictionary.com" title="Look up pharyngeal at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to the pharynx," 1799, from Mod.L. <span class="foreign">pharyngeus</span>, from <span class="foreign">pharynx</span> (see <a href="/index.php?term=pharynx&allowed_in_frame=0" class="crossreference">pharynx</a>) + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Alternative <span class="foreign">pharyngal</span> is attested from 1835, from Mod.L. <span class="foreign">pharyngem</span> with <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1) substituted.</dd>
+
+<dt><a href="/index.php?term=pharyngitis&allowed_in_frame=0">pharyngitis (n.)</a> <a href="http://dictionary.reference.com/search?q=pharyngitis" class="dictionary" title="Look up pharyngitis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharyngitis at Dictionary.com" title="Look up pharyngitis at Dictionary.com" /></a></dt>
+<dd>1824, from stem of <a href="/index.php?term=pharynx&allowed_in_frame=0" class="crossreference">pharynx</a> + <a href="/index.php?term=-itis&allowed_in_frame=0" class="crossreference">-itis</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pharynx&allowed_in_frame=0">pharynx (n.)</a> <a href="http://dictionary.reference.com/search?q=pharynx" class="dictionary" title="Look up pharynx at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pharynx at Dictionary.com" title="Look up pharynx at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, from Gk. <span class="foreign">pharynx</span> (gen. <span class="foreign">pharyngos</span>) "windpipe, throat," related to <span class="foreign">pharanx</span> "cleft, chasm."</dd>
+
+<dt><a href="/index.php?term=phase&allowed_in_frame=0">phase (n.)</a> <a href="http://dictionary.reference.com/search?q=phase" class="dictionary" title="Look up phase at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phase at Dictionary.com" title="Look up phase at Dictionary.com" /></a></dt>
+<dd>1705, "phase of the moon," back-formed as a singular from Mod.L. <span class="foreign">phases</span>, plural of <span class="foreign">phasis</span>, from Gk. <span class="foreign">phasis</span> "appearance" (of a star), "phase" (of the moon), from stem of <span class="foreign">phainein</span> "to show, to make appear" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>). Latin singular <span class="foreign">phasis</span> was used in English from 1660. Non-lunar application is first attested 1841. Meaning "temporary difficult period" (especially of adolescents) is attested from 1913.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phase&allowed_in_frame=0">phase (v.)</a> <a href="http://dictionary.reference.com/search?q=phase" class="dictionary" title="Look up phase at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phase at Dictionary.com" title="Look up phase at Dictionary.com" /></a></dt>
+<dd class="highlight">"to synchronize," 1895, from <a href="/index.php?term=phase&allowed_in_frame=0" class="crossreference">phase</a> (n.). Meaning "to carry out gradually" is from 1949, hence <span class="foreign">phase in</span> "introduce gradually" (1954), <span class="foreign">phase out</span> (1954). Related: <span class="foreign">Phased</span>; <span class="foreign">phasing</span>.</dd>
+
+<dt><a href="/index.php?term=phat&allowed_in_frame=0">phat (adj.)</a> <a href="http://dictionary.reference.com/search?q=phat" class="dictionary" title="Look up phat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phat at Dictionary.com" title="Look up phat at Dictionary.com" /></a></dt>
+<dd>hip-hop slang, "great, excellent," 1992, originating perhaps in the late 1980s and meaning at first "sexiness in a woman." The word itself is presumably a variant of <a href="/index.php?term=fat&allowed_in_frame=0" class="crossreference">fat</a> (q.v.) in one of its slang senses, with the kind of off-beat spelling preferred in street slang (cf. <span class="foreign">boyz</span>). The spelling is attested as far back as 1678, as an erroneous form of <span class="foreign">fat</span> (a classical over-correction; see <a href="/index.php?term=ph&allowed_in_frame=0" class="crossreference">ph</a>). This spelling is said by some to be an acronym, and supposed originals are offered: "pretty hot and tasty," or "pretty hips and thighs" among them, all unconvincing. These, too may have been innovations given as explanations to women who felt insulted by the word.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phatic&allowed_in_frame=0">phatic (adj.)</a> <a href="http://dictionary.reference.com/search?q=phatic" class="dictionary" title="Look up phatic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phatic at Dictionary.com" title="Look up phatic at Dictionary.com" /></a></dt>
+<dd class="highlight">1923, coined by Polish-born British anthropologist Bronis&#322;aw Malinowski (1884-1942) from Gk. <span class="foreign">phatos</span> "spoken, that may be spoken," from <span class="foreign">phanai</span> "to speak, say" (see <a href="/index.php?term=fame&allowed_in_frame=0" class="crossreference">fame</a>) + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt><a href="/index.php?term=pheasant&allowed_in_frame=0">pheasant (n.)</a> <a href="http://dictionary.reference.com/search?q=pheasant" class="dictionary" title="Look up pheasant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pheasant at Dictionary.com" title="Look up pheasant at Dictionary.com" /></a></dt>
+<dd>late 13c. (mid-12c. as a surname), from Anglo-Fr. <span class="foreign">fesaunt</span>, O.Fr. <span class="foreign">faisan</span> (13c.) "pheasant," from L. <span class="foreign">phasianus</span>, from Gk. <span class="foreign">phasianos</span> "a pheasant," lit. "Phasian bird," from <span class="foreign">Phasis</span>, river flowing into the Black Sea in Colchis, where the birds were said to have been numerous. The <span class="foreign">ph-</span> was restored in English late 14c. (see <a href="/index.php?term=ph&allowed_in_frame=0" class="crossreference">ph</a>). The excrescent <span class="foreign">-t</span> is due to confusion with <span class="foreign">-ant</span> suffix of nouns formed from prp. of verbs in first Latin conjugation (<span class="foreign">peasant</span>, <span class="foreign">tyrant</span>, etc.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pheme&allowed_in_frame=0">pheme (n.)</a> <a href="http://dictionary.reference.com/search?q=pheme" class="dictionary" title="Look up pheme at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pheme at Dictionary.com" title="Look up pheme at Dictionary.com" /></a></dt>
+<dd class="highlight">"words as grammatical units in a language," 1906, coined by U.S. philosopher Charles S. Pierce (1839-1914), from Gk. <span class="foreign">pheme</span> (see <a href="/index.php?term=fame&allowed_in_frame=0" class="crossreference">fame</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=phene&allowed_in_frame=0">phene</a> <a href="http://dictionary.reference.com/search?q=phene" class="dictionary" title="Look up phene at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phene at Dictionary.com" title="Look up phene at Dictionary.com" /></a></dt>
+<dd>as an element in names of chemicals derived from benzene, from Fr. <span class="foreign">ph&#232;ne</span>, proposed 1836 by French scientist Auguste Laurent as an alternative name for "benzene" because it had been found in coal tar, a byproduct of the manufacture of "illuminating gas," from Gk. <span class="foreign">phainein</span> "to bring to light," (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>). Related: <span class="foreign">Phenyl</span> (radical which forms the basis of derivatives of benzene); <span class="foreign">pheno-</span> (comb. form).</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenetic&allowed_in_frame=0">phenetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=phenetic" class="dictionary" title="Look up phenetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenetic at Dictionary.com" title="Look up phenetic at Dictionary.com" /></a></dt>
+<dd class="highlight">coined 1960, from Gk. <span class="foreign">phainein</span> "to appear" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>) + <a href="/index.php?term=-etic&allowed_in_frame=0" class="crossreference">-etic</a>. Related: <span class="foreign">Phenetically</span>.</dd>
+
+<dt><a href="/index.php?term=pheno-&allowed_in_frame=0">pheno-</a> <a href="http://dictionary.reference.com/search?q=pheno-" class="dictionary" title="Look up pheno- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pheno- at Dictionary.com" title="Look up pheno- at Dictionary.com" /></a></dt>
+<dd>before vowels <span class="foreign">phen-</span>, word-forming element in science meaning "pertaining to or derived from benzene," from <a href="/index.php?term=phene&allowed_in_frame=0" class="crossreference">phene</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenobarbital&allowed_in_frame=0">phenobarbital (n.)</a> <a href="http://dictionary.reference.com/search?q=phenobarbital" class="dictionary" title="Look up phenobarbital at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenobarbital at Dictionary.com" title="Look up phenobarbital at Dictionary.com" /></a></dt>
+<dd class="highlight">1919, from <a href="/index.php?term=pheno-&allowed_in_frame=0" class="crossreference">pheno-</a> + <span class="foreign">barbital</span> (see <a href="/index.php?term=barbiturate&allowed_in_frame=0" class="crossreference">barbiturate</a>).</dd>
+
+<dt><a href="/index.php?term=phenol&allowed_in_frame=0">phenol (n.)</a> <a href="http://dictionary.reference.com/search?q=phenol" class="dictionary" title="Look up phenol at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenol at Dictionary.com" title="Look up phenol at Dictionary.com" /></a></dt>
+<dd>"carbolic acid," 1844, from <a href="/index.php?term=pheno-&allowed_in_frame=0" class="crossreference">pheno-</a> + <a href="/index.php?term=-ol&allowed_in_frame=0" class="crossreference">-ol</a>. Discovered in coal tar in 1834; used as an antiseptic from 1867. Related: <span class="foreign">Phenolic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenology&allowed_in_frame=0">phenology (n.)</a> <a href="http://dictionary.reference.com/search?q=phenology" class="dictionary" title="Look up phenology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenology at Dictionary.com" title="Look up phenology at Dictionary.com" /></a></dt>
+<dd class="highlight">"study of the influence of climate on recurring natural phenomena," 1881, from German (<span class="foreign">ph&#228;nologisch</span>, Karl Fritsch, 1853) from L. <span class="foreign">phaeno-</span>, from Gk. <span class="foreign">phaino-</span>, from <span class="foreign">phainein</span> "to show" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>) + <a href="/index.php?term=-logy&allowed_in_frame=0" class="crossreference">-logy</a>. Related: <span class="foreign">Phenological</span> (1875).</dd>
+
+<dt><a href="/index.php?term=phenom&allowed_in_frame=0">phenom (n.)</a> <a href="http://dictionary.reference.com/search?q=phenom" class="dictionary" title="Look up phenom at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenom at Dictionary.com" title="Look up phenom at Dictionary.com" /></a></dt>
+<dd>shortened form of <a href="/index.php?term=phenomenon&allowed_in_frame=0" class="crossreference">phenomenon</a>, U.S. baseball slang, first recorded 1890.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenomena&allowed_in_frame=0">phenomena (n.)</a> <a href="http://dictionary.reference.com/search?q=phenomena" class="dictionary" title="Look up phenomena at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenomena at Dictionary.com" title="Look up phenomena at Dictionary.com" /></a></dt>
+<dd class="highlight">plural of <a href="/index.php?term=phenomenon&allowed_in_frame=0" class="crossreference">phenomenon</a>. Sometimes also erroneously used as a singular.</dd>
+
+<dt><a href="/index.php?term=phenomenal&allowed_in_frame=0">phenomenal (adj.)</a> <a href="http://dictionary.reference.com/search?q=phenomenal" class="dictionary" title="Look up phenomenal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenomenal at Dictionary.com" title="Look up phenomenal at Dictionary.com" /></a></dt>
+<dd>1803, "of the nature of a phenomenon," a hybrid from <a href="/index.php?term=phenomenon&allowed_in_frame=0" class="crossreference">phenomenon</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Meaning "remarkable, exceptional" is from 1850.
+<blockquote>
+[Phenomenal] <span class="foreign">is</span> a metaphysical term with a use of its own. To divert it from this proper use to a job for which it is not needed, by making it do duty for <span class="foreign">remarkable</span>, <span class="foreign">extraordinary</span>, or <span class="foreign">prodigious</span>, is a sin against the English language. [Fowler]
+</blockquote>
+Related: <span class="foreign">Phenomenally</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenomenalism&allowed_in_frame=0">phenomenalism (n.)</a> <a href="http://dictionary.reference.com/search?q=phenomenalism" class="dictionary" title="Look up phenomenalism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenomenalism at Dictionary.com" title="Look up phenomenalism at Dictionary.com" /></a></dt>
+<dd class="highlight">1865 (John Grote), from <a href="/index.php?term=phenomenal&allowed_in_frame=0" class="crossreference">phenomenal</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. Related: <span class="foreign">Phenomenalist</span>.</dd>
+
+<dt><a href="/index.php?term=phenomenology&allowed_in_frame=0">phenomenology (n.)</a> <a href="http://dictionary.reference.com/search?q=phenomenology" class="dictionary" title="Look up phenomenology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenomenology at Dictionary.com" title="Look up phenomenology at Dictionary.com" /></a></dt>
+<dd>1797, from Ger. <span class="foreign">Ph&auml;nomenologie</span>, used as the title of the fourth part of the <span class="foreign">"Neues Organon"</span> of German physicist Johann Heinrich Lambert (1728-1777), coined from Gk. <span class="foreign">phainomenon</span> (see <a href="/index.php?term=phenomenon&allowed_in_frame=0" class="crossreference">phenomenon</a>) + <span class="foreign">-logia</span> (see <a href="/index.php?term=-logy&allowed_in_frame=0" class="crossreference">-logy</a>). Psychological sense, especially in Gestalt theory, is from 1930. Related: <span class="foreign">Phenomenological</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenomenon&allowed_in_frame=0">phenomenon (n.)</a> <a href="http://dictionary.reference.com/search?q=phenomenon" class="dictionary" title="Look up phenomenon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenomenon at Dictionary.com" title="Look up phenomenon at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, "fact, occurrence," from L.L. <span class="foreign">ph&aelig;nomenon</span>, from Gk. <span class="foreign">phainomenon</span> "that which appears or is seen," noun use of neuter prp. of <span class="foreign">phainesthai</span> "to appear," passive of <span class="foreign">phainein</span> (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>). Meaning "extraordinary occurrence" first recorded 1771. Plural is <span class="foreign">phenomena</span>.</dd>
+
+<dt><a href="/index.php?term=phenotype&allowed_in_frame=0">phenotype (n.)</a> <a href="http://dictionary.reference.com/search?q=phenotype" class="dictionary" title="Look up phenotype at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenotype at Dictionary.com" title="Look up phenotype at Dictionary.com" /></a></dt>
+<dd>"observable characteristics of an individual," 1911, from Ger. <span class="foreign">phaenotypus</span> (Wilhelm Johannsen, 1909); see <a href="/index.php?term=pheno-&allowed_in_frame=0" class="crossreference">pheno-</a> + <a href="/index.php?term=type&allowed_in_frame=0" class="crossreference">type</a>.
+Related: <span class="foreign">Phenotypic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phenyl&allowed_in_frame=0">phenyl (n.)</a> <a href="http://dictionary.reference.com/search?q=phenyl" class="dictionary" title="Look up phenyl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phenyl at Dictionary.com" title="Look up phenyl at Dictionary.com" /></a></dt>
+<dd class="highlight">radical base of phenol, 1850, from Fr. <span class="foreign">ph&#233;nyle</span>; see <a href="/index.php?term=phen-&allowed_in_frame=0" class="crossreference">phen-</a>.</dd>
+
+<dt><a href="/index.php?term=pheromone&allowed_in_frame=0">pheromone (n.)</a> <a href="http://dictionary.reference.com/search?q=pheromone" class="dictionary" title="Look up pheromone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pheromone at Dictionary.com" title="Look up pheromone at Dictionary.com" /></a></dt>
+<dd>"chemical released by an animal that causes a specific response when detected by another animal of the same species," but the exact definition is much debated; 1959, coined (by Karlson & L&uuml;scher) from Gk. <span class="foreign">pherein</span> "to carry" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>) + ending as in <a href="/index.php?term=hormone&allowed_in_frame=0" class="crossreference">hormone</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=phew&allowed_in_frame=0">phew</a> <a href="http://dictionary.reference.com/search?q=phew" class="dictionary" title="Look up phew at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phew at Dictionary.com" title="Look up phew at Dictionary.com" /></a></dt>
+<dd class="highlight">vocalic gesture expressing weariness, etc., attested from c.1600.</dd>
+
+<dt><a href="/index.php?term=phi&allowed_in_frame=0">phi</a> <a href="http://dictionary.reference.com/search?q=phi" class="dictionary" title="Look up phi at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phi at Dictionary.com" title="Look up phi at Dictionary.com" /></a></dt>
+<dd>twenty-first letter of the Greek alphabet; see <a href="/index.php?term=ph&allowed_in_frame=0" class="crossreference">ph</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Phi+Beta+Kappa&allowed_in_frame=0">Phi Beta Kappa</a> <a href="http://dictionary.reference.com/search?q=Phi+Beta+Kappa" class="dictionary" title="Look up Phi Beta Kappa at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Phi Beta Kappa at Dictionary.com" title="Look up Phi Beta Kappa at Dictionary.com" /></a></dt>
+<dd class="highlight">undergraduate honorary society, 1776, from initials of Gk. <span class="foreign">philosophia biou kybernetes</span> "philosophy, guide of life."</dd>
+
+<dt><a href="/index.php?term=phial&allowed_in_frame=0">phial (n.)</a> <a href="http://dictionary.reference.com/search?q=phial" class="dictionary" title="Look up phial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up phial at Dictionary.com" title="Look up phial at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">fiole</span> "flask, phial" (12c.), probably from M.L. <span class="foreign">phiola,</span> from L. <span class="foreign">phiala,</span> from Gk. <span class="foreign">phiale</span> "broad, flat drinking vessel," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Philadelphia&allowed_in_frame=0">Philadelphia</a> <a href="http://dictionary.reference.com/search?q=Philadelphia" class="dictionary" title="Look up Philadelphia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Philadelphia at Dictionary.com" title="Look up Philadelphia at Dictionary.com" /></a></dt>
+<dd class="highlight">city in Pennsylvania, U.S., from Greek, taken by William Penn to mean "brotherly love," from <span class="foreign">philos</span> "loving" (see <a href="/index.php?term=-phile&allowed_in_frame=0" class="crossreference">-phile</a>) + <span class="foreign">adelphos</span> "brother" (see <a href="/index.php?term=Adelphia&allowed_in_frame=0" class="crossreference">Adelphia</a>). Also the name recalls that of the ancient city in Lydia, mentioned in the New Testament, which was so called in honor of Attalos II <span class="foreign">Philadelphos</span>, 2c B.C.E. king of Pergamon, who founded it. His title is said to have meant "loving the brethren." <span class="foreign">Philadelphia lawyer</span> "clever, shrewd attorney" attested from 1788 in London, said originally to have been applied to Andrew Hamilton, who obtained the famous acquittal of J.P. Zenger on libel charges in 1735.
+<blockquote>
+[C]ricket and coaching were after all popular in their day in places besides Philadelphia. It was merely that Philadelphia kept on with them longer than most places. This is a perennial Philadelphia trick, and gives to Philadelphia a sort of perpetual feeling of loss. Philadelphians are always just now getting rid of things that are picturesque, like those gas lamps on the streets, only because everybody else got rid of them long ago. [Nathaniel Burt, "The Perennial Philadelphians," 1963]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=philander&allowed_in_frame=0">philander (v.)</a> <a href="http://dictionary.reference.com/search?q=philander" class="dictionary" title="Look up philander at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up philander at Dictionary.com" title="Look up philander at Dictionary.com" /></a></dt>
+<dd>1737, from the noun meaning "a lover" (1700), from <span class="foreign">Philander</span>, popular name for a lover in stories, drama, and poetry, from Greek adjective <span class="foreign">philandros</span> "with love for people," perhaps mistaken as meaning "a loving man," from <span class="foreign">phil-</span> "loving" (see <a href="/index.php?term=philo-&allowed_in_frame=0" class="crossreference">philo-</a>) + <span class="foreign">andr-</span>, stem of <span class="foreign">aner</span> "man" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>). Related: <span class="foreign">Philandered</span>; <span class="foreign">philandering</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=philanderer&allowed_in_frame=0">philanderer (n.)</a> <a href="http://dictionary.reference.com/search?q=philanderer" class="dictionary" title="Look up philanderer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up philanderer at Dictionary.com" title="Look up philanderer at Dictionary.com" /></a></dt>
+<dd class="highlight">1816, agent noun from <a href="/index.php?term=philander&allowed_in_frame=0" class="crossreference">philander</a> (v.).</dd>
+
+<dt><a href="/index.php?term=philanthrope&allowed_in_frame=0">philanthrope (n.)</a> <a href="http://dictionary.reference.com/search?q=philanthrope" class="dictionary" title="Look up philanthrope at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up philanthrope at Dictionary.com" title="Look up philanthrope at Dictionary.com" /></a></dt>
+<dd>1734, from L. <span class="foreign">philanthropos</span>, from Gk. <span class="foreign">philanthropos</span> "loving mankind" (see <a href="/index.php?term=philanthropy&allowed_in_frame=0" class="crossreference">philanthropy</a>).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658602 -->
+<!-- Page was generated in 0.201026 seconds. -->
+ </body>
+</html>
+<!-- -->

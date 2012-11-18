@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=scrub&allowed_in_frame=0">scrub (v.)</a> <a href="http://dictionary.reference.com/search?q=scrub" class="dictionary" title="Look up scrub at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrub at Dictionary.com" title="Look up scrub at Dictionary.com" /></a></dt>
+<dd class="highlight">"rub hard," c.1300, perhaps from M.Du. or M.L.G. <span class="foreign">schrubben</span> "to scrub," or from an unrecorded O.E. cognate, or from a Scandinavian source (cf. Dan. <span class="foreign">skrubbe</span> "to scrub"), probably ultimately from some cognate of <a href="/index.php?term=shrub&allowed_in_frame=0" class="crossreference">shrub</a>, used as a cleaning tool (cf. the evolution of <a href="/index.php?term=broom&allowed_in_frame=0" class="crossreference">broom</a>, <a href="/index.php?term=brush&allowed_in_frame=0" class="crossreference">brush</a> (n.1)). Meaning "to cancel" is attested from 1828 (popularized during World War II with reference to flights), probably from notion of "to rub out, erase." Related: <span class="foreign">Scrubbed</span>; <span class="foreign">scrubbing</span>. The noun meaning "act of scrubbing" is recorded from 1620s.</dd>
+
+<dt><a href="/index.php?term=scrub&allowed_in_frame=0">scrub (n.)</a> <a href="http://dictionary.reference.com/search?q=scrub" class="dictionary" title="Look up scrub at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrub at Dictionary.com" title="Look up scrub at Dictionary.com" /></a></dt>
+<dd>"brush, shrubs," late 14c., "low, stunted tree," variant of <span class="foreign">shrobbe</span> (see <a href="/index.php?term=shrub&allowed_in_frame=0" class="crossreference">shrub</a>), perhaps influenced by a Scandinavian word (cf. Danish dialectal <span class="foreign">skrub</span> "a stunted tree, brushwood"). Collective sense is attested from 1805. Transferred sense of "mean, insignificant fellow" is from 1580s; U.S. sports meaning "athlete not on the varsity team" is recorded from 1892.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrubby&allowed_in_frame=0">scrubby</a> <a href="http://dictionary.reference.com/search?q=scrubby" class="dictionary" title="Look up scrubby at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrubby at Dictionary.com" title="Look up scrubby at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s; see <a href="/index.php?term=scrub&allowed_in_frame=0" class="crossreference">scrub</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Scrubbiness</span>.</dd>
+
+<dt><a href="/index.php?term=scruff&allowed_in_frame=0">scruff</a> <a href="http://dictionary.reference.com/search?q=scruff" class="dictionary" title="Look up scruff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scruff at Dictionary.com" title="Look up scruff at Dictionary.com" /></a></dt>
+<dd>"nape of the neck," 1790, altered (by influence of <span class="foreign">scruff</span> "crust") from <span class="foreign">scuft</span> (1787), probably related to N.Fris. <span class="foreign">skuft</span> "back of the neck of a horse" and Du. <span class="foreign">schoft</span> "withers of a horse," from a common Gmc. source (cf. O.N. <span class="foreign">skopt</span> "hair of the head," Goth. <span class="foreign">skuft,</span> M.H.G. <span class="foreign">schopf,</span> Ger. <span class="foreign">Schopf</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scruffy&allowed_in_frame=0">scruffy</a> <a href="http://dictionary.reference.com/search?q=scruffy" class="dictionary" title="Look up scruffy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scruffy at Dictionary.com" title="Look up scruffy at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from <span class="foreign">scruff</span> "dandruff, scurf" (late O.E.), variant of <a href="/index.php?term=scurf&allowed_in_frame=0" class="crossreference">scurf</a> (q.v.). Generalized sense of "rough and dirty" is from 1871.</dd>
+
+<dt><a href="/index.php?term=scrum&allowed_in_frame=0">scrum</a> <a href="http://dictionary.reference.com/search?q=scrum" class="dictionary" title="Look up scrum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrum at Dictionary.com" title="Look up scrum at Dictionary.com" /></a></dt>
+<dd>1888, abbreviation of <span class="foreign">scrummage,</span> a variant form of <span class="foreign">scrimmage</span> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrumptious&allowed_in_frame=0">scrumptious</a> <a href="http://dictionary.reference.com/search?q=scrumptious" class="dictionary" title="Look up scrumptious at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrumptious at Dictionary.com" title="Look up scrumptious at Dictionary.com" /></a></dt>
+<dd class="highlight">1836, probably a colloquial alteration of <a href="/index.php?term=sumptuous&allowed_in_frame=0" class="crossreference">sumptuous</a> (q.v.). Originally "stylish, splendid;" sense of "delicious" is from 1881.</dd>
+
+<dt><a href="/index.php?term=scrunch&allowed_in_frame=0">scrunch</a> <a href="http://dictionary.reference.com/search?q=scrunch" class="dictionary" title="Look up scrunch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrunch at Dictionary.com" title="Look up scrunch at Dictionary.com" /></a></dt>
+<dd>1825, "to bite," intensive form of <span class="foreign">crunch.</span> Meaning "to squeeze" is recorded from 1884.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scruple&allowed_in_frame=0">scruple (v.)</a> <a href="http://dictionary.reference.com/search?q=scruple" class="dictionary" title="Look up scruple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scruple at Dictionary.com" title="Look up scruple at Dictionary.com" /></a></dt>
+<dd class="highlight">"to have or make scruples," 1620s, from <a href="/index.php?term=scruple&allowed_in_frame=0" class="crossreference">scruple</a> (n.). Related: <span class="foreign">Scrupled</span>; <span class="foreign">scrupling</span>. </dd>
+
+<dt><a href="/index.php?term=scruple&allowed_in_frame=0">scruple (n.)</a> <a href="http://dictionary.reference.com/search?q=scruple" class="dictionary" title="Look up scruple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scruple at Dictionary.com" title="Look up scruple at Dictionary.com" /></a></dt>
+<dd>"moral misgiving, pang of conscience," late 14c., from O.Fr. <span class="foreign">scrupule</span> (14c.), from L. <span class="foreign">scrupulus</span> "uneasiness, anxiety, pricking of conscience," lit. "small sharp stone," dim. of <span class="foreign">scrupus</span> "sharp stone or pebble," used figuratively by Cicero for a cause of uneasiness or anxiety, probably from the notion of having a pebble in one's shoe. A more literal Latin sense of "small unit of weight or measurement" is attested in English from late 14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrupulous&allowed_in_frame=0">scrupulous</a> <a href="http://dictionary.reference.com/search?q=scrupulous" class="dictionary" title="Look up scrupulous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrupulous at Dictionary.com" title="Look up scrupulous at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from Anglo-Fr. <span class="foreign">scrupulus</span>, O.Fr. <span class="foreign">scrupulos</span> (Mod.Fr. <span class="foreign">scrupuleux</span>) or directly from L. <span class="foreign">scrupulosus</span>, from <span class="foreign">scrupulus</span> (see <a href="/index.php?term=scruple&allowed_in_frame=0" class="crossreference">scruple</a>). Related: <span class="foreign">Scrupulously</span>.</dd>
+
+<dt><a href="/index.php?term=scrutinise&allowed_in_frame=0">scrutinise</a> <a href="http://dictionary.reference.com/search?q=scrutinise" class="dictionary" title="Look up scrutinise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrutinise at Dictionary.com" title="Look up scrutinise at Dictionary.com" /></a></dt>
+<dd>British English spelling of <a href="/index.php?term=scrutinize&allowed_in_frame=0" class="crossreference">scrutinize</a> (q.v.); for suffix, see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Scrutinised</span>; <span class="foreign">scrutinising</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrutinization&allowed_in_frame=0">scrutinization</a> <a href="http://dictionary.reference.com/search?q=scrutinization" class="dictionary" title="Look up scrutinization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrutinization at Dictionary.com" title="Look up scrutinization at Dictionary.com" /></a></dt>
+<dd class="highlight">1772, noun of action from <a href="/index.php?term=scrutinize&allowed_in_frame=0" class="crossreference">scrutinize</a>.</dd>
+
+<dt><a href="/index.php?term=scrutinize&allowed_in_frame=0">scrutinize (v.)</a> <a href="http://dictionary.reference.com/search?q=scrutinize" class="dictionary" title="Look up scrutinize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrutinize at Dictionary.com" title="Look up scrutinize at Dictionary.com" /></a></dt>
+<dd>1670s; see <a href="/index.php?term=scrutiny&allowed_in_frame=0" class="crossreference">scrutiny</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Scrutinized</span>; <span class="foreign">scrutinizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrutiny&allowed_in_frame=0">scrutiny (n.)</a> <a href="http://dictionary.reference.com/search?q=scrutiny" class="dictionary" title="Look up scrutiny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrutiny at Dictionary.com" title="Look up scrutiny at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "a vote to choose someone to decide a question," from L.L. <span class="foreign">scrutinium</span> "a search, inquiry" (in Medieval Latin, "a mode of election by ballot"), from L. <span class="foreign">scrutari</span> "to examine, search" (as through trash), from <span class="foreign">scruta</span> (pl.) "trash, rags" (see <a href="/index.php?term=shred&allowed_in_frame=0" class="crossreference">shred</a>). Meaning "close examination" first recorded c.1600.</dd>
+
+<dt><a href="/index.php?term=scry&allowed_in_frame=0">scry</a> <a href="http://dictionary.reference.com/search?q=scry" class="dictionary" title="Look up scry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scry at Dictionary.com" title="Look up scry at Dictionary.com" /></a></dt>
+<dd>1520s, “to see images in a crystal, water, etc., which reveal the past or forebode the future;" aphetic of <a href="/index.php?term=descry&allowed_in_frame=0" class="crossreference">descry</a> (1). Related: <span class="foreign">Scried</span>; <span class="foreign">scrying</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuba&allowed_in_frame=0">scuba</a> <a href="http://dictionary.reference.com/search?q=scuba" class="dictionary" title="Look up scuba at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuba at Dictionary.com" title="Look up scuba at Dictionary.com" /></a></dt>
+<dd class="highlight">1952, acronym for <span class="foreign">self-contained underwater breathing apparatus.</span></dd>
+
+<dt><a href="/index.php?term=scud&allowed_in_frame=0">scud (v.)</a> <a href="http://dictionary.reference.com/search?q=scud" class="dictionary" title="Look up scud at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scud at Dictionary.com" title="Look up scud at Dictionary.com" /></a></dt>
+<dd>"to move quickly," 1530s, perhaps a variant of M.E. <span class="foreign">scut</span> "rabbit, rabbit's tail," in reference to its movements, perhaps from O.N. <span class="foreign">skjota</span> "to throw, shoot" (cf. Norw. <span class="foreign">skudda</span> "to shove, push"), but there are phonetic difficulties. Perhaps rather from a North Sea Germanic source akin to M.L.G., M.Du. <span class="foreign">schudden</span> "to shake." The type of ballistic missile is the NATO reporting name for a type of Soviet missile introduced in the 1960s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuff&allowed_in_frame=0">scuff (v.)</a> <a href="http://dictionary.reference.com/search?q=scuff" class="dictionary" title="Look up scuff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuff at Dictionary.com" title="Look up scuff at Dictionary.com" /></a></dt>
+<dd class="highlight">1768, from Scottish, probably from a Scandinavian source related to O.N. <span class="foreign">skufa, skyfa</span> "to shove."</dd>
+
+<dt><a href="/index.php?term=scuffle&allowed_in_frame=0">scuffle</a> <a href="http://dictionary.reference.com/search?q=scuffle" class="dictionary" title="Look up scuffle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuffle at Dictionary.com" title="Look up scuffle at Dictionary.com" /></a></dt>
+<dd>1570s, probably a frequentative form of <a href="/index.php?term=scuff&allowed_in_frame=0" class="crossreference">scuff</a>, of Scandinavian origin. Related: <span class="foreign">Scuffled</span>; <span class="foreign">scuffling</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scull&allowed_in_frame=0">scull (n.)</a> <a href="http://dictionary.reference.com/search?q=scull" class="dictionary" title="Look up scull at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scull at Dictionary.com" title="Look up scull at Dictionary.com" /></a></dt>
+<dd class="highlight">"kind of oar," mid-14c., of unknown origin. The verb is from 1620s. Related: <span class="foreign">Sculled</span>; <span class="foreign">sculling</span>.</dd>
+
+<dt><a href="/index.php?term=scullery&allowed_in_frame=0">scullery</a> <a href="http://dictionary.reference.com/search?q=scullery" class="dictionary" title="Look up scullery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scullery at Dictionary.com" title="Look up scullery at Dictionary.com" /></a></dt>
+<dd>early 14c., "household department concerned with the care of kitchen utensils," from O.Fr. <span class="foreign">escuelerie</span> "office of the servant in charge of plates, etc.," from <span class="foreign">escuelier</span> "keeper of the dishes," from <span class="foreign">escuelle</span> "dish," from L. <span class="foreign">scutella</span> "serving platter, silver" (see <a href="/index.php?term=scuttle&allowed_in_frame=0" class="crossreference">scuttle</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scullion&allowed_in_frame=0">scullion</a> <a href="http://dictionary.reference.com/search?q=scullion" class="dictionary" title="Look up scullion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scullion at Dictionary.com" title="Look up scullion at Dictionary.com" /></a></dt>
+<dd class="highlight">"low-ranking domestic servant who performs menial kitchen tasks," late 15c., perhaps from M.Fr. <span class="foreign">escouillon</span> "a swab, cloth," dim. of <span class="foreign">escouve</span> "broom, twig," from L. <span class="foreign">scopa</span> (pl. <span class="foreign">scop&aelig;</span>) "broom," related to <span class="foreign">scapus</span> "shaft, stem." Or an alteration of O.Fr. <span class="foreign">souillon</span> "scullion," by influence of <span class="foreign">scullery</span>.</dd>
+
+<dt><a href="/index.php?term=sculpt&allowed_in_frame=0">sculpt (v.)</a> <a href="http://dictionary.reference.com/search?q=sculpt" class="dictionary" title="Look up sculpt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sculpt at Dictionary.com" title="Look up sculpt at Dictionary.com" /></a></dt>
+<dd>1864, from Fr. <span class="foreign">sculpter</span>, from L. <span class="foreign">sculpt-</span>, pp. stem of <span class="foreign">sculpere</span> "to carve" (see <a href="/index.php?term=sculpture&allowed_in_frame=0" class="crossreference">sculpture</a>). Related: <span class="foreign">Sculpted</span>; <span class="foreign">sculpting</span>. The older verb form was <span class="foreign">sculpture</span> (1640s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sculptor&allowed_in_frame=0">sculptor</a> <a href="http://dictionary.reference.com/search?q=sculptor" class="dictionary" title="Look up sculptor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sculptor at Dictionary.com" title="Look up sculptor at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, from L. <span class="foreign">sculptor</span>, agent noun from <span class="foreign">sculpere</span> (see <a href="/index.php?term=sculpture&allowed_in_frame=0" class="crossreference">sculpture</a>).</dd>
+
+<dt><a href="/index.php?term=sculpture&allowed_in_frame=0">sculpture (n.)</a> <a href="http://dictionary.reference.com/search?q=sculpture" class="dictionary" title="Look up sculpture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sculpture at Dictionary.com" title="Look up sculpture at Dictionary.com" /></a></dt>
+<dd>late 14c., from L. <span class="foreign">sculptura</span> "sculpture," from pp. stem of <span class="foreign">sculpere</span> "to carve, engrave," back-formation from compounds such as <span class="foreign">exculpere</span>, from <span class="foreign">scalpere</span> "to carve, cut," from PIE root <span class="foreign">*(s)kel-</span> "to cut, cleave."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scum&allowed_in_frame=0">scum</a> <a href="http://dictionary.reference.com/search?q=scum" class="dictionary" title="Look up scum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scum at Dictionary.com" title="Look up scum at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c. (implied in <span class="foreign">scummer</span> "shallow ladle for removing scum"), from M.Du. <span class="foreign">schume</span> "foam, froth," from P.Gmc. <span class="foreign">*skuma-</span> (cf. O.N. <span class="foreign">skum</span>, O.H.G. <span class="foreign">scum</span>, Ger. <span class="foreign">Schaum</span> "foam, froth"), perhaps from PIE root <span class="foreign">*(s)keu-</span> "to cover, conceal" (see <a href="/index.php?term=hide&allowed_in_frame=0" class="crossreference">hide</a> (n.1)). Sense deteriorated from "thin layer atop liquid" to "film of dirt," then just "dirt."  Meaning "lowest class of humanity" is 1580s; <span class="foreign">scum of the Earth</span> is from 1712. Adopted in Romanic, cf. O.Fr. <span class="foreign">escume</span>, Mod.Fr. <span class="foreign">&eacute;cume</span>, Sp. <span class="foreign">escuma</span>, It. <span class="foreign">schiuma</span>.</dd>
+
+<dt><a href="/index.php?term=scumbag&allowed_in_frame=0">scumbag</a> <a href="http://dictionary.reference.com/search?q=scumbag" class="dictionary" title="Look up scumbag at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scumbag at Dictionary.com" title="Look up scumbag at Dictionary.com" /></a></dt>
+<dd>"condom," by 1939, slang, from <a href="/index.php?term=scum&allowed_in_frame=0" class="crossreference">scum</a> + <a href="/index.php?term=bag&allowed_in_frame=0" class="crossreference">bag</a>. Earlier (by 1817) it was used in sugar refining as the name of a frame covered in coarse cloth used in straining. Meaning "despicable person" is attested by 1971.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scummy&allowed_in_frame=0">scummy</a> <a href="http://dictionary.reference.com/search?q=scummy" class="dictionary" title="Look up scummy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scummy at Dictionary.com" title="Look up scummy at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, from <a href="/index.php?term=scum&allowed_in_frame=0" class="crossreference">scum</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Transferred sense of "filthy, disreputable" is recorded from 1932. </dd>
+
+<dt><a href="/index.php?term=scupper&allowed_in_frame=0">scupper (n.)</a> <a href="http://dictionary.reference.com/search?q=scupper" class="dictionary" title="Look up scupper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scupper at Dictionary.com" title="Look up scupper at Dictionary.com" /></a></dt>
+<dd>"opening in a ship's side at deck level," late 15c., perhaps from O.Fr. <span class="foreign">escopir</span> "to spit out," or related to Du. <span class="foreign">schop</span> "shovel," or from M.E. <span class="foreign">scope</span> "scoop" (see <a href="/index.php?term=scoop&allowed_in_frame=0" class="crossreference">scoop</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuppernong&allowed_in_frame=0">scuppernong (n.)</a> <a href="http://dictionary.reference.com/search?q=scuppernong" class="dictionary" title="Look up scuppernong at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuppernong at Dictionary.com" title="Look up scuppernong at Dictionary.com" /></a></dt>
+<dd class="highlight">cultivated muscadine grape vine, 1811, from name of a river in North Carolina, U.S., probably from some American Indian word.</dd>
+
+<dt><a href="/index.php?term=scurf&allowed_in_frame=0">scurf</a> <a href="http://dictionary.reference.com/search?q=scurf" class="dictionary" title="Look up scurf at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scurf at Dictionary.com" title="Look up scurf at Dictionary.com" /></a></dt>
+<dd>late O.E. <span class="foreign">sceorf,</span> from P.Gmc. <span class="foreign">*skurf-</span> (cf. Dan. <span class="foreign">skurv,</span> M.Du. <span class="foreign">scorf,</span> Du. <span class="foreign">schurft,</span> O.H.G. <span class="foreign">scorf,</span> Ger. <span class="foreign">Schorf</span> "scurf"), probably from the same root as O.E. <span class="foreign">sceorfan</span> "to gnaw," <span class="foreign">scearfian</span> "to cut into shreds."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scurfy&allowed_in_frame=0">scurfy</a> <a href="http://dictionary.reference.com/search?q=scurfy" class="dictionary" title="Look up scurfy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scurfy at Dictionary.com" title="Look up scurfy at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., from <a href="/index.php?term=scurf&allowed_in_frame=0" class="crossreference">scurf</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=scurrilous&allowed_in_frame=0">scurrilous (adj.)</a> <a href="http://dictionary.reference.com/search?q=scurrilous" class="dictionary" title="Look up scurrilous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scurrilous at Dictionary.com" title="Look up scurrilous at Dictionary.com" /></a></dt>
+<dd>"using such language as only the licence of a buffoon can warrant" [Johnson], 1570s, from <span class="foreign">scurrile</span> "coarsely joking" (c.1500, implied in <span class="foreign">scurrility</span>), from L. <span class="foreign">scurrilis</span> "buffoonlike," from <span class="foreign">scurra</span> "fashionable city idler," later "buffoon." According to Klein, "an Etruscan loan-word."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scurry&allowed_in_frame=0">scurry (v.)</a> <a href="http://dictionary.reference.com/search?q=scurry" class="dictionary" title="Look up scurry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scurry at Dictionary.com" title="Look up scurry at Dictionary.com" /></a></dt>
+<dd class="highlight">1810, perhaps from <span class="foreign">hurry-scurry</span> (1732), a reduplication of <span class="foreign">hurry.</span></dd>
+
+<dt><a href="/index.php?term=scurvy&allowed_in_frame=0">scurvy (n.)</a> <a href="http://dictionary.reference.com/search?q=scurvy" class="dictionary" title="Look up scurvy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scurvy at Dictionary.com" title="Look up scurvy at Dictionary.com" /></a></dt>
+<dd>1560s, noun use of adj. <span class="foreign">scurvy</span> (early 15c.), variant of <span class="foreign">scurfy</span> (see <a href="/index.php?term=scurf&allowed_in_frame=0" class="crossreference">scurf</a>). It took on the meaning of Du. <span class="foreign">scheurbuik</span>, Fr. <span class="foreign">scorbut</span> "scurvy," the disease characterized by swollen and bleeding gums, prostration, etc., perhaps from O.N. <span class="foreign">skyrbjugr</span>, which is perhaps lit. "a swelling (<span class="foreign">bjugr</span>) from drinking sour milk (<span class="foreign">skyr</span>) on long sea voyages;" but OED has alternative etymology of Middle Dutch or Middle Low German origin, as "disease that lacerates the belly," from <span class="foreign">schoren</span> "to lacerate" + M.L.G. <span class="foreign">buk</span>, Du. <span class="foreign">buik</span> "belly."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuse&allowed_in_frame=0">scuse (v.)</a> <a href="http://dictionary.reference.com/search?q=scuse" class="dictionary" title="Look up scuse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuse at Dictionary.com" title="Look up scuse at Dictionary.com" /></a></dt>
+<dd class="highlight">aphetic form of <a href="/index.php?term=excuse&allowed_in_frame=0" class="crossreference">excuse</a> (v.), attested from late 15c.</dd>
+
+<dt><a href="/index.php?term=scut&allowed_in_frame=0">scut (n.)</a> <a href="http://dictionary.reference.com/search?q=scut" class="dictionary" title="Look up scut at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scut at Dictionary.com" title="Look up scut at Dictionary.com" /></a></dt>
+<dd>term of contempt for a person, 1873, of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuttle&allowed_in_frame=0">scuttle (n.)</a> <a href="http://dictionary.reference.com/search?q=scuttle" class="dictionary" title="Look up scuttle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuttle at Dictionary.com" title="Look up scuttle at Dictionary.com" /></a></dt>
+<dd class="highlight">"bucket," O.E. <span class="foreign">scutel</span> "dish, platter," from L. <span class="foreign">scutella</span> "serving platter," dim. of <span class="foreign">scutra</span> "flat tray, dish," perhaps related to <span class="foreign">scutum</span> "shield" (see <a href="/index.php?term=hide&allowed_in_frame=0" class="crossreference">hide</a> (n.1)). A common Gmc. borrowing from Latin (cf. O.N. <span class="foreign">skutill</span>, M.Du. <span class="foreign">schotel</span>, O.H.G. <span class="foreign">scuzzila</span>, Ger. <span class="foreign">Sch&uuml;ssel</span>). Meaning "basket for sifting grain" is attested from mid-14c.; sense of "bucket for holding coal" first recorded 1849.</dd>
+
+<dt><a href="/index.php?term=scuttle&allowed_in_frame=0">scuttle (v.1)</a> <a href="http://dictionary.reference.com/search?q=scuttle" class="dictionary" title="Look up scuttle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuttle at Dictionary.com" title="Look up scuttle at Dictionary.com" /></a></dt>
+<dd>"scamper, scurry," mid-15c., probably related to <a href="/index.php?term=scud&allowed_in_frame=0" class="crossreference">scud</a> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuttle&allowed_in_frame=0">scuttle (v.2)</a> <a href="http://dictionary.reference.com/search?q=scuttle" class="dictionary" title="Look up scuttle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuttle at Dictionary.com" title="Look up scuttle at Dictionary.com" /></a></dt>
+<dd class="highlight">"cut a hole in a ship to sink it," 1640s, from <span class="foreign">skottell</span> (n.) "opening in a ship's deck" (late 15c.), from M.Fr. <span class="foreign">escoutille</span> (Mod.Fr. <span class="foreign">&eacute;coutille</span>), from Sp. <span class="foreign">escotilla</span> "hatchway," dim. of <span class="foreign">escota</span> "opening in a garment," from <span class="foreign">escotar</span> "cut out," perhaps from <span class="foreign">e-</span> "out" + Gmc. <span class="foreign">*skaut-</span>. Figurative use is recorded from 1888.</dd>
+
+<dt><a href="/index.php?term=scuttlebutt&allowed_in_frame=0">scuttlebutt</a> <a href="http://dictionary.reference.com/search?q=scuttlebutt" class="dictionary" title="Look up scuttlebutt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuttlebutt at Dictionary.com" title="Look up scuttlebutt at Dictionary.com" /></a></dt>
+<dd>1805, "water cask kept on a ship's deck," from <span class="foreign">scuttle</span> "opening in a ship's deck" (see <span class="foreign">scuttle (v.2)</span>) + <span class="foreign">butt</span> "barrel." Earlier <span class="foreign">scuttle cask</span> (1777). Meaning "rumor, gossip" first recorded 1901, originally nautical slang, traditionally said to be from sailors' custom of gathering around the scuttlebutt to gossip.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scuzzy&allowed_in_frame=0">scuzzy</a> <a href="http://dictionary.reference.com/search?q=scuzzy" class="dictionary" title="Look up scuzzy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scuzzy at Dictionary.com" title="Look up scuzzy at Dictionary.com" /></a></dt>
+<dd class="highlight">1968, N.Amer. colloquial, perhaps a blend of <span class="foreign">scummy</span> and <span class="foreign">fuzzy.</span> First attested use is in ref. to Ratso Rizzo in "Midnight Cowboy."</dd>
+
+<dt><a href="/index.php?term=scythe&allowed_in_frame=0">scythe (n.)</a> <a href="http://dictionary.reference.com/search?q=scythe" class="dictionary" title="Look up scythe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scythe at Dictionary.com" title="Look up scythe at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">si&eth;e, sig&eth;i</span>, from P.Gmc. <span class="foreign">*segithoz</span> (cf. M.L.G. <span class="foreign">segede</span>, M.Du. <span class="foreign">sichte</span>, O.H.G. <span class="foreign">segensa</span>, Ger. <span class="foreign">Sense</span>), from PIE root <span class="foreign">*sek-</span> "cut" (see <a href="/index.php?term=section&allowed_in_frame=0" class="crossreference">section</a>). The <span class="foreign">sc-</span> spelling crept in early 15c., from influence of L. <span class="foreign">scissor</span> "carver, cutter" and <span class="foreign">scindere</span> "to cut." </dd>
+
+<dt class="highlight"><a href="/index.php?term=scythe&allowed_in_frame=0">scythe (v.)</a> <a href="http://dictionary.reference.com/search?q=scythe" class="dictionary" title="Look up scythe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scythe at Dictionary.com" title="Look up scythe at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from <a href="/index.php?term=scythe&allowed_in_frame=0" class="crossreference">scythe</a> (n.). Related: <span class="foreign">Scythed</span>; <span class="foreign">scything</span>.</dd>
+
+<dt><a href="/index.php?term=Scythian&allowed_in_frame=0">Scythian</a> <a href="http://dictionary.reference.com/search?q=Scythian" class="dictionary" title="Look up Scythian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Scythian at Dictionary.com" title="Look up Scythian at Dictionary.com" /></a></dt>
+<dd>1540s, from L. <span class="foreign">Scythia</span>, from Gk. <span class="foreign">Skythia</span> "ancient region along the north coast of the Black Sea," from <span class="foreign">Skythes</span> "a Scythian."</dd>
+
+<dt class="highlight"><a href="/index.php?term=sea&allowed_in_frame=0">sea (n.)</a> <a href="http://dictionary.reference.com/search?q=sea" class="dictionary" title="Look up sea at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sea at Dictionary.com" title="Look up sea at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">s&aelig;</span> "sheet of water, sea, lake," from P.Gmc. <span class="foreign">*saiwaz</span> (cf. O.S. <span class="foreign">seo</span>, O.Fris. <span class="foreign">se</span>, M.Du. <span class="foreign">see</span>), of unknown origin, outside connections "wholly doubtful" [Buck]. Germanic languages also use the general Indo-European word (represented by English <a href="/index.php?term=mere&allowed_in_frame=0" class="crossreference">mere</a> (n.)), but have no firm distinction between "sea" and "lake," either by size or by salt vs. fresh. This may reflect the Baltic geography where the languages are thought to have originated.
+<BR><BR>
+The two words are used more or less interchangeably, and exist in opposite senses (e.g. Goth. <span class="foreign">saiws</span> "lake," <span class="foreign">marei</span> "sea;" but Du. <span class="foreign">zee</span> "sea," <span class="foreign">meer</span> "lake"). Cf. also O.N. <span class="foreign">s&aelig;r</span> "sea," but Dan. <span class="foreign">s&oslash;</span>, usually "lake" but "sea" in phrases. Ger. <span class="foreign">See</span> is "sea" (fem.) or "lake" (masc.). Meaning "dark area of the moon's surface" is attested from 1660s (see <a href="/index.php?term=mare&allowed_in_frame=0" class="crossreference">mare</a> (2)).
+<BR><BR>
+Phrase <span class="foreign">sea change</span> "transformation" is attested from 1610, first in Shakespeare ("The Tempest," I.ii). <span class="foreign">Sea anemone</span> is from 1742; <span class="foreign">sea breeze</span> from 1690s; <span class="foreign">sea legs</span> is from 1712; <span class="foreign">sea level</span> from 1806; <span class="foreign">sea serpent</span> attested from 1640s; <span class="foreign">sea urchin</span> from 1590s. <span class="foreign">At sea</span> in the figurative sense of "perplexed" is attested from 1768, from literal sense of "out of sight of land."</dd>
+
+<dt><a href="/index.php?term=sea+monkey&allowed_in_frame=0">sea monkey (n.)</a> <a href="http://dictionary.reference.com/search?q=sea+monkey" class="dictionary" title="Look up sea monkey at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sea monkey at Dictionary.com" title="Look up sea monkey at Dictionary.com" /></a></dt>
+<dd>1909 as a heraldic animal, 1964 as a U.S. proprietary name for brine shrimp (<span class="foreign">Artemia salina</span>), which had been used as food for aquarium fish till they began to be marketed as pets by U.S. inventor Harold von Braunhut (d.2003), who also invented "X-Ray Specs" and popularized pet hermit crabs. He began marketing them in comic book advertisements in 1960 as "Instant Life," and changed the name to Sea Monkeys in 1964, so called for their long tails.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sea-dog&allowed_in_frame=0">sea-dog (n.)</a> <a href="http://dictionary.reference.com/search?q=sea-dog" class="dictionary" title="Look up sea-dog at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sea-dog at Dictionary.com" title="Look up sea-dog at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "harbor seal," from <a href="/index.php?term=sea&allowed_in_frame=0" class="crossreference">sea</a> + <a href="/index.php?term=dog&allowed_in_frame=0" class="crossreference">dog</a> (n.). Meaning "old sailor" is attested from 1840.</dd>
+
+<dt><a href="/index.php?term=sea-horse&allowed_in_frame=0">sea-horse (n.)</a> <a href="http://dictionary.reference.com/search?q=sea-horse" class="dictionary" title="Look up sea-horse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sea-horse at Dictionary.com" title="Look up sea-horse at Dictionary.com" /></a></dt>
+<dd>late 15c., "walrus," from <a href="/index.php?term=sea&allowed_in_frame=0" class="crossreference">sea</a> + <a href="/index.php?term=horse&allowed_in_frame=0" class="crossreference">horse</a> (n.); also see <a href="/index.php?term=walrus&allowed_in_frame=0" class="crossreference">walrus</a>. Main modern sense is attested from 1580s.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658714 -->
+<!-- Page was generated in 0.179793 seconds. -->
+ </body>
+</html>
+<!-- -->

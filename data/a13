@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=aesthetic&allowed_in_frame=0">aesthetic (n.)</a> <a href="http://dictionary.reference.com/search?q=aesthetic" class="dictionary" title="Look up aesthetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aesthetic at Dictionary.com" title="Look up aesthetic at Dictionary.com" /></a></dt>
+<dd class="highlight">1798, from Ger. <span class="foreign">&Auml;sthetisch</span> or Fr. <span class="foreign">esth&eacute;tique</span>, both from Gk. <span class="foreign">aisthetikos</span> "sensitive, perceptive," from <span class="foreign">aisthanesthai</span> "to perceive (by the senses or by the mind), to feel," from PIE <span class="foreign">*awis-dh-yo-</span>, from root <span class="foreign">*au-</span> "to perceive" (see <a href="/index.php?term=audience&allowed_in_frame=0" class="crossreference">audience</a>).
+<BR><BR>Popularized in English by translation of Immanuel Kant, and used originally in the classically correct sense "the science which treats of the conditions of sensuous perception." Kant had tried to correct the term after Alexander Baumgarten had taken it in German to mean "criticism of taste" (1750s), but Baumgarten's sense attained popularity in English c.1830s (despite scholarly resistance) and removed the word from any philosophical base. Walter Pater used it (1868) to describe the late 19c. movement that advocated "art for art's sake," which further blurred the sense. As an adjective by 1803. Related: <span class="foreign">Aesthetically</span>.</dd>
+
+<dt><a href="/index.php?term=aestheticism&allowed_in_frame=0">aestheticism (n.)</a> <a href="http://dictionary.reference.com/search?q=aestheticism" class="dictionary" title="Look up aestheticism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aestheticism at Dictionary.com" title="Look up aestheticism at Dictionary.com" /></a></dt>
+<dd>1855, from <a href="/index.php?term=aesthetic&allowed_in_frame=0" class="crossreference">aesthetic</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aesthetics&allowed_in_frame=0">aesthetics (n.)</a> <a href="http://dictionary.reference.com/search?q=aesthetics" class="dictionary" title="Look up aesthetics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aesthetics at Dictionary.com" title="Look up aesthetics at Dictionary.com" /></a></dt>
+<dd class="highlight">1803, from <a href="/index.php?term=aesthetic&allowed_in_frame=0" class="crossreference">aesthetic</a> (also see <a href="/index.php?term=-ics&allowed_in_frame=0" class="crossreference">-ics</a>).</dd>
+
+<dt><a href="/index.php?term=aet.&allowed_in_frame=0">aet.</a> <a href="http://dictionary.reference.com/search?q=aet." class="dictionary" title="Look up aet. at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aet. at Dictionary.com" title="Look up aet. at Dictionary.com" /></a></dt>
+<dd>"aged," abbreviation of L. <span class="foreign">aetatis</span> "of the age of," genitive singular of <span class="foreign">aetas</span> "age" (see <a href="/index.php?term=age&allowed_in_frame=0" class="crossreference">age</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aetio-&allowed_in_frame=0">aetio-</a> <a href="http://dictionary.reference.com/search?q=aetio-" class="dictionary" title="Look up aetio- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aetio- at Dictionary.com" title="Look up aetio- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element used in chemistry and indicating "a fundamental degradation product of a complex organic compound" [Flood], from Latinized comb. form of Gk. <span class="foreign">aitia</span> "a cause, an origin" (see <a href="/index.php?term=etiology&allowed_in_frame=0" class="crossreference">etiology</a>).</dd>
+
+<dt><a href="/index.php?term=afanc&allowed_in_frame=0">afanc (n.)</a> <a href="http://dictionary.reference.com/search?q=afanc" class="dictionary" title="Look up afanc at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afanc at Dictionary.com" title="Look up afanc at Dictionary.com" /></a></dt>
+<dd>cattle-devouring aquatic monster in Celtic countries, from Celt. <span class="foreign">*abankos</span> "water-creature," from <span class="foreign">*ab-</span> "water" (cf. Welsh <span class="foreign">afon</span>, Breton <span class="foreign">aven</span> "river," L. <span class="foreign">amnis</span> "stream, river," which is of Italo-Celtic origin).</dd>
+
+<dt class="highlight"><a href="/index.php?term=afar&allowed_in_frame=0">afar (adv.)</a> <a href="http://dictionary.reference.com/search?q=afar" class="dictionary" title="Look up afar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afar at Dictionary.com" title="Look up afar at Dictionary.com" /></a></dt>
+<dd class="highlight">contraction of Middle English <span class="foreign">of feor</span> (late 12c.), <span class="foreign">on ferr</span> (c.1300), from O.E. <span class="foreign">feor</span> "far" (see <a href="/index.php?term=far&allowed_in_frame=0" class="crossreference">far</a>); the <span class="foreign">a-</span> representing both <span class="foreign">of</span> and <span class="foreign">on</span> compounds (which meant the same thing). Spelled <span class="foreign">afer</span> in 14c.</dd>
+
+<dt><a href="/index.php?term=afeared&allowed_in_frame=0">afeared (adj.)</a> <a href="http://dictionary.reference.com/search?q=afeared" class="dictionary" title="Look up afeared at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afeared at Dictionary.com" title="Look up afeared at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">af&aelig;red</span>, pp. of now-obsolete <span class="foreign">afear</span> (O.E. <span class="foreign">af&aelig;ran</span>) "to terrify," from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + root of <a href="/index.php?term=fear&allowed_in_frame=0" class="crossreference">fear</a>. Used frequently by Shakespeare, but supplanted in literary English after 1700 by <a href="/index.php?term=afraid&allowed_in_frame=0" class="crossreference">afraid</a> (q.v.). It still survives in popular and colloquial speech.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affability&allowed_in_frame=0">affability (n.)</a> <a href="http://dictionary.reference.com/search?q=affability" class="dictionary" title="Look up affability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affability at Dictionary.com" title="Look up affability at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., from O.Fr. <span class="foreign">affabilit&eacute;</span> (14c.), noun of quality from <span class="foreign">affable</span> (see <a href="/index.php?term=affable&allowed_in_frame=0" class="crossreference">affable</a>).</dd>
+
+<dt><a href="/index.php?term=affable&allowed_in_frame=0">affable (adj.)</a> <a href="http://dictionary.reference.com/search?q=affable" class="dictionary" title="Look up affable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affable at Dictionary.com" title="Look up affable at Dictionary.com" /></a></dt>
+<dd>late 15c., from O.Fr. <span class="foreign">afable</span> (14c.), from L. <span class="foreign">affabilis</span> "approachable, courteous, kind, friendly," lit. "who can be (easily) spoken to," from <span class="foreign">affari</span> "to speak to," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">fari</span> "to speak" (see <a href="/index.php?term=fame&allowed_in_frame=0" class="crossreference">fame</a>). Related: <span class="foreign">Affably</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affair&allowed_in_frame=0">affair (n.)</a> <a href="http://dictionary.reference.com/search?q=affair" class="dictionary" title="Look up affair at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affair at Dictionary.com" title="Look up affair at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "what one has to do," from Anglo-French <span class="foreign">afere</span>, O.Fr. <span class="foreign">afaire</span> (12c., Mod.Fr. <span class="foreign">affaire</span>) "business, event; rank, estate," from the infinitive phrase <span class="foreign">&agrave; faire</span> "to do," from L. <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">facere</span> "to do, make" (see <a href="/index.php?term=factitious&allowed_in_frame=0" class="crossreference">factitious</a>). A Northern word originally, brought into general use and given a French spelling by Caxton (15c.). General sense of "vague proceedings" (in romance, war, etc.) first attested 1702. Meaning "an affair of the heart; a passionate episode" is from Fr. <span class="foreign">affaire de coeur</span> (itself attested in English from 1809); to <span class="foreign">have an affair</span> with someone in this sense is by 1726, earlier <span class="foreign">have an affair of love</span>:
+<blockquote>
+'Tis manife&#383;tly contrary to the <span class="foreign">Law of Nature</span>, that one Woman &#383;hould <span class="foreign">cohabit</span> or have an Affair of Love with more than one Man at the &#383;ame time. ["Pufendorf's Law of Nature and Nations," transl. J. Spavan, London, 1716]
+<BR><BR>
+<hr>
+<BR>
+Thus, in our dialect, a vicious man is a man of pleasure, a sharper is one that plays the whole game, a lady is said to have an affair, a gentleman to be a gallant, a rogue in business to be one that knows the world. By this means, we have no such things as sots, debauchees, whores, rogues, or the like, in the <span class="foreign">beau monde</span>, who may enjoy their vices without incurring disagreeable appellations. [George Berkeley, "Alciphron or the Minute Philosopher," 1732]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=affairs&allowed_in_frame=0">affairs (n.)</a> <a href="http://dictionary.reference.com/search?q=affairs" class="dictionary" title="Look up affairs at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affairs at Dictionary.com" title="Look up affairs at Dictionary.com" /></a></dt>
+<dd>"ordinary business," late 15c., plural of <a href="/index.php?term=affair&allowed_in_frame=0" class="crossreference">affair</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affect&allowed_in_frame=0">affect (n.)</a> <a href="http://dictionary.reference.com/search?q=affect" class="dictionary" title="Look up affect at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affect at Dictionary.com" title="Look up affect at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "mental state," from Latin noun use of <span class="foreign">affectus</span> "furnished, supplied, endowed," figuratively "disposed, constituted, inclined," pp. of <span class="foreign">afficere</span> "to do; treat, use, manage, handle; act on; have influence on, do something to," a verb of broad meaning, from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">facere</span> (pp. <span class="foreign">factus</span>) "do" (see <a href="/index.php?term=factitious&allowed_in_frame=0" class="crossreference">factitious</a>). Perhaps obsolete except in psychology. Related: <span class="foreign">Affects</span>.</dd>
+
+<dt><a href="/index.php?term=affect&allowed_in_frame=0">affect (v.2)</a> <a href="http://dictionary.reference.com/search?q=affect" class="dictionary" title="Look up affect at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affect at Dictionary.com" title="Look up affect at Dictionary.com" /></a></dt>
+<dd>"to make a pretense of," 1660s, earlier "to assume the character of (someone)" (1590s); originally in English "to aim at, aspire to, desire" (early 15c.), from M.Fr. <span class="foreign">affecter</span> (15c.), from L. <span class="foreign">affectare</span> "to strive after, aim at," frequentative of <span class="foreign">afficere</span> (pp. <span class="foreign">affectus</span>) "to do something to, act on" (see <a href="/index.php?term=affect&allowed_in_frame=0" class="crossreference">affect</a> (n.)). Related: <a href="/index.php?term=Affected&allowed_in_frame=0" class="crossreference">Affected</a>; <span class="foreign">affecting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affect&allowed_in_frame=0">affect (v.1)</a> <a href="http://dictionary.reference.com/search?q=affect" class="dictionary" title="Look up affect at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affect at Dictionary.com" title="Look up affect at Dictionary.com" /></a></dt>
+<dd class="highlight">"to make an impression on," 1630s; earlier "to attack" (c.1600), "act upon, infect" (early 15c.), from <a href="/index.php?term=affect&allowed_in_frame=0" class="crossreference">affect</a> (n.). Related: <span class="foreign">Affected</span>; <span class="foreign">affecting</span>.</dd>
+
+<dt><a href="/index.php?term=affectation&allowed_in_frame=0">affectation (n.)</a> <a href="http://dictionary.reference.com/search?q=affectation" class="dictionary" title="Look up affectation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affectation at Dictionary.com" title="Look up affectation at Dictionary.com" /></a></dt>
+<dd>"studied display," 1540s, from Fr. <span class="foreign">affectation</span> (16c.) or directly from L. <span class="foreign">affectationem</span> (nom. <span class="foreign">affectatio</span>) "a striving after, a claiming," noun of action from pp. stem of <span class="foreign">affectare</span> "to strive for" (see <a href="/index.php?term=affect&allowed_in_frame=0" class="crossreference">affect</a> (v.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affected&allowed_in_frame=0">affected (adj.)</a> <a href="http://dictionary.reference.com/search?q=affected" class="dictionary" title="Look up affected at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affected at Dictionary.com" title="Look up affected at Dictionary.com" /></a></dt>
+<dd class="highlight">pp. adjective from <a href="/index.php?term=affect&allowed_in_frame=0" class="crossreference">affect</a> (v.2); 1530s in the now-obsolete sense "favorably disposed" (preserved in <a href="/index.php?term=disaffected&allowed_in_frame=0" class="crossreference">disaffected</a>); meaning "artificially displayed" is recorded from 1580s.</dd>
+
+<dt><a href="/index.php?term=affection&allowed_in_frame=0">affection (n.)</a> <a href="http://dictionary.reference.com/search?q=affection" class="dictionary" title="Look up affection at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affection at Dictionary.com" title="Look up affection at Dictionary.com" /></a></dt>
+<dd>early 13c., "an emotion of the mind, passion, lust as opposed to reason," from O.Fr. <span class="foreign">afection</span> (12c.) "emotion, inclination, disposition; love, attraction, enthusiasm," from L. <span class="foreign">affectionem</span> (nom. <span class="foreign">affectio</span>) "a relation, disposition; a temporary state; a frame, constitution," noun of state from pp. stem of <span class="foreign">afficere</span> "to do something to, act on" (see <a href="/index.php?term=affect&allowed_in_frame=0" class="crossreference">affect</a> (n.)). Sense developed from "disposition" to "good disposition toward" (late 14c.). Related: <span class="foreign">Affections</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affectionate&allowed_in_frame=0">affectionate (adj.)</a> <a href="http://dictionary.reference.com/search?q=affectionate" class="dictionary" title="Look up affectionate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affectionate at Dictionary.com" title="Look up affectionate at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "fond, loving," from <a href="/index.php?term=affection&allowed_in_frame=0" class="crossreference">affection</a> + <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a> (1). Early, now mostly obsolete, senses included "inclined" (1530s), "prejudiced" (1530s), "passionate" (1540s), "earnest" (c.1600). Other forms also used in the main modern sense of the word included <span class="foreign">affectious</span> (1580s), <span class="foreign">affectuous</span> (mid-15c.).</dd>
+
+<dt><a href="/index.php?term=affectionately&allowed_in_frame=0">affectionately (adv.)</a> <a href="http://dictionary.reference.com/search?q=affectionately" class="dictionary" title="Look up affectionately at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affectionately at Dictionary.com" title="Look up affectionately at Dictionary.com" /></a></dt>
+<dd>1580s, from <a href="/index.php?term=affectionate&allowed_in_frame=0" class="crossreference">affectionate</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affiance&allowed_in_frame=0">affiance (v.)</a> <a href="http://dictionary.reference.com/search?q=affiance" class="dictionary" title="Look up affiance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affiance at Dictionary.com" title="Look up affiance at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, "to promise," from O.Fr. <span class="foreign">afiancier</span> "to pledge, promise, give one's word," from <span class="foreign">afiance</span> (n.) "confidence, trust," from <span class="foreign">afier</span> "to trust," from L.L. <span class="foreign">affidare</span>, from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">fidare</span> "to trust," from <span class="foreign">fidus</span> (see <a href="/index.php?term=affidavit&allowed_in_frame=0" class="crossreference">affidavit</a>). From mid-16c. especially "to promise in marriage." Related: <span class="foreign">Affianced</span>; <span class="foreign">affiancing</span>.</dd>
+
+<dt><a href="/index.php?term=affidavit&allowed_in_frame=0">affidavit (n.)</a> <a href="http://dictionary.reference.com/search?q=affidavit" class="dictionary" title="Look up affidavit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affidavit at Dictionary.com" title="Look up affidavit at Dictionary.com" /></a></dt>
+<dd>1590s, from M.L. <span class="foreign">affidavit</span>, lit. "he has stated on oath," third person singular perfective of <span class="foreign">affidare</span> "to trust," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">fidare</span> "to trust," from <span class="foreign">fidus</span> "faithful," from <span class="foreign">fides</span> "faith" (see <a href="/index.php?term=faith&allowed_in_frame=0" class="crossreference">faith</a>). So called from being the first word of sworn statements.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affiliate&allowed_in_frame=0">affiliate (adj.)</a> <a href="http://dictionary.reference.com/search?q=affiliate" class="dictionary" title="Look up affiliate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affiliate at Dictionary.com" title="Look up affiliate at Dictionary.com" /></a></dt>
+<dd class="highlight">1858, from <a href="/index.php?term=affiliate&allowed_in_frame=0" class="crossreference">affiliate</a> (v.).</dd>
+
+<dt><a href="/index.php?term=affiliate&allowed_in_frame=0">affiliate (n.)</a> <a href="http://dictionary.reference.com/search?q=affiliate" class="dictionary" title="Look up affiliate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affiliate at Dictionary.com" title="Look up affiliate at Dictionary.com" /></a></dt>
+<dd>1846, from <a href="/index.php?term=affiliate&allowed_in_frame=0" class="crossreference">affiliate</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affiliate&allowed_in_frame=0">affiliate (v.)</a> <a href="http://dictionary.reference.com/search?q=affiliate" class="dictionary" title="Look up affiliate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affiliate at Dictionary.com" title="Look up affiliate at Dictionary.com" /></a></dt>
+<dd class="highlight">1761, from L. <span class="foreign">affiliatus</span>, pp. of <span class="foreign">affiliare</span> "to adopt" (see <a href="/index.php?term=affiliation&allowed_in_frame=0" class="crossreference">affiliation</a>). Outside legal use, always figurative. Related: <span class="foreign">Affiliated</span>; <span class="foreign">affiliating</span>.</dd>
+
+<dt><a href="/index.php?term=affiliation&allowed_in_frame=0">affiliation (n.)</a> <a href="http://dictionary.reference.com/search?q=affiliation" class="dictionary" title="Look up affiliation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affiliation at Dictionary.com" title="Look up affiliation at Dictionary.com" /></a></dt>
+<dd>1751, "adoption," from Fr. <span class="foreign">affiliation</span>, from M.L. <span class="foreign">affiliationem</span> (nom. <span class="foreign">affiliatio</span>), noun of action from pp. stem of L. <span class="foreign">affiliare</span> "to adopt a son," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">filius</span> "son" (see <a href="/index.php?term=filial&allowed_in_frame=0" class="crossreference">filial</a>). Figurative sense of "adoption by a society, of branches" first recorded 1799 (<a href="/index.php?term=affiliate&allowed_in_frame=0" class="crossreference">affiliate</a> in this sense is from 1761).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affinity&allowed_in_frame=0">affinity (n.)</a> <a href="http://dictionary.reference.com/search?q=affinity" class="dictionary" title="Look up affinity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affinity at Dictionary.com" title="Look up affinity at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "relation by marriage" (as opposed to <span class="foreign">consanguinity</span>), from O.Fr. <span class="foreign">afinit&eacute;</span> (12c.), from L. <span class="foreign">affinitatem</span> (nom. <span class="foreign">affinitas</span>) "neighborhood, relationship by marriage," noun of state from <span class="foreign">affinis</span> "adjacent," also "kin by marriage," lit. "bordering on," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">finis</span> "a border, an end" (see <a href="/index.php?term=finish&allowed_in_frame=0" class="crossreference">finish</a>). Used figuratively since c.1600 of structural relationships in chemistry, philology, etc. Meaning "natural attraction" (as though by family) is from 1610s.</dd>
+
+<dt><a href="/index.php?term=affirm&allowed_in_frame=0">affirm (v.)</a> <a href="http://dictionary.reference.com/search?q=affirm" class="dictionary" title="Look up affirm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affirm at Dictionary.com" title="Look up affirm at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">afermier</span> (Mod.Fr. <span class="foreign">affirmer</span>) "affirm, confirm; strengthen, consolidate," from L. <span class="foreign">affirmare</span> "to make steady, strengthen," figuratively "confirm, corroborate," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">firmare</span> "strengthen, make firm," from <span class="foreign">firmus</span> "strong" (see <a href="/index.php?term=firm&allowed_in_frame=0" class="crossreference">firm</a> (adj.)). Spelling refashioned 16c. in French and English on Latin model. Related: <span class="foreign">Affirmed</span>; <span class="foreign">affirming</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affirmation&allowed_in_frame=0">affirmation (n.)</a> <a href="http://dictionary.reference.com/search?q=affirmation" class="dictionary" title="Look up affirmation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affirmation at Dictionary.com" title="Look up affirmation at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "assertion that something is true," from O.Fr. <span class="foreign">afermacion</span> (14c.), from L. <span class="foreign">affirmationem</span> (nom. <span class="foreign">affirmatio</span>) "an affirmation, solid assurance," noun of action from pp. stem of <span class="foreign">affirmare</span> (see <a href="/index.php?term=affirm&allowed_in_frame=0" class="crossreference">affirm</a>). In law, as the Quaker alternative to oath-taking, it is attested from 1690s.</dd>
+
+<dt><a href="/index.php?term=affirmative&allowed_in_frame=0">affirmative (adj.)</a> <a href="http://dictionary.reference.com/search?q=affirmative" class="dictionary" title="Look up affirmative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affirmative at Dictionary.com" title="Look up affirmative at Dictionary.com" /></a></dt>
+<dd>"answering 'yes,'" mid-15c., from use in logic; from M.Fr. <span class="foreign">affirmatif</span> (13c.), from L. <span class="foreign">affirmativus</span>, from <span class="foreign">affirmat-</span>, pp. stem of <span class="foreign">affirmare</span> (see <a href="/index.php?term=affirm&allowed_in_frame=0" class="crossreference">affirm</a>). As a noun from early 15c. <span class="foreign">Affirmative action</span> "positive or corrective effort by employers to prevent discrimination in hiring or promotion" is attested from 1935 with regard to labor unions; specific racial sense is from 1961; now often used more generally in reference to hiring quotas, etc.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affirmatively&allowed_in_frame=0">affirmatively (adv.)</a> <a href="http://dictionary.reference.com/search?q=affirmatively" class="dictionary" title="Look up affirmatively at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affirmatively at Dictionary.com" title="Look up affirmatively at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from <a href="/index.php?term=affirmative&allowed_in_frame=0" class="crossreference">affirmative</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). </dd>
+
+<dt><a href="/index.php?term=affix&allowed_in_frame=0">affix (v.)</a> <a href="http://dictionary.reference.com/search?q=affix" class="dictionary" title="Look up affix at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affix at Dictionary.com" title="Look up affix at Dictionary.com" /></a></dt>
+<dd>1530s, from M.L. <span class="foreign">affixare</span>, frequentative of L. <span class="foreign">affigere</span> (pp. <span class="foreign">affixus</span>) "fasten to, attach," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">figere</span> "fasten" (see <a href="/index.php?term=fix&allowed_in_frame=0" class="crossreference">fix</a> (v.)). First used by Scottish writers and perhaps from M.Fr. <span class="foreign">affixer</span>, a temporarily re-Latinized spelling of O.Fr. <span class="foreign">afichier</span> (Mod.Fr. <span class="foreign">afficher</span>). Related: <span class="foreign">Affixed</span>; <span class="foreign">affixing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affix&allowed_in_frame=0">affix (n.)</a> <a href="http://dictionary.reference.com/search?q=affix" class="dictionary" title="Look up affix at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affix at Dictionary.com" title="Look up affix at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from <a href="/index.php?term=affix&allowed_in_frame=0" class="crossreference">affix</a> (v.).</dd>
+
+<dt><a href="/index.php?term=afflatus&allowed_in_frame=0">afflatus (n.)</a> <a href="http://dictionary.reference.com/search?q=afflatus" class="dictionary" title="Look up afflatus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afflatus at Dictionary.com" title="Look up afflatus at Dictionary.com" /></a></dt>
+<dd>"miraculous communication of supernatural knowledge," 1660s, from L. <span class="foreign">afflatus</span> "a breathing upon, blast," from pp. of <span class="foreign">afflare</span> "to blow upon," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">flare</span> "to blow" (see <a href="/index.php?term=blow&allowed_in_frame=0" class="crossreference">blow</a> (v.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=afflict&allowed_in_frame=0">afflict (v.)</a> <a href="http://dictionary.reference.com/search?q=afflict" class="dictionary" title="Look up afflict at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afflict at Dictionary.com" title="Look up afflict at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "to cast down," from O.Fr. <span class="foreign">aflicter</span>, from L. <span class="foreign">afflictare</span> "to damage, harass, torment," frequentative of <span class="foreign">affligere</span> (pp. <span class="foreign">afflictus</span>) "to dash down, overthrow," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">fligere</span> (pp. <span class="foreign">flictus</span>) "to strike," from PIE root <span class="foreign">*bhlig-</span> "to strike" (cf. Gk. <span class="foreign">phlibein</span> "to press, crush," Czech <span class="foreign">blizna</span> "scar," Welsh <span class="foreign">blif</span> "catapult"). Transferred meaning of "trouble, distress," is first recorded 1530s. Related: <a href="/index.php?term=Afflicted&allowed_in_frame=0" class="crossreference">Afflicted</a>; <span class="foreign">afflicting</span>.</dd>
+
+<dt><a href="/index.php?term=afflicted&allowed_in_frame=0">afflicted (n.)</a> <a href="http://dictionary.reference.com/search?q=afflicted" class="dictionary" title="Look up afflicted at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afflicted at Dictionary.com" title="Look up afflicted at Dictionary.com" /></a></dt>
+<dd>"person or persons in constant suffering of body or mind," 1650s, noun use of pp. adjective from <a href="/index.php?term=afflict&allowed_in_frame=0" class="crossreference">afflict</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affliction&allowed_in_frame=0">affliction (n.)</a> <a href="http://dictionary.reference.com/search?q=affliction" class="dictionary" title="Look up affliction at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affliction at Dictionary.com" title="Look up affliction at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">afliction</span> (11c.), from L. <span class="foreign">afflictionem</span> 
+(nom. <span class="foreign">afflictio</span>), noun of action from pp. stem of <span class="foreign">affligere</span> (see <a href="/index.php?term=afflict&allowed_in_frame=0" class="crossreference">afflict</a>).</dd>
+
+<dt><a href="/index.php?term=affluence&allowed_in_frame=0">affluence (n.)</a> <a href="http://dictionary.reference.com/search?q=affluence" class="dictionary" title="Look up affluence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affluence at Dictionary.com" title="Look up affluence at Dictionary.com" /></a></dt>
+<dd>mid-14c., "a plentiful flowing, an abundance," from O.Fr. <span class="foreign">affluence</span>, from L. <span class="foreign">affluentia</span> "a flowing to," figuratively "affluence, abundance," noun of state from <span class="foreign">affluentem</span> (nom. <span class="foreign">affluens</span>) "flowing toward, abounding, rich, copious" (see <a href="/index.php?term=affluent&allowed_in_frame=0" class="crossreference">affluent</a>). Sense of "wealth" attested from c.1600, from notion of "a plentiful flow" (of the gifts of fortune).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affluent&allowed_in_frame=0">affluent (adj.)</a> <a href="http://dictionary.reference.com/search?q=affluent" class="dictionary" title="Look up affluent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affluent at Dictionary.com" title="Look up affluent at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "flowing," from M.Fr. <span class="foreign">affluent</span> (14c.) or directly from L. <span class="foreign">affluentem</span> (nom. <span class="foreign">affluens</span>) "flowing toward, abounding, rich, copious," prp. of <span class="foreign">affluere</span> "flow toward," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">fluere</span> "to flow" (see <a href="/index.php?term=fluent&allowed_in_frame=0" class="crossreference">fluent</a>).</dd>
+
+<dt><a href="/index.php?term=afford&allowed_in_frame=0">afford (v.)</a> <a href="http://dictionary.reference.com/search?q=afford" class="dictionary" title="Look up afford at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afford at Dictionary.com" title="Look up afford at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">gefor&eth;ian</span> "to put forth, contribute; further, advance; carry out, accomplish," from <span class="foreign">ge-</span> completive prefix (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1)) + <span class="foreign">for&eth;ian</span> "to further," from <span class="foreign">for&eth;</span> "forward, onward" (see <a href="/index.php?term=forth&allowed_in_frame=0" class="crossreference">forth</a>). Change of <span class="foreign">-th-</span> to <span class="foreign">-d-</span> took place late 16c. (and also transformed <span class="foreign">burthen</span> and <span class="foreign">murther</span> into their modern forms). Prefix shift to <span class="foreign">af-</span> took place 16c. under mistaken belief that it was a Latin word in <span class="foreign">ad-</span>. Notion of "accomplish" (late Old English) gradually became "manage to buy or maintain; have enough money (to do something)" (1833). Older sense is preserved in <span class="foreign">afford (one) an opportunity</span>. Related: <span class="foreign">Afforded</span>; <span class="foreign">affording</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affordable&allowed_in_frame=0">affordable (adj.)</a> <a href="http://dictionary.reference.com/search?q=affordable" class="dictionary" title="Look up affordable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affordable at Dictionary.com" title="Look up affordable at Dictionary.com" /></a></dt>
+<dd class="highlight">1866, from <a href="/index.php?term=afford&allowed_in_frame=0" class="crossreference">afford</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Affordability</span>; <span class="foreign">affordably</span>.</dd>
+
+<dt><a href="/index.php?term=affray&allowed_in_frame=0">affray (n.)</a> <a href="http://dictionary.reference.com/search?q=affray" class="dictionary" title="Look up affray at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affray at Dictionary.com" title="Look up affray at Dictionary.com" /></a></dt>
+<dd>c.1300, "state of alarm produced by a sudden disturbance," from O.Fr. <span class="foreign">effrei</span>, <span class="foreign">esfrei</span> "disturbance, fright," from <span class="foreign">esfreer</span> (v.) "to worry, concern, trouble, disturb," from V.L. <span class="foreign">*exfridare</span>, lit. "to take out of peace," from L. <span class="foreign">ex-</span> "out of" (see <a href="/index.php?term=ex-&allowed_in_frame=0" class="crossreference">ex-</a>) + Frankish <span class="foreign">*frithu</span> "peace," from P.Gmc. <span class="foreign">*frithuz</span> "peace, consideration, forbearance" (cf. O.S. <span class="foreign">frithu</span>, O.E. <span class="foreign">fri&eth;u</span>, O.H.G. <span class="foreign">fridu</span> "peace, truce"), from PIE root <span class="foreign">*pri-</span> "to be friendly, love" (see <a href="/index.php?term=free&allowed_in_frame=0" class="crossreference">free</a> (adj.)). Meaning "breach of the peace, riotous fight in public" is from late 15c. Related verb <span class="foreign">afrey</span> (early 14c.) survives almost exclusively in its past participle, <a href="/index.php?term=afraid&allowed_in_frame=0" class="crossreference">afraid</a> (q.v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=affricative&allowed_in_frame=0">affricative (n.)</a> <a href="http://dictionary.reference.com/search?q=affricative" class="dictionary" title="Look up affricative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affricative at Dictionary.com" title="Look up affricative at Dictionary.com" /></a></dt>
+<dd class="highlight">1879, perhaps via German, from L. <span class="foreign">affricat-</span>, pp. stem of <span class="foreign">affricare</span> "rub against," from <span class="foreign">ad-</span> (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">fricare</span> "to rub."</dd>
+
+<dt><a href="/index.php?term=affright&allowed_in_frame=0">affright (v.)</a> <a href="http://dictionary.reference.com/search?q=affright" class="dictionary" title="Look up affright at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affright at Dictionary.com" title="Look up affright at Dictionary.com" /></a></dt>
+<dd>1580s, a late construction from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + <a href="/index.php?term=fright&allowed_in_frame=0" class="crossreference">fright</a> (v.), probably on model of earlier pp. adjective <span class="foreign">affright</span> "struck with sudden fear" (metathesized from O.E. <span class="foreign">afyrht</span>). Related: <span class="foreign">Affrighted</span>; <span class="foreign">affrighting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=affront&allowed_in_frame=0">affront (v.)</a> <a href="http://dictionary.reference.com/search?q=affront" class="dictionary" title="Look up affront at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affront at Dictionary.com" title="Look up affront at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from O.Fr. <span class="foreign">afronter</span> "to face, confront, to slap in the face" (13c.), from L.L. <span class="foreign">affrontare</span> "to strike against," from L. <span class="foreign">ad frontem</span> "to the face," from <span class="foreign">frons</span> (gen. <span class="foreign">frontis</span>) "forehead" (see <a href="/index.php?term=front&allowed_in_frame=0" class="crossreference">front</a> (n.)). Related: <span class="foreign">Affronted</span>; <span class="foreign">affronting</span>.</dd>
+
+<dt><a href="/index.php?term=affront&allowed_in_frame=0">affront (n.)</a> <a href="http://dictionary.reference.com/search?q=affront" class="dictionary" title="Look up affront at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up affront at Dictionary.com" title="Look up affront at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=affront&allowed_in_frame=0" class="crossreference">affront</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Afghan&allowed_in_frame=0">Afghan</a> <a href="http://dictionary.reference.com/search?q=Afghan" class="dictionary" title="Look up Afghan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Afghan at Dictionary.com" title="Look up Afghan at Dictionary.com" /></a></dt>
+<dd class="highlight">name of the people of Afghanistan, technically only correctly applied to the Durani Afghans; Old Afghan chronicles trace the name to an <span class="foreign">Afghana</span>, son of Jeremiah, sone of Israelite King Saul, from whom they claimed descent, but this is a legend. The name is first attested in Arabic in al-'Utbi's "History of Sultan Mahmud" written c.1030 C.E. and was in use in India from 13c. Attested from 1833 as a type of blanket or wrap (in full, <span class="foreign">Afghan shawl</span>); 1973 as a style of sheepskin coat; 1877 as a type of carpet; 1895 as a breed of hunting dog. </dd>
+
+<dt><a href="/index.php?term=aficionado&allowed_in_frame=0">aficionado (n.)</a> <a href="http://dictionary.reference.com/search?q=aficionado" class="dictionary" title="Look up aficionado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aficionado at Dictionary.com" title="Look up aficionado at Dictionary.com" /></a></dt>
+<dd>1845, from Sp. <span class="foreign">aficionado</span> "amateur," specifically "devotee of bullfighting," lit. "fond of," from <span class="foreign">afici&oacute;n</span> "affection," from L. <span class="foreign">affectionem</span> (see <a href="/index.php?term=affection&allowed_in_frame=0" class="crossreference">affection</a>). "Most sources derive this word from the Spanish verb <span class="foreign">aficionar</span> but the verb does not appear in Spanish before 1555, and the word <span class="foreign">aficionado</span> is recorded in the 1400's" [Barnhart]. In English, originally of devotees of bullfighting; in general use by 1882.</dd>
+
+<dt class="highlight"><a href="/index.php?term=afield&allowed_in_frame=0">afield (adv.)</a> <a href="http://dictionary.reference.com/search?q=afield" class="dictionary" title="Look up afield at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afield at Dictionary.com" title="Look up afield at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, contraction of Middle English <span class="foreign">in felde</span>, from O.E. <span class="foreign">on felda</span> "in the field" (especially of battle), from <span class="foreign">a-</span> "on" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1)) + <a href="/index.php?term=field&allowed_in_frame=0" class="crossreference">field</a>. Meaning "away from home" is attested by early 15c.</dd>
+
+<dt><a href="/index.php?term=afire&allowed_in_frame=0">afire (adj.)</a> <a href="http://dictionary.reference.com/search?q=afire" class="dictionary" title="Look up afire at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up afire at Dictionary.com" title="Look up afire at Dictionary.com" /></a></dt>
+<dd>c.1200, <span class="foreign">afure</span>, from <span class="foreign">a-</span> "on" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1)) + <a href="/index.php?term=fire&allowed_in_frame=0" class="crossreference">fire</a> (n.). Figurative use by late 14c.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657930 -->
+<!-- Page was generated in 0.166203 seconds. -->
+ </body>
+</html>
+<!-- -->

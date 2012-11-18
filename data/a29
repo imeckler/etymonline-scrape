@@ -1,0 +1,414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=anemia&allowed_in_frame=0">anemia (n.)</a> <a href="http://dictionary.reference.com/search?q=anemia" class="dictionary" title="Look up anemia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anemia at Dictionary.com" title="Look up anemia at Dictionary.com" /></a></dt>
+<dd class="highlight">alternative (chiefly U.S.) spelling of <a href="/index.php?term=anaemia&allowed_in_frame=0" class="crossreference">anaemia</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>. As a genus of plants, Modern Latin, from Gk. <span class="foreign">aneimon</span> "unclad," from privative prefix <span class="foreign">an-</span> (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">eima</span> "a dress, garment."</dd>
+
+<dt><a href="/index.php?term=anemic&allowed_in_frame=0">anemic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anemic" class="dictionary" title="Look up anemic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anemic at Dictionary.com" title="Look up anemic at Dictionary.com" /></a></dt>
+<dd>alternative (chiefly U.S.) spelling of <a href="/index.php?term=anaemic&allowed_in_frame=0" class="crossreference">anaemic</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anemo-&allowed_in_frame=0">anemo-</a> <a href="http://dictionary.reference.com/search?q=anemo-" class="dictionary" title="Look up anemo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anemo- at Dictionary.com" title="Look up anemo- at Dictionary.com" /></a></dt>
+<dd class="highlight">before vowels, <span class="foreign">anem-</span>, prefix meaning "wind," from Gk. <span class="foreign">anemos</span> (see <a href="/index.php?term=anemone&allowed_in_frame=0" class="crossreference">anemone</a>).</dd>
+
+<dt><a href="/index.php?term=anemometer&allowed_in_frame=0">anemometer (n.)</a> <a href="http://dictionary.reference.com/search?q=anemometer" class="dictionary" title="Look up anemometer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anemometer at Dictionary.com" title="Look up anemometer at Dictionary.com" /></a></dt>
+<dd>1727, from <a href="/index.php?term=anemo-&allowed_in_frame=0" class="crossreference">anemo-</a> "wind" + <a href="/index.php?term=-meter&allowed_in_frame=0" class="crossreference">-meter</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anemone&allowed_in_frame=0">anemone (n.)</a> <a href="http://dictionary.reference.com/search?q=anemone" class="dictionary" title="Look up anemone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anemone at Dictionary.com" title="Look up anemone at Dictionary.com" /></a></dt>
+<dd class="highlight">flowering plant genus, 1550s, from M.Fr. <span class="foreign">anemone</span> (16c.) and directly from L. <span class="foreign">anemone</span>, from Gk. <span class="foreign">anemone</span> "wind flower," lit. "daughter of the wind," from <span class="foreign">anemos</span> "wind" (cognate with L. <span class="foreign">anima</span>; see <a href="/index.php?term=animus&allowed_in_frame=0" class="crossreference">animus</a>) + <span class="foreign">-one</span> feminine patronymic suffix. Klein suggests the flower name perhaps originally is from Hebrew (cf. <span class="foreign">na'aman</span>, in <span class="foreign">nit'e na'amanim</span>, lit. "plants of pleasantness," in Is. xvii:10, from <span class="foreign">na'em</span> "was pleasant"). Applied to a type of sea creature (<span class="foreign">sea anemone</span>) from 1773.</dd>
+
+<dt><a href="/index.php?term=anencephalic&allowed_in_frame=0">anencephalic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anencephalic" class="dictionary" title="Look up anencephalic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anencephalic at Dictionary.com" title="Look up anencephalic at Dictionary.com" /></a></dt>
+<dd>"having no brain" (biology), 1839, from Gk. <span class="foreign">anenkephalos</span>, from privative prefix <span class="foreign">an-</span> (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">enkephalos</span> "brain" (see <a href="/index.php?term=encephalitis&allowed_in_frame=0" class="crossreference">encephalitis</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=anent&allowed_in_frame=0">anent (prep.)</a> <a href="http://dictionary.reference.com/search?q=anent" class="dictionary" title="Look up anent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anent at Dictionary.com" title="Look up anent at Dictionary.com" /></a></dt>
+<dd class="highlight">"concerning, about," early 13c., <span class="foreign">onont</span> "on level with," also "in the company of, fronting against," from O.E. <span class="foreign">on efn</span> "near to, close by," originally "on even (ground) with;" the parasitic <span class="foreign">-t</span> added 12c. A northern form (in Midlands, <span class="foreign">anenst</span>, with adverbial genitive), affected by English writers in Scottish sense of "in respect or reference to." Cf. Ger. <span class="foreign">neben</span> "near to, by the side of," short for <span class="foreign">in eben</span>, from O.H.G. <span class="foreign">ebani</span> "equality."</dd>
+
+<dt><a href="/index.php?term=anesthesia&allowed_in_frame=0">anesthesia (n.)</a> <a href="http://dictionary.reference.com/search?q=anesthesia" class="dictionary" title="Look up anesthesia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anesthesia at Dictionary.com" title="Look up anesthesia at Dictionary.com" /></a></dt>
+<dd>alternative spelling of <a href="/index.php?term=anaesthesia&allowed_in_frame=0" class="crossreference">anaesthesia</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anesthesiologist&allowed_in_frame=0">anesthesiologist (n.)</a> <a href="http://dictionary.reference.com/search?q=anesthesiologist" class="dictionary" title="Look up anesthesiologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anesthesiologist at Dictionary.com" title="Look up anesthesiologist at Dictionary.com" /></a></dt>
+<dd class="highlight">alternative spelling of <a href="/index.php?term=anaesthesiologist&allowed_in_frame=0" class="crossreference">anaesthesiologist</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt><a href="/index.php?term=anesthesiology&allowed_in_frame=0">anesthesiology (n.)</a> <a href="http://dictionary.reference.com/search?q=anesthesiology" class="dictionary" title="Look up anesthesiology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anesthesiology at Dictionary.com" title="Look up anesthesiology at Dictionary.com" /></a></dt>
+<dd>alternative spelling of <a href="/index.php?term=anaesthesiology&allowed_in_frame=0" class="crossreference">anaesthesiology</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anesthetic&allowed_in_frame=0">anesthetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anesthetic" class="dictionary" title="Look up anesthetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anesthetic at Dictionary.com" title="Look up anesthetic at Dictionary.com" /></a></dt>
+<dd class="highlight">alternative spelling of <a href="/index.php?term=anaesthetic&allowed_in_frame=0" class="crossreference">anaesthetic</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt><a href="/index.php?term=anesthetist&allowed_in_frame=0">anesthetist (n.)</a> <a href="http://dictionary.reference.com/search?q=anesthetist" class="dictionary" title="Look up anesthetist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anesthetist at Dictionary.com" title="Look up anesthetist at Dictionary.com" /></a></dt>
+<dd>alternative spelling of <a href="/index.php?term=anaesthetist&allowed_in_frame=0" class="crossreference">anaesthetist</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anesthetize&allowed_in_frame=0">anesthetize (v.)</a> <a href="http://dictionary.reference.com/search?q=anesthetize" class="dictionary" title="Look up anesthetize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anesthetize at Dictionary.com" title="Look up anesthetize at Dictionary.com" /></a></dt>
+<dd class="highlight">alternative spelling of <a href="/index.php?term=anaesthetize&allowed_in_frame=0" class="crossreference">anaesthetize</a> (q.v.). See <a href="/index.php?term=ae&allowed_in_frame=0" class="crossreference">ae</a>.</dd>
+
+<dt><a href="/index.php?term=aneuploidy&allowed_in_frame=0">aneuploidy (n.)</a> <a href="http://dictionary.reference.com/search?q=aneuploidy" class="dictionary" title="Look up aneuploidy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aneuploidy at Dictionary.com" title="Look up aneuploidy at Dictionary.com" /></a></dt>
+<dd>abnormal number of chromosomes, 1934, from <span class="foreign">aneuploid</span> (1931), Modern Latin, coined 1922 by G. T&auml;ckholm from <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1) "not" + <span class="foreign">euploid</span>, from Gk. <span class="foreign">eu-</span> "well, good" (see <a href="/index.php?term=eu-&allowed_in_frame=0" class="crossreference">eu-</a>) + <span class="foreign">-ploid</span> (comb. form of <span class="foreign">ploos</span> "fold" + <a href="/index.php?term=-oid&allowed_in_frame=0" class="crossreference">-oid</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aneurism&allowed_in_frame=0">aneurism (n.)</a> <a href="http://dictionary.reference.com/search?q=aneurism" class="dictionary" title="Look up aneurism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aneurism at Dictionary.com" title="Look up aneurism at Dictionary.com" /></a></dt>
+<dd class="highlight">the less correct, but more popular, spelling of <a href="/index.php?term=aneurysm&allowed_in_frame=0" class="crossreference">aneurysm</a> (q.v.), by influence of words in <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. The <span class="foreign">-y-</span> is etymologically correct; the spelling with <span class="foreign">-i-</span> suggests a meaning "nervelessness."</dd>
+
+<dt><a href="/index.php?term=aneurysm&allowed_in_frame=0">aneurysm (n.)</a> <a href="http://dictionary.reference.com/search?q=aneurysm" class="dictionary" title="Look up aneurysm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aneurysm at Dictionary.com" title="Look up aneurysm at Dictionary.com" /></a></dt>
+<dd>early 15c., from M.L. <span class="foreign">aneurisma</span>, from Gk. <span class="foreign">aneurysmos</span> "dilation," from <span class="foreign">aneurynein</span> "to dilate," from <span class="foreign">ana-</span> "up" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">eurynein</span> "widen," from <span class="foreign">eurys</span> "broad, wide," from PIE root <span class="foreign">*were-</span> "wide, broad" (cf. Skt. <span class="foreign">uruh</span> "broad, wide").</dd>
+
+<dt class="highlight"><a href="/index.php?term=anew&allowed_in_frame=0">anew (adv.)</a> <a href="http://dictionary.reference.com/search?q=anew" class="dictionary" title="Look up anew at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anew at Dictionary.com" title="Look up anew at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, <span class="foreign">a neue</span>, from O.E. <span class="foreign">of-niowe</span> (c.975); see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + <a href="/index.php?term=new&allowed_in_frame=0" class="crossreference">new</a>. One-word form dominant from c.1400.</dd>
+
+<dt><a href="/index.php?term=anext&allowed_in_frame=0">anext (adv.)</a> <a href="http://dictionary.reference.com/search?q=anext" class="dictionary" title="Look up anext at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anext at Dictionary.com" title="Look up anext at Dictionary.com" /></a></dt>
+<dd>"next to," c.1400, from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + <a href="/index.php?term=next&allowed_in_frame=0" class="crossreference">next</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anfractuous&allowed_in_frame=0">anfractuous (adj.)</a> <a href="http://dictionary.reference.com/search?q=anfractuous" class="dictionary" title="Look up anfractuous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anfractuous at Dictionary.com" title="Look up anfractuous at Dictionary.com" /></a></dt>
+<dd class="highlight">"full of windings and turnings," 1620s, from L. <span class="foreign">anfractuous</span>, from <span class="foreign">anfractus</span> "a winding, a turning, bending round," from <span class="foreign">am(bi)-</span> "around" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">fractus</span>, pp. of <span class="foreign">frangere</span> "to break" (see <a href="/index.php?term=fraction&allowed_in_frame=0" class="crossreference">fraction</a>). Related: <span class="foreign">Anfractuosity</span>.</dd>
+
+<dt><a href="/index.php?term=angel&allowed_in_frame=0">angel (n.)</a> <a href="http://dictionary.reference.com/search?q=angel" class="dictionary" title="Look up angel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angel at Dictionary.com" title="Look up angel at Dictionary.com" /></a></dt>
+<dd>14c. fusion of O.E. <span class="foreign">engel</span> (with hard <span class="foreign">-g-</span>) and O.Fr. <span class="foreign">angele</span>, both from L. <span class="foreign">angelus</span>, from Gk. <span class="foreign">angelos</span> "messenger, envoy, one that announces," possibly related to <span class="foreign">angaros</span> "mounted courier," both from an unknown Oriental word (Watkins compares Skt. <span class="foreign">ajira-</span> "swift;" Klein suggests Semitic sources). Used in Scriptural translations for Heb. <span class="foreign">mal'akh (yehowah)</span> "messenger (of Jehovah)," from base <span class="foreign">l-'-k</span> "to send." An Old English word for it was <span class="foreign">aerendgast</span>, lit. "errand-spirit."
+<BR><BR>
+Of persons, "loving; lovely," by 1590s. The medieval gold coin (a new issue of the <span class="foreign">noble</span>, first struck 1465 by Edward VI) was so called for the image of archangel Michael slaying the dragon, which was stamped on it. It was the coin given to patients who had been "touched" for the King's Evil. <span class="foreign">Angel food</span> cake is from 1881; <span class="foreign">angel dust</span> "phencyclidine" is from 1968.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Angela&allowed_in_frame=0">Angela</a> <a href="http://dictionary.reference.com/search?q=Angela" class="dictionary" title="Look up Angela at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Angela at Dictionary.com" title="Look up Angela at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, Latin fem. of <span class="foreign">angelus</span> "angel" (see <a href="/index.php?term=angel&allowed_in_frame=0" class="crossreference">angel</a>).</dd>
+
+<dt><a href="/index.php?term=Angeleno&allowed_in_frame=0">Angeleno</a> <a href="http://dictionary.reference.com/search?q=Angeleno" class="dictionary" title="Look up Angeleno at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Angeleno at Dictionary.com" title="Look up Angeleno at Dictionary.com" /></a></dt>
+<dd>"resident or native of Los Angeles," 1888, from Amer.Sp. <span class="foreign">Angele&ntilde;o</span>, from <span class="foreign">(Los) Angeles</span> + <span class="foreign">-e&ntilde;o</span>, suffix indicating a native or resident. See <a href="/index.php?term=Los Angeles&allowed_in_frame=0" class="crossreference">Los Angeles</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angelfish&allowed_in_frame=0">angelfish (n.)</a> <a href="http://dictionary.reference.com/search?q=angelfish" class="dictionary" title="Look up angelfish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angelfish at Dictionary.com" title="Look up angelfish at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">angel-fish</span>, 1660s, from <a href="/index.php?term=angel&allowed_in_frame=0" class="crossreference">angel</a> + <a href="/index.php?term=fish&allowed_in_frame=0" class="crossreference">fish</a> (n.); so called for its "wings."</dd>
+
+<dt><a href="/index.php?term=angelic&allowed_in_frame=0">angelic (adj.)</a> <a href="http://dictionary.reference.com/search?q=angelic" class="dictionary" title="Look up angelic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angelic at Dictionary.com" title="Look up angelic at Dictionary.com" /></a></dt>
+<dd>late 15c., "pertaining to angels," from Fr. <span class="foreign">ang&eacute;lique</span> (13c.), from L. <span class="foreign">angelicus</span>, from Gk. <span class="foreign">angelikos</span> "angelic," from <span class="foreign">angelos</span> (see <a href="/index.php?term=angel&allowed_in_frame=0" class="crossreference">angel</a>). Meaning "angel-like" is from late 14c.; sense of "wonderfully pure, sweet" is recorded from early 16c. Related: <span class="foreign">Angelically</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Angelica&allowed_in_frame=0">Angelica</a> <a href="http://dictionary.reference.com/search?q=Angelica" class="dictionary" title="Look up Angelica at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Angelica at Dictionary.com" title="Look up Angelica at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, Latin fem. of <span class="foreign">angelicus</span> "angelic" (see <a href="/index.php?term=angel&allowed_in_frame=0" class="crossreference">angel</a>).</dd>
+
+<dt><a href="/index.php?term=Angelina&allowed_in_frame=0">Angelina</a> <a href="http://dictionary.reference.com/search?q=Angelina" class="dictionary" title="Look up Angelina at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Angelina at Dictionary.com" title="Look up Angelina at Dictionary.com" /></a></dt>
+<dd>fem. proper name, dim. of <a href="/index.php?term=Angela&allowed_in_frame=0" class="crossreference">Angela</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angelolatry&allowed_in_frame=0">angelolatry (n.)</a> <a href="http://dictionary.reference.com/search?q=angelolatry" class="dictionary" title="Look up angelolatry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angelolatry at Dictionary.com" title="Look up angelolatry at Dictionary.com" /></a></dt>
+<dd class="highlight">"worship of angels," 1847, from <a href="/index.php?term=angel&allowed_in_frame=0" class="crossreference">angel</a> + <a href="/index.php?term=-latry&allowed_in_frame=0" class="crossreference">-latry</a>.</dd>
+
+<dt><a href="/index.php?term=anger&allowed_in_frame=0">anger (v.)</a> <a href="http://dictionary.reference.com/search?q=anger" class="dictionary" title="Look up anger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anger at Dictionary.com" title="Look up anger at Dictionary.com" /></a></dt>
+<dd>c.1200, "to irritate, annoy, provoke," from O.N. <span class="foreign">angra</span> "to grieve, vex, distress; to be vexed at, take offense with," from P.Gmc. <span class="foreign">*angus</span> (cf. O.E. <span class="foreign">enge</span> "narrow, painful," M.Du. <span class="foreign">enghe</span>, Goth. <span class="foreign">aggwus</span> "narrow"), from PIE root <span class="foreign">*angh-</span> "tight, painfully constricted, painful" (cf. Skt. <span class="foreign">amhu-</span> "narrow," <span class="foreign">amhah</span> "anguish;" Armenian <span class="foreign">anjuk</span> "narrow;" Lith. <span class="foreign">ankstas</span> "narrow;" Gk. <span class="foreign">ankhein</span> "to squeeze," <span class="foreign">ankhone</span> "a strangling;" L. <span class="foreign">angere</span> "to throttle, torment;" O.Ir. <span class="foreign">cum-ang</span> "straitness, want"). In Middle English, also of physical pain. Meaning "excite to wrath, make angry" is from late 14c. Related: <span class="foreign">Angered</span>; <span class="foreign">angering</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anger&allowed_in_frame=0">anger (n.)</a> <a href="http://dictionary.reference.com/search?q=anger" class="dictionary" title="Look up anger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anger at Dictionary.com" title="Look up anger at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., "distress, suffering; anguish, agony," also "hostile attitude, ill will, surliness," from O.N. <span class="foreign">angr</span> "distress, grief. sorrow, affliction," from the same root as <a href="/index.php?term=anger&allowed_in_frame=0" class="crossreference">anger</a> (v.). Sense of "rage, wrath" is early 14c. O.N. also had <span class="foreign">angr-gapi</span> "rash, foolish person;" <span class="foreign">angr-lauss</span> "free from care;" <span class="foreign">angr-lyndi</span> "sadness, low spirits."</dd>
+
+<dt><a href="/index.php?term=Angevin&allowed_in_frame=0">Angevin</a> <a href="http://dictionary.reference.com/search?q=Angevin" class="dictionary" title="Look up Angevin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Angevin at Dictionary.com" title="Look up Angevin at Dictionary.com" /></a></dt>
+<dd>1650s, "pertaining to the French province of Anjou," from Fr. <span class="foreign">Angevin</span>, from M.L. <span class="foreign">Andegavinus</span>, from <span class="foreign">Andegavum</span> "Angers," city in France, capital of Anjou (L. <span class="foreign">Andegavia</span>, from <span class="foreign">Andecavi</span>, Roman name of the Gaulish people who lived here, of unknown origin). In English history, of the Plantagenet kings (beginning with Henry II) who were descended from Geoffrey, count of Anjou, and Matilda, daughter of Henry I.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angina&allowed_in_frame=0">angina (n.)</a> <a href="http://dictionary.reference.com/search?q=angina" class="dictionary" title="Look up angina at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angina at Dictionary.com" title="Look up angina at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s, from L. <span class="foreign">angina</span> "infection of the throat," from Gk. <span class="foreign">ankhone</span> "a strangling" (see <a href="/index.php?term=anger&allowed_in_frame=0" class="crossreference">anger</a>); probably influenced in Latin by <span class="foreign">angere</span> "to throttle." <span class="foreign">Angina pectoris</span> is from 1744, from L. <span class="foreign">pectoris</span>, gen. of <span class="foreign">pectus</span> "chest."</dd>
+
+<dt><a href="/index.php?term=angio-&allowed_in_frame=0">angio-</a> <a href="http://dictionary.reference.com/search?q=angio-" class="dictionary" title="Look up angio- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angio- at Dictionary.com" title="Look up angio- at Dictionary.com" /></a></dt>
+<dd>before verbs <span class="foreign">angi-</span>, prefix, now usually meaning "covered or enclosed by a seed or blood vessel," from Latinized form of Gk. <span class="foreign">angeion</span> "a vessel, receptacle," dim. of <span class="foreign">angos</span> "chest, box," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angiogenesis&allowed_in_frame=0">angiogenesis (n.)</a> <a href="http://dictionary.reference.com/search?q=angiogenesis" class="dictionary" title="Look up angiogenesis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angiogenesis at Dictionary.com" title="Look up angiogenesis at Dictionary.com" /></a></dt>
+<dd class="highlight">1896, from <a href="/index.php?term=angio-&allowed_in_frame=0" class="crossreference">angio-</a> + <a href="/index.php?term=genesis&allowed_in_frame=0" class="crossreference">genesis</a>.</dd>
+
+<dt><a href="/index.php?term=angiogram&allowed_in_frame=0">angiogram (n.)</a> <a href="http://dictionary.reference.com/search?q=angiogram" class="dictionary" title="Look up angiogram at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angiogram at Dictionary.com" title="Look up angiogram at Dictionary.com" /></a></dt>
+<dd>1933, from <a href="/index.php?term=angio-&allowed_in_frame=0" class="crossreference">angio-</a> + <a href="/index.php?term=-gram&allowed_in_frame=0" class="crossreference">-gram</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angiography&allowed_in_frame=0">angiography (n.)</a> <a href="http://dictionary.reference.com/search?q=angiography" class="dictionary" title="Look up angiography at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angiography at Dictionary.com" title="Look up angiography at Dictionary.com" /></a></dt>
+<dd class="highlight">1731, from <a href="/index.php?term=angio-&allowed_in_frame=0" class="crossreference">angio-</a> + <a href="/index.php?term=-graphy&allowed_in_frame=0" class="crossreference">-graphy</a>.</dd>
+
+<dt><a href="/index.php?term=angioma&allowed_in_frame=0">angioma (n.)</a> <a href="http://dictionary.reference.com/search?q=angioma" class="dictionary" title="Look up angioma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angioma at Dictionary.com" title="Look up angioma at Dictionary.com" /></a></dt>
+<dd>1867, medical Latin, from <a href="/index.php?term=angio-&allowed_in_frame=0" class="crossreference">angio-</a> + <a href="/index.php?term=-oma&allowed_in_frame=0" class="crossreference">-oma</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angioplasty&allowed_in_frame=0">angioplasty (n.)</a> <a href="http://dictionary.reference.com/search?q=angioplasty" class="dictionary" title="Look up angioplasty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angioplasty at Dictionary.com" title="Look up angioplasty at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1976, from <a href="/index.php?term=angio-&allowed_in_frame=0" class="crossreference">angio-</a> + <a href="/index.php?term=-plasty&allowed_in_frame=0" class="crossreference">-plasty</a>.</dd>
+
+<dt><a href="/index.php?term=angiosperm&allowed_in_frame=0">angiosperm (n.)</a> <a href="http://dictionary.reference.com/search?q=angiosperm" class="dictionary" title="Look up angiosperm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angiosperm at Dictionary.com" title="Look up angiosperm at Dictionary.com" /></a></dt>
+<dd>1853, from Mod.L. <span class="foreign">Angiospermae</span>, coined 1690 by German botanist Paul Hermann (1646-1695), from Gk. <span class="foreign">angeion</span> "vessel" (see <a href="/index.php?term=angio-&allowed_in_frame=0" class="crossreference">angio-</a>) + <span class="foreign">spermos</span>, adjective from <span class="foreign">sperma</span> "seed" (see <a href="/index.php?term=sperm&allowed_in_frame=0" class="crossreference">sperm</a>). So called because the seeds in this class of plants are enclosed.</dd>
+
+<dt class="highlight"><a href="/index.php?term=angle&allowed_in_frame=0">angle (v.1)</a> <a href="http://dictionary.reference.com/search?q=angle" class="dictionary" title="Look up angle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angle at Dictionary.com" title="Look up angle at Dictionary.com" /></a></dt>
+<dd class="highlight">"to fish with a hook," mid-15c., from O.E. <span class="foreign">angel</span> (n.) "angle, hook, fishhook," related to <span class="foreign">anga</span> "hook," from PIE <span class="foreign">*ang-/*ank-</span> "to bend" (see <a href="/index.php?term=angle&allowed_in_frame=0" class="crossreference">angle</a> (n.)). Cf. O.E. <span class="foreign">angul</span>, O.N. <span class="foreign">&ouml;ngull</span>, O.H.G. <span class="foreign">angul</span>, Ger. <span class="foreign">Angel</span> "fishhook." Figurative sense is recorded from 1580s.<blockquote>It is but a sory lyfe and an yuell to stand anglynge all day to catche a fewe fisshes. [John Palsgrave, 1530]</blockquote>
+Related: <span class="foreign">Angled</span>; <span class="foreign">angling</span>.</dd>
+
+<dt><a href="/index.php?term=angle&allowed_in_frame=0">angle (n.)</a> <a href="http://dictionary.reference.com/search?q=angle" class="dictionary" title="Look up angle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angle at Dictionary.com" title="Look up angle at Dictionary.com" /></a></dt>
+<dd>"space between intersecting lines," late 14c., from O.Fr. <span class="foreign">angle</span> "angle, corner," and directly from L. <span class="foreign">angulus</span> "an angle, corner," a diminutive form from PIE root <span class="foreign">*ang-/*ank-</span> "to bend" (cf. Gk. <span class="foreign">ankylos</span> "bent, crooked," L. <span class="foreign">ang(u)ere</span> "to compress in a bend, fold, strangle;" O.C.S. <span class="foreign">aglu</span> "corner;" Lith. <span class="foreign">anka</span> "loop;" Skt. <span class="foreign">ankah</span> "hook, bent," <span class="foreign">angam</span> "limb;" O.E. <span class="foreign">ancleo</span> "ankle;" O.H.G. <span class="foreign">ango</span> "hook"). <span class="foreign">Angle bracket</span> is 1875 in carpentry; 1956 in typography.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Angle&allowed_in_frame=0">Angle</a> <a href="http://dictionary.reference.com/search?q=Angle" class="dictionary" title="Look up Angle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Angle at Dictionary.com" title="Look up Angle at Dictionary.com" /></a></dt>
+<dd class="highlight">member of a Teutonic tribe, Old English, from L. <span class="foreign">Angli</span> "the Angles," lit. "people of <span class="foreign">Angul</span>" (O.N. <span class="foreign">&Ouml;ngull</span>), a region in what is now Holstein, said to be so-called for its hook-like shape (see <a href="/index.php?term=angle&allowed_in_frame=0" class="crossreference">angle</a> (n.)). People from the tribe there founded the kingdoms of Mercia, Northumbia, and East Anglia in 5c. Britain. Their name, rather than that of the Saxons or Jutes, may have become the common one for the whole group of Germanic tribes because their dialect was the first committed to writing.</dd>
+
+<dt><a href="/index.php?term=angle&allowed_in_frame=0">angle (v.2)</a> <a href="http://dictionary.reference.com/search?q=angle" class="dictionary" title="Look up angle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angle at Dictionary.com" title="Look up angle at Dictionary.com" /></a></dt>
+<dd>"to move at an angle, to move diagonally or obliquely," 1741, from <a href="/index.php?term=angle&allowed_in_frame=0" class="crossreference">angle</a> (n.). Related: <span class="foreign">Angled</span>; <span class="foreign">angling</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=angler&allowed_in_frame=0">angler (n.)</a> <a href="http://dictionary.reference.com/search?q=angler" class="dictionary" title="Look up angler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up angler at Dictionary.com" title="Look up angler at Dictionary.com" /></a></dt>
+<dd class="highlight">"fisher with a hook and line," mid-15c. (c.1300 as a surname); agent noun from <a href="/index.php?term=angle&allowed_in_frame=0" class="crossreference">angle</a> (v.1).</dd>
+
+<dt><a href="/index.php?term=Anglian&allowed_in_frame=0">Anglian</a> <a href="http://dictionary.reference.com/search?q=Anglian" class="dictionary" title="Look up Anglian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anglian at Dictionary.com" title="Look up Anglian at Dictionary.com" /></a></dt>
+<dd>"of the Angles," 1726; see <a href="/index.php?term=Angle&allowed_in_frame=0" class="crossreference">Angle</a>. The Old English word was <span class="foreign">Englisc</span>, but as this came to be used in reference to the whole Germanic people of Britain, a new word was wanted to describe this one branch of them.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Anglican&allowed_in_frame=0">Anglican (adj.)</a> <a href="http://dictionary.reference.com/search?q=Anglican" class="dictionary" title="Look up Anglican at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anglican at Dictionary.com" title="Look up Anglican at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, "of the reformed Church of England" (opposed to <span class="foreign">Roman</span>), from M.L. <span class="foreign">Anglicanus</span>, from <span class="foreign">Anglicus</span> "of the English people, of England" (see <a href="/index.php?term=anglicize&allowed_in_frame=0" class="crossreference">anglicize</a>). The noun meaning "adherent of the reformed Church of England" is first recorded 1797.</dd>
+
+<dt><a href="/index.php?term=Anglicism&allowed_in_frame=0">Anglicism (n.)</a> <a href="http://dictionary.reference.com/search?q=Anglicism" class="dictionary" title="Look up Anglicism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anglicism at Dictionary.com" title="Look up Anglicism at Dictionary.com" /></a></dt>
+<dd>1640s, "anglicized language," from L. <span class="foreign">Anglicus</span> "of the English" (see <a href="/index.php?term=Angle&allowed_in_frame=0" class="crossreference">Angle</a>) + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. As an instance of this, from 1781.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Anglicization&allowed_in_frame=0">Anglicization (n.)</a> <a href="http://dictionary.reference.com/search?q=Anglicization" class="dictionary" title="Look up Anglicization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anglicization at Dictionary.com" title="Look up Anglicization at Dictionary.com" /></a></dt>
+<dd class="highlight">1836, noun of action from <a href="/index.php?term=anglicize&allowed_in_frame=0" class="crossreference">anglicize</a>; earlier in same sense were <span class="foreign">Anglification</span> (1867), from <span class="foreign">Anglify</span> (1751).</dd>
+
+<dt><a href="/index.php?term=anglicize&allowed_in_frame=0">anglicize (v.)</a> <a href="http://dictionary.reference.com/search?q=anglicize" class="dictionary" title="Look up anglicize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anglicize at Dictionary.com" title="Look up anglicize at Dictionary.com" /></a></dt>
+<dd>1710, with <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a> + from M.L. <span class="foreign">Anglicus</span> "of the English," from <span class="foreign">Angli</span> "the Angles" (see <a href="/index.php?term=Angle&allowed_in_frame=0" class="crossreference">Angle</a>). Related: <span class="foreign">Anglicized</span>; <span class="foreign">anglicizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Anglo&allowed_in_frame=0">Anglo (n.)</a> <a href="http://dictionary.reference.com/search?q=Anglo" class="dictionary" title="Look up Anglo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anglo at Dictionary.com" title="Look up Anglo at Dictionary.com" /></a></dt>
+<dd class="highlight">"American, English-speaking white person," 1941, southwestern U.S., from <a href="/index.php?term=Anglo-American&allowed_in_frame=0" class="crossreference">Anglo-American</a>. <span class="foreign">Anglo</span> was used similarly of native, English-speakers in Canada from 1800 and Britain from 1964.</dd>
+
+<dt><a href="/index.php?term=Anglo-&allowed_in_frame=0">Anglo-</a> <a href="http://dictionary.reference.com/search?q=Anglo-" class="dictionary" title="Look up Anglo- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anglo- at Dictionary.com" title="Look up Anglo- at Dictionary.com" /></a></dt>
+<dd>from M.L. <span class="foreign">Anglo-</span>, comb. form of <span class="foreign">Angli</span> "the English" (see <a href="/index.php?term=Angle&allowed_in_frame=0" class="crossreference">Angle</a>).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657953 -->
+<!-- Page was generated in 0.200313 seconds. -->
+ </body>
+</html>
+<!-- -->

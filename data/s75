@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=summarise&allowed_in_frame=0">summarise (v.)</a> <a href="http://dictionary.reference.com/search?q=summarise" class="dictionary" title="Look up summarise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summarise at Dictionary.com" title="Look up summarise at Dictionary.com" /></a></dt>
+<dd class="highlight">British English spelling of <a href="/index.php?term=summarize&allowed_in_frame=0" class="crossreference">summarize</a>; for suffix, see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Summarised</span>; <span class="foreign">summarising</span>.</dd>
+
+<dt><a href="/index.php?term=summarization&allowed_in_frame=0">summarization (n.)</a> <a href="http://dictionary.reference.com/search?q=summarization" class="dictionary" title="Look up summarization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summarization at Dictionary.com" title="Look up summarization at Dictionary.com" /></a></dt>
+<dd>1865, noun of action from <a href="/index.php?term=summarize&allowed_in_frame=0" class="crossreference">summarize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=summarize&allowed_in_frame=0">summarize (v.)</a> <a href="http://dictionary.reference.com/search?q=summarize" class="dictionary" title="Look up summarize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summarize at Dictionary.com" title="Look up summarize at Dictionary.com" /></a></dt>
+<dd class="highlight">1871, from <a href="/index.php?term=summary&allowed_in_frame=0" class="crossreference">summary</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Summarized</span>; <span class="foreign">summarizing</span>.</dd>
+
+<dt><a href="/index.php?term=summary&allowed_in_frame=0">summary (adj.)</a> <a href="http://dictionary.reference.com/search?q=summary" class="dictionary" title="Look up summary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summary at Dictionary.com" title="Look up summary at Dictionary.com" /></a></dt>
+<dd>early 15c., from M.L. <span class="foreign">summarius</span> "of or pertaining to the sum or substance," from L. <span class="foreign">summa</span> "whole, gist" (see <a href="/index.php?term=sum&allowed_in_frame=0" class="crossreference">sum</a>). Sense of "done promptly" is first found 1713. The noun meaning "a summary statement or account" is first recorded c.1500, from L. <span class="foreign">summarium</span> "an epitome, abstract, summary," from <span class="foreign">summa</span> "totality, gist."</dd>
+
+<dt class="highlight"><a href="/index.php?term=summate&allowed_in_frame=0">summate (v.)</a> <a href="http://dictionary.reference.com/search?q=summate" class="dictionary" title="Look up summate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summate at Dictionary.com" title="Look up summate at Dictionary.com" /></a></dt>
+<dd class="highlight">1900, Mod.L. <span class="foreign">summatus</span>, pp. of <span class="foreign">summare</span> "to sum" (see <a href="/index.php?term=summation&allowed_in_frame=0" class="crossreference">summation</a>). Related: <span class="foreign">Summated</span>; <span class="foreign">summating</span>.</dd>
+
+<dt><a href="/index.php?term=summation&allowed_in_frame=0">summation (n.)</a> <a href="http://dictionary.reference.com/search?q=summation" class="dictionary" title="Look up summation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summation at Dictionary.com" title="Look up summation at Dictionary.com" /></a></dt>
+<dd>1760, from Mod.L. <span class="foreign">summationem</span> (nom. <span class="foreign">summatio</span>) "an adding up," from L.L. <span class="foreign">summatus</span>, pp. of <span class="foreign">summare</span> "to sum up," from L. <span class="foreign">summa</span> (see <a href="/index.php?term=sum&allowed_in_frame=0" class="crossreference">sum</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=summative&allowed_in_frame=0">summative (adj.)</a> <a href="http://dictionary.reference.com/search?q=summative" class="dictionary" title="Look up summative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summative at Dictionary.com" title="Look up summative at Dictionary.com" /></a></dt>
+<dd class="highlight">1881, from Mod.L. <span class="foreign">summat-</span>, stem of <span class="foreign">summatus</span> (see <a href="/index.php?term=summation&allowed_in_frame=0" class="crossreference">summation</a>) + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>.</dd>
+
+<dt><a href="/index.php?term=summer&allowed_in_frame=0">summer (n.1)</a> <a href="http://dictionary.reference.com/search?q=summer" class="dictionary" title="Look up summer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summer at Dictionary.com" title="Look up summer at Dictionary.com" /></a></dt>
+<dd>"hot season of the year," O.E. <span class="foreign">sumor</span>, from P.Gmc. <span class="foreign">*sumur-</span> (cf. O.S., O.N., O.H.G. <span class="foreign">sumar</span>, O.Fris. <span class="foreign">sumur</span>, M.Du. <span class="foreign">somer</span>, Du. <span class="foreign">zomer</span>, Ger. <span class="foreign">Sommer</span>), from PIE root <span class="foreign">*sem-</span> (cf. Skt. <span class="foreign">sama</span> "season, half-year," Avestan <span class="foreign">hama</span> "in summer," Armenian <span class="foreign">amarn</span> "summer," O.Ir. <span class="foreign">sam</span>, O.Welsh <span class="foreign">ham</span>, Welsh <span class="foreign">haf</span> "summer"). O.N. <span class="foreign">sumarsdag</span>, first day of summer, was the Thursday that fell between April 9 and 15.
+<BR><BR>
+<span class="foreign">Summer camp</span> is attested from 1893; <span class="foreign">summer resort</span> is from 1832; <span class="foreign">summer school</span> first recorded 1860; theatrical <span class="foreign">summer stock</span> is attested from 1942.</dd>
+
+<dt class="highlight"><a href="/index.php?term=summer&allowed_in_frame=0">summer (n.2)</a> <a href="http://dictionary.reference.com/search?q=summer" class="dictionary" title="Look up summer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summer at Dictionary.com" title="Look up summer at Dictionary.com" /></a></dt>
+<dd class="highlight">"horizontal bearing beam," late 13c., from Anglo-Fr. <span class="foreign">sumer</span>, O.Fr. <span class="foreign">somer</span> "main beam," originally "pack horse," from V.L. <span class="foreign">*saumarius</span>, from L.L. <span class="foreign">sagmarius</span> "pack horse," from <span class="foreign">sagma</span> "packsaddle" (see <a href="/index.php?term=sumpter&allowed_in_frame=0" class="crossreference">sumpter</a>).</dd>
+
+<dt><a href="/index.php?term=summer&allowed_in_frame=0">summer (v.)</a> <a href="http://dictionary.reference.com/search?q=summer" class="dictionary" title="Look up summer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summer at Dictionary.com" title="Look up summer at Dictionary.com" /></a></dt>
+<dd>"to pass the summer," mid-15c., from <a href="/index.php?term=summer&allowed_in_frame=0" class="crossreference">summer</a> (n.1). Related: <span class="foreign">Summered</span>; <span class="foreign">summering</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=summerize&allowed_in_frame=0">summerize (v.)</a> <a href="http://dictionary.reference.com/search?q=summerize" class="dictionary" title="Look up summerize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summerize at Dictionary.com" title="Look up summerize at Dictionary.com" /></a></dt>
+<dd class="highlight">1797, "to spend the summer," from <a href="/index.php?term=summer&allowed_in_frame=0" class="crossreference">summer</a> (1) + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. From 1935 as "to prepare for summer." Related: <span class="foreign">Summerized</span>; <span class="foreign">summerizing</span>.</dd>
+
+<dt><a href="/index.php?term=summertime&allowed_in_frame=0">summertime (n.)</a> <a href="http://dictionary.reference.com/search?q=summertime" class="dictionary" title="Look up summertime at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summertime at Dictionary.com" title="Look up summertime at Dictionary.com" /></a></dt>
+<dd>late 14c., <span class="foreign">somer tyme</span>, from <a href="/index.php?term=summer&allowed_in_frame=0" class="crossreference">summer</a> (n.1) + <a href="/index.php?term=time&allowed_in_frame=0" class="crossreference">time</a> (n.). Earlier were <span class="foreign">summertide</span> (mid-13c.), <span class="foreign">sumeres tid</span> (late O.E.). In Britain, as two words, with reference to what in U.S. is <span class="foreign">daylight saving time</span>, recorded from 1916.</dd>
+
+<dt class="highlight"><a href="/index.php?term=summery&allowed_in_frame=0">summery (adj.)</a> <a href="http://dictionary.reference.com/search?q=summery" class="dictionary" title="Look up summery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summery at Dictionary.com" title="Look up summery at Dictionary.com" /></a></dt>
+<dd class="highlight">1824, from <a href="/index.php?term=summer&allowed_in_frame=0" class="crossreference">summer</a> (n.1) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=summit&allowed_in_frame=0">summit (n.)</a> <a href="http://dictionary.reference.com/search?q=summit" class="dictionary" title="Look up summit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summit at Dictionary.com" title="Look up summit at Dictionary.com" /></a></dt>
+<dd>late 15c., from M.Fr. <span class="foreign">somete</span>, from O.Fr. <span class="foreign">sommette</span>, dim. of <span class="foreign">som, sum</span> "highest part, top of a hill," from L. <span class="foreign">summum</span>, noun use of neuter of <span class="foreign">summus</span> "highest," related to <span class="foreign">super</span> "over" (see <a href="/index.php?term=super-&allowed_in_frame=0" class="crossreference">super-</a>). The meaning "meeting of heads of state" (1950) is from Winston Churchill's metaphor of "a parley at the summit."</dd>
+
+<dt class="highlight"><a href="/index.php?term=summon&allowed_in_frame=0">summon (v.)</a> <a href="http://dictionary.reference.com/search?q=summon" class="dictionary" title="Look up summon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summon at Dictionary.com" title="Look up summon at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1200, from Anglo-Fr., O.Fr. <span class="foreign">sumundre</span> "summon," from V.L. <span class="foreign">*summundre</span> "to call, cite," from L. <span class="foreign">summonere</span> "hint to," from <span class="foreign">sub</span> "under" + <span class="foreign">monere</span> "warn, advise" (see <a href="/index.php?term=monitor&allowed_in_frame=0" class="crossreference">monitor</a> (n.)). <span class="foreign">Summons</span> "authoritative call to be at a certain place for a certain purpose" is late 13c., from O.Fr. <span class="foreign">sumunse</span>, noun use of fem. pp. of <span class="foreign">somondre</span>. <span class="foreign">Summoner</span> "petty officer who cites persons to appear in court" is from early 14c.; contracted form <span class="foreign">sumner</span> is from mid-14c.</dd>
+
+<dt><a href="/index.php?term=summum+bonam&allowed_in_frame=0">summum bonam</a> <a href="http://dictionary.reference.com/search?q=summum+bonam" class="dictionary" title="Look up summum bonam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up summum bonam at Dictionary.com" title="Look up summum bonam at Dictionary.com" /></a></dt>
+<dd>Latin, lit. "highest good" (in ethics), from Cicero.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sumo&allowed_in_frame=0">sumo</a> <a href="http://dictionary.reference.com/search?q=sumo" class="dictionary" title="Look up sumo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sumo at Dictionary.com" title="Look up sumo at Dictionary.com" /></a></dt>
+<dd class="highlight">1880, from Japanese <span class="foreign">sumo</span> "to compete."</dd>
+
+<dt><a href="/index.php?term=sump&allowed_in_frame=0">sump (n.)</a> <a href="http://dictionary.reference.com/search?q=sump" class="dictionary" title="Look up sump at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sump at Dictionary.com" title="Look up sump at Dictionary.com" /></a></dt>
+<dd>early 15c., "marsh, morass," from M.Du. <span class="foreign">somp</span> or M.L.G. <span class="foreign">sump,</span> from P.Gmc. <span class="foreign">*sumpaz</span>. Meaning "pit to collect water" is first found 1650s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sumpter&allowed_in_frame=0">sumpter (n.)</a> <a href="http://dictionary.reference.com/search?q=sumpter" class="dictionary" title="Look up sumpter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sumpter at Dictionary.com" title="Look up sumpter at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "driver of a pack horse," from O.Fr. <span class="foreign">sommetier</span>, from V.L. <span class="foreign">*sagmatarius</span> "a pack horse driver," from L.L. <span class="foreign">sagmat-</span> "a pack, burden," stem of <span class="foreign">sagma</span> "packsaddle," from Gk. <span class="foreign">sagma</span>, probably related to <span class="foreign">sattein</span> "to pack, press, stuff." Used from mid-15c. of horses and mules for carrying loads.</dd>
+
+<dt><a href="/index.php?term=sumptuary&allowed_in_frame=0">sumptuary (adj.)</a> <a href="http://dictionary.reference.com/search?q=sumptuary" class="dictionary" title="Look up sumptuary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sumptuary at Dictionary.com" title="Look up sumptuary at Dictionary.com" /></a></dt>
+<dd>"pertaining to expense," 1600, from L. <span class="foreign">sumptuarius</span> "relating to expenses," from <span class="foreign">sumptus</span> "expensive" (see <a href="/index.php?term=sumptuous&allowed_in_frame=0" class="crossreference">sumptuous</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sumptuous&allowed_in_frame=0">sumptuous (adj.)</a> <a href="http://dictionary.reference.com/search?q=sumptuous" class="dictionary" title="Look up sumptuous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sumptuous at Dictionary.com" title="Look up sumptuous at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., from O.Fr. <span class="foreign">sumptueux</span>, from L. <span class="foreign">sumptuosus</span> "costly, expensive," from <span class="foreign">sumptus</span> "cost, expense," pp. of <span class="foreign">sumere</span> "spend, consume, take," contraction of <span class="foreign">*sub-emere</span>, from <span class="foreign">sub-</span> "under" + <span class="foreign">emere</span> "to take, buy" (see <a href="/index.php?term=exempt&allowed_in_frame=0" class="crossreference">exempt</a>).</dd>
+
+<dt><a href="/index.php?term=sun&allowed_in_frame=0">sun (n.)</a> <a href="http://dictionary.reference.com/search?q=sun" class="dictionary" title="Look up sun at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sun at Dictionary.com" title="Look up sun at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sunne,</span> from P.Gmc. <span class="foreign">*sunnon</span> (cf. O.N., O.S., O.H.G. <span class="foreign">sunna</span>, M.Du. <span class="foreign">sonne</span>, Du. <span class="foreign">zon</span>, Ger. <span class="foreign">Sonne</span>, Goth. <span class="foreign">sunno</span>), from PIE <span class="foreign">*s(u)wen-</span> (cf. Avestan <span class="foreign">xueng</span> "sun," O.Ir. <span class="foreign">fur-sunnud</span> "lighting up"), alternative form of root <span class="foreign">*saewel-</span> "to shine, sun" (see <a href="/index.php?term=Sol&allowed_in_frame=0" class="crossreference">Sol</a>). O.E. <span class="foreign">sunne</span> was fem., and the fem. pronoun was used until 16c.; since then masc. has prevailed. The empire <span class="foreign">on which the sun never sets</span> (1630) originally was the Spanish, later the British. To <span class="foreign">have one's place in the sun</span> (1680s) is from Pascal's <span class="foreign">"Pens&eacute;es"</span>; the German imperial foreign policy sense (1897) is from a speech by von B&uuml;low.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sun&allowed_in_frame=0">sun (v.)</a> <a href="http://dictionary.reference.com/search?q=sun" class="dictionary" title="Look up sun at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sun at Dictionary.com" title="Look up sun at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, "to set something in the sun," from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.). Meaning "to expose oneself to the sun" is recorded from c.1600. <span class="foreign">Sun-bathing</span> is attested from c.1600.</dd>
+
+<dt><a href="/index.php?term=sunbeam&allowed_in_frame=0">sunbeam (n.)</a> <a href="http://dictionary.reference.com/search?q=sunbeam" class="dictionary" title="Look up sunbeam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunbeam at Dictionary.com" title="Look up sunbeam at Dictionary.com" /></a></dt>
+<dd>O.E., from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=beam&allowed_in_frame=0" class="crossreference">beam</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Sunbelt&allowed_in_frame=0">Sunbelt</a> <a href="http://dictionary.reference.com/search?q=Sunbelt" class="dictionary" title="Look up Sunbelt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sunbelt at Dictionary.com" title="Look up Sunbelt at Dictionary.com" /></a></dt>
+<dd class="highlight">1969, with reference to the Southern U.S., from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> + <a href="/index.php?term=belt&allowed_in_frame=0" class="crossreference">belt</a>.</dd>
+
+<dt><a href="/index.php?term=sunburn&allowed_in_frame=0">sunburn</a> <a href="http://dictionary.reference.com/search?q=sunburn" class="dictionary" title="Look up sunburn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunburn at Dictionary.com" title="Look up sunburn at Dictionary.com" /></a></dt>
+<dd>1520s (v.); 1650s (n.), from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> + <a href="/index.php?term=burn&allowed_in_frame=0" class="crossreference">burn</a>. <span class="foreign">Sunburnt</span> (c.1400) is older than <span class="foreign">sunburned</span> (c.1500, <span class="foreign">sunne y-brent</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sundae&allowed_in_frame=0">sundae (n.)</a> <a href="http://dictionary.reference.com/search?q=sundae" class="dictionary" title="Look up sundae at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sundae at Dictionary.com" title="Look up sundae at Dictionary.com" /></a></dt>
+<dd class="highlight">1897, American English, thought to be an alteration of <a href="/index.php?term=Sunday&allowed_in_frame=0" class="crossreference">Sunday</a>, perhaps re-spelled in deference to religious feelings; but the reason for the name is uncertain; perhaps "ice cream left over from Sunday, on sale later." For a fuller account of the speculations, see H.L. Mencken, "The American Language," Supplement I (1945), pp.376-7.</dd>
+
+<dt><a href="/index.php?term=Sunday&allowed_in_frame=0">Sunday</a> <a href="http://dictionary.reference.com/search?q=Sunday" class="dictionary" title="Look up Sunday at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sunday at Dictionary.com" title="Look up Sunday at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">Sunnand&aelig;g</span>, lit. "day of the sun," from <span class="foreign">sunnan</span>, oblique case of <span class="foreign">sunne</span> "sun" (see <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.)) + <span class="foreign">d&aelig;g</span> "day" (see <a href="/index.php?term=day&allowed_in_frame=0" class="crossreference">day</a>). A West Germanic loan-translation of L. <span class="foreign">dies solis</span> "day of the sun," which is itself a loan-translation of Gk. <span class="foreign">hemera heliou</span>. Cf. O.N. <span class="foreign">sunnundagr</span>, Ger. <span class="foreign">Sonntag</span> "Sunday." Like other weekday names, not regularly capitalized until 17c. <span class="foreign">Sunday school</span> dates from 1783 (originally for secular instruction); <span class="foreign">Sunday clothes</span> is from 1640s. <span class="foreign">Sunday driver</span> is from 1925.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunder&allowed_in_frame=0">sunder (v.)</a> <a href="http://dictionary.reference.com/search?q=sunder" class="dictionary" title="Look up sunder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunder at Dictionary.com" title="Look up sunder at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">sundrian</span>, from <span class="foreign">sundor</span> "separately, apart," from P.Gmc. <span class="foreign">*sunder</span> (cf. O.N. <span class="foreign">sundr</span>, O.Fris. <span class="foreign">sunder</span>, O.H.G. <span class="foreign">suntar</span> "aside, apart"), from PIE root <span class="foreign">*sen(e)-</span> denoting "separation" (cf. Skt. <span class="foreign">sanutar</span> "far away," Avestan <span class="foreign">hanare</span> "without," Gk. <span class="foreign">ater</span> "without," L. <span class="foreign">sine</span> "without," O.C.S. <span class="foreign">svene</span> "without," O.Ir. <span class="foreign">sain</span> "different"). Related: <span class="foreign">Sundered</span>; <span class="foreign">sundering</span>.
+</dd>
+
+<dt><a href="/index.php?term=sundial&allowed_in_frame=0">sundial (n.)</a> <a href="http://dictionary.reference.com/search?q=sundial" class="dictionary" title="Look up sundial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sundial at Dictionary.com" title="Look up sundial at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=dial&allowed_in_frame=0" class="crossreference">dial</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sundog&allowed_in_frame=0">sundog (n.)</a> <a href="http://dictionary.reference.com/search?q=sundog" class="dictionary" title="Look up sundog at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sundog at Dictionary.com" title="Look up sundog at Dictionary.com" /></a></dt>
+<dd class="highlight">"mock sun, parhelion," 1650s, of obscure origin.</dd>
+
+<dt><a href="/index.php?term=sundown&allowed_in_frame=0">sundown (n.)</a> <a href="http://dictionary.reference.com/search?q=sundown" class="dictionary" title="Look up sundown at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sundown at Dictionary.com" title="Look up sundown at Dictionary.com" /></a></dt>
+<dd>1610s, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=down&allowed_in_frame=0" class="crossreference">down</a> (adv.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sundries&allowed_in_frame=0">sundries (n.)</a> <a href="http://dictionary.reference.com/search?q=sundries" class="dictionary" title="Look up sundries at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sundries at Dictionary.com" title="Look up sundries at Dictionary.com" /></a></dt>
+<dd class="highlight">1755, pl. of <a href="/index.php?term=sundry&allowed_in_frame=0" class="crossreference">sundry</a> (adj.) used as a noun.</dd>
+
+<dt><a href="/index.php?term=sundry&allowed_in_frame=0">sundry (adj.)</a> <a href="http://dictionary.reference.com/search?q=sundry" class="dictionary" title="Look up sundry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sundry at Dictionary.com" title="Look up sundry at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">syndrig</span> "separate, apart, special," related to <span class="foreign">sundor</span> "separately" (see <a href="/index.php?term=sunder&allowed_in_frame=0" class="crossreference">sunder</a>). Phrase <span class="foreign">all and sundry</span> first recorded 1389; <span class="foreign">sundries</span> "odds and ends" is first found 1755.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunfish&allowed_in_frame=0">sunfish (n.)</a> <a href="http://dictionary.reference.com/search?q=sunfish" class="dictionary" title="Look up sunfish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunfish at Dictionary.com" title="Look up sunfish at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=fish&allowed_in_frame=0" class="crossreference">fish</a> (n.). Used of various species, with reference to round shape or brilliant appearance. Short form <span class="foreign">sunny</span> is attested from 1835.</dd>
+
+<dt><a href="/index.php?term=sunflower&allowed_in_frame=0">sunflower (n.)</a> <a href="http://dictionary.reference.com/search?q=sunflower" class="dictionary" title="Look up sunflower at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunflower at Dictionary.com" title="Look up sunflower at Dictionary.com" /></a></dt>
+<dd>1560s, "heliotrope;" in reference to the helianthus (introduced to Europe 1510 from America by the Spaniards) it is attested from 1590s. From <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=flower&allowed_in_frame=0" class="crossreference">flower</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunglasses&allowed_in_frame=0">sunglasses (n.)</a> <a href="http://dictionary.reference.com/search?q=sunglasses" class="dictionary" title="Look up sunglasses at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunglasses at Dictionary.com" title="Look up sunglasses at Dictionary.com" /></a></dt>
+<dd class="highlight">1917, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=glasses&allowed_in_frame=0" class="crossreference">glasses</a>. Earlier <span class="foreign">sunglass</span> (1804) meant a burning glass.</dd>
+
+<dt><a href="/index.php?term=sunlight&allowed_in_frame=0">sunlight (n.)</a> <a href="http://dictionary.reference.com/search?q=sunlight" class="dictionary" title="Look up sunlight at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunlight at Dictionary.com" title="Look up sunlight at Dictionary.com" /></a></dt>
+<dd>c.1200; see <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=light&allowed_in_frame=0" class="crossreference">light</a> (n.). </dd>
+
+<dt class="highlight"><a href="/index.php?term=Sunni&allowed_in_frame=0">Sunni</a> <a href="http://dictionary.reference.com/search?q=Sunni" class="dictionary" title="Look up Sunni at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Sunni at Dictionary.com" title="Look up Sunni at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from Arabic, lit. "lawful," from <span class="foreign">Sunna</span> "traditional teachings of Muhammad," lit. "way, custom, course, tradition." Muslims who accept the orthodox tradition as well as the Quran.</dd>
+
+<dt><a href="/index.php?term=sunny&allowed_in_frame=0">sunny (adj.)</a> <a href="http://dictionary.reference.com/search?q=sunny" class="dictionary" title="Look up sunny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunny at Dictionary.com" title="Look up sunny at Dictionary.com" /></a></dt>
+<dd>"full of sun," c.1300, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Figurative sense of "cheerful" is attested from 1540s. Related: <span class="foreign">Sunnily</span>; <span class="foreign">sunniness</span>. Eggs served <span class="foreign">sunny side up</span> first attested 1900.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunrise&allowed_in_frame=0">sunrise (n.)</a> <a href="http://dictionary.reference.com/search?q=sunrise" class="dictionary" title="Look up sunrise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunrise at Dictionary.com" title="Look up sunrise at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=rise&allowed_in_frame=0" class="crossreference">rise</a> (v.); perhaps evolved from a 14c. subjunctive, e.g. <span class="foreign">before the sun rise</span>.</dd>
+
+<dt><a href="/index.php?term=sunroof&allowed_in_frame=0">sunroof (n.)</a> <a href="http://dictionary.reference.com/search?q=sunroof" class="dictionary" title="Look up sunroof at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunroof at Dictionary.com" title="Look up sunroof at Dictionary.com" /></a></dt>
+<dd>of a car, 1966, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=roof&allowed_in_frame=0" class="crossreference">roof</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunscreen&allowed_in_frame=0">sunscreen (n.)</a> <a href="http://dictionary.reference.com/search?q=sunscreen" class="dictionary" title="Look up sunscreen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunscreen at Dictionary.com" title="Look up sunscreen at Dictionary.com" /></a></dt>
+<dd class="highlight">as a type of lotion applied to the skin, by 1954, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=screen&allowed_in_frame=0" class="crossreference">screen</a> (n.).</dd>
+
+<dt><a href="/index.php?term=sunset&allowed_in_frame=0">sunset (n.)</a> <a href="http://dictionary.reference.com/search?q=sunset" class="dictionary" title="Look up sunset at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunset at Dictionary.com" title="Look up sunset at Dictionary.com" /></a></dt>
+<dd>late 14c., from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=set&allowed_in_frame=0" class="crossreference">set</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunshine&allowed_in_frame=0">sunshine (n.)</a> <a href="http://dictionary.reference.com/search?q=sunshine" class="dictionary" title="Look up sunshine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunshine at Dictionary.com" title="Look up sunshine at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=shine&allowed_in_frame=0" class="crossreference">shine</a> (n.). <span class="foreign">Sunshine law</span> in reference to U.S. open meeting legislation is recorded from 1972, from the notion of shining the light of public access on deliberations formerly held behind closed doors.</dd>
+
+<dt><a href="/index.php?term=sunspot&allowed_in_frame=0">sunspot (n.)</a> <a href="http://dictionary.reference.com/search?q=sunspot" class="dictionary" title="Look up sunspot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunspot at Dictionary.com" title="Look up sunspot at Dictionary.com" /></a></dt>
+<dd>1868, in astronomy, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=spot&allowed_in_frame=0" class="crossreference">spot</a> (n.). Earlier "a spot on the skin caused by exposure to the sun" (1818).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunstroke&allowed_in_frame=0">sunstroke (n.)</a> <a href="http://dictionary.reference.com/search?q=sunstroke" class="dictionary" title="Look up sunstroke at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunstroke at Dictionary.com" title="Look up sunstroke at Dictionary.com" /></a></dt>
+<dd class="highlight">1851, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=stroke&allowed_in_frame=0" class="crossreference">stroke</a> (n.); translating Fr. <span class="foreign">coup de soleil</span>.</dd>
+
+<dt><a href="/index.php?term=suntan&allowed_in_frame=0">suntan</a> <a href="http://dictionary.reference.com/search?q=suntan" class="dictionary" title="Look up suntan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suntan at Dictionary.com" title="Look up suntan at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">sun-tan</span>, 1821 (v.); 1904 (n.), from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=tan&allowed_in_frame=0" class="crossreference">tan</a>. Related: <span class="foreign">Suntanned</span>; <span class="foreign">suntanning</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sunup&allowed_in_frame=0">sunup (n.)</a> <a href="http://dictionary.reference.com/search?q=sunup" class="dictionary" title="Look up sunup at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sunup at Dictionary.com" title="Look up sunup at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">sun-up</span>, 1712, from <a href="/index.php?term=sun&allowed_in_frame=0" class="crossreference">sun</a> (n.) + <a href="/index.php?term=up&allowed_in_frame=0" class="crossreference">up</a> (adv.).</dd>
+
+<dt><a href="/index.php?term=sup&allowed_in_frame=0">sup (v.1)</a> <a href="http://dictionary.reference.com/search?q=sup" class="dictionary" title="Look up sup at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sup at Dictionary.com" title="Look up sup at Dictionary.com" /></a></dt>
+<dd>"eat the evening meal," late 13c., from O.Fr. <span class="foreign">super</span>, which probably is from <span class="foreign">soupe</span> "broth" (see <a href="/index.php?term=soup&allowed_in_frame=0" class="crossreference">soup</a>), until recently still the traditional evening meal of French workers.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658781 -->
+<!-- Page was generated in 0.196960 seconds. -->
+ </body>
+</html>
+<!-- -->

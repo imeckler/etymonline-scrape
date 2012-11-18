@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=codon&allowed_in_frame=0">codon</a> <a href="http://dictionary.reference.com/search?q=codon" class="dictionary" title="Look up codon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up codon at Dictionary.com" title="Look up codon at Dictionary.com" /></a></dt>
+<dd class="highlight">1962, from <a href="/index.php?term=code&allowed_in_frame=0" class="crossreference">code</a> + <a href="/index.php?term=-on&allowed_in_frame=0" class="crossreference">-on</a>.</dd>
+
+<dt><a href="/index.php?term=codpiece&allowed_in_frame=0">codpiece (n.)</a> <a href="http://dictionary.reference.com/search?q=codpiece" class="dictionary" title="Look up codpiece at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up codpiece at Dictionary.com" title="Look up codpiece at Dictionary.com" /></a></dt>
+<dd>mid-15c., "a bagged appendage to the front of the breeches; often conspicuous" [OED], from O.E. <span class="foreign">codd</span> "a bag, pouch, husk," in Middle English, "testicles" (common Germanic, cf. O.N. <span class="foreign">koddi</span> "pillow," Du. <span class="foreign">kodde</span> "bag") + <a href="/index.php?term=piece&allowed_in_frame=0" class="crossreference">piece</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=codswallop&allowed_in_frame=0">codswallop (n.)</a> <a href="http://dictionary.reference.com/search?q=codswallop" class="dictionary" title="Look up codswallop at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up codswallop at Dictionary.com" title="Look up codswallop at Dictionary.com" /></a></dt>
+<dd class="highlight">said to be from 19c. (but first attested 1963), perhaps from <span class="foreign">wallop,</span> British slang for "beer," and <span class="foreign">cod</span> in one of its various senses, perhaps "testicles."</dd>
+
+<dt><a href="/index.php?term=coe&allowed_in_frame=0">coe (n.)</a> <a href="http://dictionary.reference.com/search?q=coe" class="dictionary" title="Look up coe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coe at Dictionary.com" title="Look up coe at Dictionary.com" /></a></dt>
+<dd>"hut built over a mine shaft," 1650s, from some source akin to Du. <span class="foreign">kouw</span>, Ger. <span class="foreign">kaue</span> in the same sense, from W.Gmc. <span class="foreign">*kauja-</span>, an early borrowing of L. <span class="foreign">cavea</span> "hollow," from <span class="foreign">cavus</span> "a hollow" (see <a href="/index.php?term=cave&allowed_in_frame=0" class="crossreference">cave</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=coeducational&allowed_in_frame=0">coeducational (adj.)</a> <a href="http://dictionary.reference.com/search?q=coeducational" class="dictionary" title="Look up coeducational at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coeducational at Dictionary.com" title="Look up coeducational at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">co-educational</span>, 1881, from <span class="foreign">co-education</span> (1852), from <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=education&allowed_in_frame=0" class="crossreference">education</a>.</dd>
+
+<dt><a href="/index.php?term=coefficient&allowed_in_frame=0">coefficient</a> <a href="http://dictionary.reference.com/search?q=coefficient" class="dictionary" title="Look up coefficient at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coefficient at Dictionary.com" title="Look up coefficient at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">co-efficient</span>, 1660s (adj.), from <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=efficient&allowed_in_frame=0" class="crossreference">efficient</a>. As a noun, from c.1600, probably influenced by Mod.L. <span class="foreign">coefficiens</span>, which was used in mathematics in 16c., introduced by French mathematician Fran&ccedil;ois Vi&egrave;te (1540-1603).</dd>
+
+<dt class="highlight"><a href="/index.php?term=coelacanth&allowed_in_frame=0">coelacanth (n.)</a> <a href="http://dictionary.reference.com/search?q=coelacanth" class="dictionary" title="Look up coelacanth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coelacanth at Dictionary.com" title="Look up coelacanth at Dictionary.com" /></a></dt>
+<dd class="highlight">1857, from Mod.L. <span class="foreign">Coelacanthus</span> (genus name, 1839, Agassiz), from Gk. <span class="foreign">koilos</span> "hollow" (from PIE root <span class="foreign">*kel-</span>; see <a href="/index.php?term=cell&allowed_in_frame=0" class="crossreference">cell</a>) + <span class="foreign">akantha</span> "spine" (see <a href="/index.php?term=acrid&allowed_in_frame=0" class="crossreference">acrid</a>). So called from the hollow fin rays supporting the tail. Known only as a fossil, the most recent one from 70 million years ago, until discovered living in the sea off the east coast of South Africa Dec. 22, 1938. The specimen was described by Marjorie Courtney-Latimer, who wrote about it to S.African ichthyologist J.L.B. Smith.
+<blockquote>
+I stared and stared, at first in puzzlement. I did not know any fish of our own, or indeed of any seas like that; it looked more like a lizard. And then a bomb seemed to burst in my brain, and beyond that sketch and the paper of the letter, I was looking at a series of fishy creatures that flashed up as on a screen, fishes no longer here, fishes that had lived in dim past ages gone, and of which only fragmentary remains in rock are known. [J.L.B. Smith, "Old Fourlegs: The Story of the Coelacanth," 1956]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=coeliac&allowed_in_frame=0">coeliac (adj.)</a> <a href="http://dictionary.reference.com/search?q=coeliac" class="dictionary" title="Look up coeliac at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coeliac at Dictionary.com" title="Look up coeliac at Dictionary.com" /></a></dt>
+<dd>1660s, from L. <span class="foreign">coeliacus</span>, from Gk. <span class="foreign">koiliakos</span> "pertaining to the bowels," also "pain in the bowels," from <span class="foreign">koilia</span> "bowels, abdominal cavity, intestines, tripe" from <span class="foreign">koilos</span> "hollow," from PIE root <span class="foreign">*kel-</span> (see <a href="/index.php?term=cell&allowed_in_frame=0" class="crossreference">cell</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=coelomate&allowed_in_frame=0">coelomate</a> <a href="http://dictionary.reference.com/search?q=coelomate" class="dictionary" title="Look up coelomate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coelomate at Dictionary.com" title="Look up coelomate at Dictionary.com" /></a></dt>
+<dd class="highlight">1883, from <span class="foreign">Coelomata</span> (1877), from Modern Latin neuter plural of <span class="foreign">coelomatus</span>, from Gk. <span class="foreign">koilomat-</span> "hollow, cavity," from PIE root <span class="foreign">*kel-</span> (see <a href="/index.php?term=cell&allowed_in_frame=0" class="crossreference">cell</a>).</dd>
+
+<dt><a href="/index.php?term=coeno-&allowed_in_frame=0">coeno-</a> <a href="http://dictionary.reference.com/search?q=coeno-" class="dictionary" title="Look up coeno- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coeno- at Dictionary.com" title="Look up coeno- at Dictionary.com" /></a></dt>
+<dd>word-forming element meaning "common," Latinized from Gk. <span class="foreign">koinos</span> "common, public, general."</dd>
+
+<dt class="highlight"><a href="/index.php?term=coequal&allowed_in_frame=0">coequal (adj.)</a> <a href="http://dictionary.reference.com/search?q=coequal" class="dictionary" title="Look up coequal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coequal at Dictionary.com" title="Look up coequal at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c.; see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=equal&allowed_in_frame=0" class="crossreference">equal</a>.</dd>
+
+<dt><a href="/index.php?term=coerce&allowed_in_frame=0">coerce (v.)</a> <a href="http://dictionary.reference.com/search?q=coerce" class="dictionary" title="Look up coerce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coerce at Dictionary.com" title="Look up coerce at Dictionary.com" /></a></dt>
+<dd>mid-15c., <span class="foreign">cohercen</span>, from M.Fr. <span class="foreign">cohercer</span>, from L. <span class="foreign">coercere</span> "to control, restrain, shut up together," from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">arcere</span> "to enclose, confine, contain, ward off," from PIE <span class="foreign">*ark-</span> "to hold, contain, guard" (see <a href="/index.php?term=arcane&allowed_in_frame=0" class="crossreference">arcane</a>). Related: <span class="foreign">Coerced</span>; <span class="foreign">coercing</span>. No record of the word between late 15c. and mid-17c.; its reappearance 1650s is perhaps a back formation from <span class="foreign">coercion</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=coercion&allowed_in_frame=0">coercion (n.)</a> <a href="http://dictionary.reference.com/search?q=coercion" class="dictionary" title="Look up coercion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coercion at Dictionary.com" title="Look up coercion at Dictionary.com" /></a></dt>
+<dd class="highlight">from O.Fr. <span class="foreign">cohercion</span> (Mod.Fr. <span class="foreign">coercion</span>), from M.L. <span class="foreign">coercionem</span>, from L. <span class="foreign">coerctionem</span>, earlier <span class="foreign">coercitionem</span>, noun of action from pp. stem of <span class="foreign">coercere</span> (see <a href="/index.php?term=coerce&allowed_in_frame=0" class="crossreference">coerce</a>).</dd>
+
+<dt><a href="/index.php?term=coercive&allowed_in_frame=0">coercive (adj.)</a> <a href="http://dictionary.reference.com/search?q=coercive" class="dictionary" title="Look up coercive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coercive at Dictionary.com" title="Look up coercive at Dictionary.com" /></a></dt>
+<dd>c.1600, from <a href="/index.php?term=coerce&allowed_in_frame=0" class="crossreference">coerce</a> + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>. Form <span class="foreign">coercitive</span> (attested from 1630s) is more true to Latin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=coetaneous&allowed_in_frame=0">coetaneous (adj.)</a> <a href="http://dictionary.reference.com/search?q=coetaneous" class="dictionary" title="Look up coetaneous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coetaneous at Dictionary.com" title="Look up coetaneous at Dictionary.com" /></a></dt>
+<dd class="highlight">"having the same age," c.1600, from L.L. <span class="foreign">coaetanus</span> "one of the same age," from <span class="foreign">com-</span> "with, together with" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">aetat-</span> "age" + adjectival suffix <span class="foreign">-aneus</span>.</dd>
+
+<dt><a href="/index.php?term=coeval&allowed_in_frame=0">coeval (adj.)</a> <a href="http://dictionary.reference.com/search?q=coeval" class="dictionary" title="Look up coeval at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coeval at Dictionary.com" title="Look up coeval at Dictionary.com" /></a></dt>
+<dd>"having the same age," formed in English early 17c. from L.L. <span class="foreign">coaevus</span>, from L. <span class="foreign">com-</span> "equal" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">aevum</span> "an age" (see <a href="/index.php?term=eon&allowed_in_frame=0" class="crossreference">eon</a>). As a noun from c.1600.</dd>
+
+<dt class="highlight"><a href="/index.php?term=coevolution&allowed_in_frame=0">coevolution (n.)</a> <a href="http://dictionary.reference.com/search?q=coevolution" class="dictionary" title="Look up coevolution at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coevolution at Dictionary.com" title="Look up coevolution at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">co-evolution</span>, 1965, from <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=evolution&allowed_in_frame=0" class="crossreference">evolution</a>; supposedly introduced by Paul Ehrlich and Peter Raven in a study of the relationship between caterpillars and plants.</dd>
+
+<dt><a href="/index.php?term=coexist&allowed_in_frame=0">coexist (v.)</a> <a href="http://dictionary.reference.com/search?q=coexist" class="dictionary" title="Look up coexist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coexist at Dictionary.com" title="Look up coexist at Dictionary.com" /></a></dt>
+<dd>1670s, from <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=exist&allowed_in_frame=0" class="crossreference">exist</a>. Of political/economic systems (especially with reference to communism and the West) from 1931. Related: <span class="foreign">Coexisted</span>; <span class="foreign">coexisting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=coexistence&allowed_in_frame=0">coexistence (n.)</a> <a href="http://dictionary.reference.com/search?q=coexistence" class="dictionary" title="Look up coexistence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coexistence at Dictionary.com" title="Look up coexistence at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "joint existence;" see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=existence&allowed_in_frame=0" class="crossreference">existence</a>. As "peaceful relations between states of different ideologies," 1954, a Cold War term.</dd>
+
+<dt><a href="/index.php?term=coextensive&allowed_in_frame=0">coextensive (adj.)</a> <a href="http://dictionary.reference.com/search?q=coextensive" class="dictionary" title="Look up coextensive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coextensive at Dictionary.com" title="Look up coextensive at Dictionary.com" /></a></dt>
+<dd>1771, from <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a> + <a href="/index.php?term=extensive&allowed_in_frame=0" class="crossreference">extensive</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=coffee&allowed_in_frame=0">coffee (n.)</a> <a href="http://dictionary.reference.com/search?q=coffee" class="dictionary" title="Look up coffee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coffee at Dictionary.com" title="Look up coffee at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from It. <span class="foreign">caffe</span>, from Turk. <span class="foreign">kahveh</span>, from Arabic <span class="foreign">qahwah</span> "coffee," said originally to have meant "wine," but perhaps rather from <span class="foreign">Kaffa</span> region of Ethiopia, a home of the plant (coffee in Kaffa is called <span class="foreign">buno</span>, which was borrowed into Arabic as <span class="foreign">bunn</span> "raw coffee"). Much initial diversity of spelling, including <span class="foreign">chaoua</span>.
+<BR><BR>
+Yemen was the first great coffee exporter and to protect its trade decreed that no living plant could leave the country. In 16c., a Muslim pilgrim brought some coffee beans from Yemen and raised them in India. Appeared in Europe (from Arabia) c.1515-1519. Introduced to England by 1650, and by 1675 the country had more than 3,000 coffee houses. Coffee plantations established in Brazil 1727. Meaning "a light meal at which coffee is served" is from 1774. <span class="foreign">Coffee break</span> attested from 1940s. <span class="foreign">Coffee pot</span> from 1705.</dd>
+
+<dt><a href="/index.php?term=coffer&allowed_in_frame=0">coffer (n.)</a> <a href="http://dictionary.reference.com/search?q=coffer" class="dictionary" title="Look up coffer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coffer at Dictionary.com" title="Look up coffer at Dictionary.com" /></a></dt>
+<dd>mid-13c., from O.Fr. <span class="foreign">cofre</span> "a chest" (12c., Mod.Fr. <span class="foreign">coffre</span>), from L. <span class="foreign">cophinus</span> "basket" (see <a href="/index.php?term=coffin&allowed_in_frame=0" class="crossreference">coffin</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=coffin&allowed_in_frame=0">coffin (n.)</a> <a href="http://dictionary.reference.com/search?q=coffin" class="dictionary" title="Look up coffin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coffin at Dictionary.com" title="Look up coffin at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "chest or box for valuables," from O.Fr. <span class="foreign">cofin</span> "sarcophagus," earlier "basket, coffer" (12c., Mod.Fr. <span class="foreign">coffin</span>), from L. <span class="foreign">cophinus</span> "basket, hamper" (cf. It. <span class="foreign">cafano</span>, Sp. <span class="foreign">cuebano</span> "basket"), from Gk. <span class="foreign">kophinos</span> "a basket," of uncertain origin. Funeral sense in English is 1520s; before that it was the literal Latin one and had also a meaning of "pie crust" (late 14c.). Meaning "vehicle regarded as unsafe" is from 1830s. <span class="foreign">Coffin nail</span> "cigarette" is slang from 1880; <span class="foreign">nail in (one's) coffin</span> "thing that contributes to one's death" is from 1792.</dd>
+
+<dt><a href="/index.php?term=cog&allowed_in_frame=0">cog (n.)</a> <a href="http://dictionary.reference.com/search?q=cog" class="dictionary" title="Look up cog at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cog at Dictionary.com" title="Look up cog at Dictionary.com" /></a></dt>
+<dd>c.1300, "cog wheel;" late 14c., "tooth on a wheel," probably a borrowing from a Scandinavian language (cf. Norwegian <span class="foreign">kugg</span> "cog") and cognate with M.H.G. <span class="foreign">kugel</span> "ball."</dd>
+
+<dt class="highlight"><a href="/index.php?term=cogency&allowed_in_frame=0">cogency (n.)</a> <a href="http://dictionary.reference.com/search?q=cogency" class="dictionary" title="Look up cogency at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cogency at Dictionary.com" title="Look up cogency at Dictionary.com" /></a></dt>
+<dd class="highlight">1680s, from <a href="/index.php?term=cogent&allowed_in_frame=0" class="crossreference">cogent</a> + <a href="/index.php?term=-cy&allowed_in_frame=0" class="crossreference">-cy</a>.</dd>
+
+<dt><a href="/index.php?term=cogenial&allowed_in_frame=0">cogenial (adj.)</a> <a href="http://dictionary.reference.com/search?q=cogenial" class="dictionary" title="Look up cogenial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cogenial at Dictionary.com" title="Look up cogenial at Dictionary.com" /></a></dt>
+<dd>1774, variant of <a href="/index.php?term=congenial&allowed_in_frame=0" class="crossreference">congenial</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cogent&allowed_in_frame=0">cogent (adj.)</a> <a href="http://dictionary.reference.com/search?q=cogent" class="dictionary" title="Look up cogent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cogent at Dictionary.com" title="Look up cogent at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from Fr. <span class="foreign">cogent</span> "necessary, urgent" (14c.), from L. <span class="foreign">cogentem</span> (nom. <span class="foreign">cogens</span>), prp. of <span class="foreign">cogere</span> "to curdle; to compel; to collect," lit. "to drive together," from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">agere</span> "to drive" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a>).</dd>
+
+<dt><a href="/index.php?term=cogitate&allowed_in_frame=0">cogitate (v.)</a> <a href="http://dictionary.reference.com/search?q=cogitate" class="dictionary" title="Look up cogitate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cogitate at Dictionary.com" title="Look up cogitate at Dictionary.com" /></a></dt>
+<dd>late 16c., from L. <span class="foreign">cogitatus</span>, pp. of <span class="foreign">cogitare</span> "to think" (see <a href="/index.php?term=cogitation&allowed_in_frame=0" class="crossreference">cogitation</a>). Related: <span class="foreign">Cogitated</span>; <span class="foreign">cogitating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cogitation&allowed_in_frame=0">cogitation (n.)</a> <a href="http://dictionary.reference.com/search?q=cogitation" class="dictionary" title="Look up cogitation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cogitation at Dictionary.com" title="Look up cogitation at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1200, "thought, idea, notion," from O.Fr. <span class="foreign">cogitacion</span> "thought, consideration, reflection," from L. <span class="foreign">cogitationem</span> (nom. <span class="foreign">cogitatio</span>), noun of action from <span class="foreign">cogitare</span> "to think, reflect, consider, turn over in the mind," apparently from <span class="foreign">co-agitare</span>, from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">agitare</span>, here in a sense of "to turn over in the mind," lit. "to put in constant motion, drive, impel," frequentative of <span class="foreign">agere</span> "to move, drive" (see <a href="/index.php?term=agitation&allowed_in_frame=0" class="crossreference">agitation</a>).</dd>
+
+<dt><a href="/index.php?term=cogitative&allowed_in_frame=0">cogitative (adj.)</a> <a href="http://dictionary.reference.com/search?q=cogitative" class="dictionary" title="Look up cogitative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cogitative at Dictionary.com" title="Look up cogitative at Dictionary.com" /></a></dt>
+<dd>late 15c., from O.Fr. <span class="foreign">cogitatif</span> (14c.), from M.L. <span class="foreign">cogitativus</span>, from L. <span class="foreign">cogitare</span> (see <a href="/index.php?term=cogitation&allowed_in_frame=0" class="crossreference">cogitation</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognac&allowed_in_frame=0">cognac (n.)</a> <a href="http://dictionary.reference.com/search?q=cognac" class="dictionary" title="Look up cognac at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognac at Dictionary.com" title="Look up cognac at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, <span class="foreign">Coniacke</span>, "wine produced in <span class="foreign">Cognac</span>," the region in western France. The sense of "brandy" is 1755, shortened from 17c. <span class="foreign">cognac brandy,</span> which was distilled from cognac wine. The place name is from M.L. <span class="foreign">Comniacum</span>, from the personal name <span class="foreign">Cominius</span> and the Gallo-Roman suffix <span class="foreign">-acum</span>.</dd>
+
+<dt><a href="/index.php?term=cognate&allowed_in_frame=0">cognate (adj.)</a> <a href="http://dictionary.reference.com/search?q=cognate" class="dictionary" title="Look up cognate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognate at Dictionary.com" title="Look up cognate at Dictionary.com" /></a></dt>
+<dd>1640s, from L. <span class="foreign">cognatus</span> "of common descent," from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">gnatus</span>, pp. of <span class="foreign">gnasci</span>, older form of <span class="foreign">nasci</span> "to be born" (see <a href="/index.php?term=genus&allowed_in_frame=0" class="crossreference">genus</a>). Words that are cognates are cousins, not siblings. As a noun, from 1754.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognisance&allowed_in_frame=0">cognisance (n.)</a> <a href="http://dictionary.reference.com/search?q=cognisance" class="dictionary" title="Look up cognisance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognisance at Dictionary.com" title="Look up cognisance at Dictionary.com" /></a></dt>
+<dd class="highlight">alternative spelling of <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a> (q.v.); also see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>.</dd>
+
+<dt><a href="/index.php?term=cognisant&allowed_in_frame=0">cognisant (adj.)</a> <a href="http://dictionary.reference.com/search?q=cognisant" class="dictionary" title="Look up cognisant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognisant at Dictionary.com" title="Look up cognisant at Dictionary.com" /></a></dt>
+<dd>alternative spelling of <a href="/index.php?term=cognizant&allowed_in_frame=0" class="crossreference">cognizant</a> (q.v.); also see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognition&allowed_in_frame=0">cognition (n.)</a> <a href="http://dictionary.reference.com/search?q=cognition" class="dictionary" title="Look up cognition at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognition at Dictionary.com" title="Look up cognition at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "ability to comprehend," from L. <span class="foreign">cognitionem</span> (nom. <span class="foreign">cognitio</span>) "a getting to know, acquaintance, knowledge," noun of action from pp. stem of <span class="foreign">cognoscere</span> (see <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a>).</dd>
+
+<dt><a href="/index.php?term=cognitive&allowed_in_frame=0">cognitive (adv.)</a> <a href="http://dictionary.reference.com/search?q=cognitive" class="dictionary" title="Look up cognitive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognitive at Dictionary.com" title="Look up cognitive at Dictionary.com" /></a></dt>
+<dd>1580s, from L. <span class="foreign">cognit-</span>, pp. stem of <span class="foreign">cognoscere</span> (see <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a>). Taken over by psychologists and sociologists after c.1940. Related: <span class="foreign">Cognitively</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognitive+dissonance&allowed_in_frame=0">cognitive dissonance (n.)</a> <a href="http://dictionary.reference.com/search?q=cognitive+dissonance" class="dictionary" title="Look up cognitive dissonance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognitive dissonance at Dictionary.com" title="Look up cognitive dissonance at Dictionary.com" /></a></dt>
+<dd class="highlight">1957, developed and apparently coined by U.S. social psychologist Leon Festinger (1919-1989).</dd>
+
+<dt><a href="/index.php?term=cognizable&allowed_in_frame=0">cognizable (adj.)</a> <a href="http://dictionary.reference.com/search?q=cognizable" class="dictionary" title="Look up cognizable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognizable at Dictionary.com" title="Look up cognizable at Dictionary.com" /></a></dt>
+<dd>1670s, "capable of being known," also "liable to be tried in a given court or jurisdiction," from stem of <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognizance&allowed_in_frame=0">cognizance (n.)</a> <a href="http://dictionary.reference.com/search?q=cognizance" class="dictionary" title="Look up cognizance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognizance at Dictionary.com" title="Look up cognizance at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from Anglo-Fr. <span class="foreign">conysance</span> "recognition," later, "knowledge," from O.Fr. <span class="foreign">conoissance</span> "acquaintance, recognition; knowledge, wisdom" (Mod.Fr. <span class="foreign">connaissance</span>), from pp. of <span class="foreign">conoistre</span> "to know," from L. <span class="foreign">cognoscere</span> "to get to know, recognize," from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">gnoscere</span> "to know" (see <a href="/index.php?term=notice&allowed_in_frame=0" class="crossreference">notice</a>). The <span class="foreign">-g-</span> was restored in English spelling 15c. and has gradually affected the pronunciation, which was always "con-." The old pronunciation lingered longest in legal use.</dd>
+
+<dt><a href="/index.php?term=cognizant&allowed_in_frame=0">cognizant (adj.)</a> <a href="http://dictionary.reference.com/search?q=cognizant" class="dictionary" title="Look up cognizant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognizant at Dictionary.com" title="Look up cognizant at Dictionary.com" /></a></dt>
+<dd>1820, back formation from <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognize&allowed_in_frame=0">cognize (v.)</a> <a href="http://dictionary.reference.com/search?q=cognize" class="dictionary" title="Look up cognize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognize at Dictionary.com" title="Look up cognize at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, back formation from <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a>.</dd>
+
+<dt><a href="/index.php?term=cognomen&allowed_in_frame=0">cognomen (n.)</a> <a href="http://dictionary.reference.com/search?q=cognomen" class="dictionary" title="Look up cognomen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognomen at Dictionary.com" title="Look up cognomen at Dictionary.com" /></a></dt>
+<dd>1809, from L. <span class="foreign">com-</span> "with" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">(g)nomen</span> "name" (see <a href="/index.php?term=name&allowed_in_frame=0" class="crossreference">name</a>). Third or family name of a Roman citizen (Caius Julius <span class="foreign">C&aelig;sar</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognoscence&allowed_in_frame=0">cognoscence (n.)</a> <a href="http://dictionary.reference.com/search?q=cognoscence" class="dictionary" title="Look up cognoscence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognoscence at Dictionary.com" title="Look up cognoscence at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from L. <span class="foreign">cognoscere</span> "to know" (see <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a>).</dd>
+
+<dt><a href="/index.php?term=cognoscente&allowed_in_frame=0">cognoscente (n.)</a> <a href="http://dictionary.reference.com/search?q=cognoscente" class="dictionary" title="Look up cognoscente at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognoscente at Dictionary.com" title="Look up cognoscente at Dictionary.com" /></a></dt>
+<dd>"connoisseur," 1778, from It. <span class="foreign">cognoscente</span>, Latinized from <span class="foreign">conoscente</span> "connoisseur," lit. "knowing man," from L. <span class="foreign">cognoscentum</span> (nom. <span class="foreign">cognoscens</span>), prp. of <span class="foreign">cognoscere</span> "to know" (see <a href="/index.php?term=cognizance&allowed_in_frame=0" class="crossreference">cognizance</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=cognoscenti&allowed_in_frame=0">cognoscenti (n.)</a> <a href="http://dictionary.reference.com/search?q=cognoscenti" class="dictionary" title="Look up cognoscenti at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cognoscenti at Dictionary.com" title="Look up cognoscenti at Dictionary.com" /></a></dt>
+<dd class="highlight">plural of <a href="/index.php?term=cognoscente&allowed_in_frame=0" class="crossreference">cognoscente</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=cohabit&allowed_in_frame=0">cohabit (v.)</a> <a href="http://dictionary.reference.com/search?q=cohabit" class="dictionary" title="Look up cohabit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cohabit at Dictionary.com" title="Look up cohabit at Dictionary.com" /></a></dt>
+<dd>euphemism since 1530s to describe a couple living together without benefit of marriage; back formation from <a href="/index.php?term=cohabitation&allowed_in_frame=0" class="crossreference">cohabitation</a>. Related: <span class="foreign">Cohabited</span>; <span class="foreign">cohabiting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cohabitate&allowed_in_frame=0">cohabitate (v.)</a> <a href="http://dictionary.reference.com/search?q=cohabitate" class="dictionary" title="Look up cohabitate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cohabitate at Dictionary.com" title="Look up cohabitate at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, from L.L. <span class="foreign">cohabitatus</span>, pp. of <span class="foreign">cohabitare</span> (see <a href="/index.php?term=cohabitation&allowed_in_frame=0" class="crossreference">cohabitation</a>). Related: <span class="foreign">Cohabitated</span>; <span class="foreign">cohabitating</span>.
+</dd>
+
+<dt><a href="/index.php?term=cohabitation&allowed_in_frame=0">cohabitation (n.)</a> <a href="http://dictionary.reference.com/search?q=cohabitation" class="dictionary" title="Look up cohabitation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cohabitation at Dictionary.com" title="Look up cohabitation at Dictionary.com" /></a></dt>
+<dd>mid-15c., "action or state of living together (especially as husband and wife)," from M.Fr. <span class="foreign">cohabitation</span> (O.Fr. <span class="foreign">cohabitacion</span> "cohabitation, sexual intercourse"), from L.L. <span class="foreign">cohabitationem</span> (nom. <span class="foreign">cohabitatio</span>), noun of action from <span class="foreign">cohabitare</span> "to dwell together," from <span class="foreign">co-</span> "with, together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">habitare</span> "to live, dwell" (see <a href="/index.php?term=habitat&allowed_in_frame=0" class="crossreference">habitat</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Cohen&allowed_in_frame=0">Cohen</a> <a href="http://dictionary.reference.com/search?q=Cohen" class="dictionary" title="Look up Cohen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Cohen at Dictionary.com" title="Look up Cohen at Dictionary.com" /></a></dt>
+<dd class="highlight">Jewish surname indicating priestly descent, from Heb. <span class="foreign">kohen</span> "priest," from base of <span class="foreign">kihen</span> "he acted as priest," related to Arabic <span class="foreign">kahana</span> "he divined, prophesied."</dd>
+
+<dt><a href="/index.php?term=cohere&allowed_in_frame=0">cohere (v.)</a> <a href="http://dictionary.reference.com/search?q=cohere" class="dictionary" title="Look up cohere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cohere at Dictionary.com" title="Look up cohere at Dictionary.com" /></a></dt>
+<dd>1590s, from L. <span class="foreign">cohaerere</span> "to cleave together," in transferred use, "be coherent or consistent," from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=co-&allowed_in_frame=0" class="crossreference">co-</a>) + <span class="foreign">haerere</span> "to stick" (see <a href="/index.php?term=hesitation&allowed_in_frame=0" class="crossreference">hesitation</a>). Related: <span class="foreign">Cohered</span>; <span class="foreign">cohering</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658099 -->
+<!-- Page was generated in 0.173876 seconds. -->
+ </body>
+</html>
+<!-- -->

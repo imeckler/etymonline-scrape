@@ -1,0 +1,408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=b&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=b&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=b&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=b&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=b&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=b&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=b&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=b&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=b&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=b&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=b&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=b&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=b&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=b&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=b&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=b&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=b&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=b&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=b&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=b&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=b&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=b&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=b&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=b&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=b&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=b&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=b&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=b&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=b&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=b&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=b&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=b&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=b&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=b&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=b&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=b&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=b&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=b&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=b&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a class="current" href="/index.php?l=b&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=b&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=b&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=b&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=b&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=b&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=b&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=b&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=b&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=b&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=b&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=b&amp;p=50&allowed_in_frame=0">51</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=brand+new&allowed_in_frame=0">brand new</a> <a href="http://dictionary.reference.com/search?q=brand+new" class="dictionary" title="Look up brand new at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brand new at Dictionary.com" title="Look up brand new at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1570, from <a href="/index.php?term=brand&allowed_in_frame=0" class="crossreference">brand</a> (n.). Originally it must have meant "fresh from the fire" (Shakespeare has <span class="foreign">fire-new</span>).</dd>
+
+<dt><a href="/index.php?term=Brandenburg&allowed_in_frame=0">Brandenburg</a> <a href="http://dictionary.reference.com/search?q=Brandenburg" class="dictionary" title="Look up Brandenburg at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Brandenburg at Dictionary.com" title="Look up Brandenburg at Dictionary.com" /></a></dt>
+<dd>region in northeastern Germany, traditionally said to be ultimately from Slavic, but perhaps German and meaning lit. "burned fortress," or else from a Celtic proper name.</dd>
+
+<dt class="highlight"><a href="/index.php?term=brandish&allowed_in_frame=0">brandish (v.)</a> <a href="http://dictionary.reference.com/search?q=brandish" class="dictionary" title="Look up brandish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brandish at Dictionary.com" title="Look up brandish at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">brandiss-</span>, prp. stem of <span class="foreign">brandir</span> "to flourish (a sword)" (12c.), from <span class="foreign">brant</span> "blade of a sword, prow of a ship," of Frankish origin (see <a href="/index.php?term=brand&allowed_in_frame=0" class="crossreference">brand</a> (n.)). Related: <span class="foreign">Brandished</span>; <span class="foreign">brandishing</span>.</dd>
+
+<dt><a href="/index.php?term=brandy&allowed_in_frame=0">brandy (n.)</a> <a href="http://dictionary.reference.com/search?q=brandy" class="dictionary" title="Look up brandy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brandy at Dictionary.com" title="Look up brandy at Dictionary.com" /></a></dt>
+<dd>1650s, abbreviation of <span class="foreign">brandywine</span> (1620s) from Du. <span class="foreign">brandewijn</span> "burnt wine," so called because it is distilled (cf. German cognate <span class="foreign">Branntwein</span> and Czech <span class="foreign">palenka</span> "brandy," from <span class="foreign">paliti</span> "to burn"). The <span class="foreign">Brandywine</span> Creek in Pennsylvania, site of a Revolutionary War battle, supposedly so named by the Dutch for the color of its waters.</dd>
+
+<dt class="highlight"><a href="/index.php?term=branks&allowed_in_frame=0">branks (n.)</a> <a href="http://dictionary.reference.com/search?q=branks" class="dictionary" title="Look up branks at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up branks at Dictionary.com" title="Look up branks at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, of unknown origin, perhaps from North Sea Germanic. An instrument of punishment for women, originally Scottish, it was a kind of iron cage for the head with a metal bit attached to still the tongue.<blockquote>Paide for caring a woman throughe the towne for skoulding, with branks, 4<span class="foreign">d</span>. ["Municipal Accounts of Newcastle," 1595]</blockquote>"Ungallant, and unmercifully severe, as this species of torture seems to be, Dr. Plot, in his History of Staffordshire, much prefers it to the cucking stool, which, he says, 'not only endangers the health of the party, but also gives the tongue liberty 'twixt every dip.' " [Brockett, "A Glossary of North Country Words,"1829].</dd>
+
+<dt><a href="/index.php?term=Branwen&allowed_in_frame=0">Branwen</a> <a href="http://dictionary.reference.com/search?q=Branwen" class="dictionary" title="Look up Branwen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Branwen at Dictionary.com" title="Look up Branwen at Dictionary.com" /></a></dt>
+<dd>fem. proper name, from Welsh <span class="foreign">bran</span> "raven" + <span class="foreign">(g)wen</span> "fair." Daughter of Llyr, she was one of the legendary heroines of Wales.</dd>
+
+<dt class="highlight"><a href="/index.php?term=brash&allowed_in_frame=0">brash (adj.)</a> <a href="http://dictionary.reference.com/search?q=brash" class="dictionary" title="Look up brash at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brash at Dictionary.com" title="Look up brash at Dictionary.com" /></a></dt>
+<dd class="highlight">1824, of obscure origin, originally American English; perhaps akin to 16c. Scottish <span class="foreign">brash</span> "attack, assault," or Fr. <span class="foreign">breche</span> "fragments," especially of ice, from a Germanic source (cf. O.H.G. <span class="foreign">brehha</span> "breach," from <span class="foreign">brehhan</span> "to break"), or to Ger. <span class="foreign">brechen</span> "to vomit."</dd>
+
+<dt><a href="/index.php?term=brass&allowed_in_frame=0">brass (n.)</a> <a href="http://dictionary.reference.com/search?q=brass" class="dictionary" title="Look up brass at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brass at Dictionary.com" title="Look up brass at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">br&aelig;s</span> "brass, bronze," originally in reference to an alloy of copper and tin (now <span class="foreign">bronze</span>), later and in modern use an alloy of two parts copper, one part zinc. A mystery word, with no known cognates beyond English. Perhaps akin to Fr. <span class="foreign">brasser</span> "to brew," since it is an alloy. It also has been compared to O.Swed. <span class="foreign">brasa</span> "fire," but no sure connection can be made. Yet another theory connects it with L. <span class="foreign">ferrum</span> "iron," itself of obscure origin.
+<BR><BR>
+As brass was unknown in antiquity, use of the word in Bible translations, etc., likely means "bronze." The Romans were the first to deliberately make it. Words for "brass" in other languages (e.g. Ger. <span class="foreign">Messing</span>, O.E. <span class="foreign">m&aelig;sling</span>, Fr. <span class="foreign">laiton</span>, It. <span class="foreign">ottone</span>) also tend to be difficult to explain.
+<BR><BR>
+The meaning "effrontery, impudence" is from 1620s. Slang sense of "high officials" is first recorded 1899. The <span class="foreign">brass tacks</span> that you get <span class="foreign">down to</span> (1897) are probably the ones used to measure cloth on the counter of a dry goods store, suggesting precision. Slang <span class="foreign">brass balls</span> "toughness, courage" (emphatically combining two metaphors for the same thing) attested by 1960s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=brasserie&allowed_in_frame=0">brasserie (n.)</a> <a href="http://dictionary.reference.com/search?q=brasserie" class="dictionary" title="Look up brasserie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brasserie at Dictionary.com" title="Look up brasserie at Dictionary.com" /></a></dt>
+<dd class="highlight">1864, "brewery," from Fr. <span class="foreign">brasserie</span>, from M.Fr. <span class="foreign">brasser</span> "to brew," from L. <span class="foreign">brace</span> "grain used to prepare malt," said by Pliny to be a Celtic word (cf. Welsh <span class="foreign">brag</span> "malt").</dd>
+
+<dt><a href="/index.php?term=brassiere&allowed_in_frame=0">brassiere (n.)</a> <a href="http://dictionary.reference.com/search?q=brassiere" class="dictionary" title="Look up brassiere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brassiere at Dictionary.com" title="Look up brassiere at Dictionary.com" /></a></dt>
+<dd>18c., "woman's underbodice," from Fr. <span class="foreign">brassi&egrave;re</span> "child's chemise; shoulder strap" (17c.), from O.Fr. <span class="foreign">braciere</span> "arm guard" (14c.), from <span class="foreign">bras</span> "an arm," from L. <span class="foreign">bracchium</span> (see <a href="/index.php?term=brace&allowed_in_frame=0" class="crossreference">brace</a> (n.)). Modern use is a euphemistic borrowing in use in the garment trade by 1902.</dd>
+
+<dt class="highlight"><a href="/index.php?term=brassy&allowed_in_frame=0">brassy (adj.)</a> <a href="http://dictionary.reference.com/search?q=brassy" class="dictionary" title="Look up brassy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brassy at Dictionary.com" title="Look up brassy at Dictionary.com" /></a></dt>
+<dd class="highlight">"impudent," 1570s, from <a href="/index.php?term=brass&allowed_in_frame=0" class="crossreference">brass</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Cf. <a href="/index.php?term=brazen&allowed_in_frame=0" class="crossreference">brazen</a>. Sense of "debased and pretentious" is from 1580s, from brass as contrasted with gold; sense of "strident and artificial" is from 1865. Related: <span class="foreign">Brassily</span>; <span class="foreign">brassiness</span>.</dd>
+
+<dt><a href="/index.php?term=brat&allowed_in_frame=0">brat (n.)</a> <a href="http://dictionary.reference.com/search?q=brat" class="dictionary" title="Look up brat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brat at Dictionary.com" title="Look up brat at Dictionary.com" /></a></dt>
+<dd>c.1500, slang, "beggar's child," originally northern, Midlands and western England dialect word for "makeshift or ragged garment;" probably the same word as O.E. <span class="foreign">bratt</span> "cloak," which is from a Celtic source (cf. O.Ir. <span class="foreign">bratt</span> "cloak, cloth"). The modern meaning is perhaps from notion of "child's apron." Hollywood <span class="foreign">Brat Pack</span> (modeled on 1950s <span class="foreign">Rat Pack</span>) is from 1985.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Bratislava&allowed_in_frame=0">Bratislava</a> <a href="http://dictionary.reference.com/search?q=Bratislava" class="dictionary" title="Look up Bratislava at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Bratislava at Dictionary.com" title="Look up Bratislava at Dictionary.com" /></a></dt>
+<dd class="highlight">capital of Slovakia, a Slavic settlement named for its founder or chief; the name is the same element in the first half of the German name for the city, <span class="foreign">Pressburg</span> (9c.).</dd>
+
+<dt><a href="/index.php?term=bratty&allowed_in_frame=0">bratty (adj.)</a> <a href="http://dictionary.reference.com/search?q=bratty" class="dictionary" title="Look up bratty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bratty at Dictionary.com" title="Look up bratty at Dictionary.com" /></a></dt>
+<dd>"spoiled and juvenile," 1929, from <a href="/index.php?term=brat&allowed_in_frame=0" class="crossreference">brat</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bratwurst&allowed_in_frame=0">bratwurst (n.)</a> <a href="http://dictionary.reference.com/search?q=bratwurst" class="dictionary" title="Look up bratwurst at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bratwurst at Dictionary.com" title="Look up bratwurst at Dictionary.com" /></a></dt>
+<dd class="highlight">1911, from Ger. <span class="foreign">Bratwurst</span>, from <a href="/index.php?term=wurst&allowed_in_frame=0" class="crossreference">wurst</a> + <span class="foreign">Br&auml;t</span> "lean meat, finely chipped calf or swine meat," from O.H.G. <span class="foreign">brato</span> (12c.), from P.Gmc. <span class="foreign">*bred-on-</span> "roast flesh" (cf. O.E. <span class="foreign">br&aelig;de</span> "meat"), from PIE <span class="foreign">*bhreue-</span> (see <a href="/index.php?term=brawn&allowed_in_frame=0" class="crossreference">brawn</a>). German folk etymology derives it from <span class="foreign">braten</span> "to roast, bake, broil, grill;" more likely both are from the same ancient source.</dd>
+
+<dt><a href="/index.php?term=Braun&allowed_in_frame=0">Braun</a> <a href="http://dictionary.reference.com/search?q=Braun" class="dictionary" title="Look up Braun at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Braun at Dictionary.com" title="Look up Braun at Dictionary.com" /></a></dt>
+<dd>German manufacturing company, named for founder Max Braun, mechanical engineer in Frankfurt am Main (1921).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bravado&allowed_in_frame=0">bravado (n.)</a> <a href="http://dictionary.reference.com/search?q=bravado" class="dictionary" title="Look up bravado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bravado at Dictionary.com" title="Look up bravado at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, from Fr. <span class="foreign">bravade</span> "bragging, boasting," from It. <span class="foreign">bravata</span> "bragging, boasting" (16c.), from <span class="foreign">bravare</span> "brag, boast, be defiant," from <span class="foreign">bravo</span> (see <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a> (adj.)). Influenced in form by Spanish words ending in <span class="foreign">-ado</span>.</dd>
+
+<dt><a href="/index.php?term=brave&allowed_in_frame=0">brave (adj.)</a> <a href="http://dictionary.reference.com/search?q=brave" class="dictionary" title="Look up brave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brave at Dictionary.com" title="Look up brave at Dictionary.com" /></a></dt>
+<dd>late 15c., from M.Fr. <span class="foreign">brave</span>, "splendid, valiant," from It. <span class="foreign">bravo</span> "brave, bold," originally "wild, savage," possibly from M.L. <span class="foreign">bravus</span> "cutthroat, villain," from L. <span class="foreign">pravus</span> "crooked, depraved;" a less likely etymology being from L. <span class="foreign">barbarus</span> (see <a href="/index.php?term=barbarous&allowed_in_frame=0" class="crossreference">barbarous</a>). A Celtic origin (Ir. <span class="foreign">breagh</span>, Cornish <span class="foreign">bray</span>) also has been suggested.
+<BR><BR>
+Old English words for this, some with overtones of "rashness," included <span class="foreign">modig</span> (now "moody"), <span class="foreign">beald</span> ("bold"), <span class="foreign">cene</span> ("keen"), <span class="foreign">dyrstig</span> ("daring"). <span class="foreign">Brave new world</span> is from the title of Aldous Huxley's 1932 satirical utopian novel; he lifted the phrase from Shakespeare ("Tempest" v.i.183).</dd>
+
+<dt class="highlight"><a href="/index.php?term=brave&allowed_in_frame=0">brave (v.)</a> <a href="http://dictionary.reference.com/search?q=brave" class="dictionary" title="Look up brave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brave at Dictionary.com" title="Look up brave at Dictionary.com" /></a></dt>
+<dd class="highlight">"to face with bravery," 1776, from Fr. <span class="foreign">braver</span>, from <span class="foreign">brave</span> (see <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a> (adj.)). Related: <span class="foreign">Braved</span>; <span class="foreign">braving</span>.</dd>
+
+<dt><a href="/index.php?term=brave&allowed_in_frame=0">brave (n.)</a> <a href="http://dictionary.reference.com/search?q=brave" class="dictionary" title="Look up brave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brave at Dictionary.com" title="Look up brave at Dictionary.com" /></a></dt>
+<dd>"North American Indian warrior," c.1600, from <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a> (adj.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bravery&allowed_in_frame=0">bravery (n.)</a> <a href="http://dictionary.reference.com/search?q=bravery" class="dictionary" title="Look up bravery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bravery at Dictionary.com" title="Look up bravery at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, "daring, defiance, boasting," from Fr. <span class="foreign">braverie</span>, from <span class="foreign">braver</span> "to brave" (see <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a>) or else from cognate It. <span class="foreign">braveria</span>, from <span class="foreign">bravare</span>.
+<blockquote>
+No Man is an Atheist, however he pretend it and serve the Company with his Braveries. [Donne, 1631]
+</blockquote>
+As a good quality, attested from 1580s. Meaning "fine clothes" is from 1560s and holds the older sense.</dd>
+
+<dt><a href="/index.php?term=bravo&allowed_in_frame=0">bravo</a> <a href="http://dictionary.reference.com/search?q=bravo" class="dictionary" title="Look up bravo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bravo at Dictionary.com" title="Look up bravo at Dictionary.com" /></a></dt>
+<dd>as an exclamation, "well done!," 1761, from It. <span class="foreign">bravo</span>, lit. "brave" (see <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a> (adj.)). Earlier it was used as a noun meaning "desperado, hired killer" (1590s). Superlative form is <span class="foreign">bravissimo</span>.<blockquote>It is held by some philologists that as "Bravo!" is an <span class="foreign">exclamation</span> its form should not change, but remain <span class="foreign">bravo</span> under all circumstances. Nevertheless "bravo" is usually applied to a male, "brava" to a female artist, and "bravi" to two or more. ["Elson's Music Dictionary," 1905]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=bravura&allowed_in_frame=0">bravura (n.)</a> <a href="http://dictionary.reference.com/search?q=bravura" class="dictionary" title="Look up bravura at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bravura at Dictionary.com" title="Look up bravura at Dictionary.com" /></a></dt>
+<dd class="highlight">1788, "piece of music requiring great skill," from It. <span class="foreign">bravura</span> "bravery, spirit" (see <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a> (adj.)). Sense of "display of brilliancy, dash" is from 1813.</dd>
+
+<dt><a href="/index.php?term=braw&allowed_in_frame=0">braw</a> <a href="http://dictionary.reference.com/search?q=braw" class="dictionary" title="Look up braw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up braw at Dictionary.com" title="Look up braw at Dictionary.com" /></a></dt>
+<dd>Scottish formation and pronunciation of <a href="/index.php?term=brave&allowed_in_frame=0" class="crossreference">brave</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=brawl&allowed_in_frame=0">brawl (v.)</a> <a href="http://dictionary.reference.com/search?q=brawl" class="dictionary" title="Look up brawl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brawl at Dictionary.com" title="Look up brawl at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">braulen</span> "to cry out, scold, quarrel," probably related to Du. <span class="foreign">brallen</span> "to boast," or from Fr. <span class="foreign">brailler</span> "to shout noisily," frequentative of <span class="foreign">braire</span> "to bray" (see <a href="/index.php?term=bray&allowed_in_frame=0" class="crossreference">bray</a> (v.)). Related: <span class="foreign">Brawled</span>; <span class="foreign">brawling</span>.</dd>
+
+<dt><a href="/index.php?term=brawl&allowed_in_frame=0">brawl (n.)</a> <a href="http://dictionary.reference.com/search?q=brawl" class="dictionary" title="Look up brawl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brawl at Dictionary.com" title="Look up brawl at Dictionary.com" /></a></dt>
+<dd>The noun is mid-15c., from <a href="/index.php?term=brawl&allowed_in_frame=0" class="crossreference">brawl</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=brawn&allowed_in_frame=0">brawn (n.)</a> <a href="http://dictionary.reference.com/search?q=brawn" class="dictionary" title="Look up brawn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brawn at Dictionary.com" title="Look up brawn at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., from O.Fr. <span class="foreign">braon</span> "fleshy or muscular part, buttock," from Frankish <span class="foreign">*brado</span> "ham, roast" or some other Germanic source, from P.Gmc. <span class="foreign">*bred-on-</span> (cf. O.H.G. <span class="foreign">brato</span> "tender meat," Ger. <span class="foreign">Braten</span> "roast," O.N. <span class="foreign">bra&eth;</span> "raw meat," O.E. <span class="foreign">br&aelig;d</span> "flesh"), from PIE <span class="foreign">*bhre-</span> "burn, heat," from root <span class="foreign">*bhreue-</span> "to boil, bubble, effervesce, burn" (see <a href="/index.php?term=brew&allowed_in_frame=0" class="crossreference">brew</a>). The original sense is "piece of meat suitable for roasting." "The specific sense 'boar's flesh' is exclusively of English development, and characteristic of English habits" [OED].</dd>
+
+<dt><a href="/index.php?term=brawny&allowed_in_frame=0">brawny (adj.)</a> <a href="http://dictionary.reference.com/search?q=brawny" class="dictionary" title="Look up brawny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brawny at Dictionary.com" title="Look up brawny at Dictionary.com" /></a></dt>
+<dd>1590s, "characterized by muscle," from <a href="/index.php?term=brawn&allowed_in_frame=0" class="crossreference">brawn</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=bray&allowed_in_frame=0">bray (v.)</a> <a href="http://dictionary.reference.com/search?q=bray" class="dictionary" title="Look up bray at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bray at Dictionary.com" title="Look up bray at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">braire</span> "to cry," from Gallo-Romance <span class="foreign">*bragire</span> "to cry out," perhaps from a Celtic source (cf. Gael. <span class="foreign">braigh</span> "to shriek, crackle"), probably imitative. As a noun, from c.1300. Related: <span class="foreign">Brayed</span>; <span class="foreign">braying</span>.</dd>
+
+<dt><a href="/index.php?term=braze&allowed_in_frame=0">braze (v.1)</a> <a href="http://dictionary.reference.com/search?q=braze" class="dictionary" title="Look up braze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up braze at Dictionary.com" title="Look up braze at Dictionary.com" /></a></dt>
+<dd>"to expose to the action of fire," 1580s, perhaps from Fr. <span class="foreign">braser</span> "to solder," in Old French, "to burn," related to <span class="foreign">brese</span> "embers" (see <a href="/index.php?term=braise&allowed_in_frame=0" class="crossreference">braise</a>). Related: <span class="foreign">Brazed</span>; <span class="foreign">brazing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=braze&allowed_in_frame=0">braze (v.2)</a> <a href="http://dictionary.reference.com/search?q=braze" class="dictionary" title="Look up braze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up braze at Dictionary.com" title="Look up braze at Dictionary.com" /></a></dt>
+<dd class="highlight">"to make of or cover in brass," O.E. <span class="foreign">brasian</span> "to do work in brass, make of brass," from <span class="foreign">br&aelig;s</span> (see <a href="/index.php?term=brass&allowed_in_frame=0" class="crossreference">brass</a>). Cf. <span class="foreign">glaze</span> from <span class="foreign">glass</span>.</dd>
+
+<dt><a href="/index.php?term=brazen&allowed_in_frame=0">brazen (adj.)</a> <a href="http://dictionary.reference.com/search?q=brazen" class="dictionary" title="Look up brazen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brazen at Dictionary.com" title="Look up brazen at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">br&aelig;sen</span> "of brass," from <span class="foreign">br&aelig;s</span> "brass" (see <a href="/index.php?term=brass&allowed_in_frame=0" class="crossreference">brass</a>) + <a href="/index.php?term=-en&allowed_in_frame=0" class="crossreference">-en</a> (2). The figurative sense of "hardened in effrontery" is 1570s (in <span class="foreign">brazen-face</span>), perhaps suggesting a face unable to show shame (see <a href="/index.php?term=brass&allowed_in_frame=0" class="crossreference">brass</a>). To <span class="foreign">brazen it out</span> "face impudently" is from 1550s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=brazier&allowed_in_frame=0">brazier (n.)</a> <a href="http://dictionary.reference.com/search?q=brazier" class="dictionary" title="Look up brazier at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brazier at Dictionary.com" title="Look up brazier at Dictionary.com" /></a></dt>
+<dd class="highlight">"metal container to hold burning coals," 1680s, from Fr. <span class="foreign">brasier</span> "pan of hot coals," from O.Fr. <span class="foreign">brasier</span>, from <span class="foreign">brese</span> "embers" (see <a href="/index.php?term=braise&allowed_in_frame=0" class="crossreference">braise</a>).</dd>
+
+<dt><a href="/index.php?term=Brazil&allowed_in_frame=0">Brazil</a> <a href="http://dictionary.reference.com/search?q=Brazil" class="dictionary" title="Look up Brazil at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Brazil at Dictionary.com" title="Look up Brazil at Dictionary.com" /></a></dt>
+<dd>1550s, from Sp./Port. <span class="foreign">terra de brasil</span> "red-dye-wood land," from Sp. <span class="foreign">brasil</span> or It. <span class="foreign">brasile</span>, probably connected to Fr. <span class="foreign">braize</span> (see <a href="/index.php?term=braize&allowed_in_frame=0" class="crossreference">braize</a>) for resemblance of color to a glowing ember (but O.It. form <span class="foreign">verzino</span> suggests a possible connection with Arabic <span class="foreign">wars</span> "saffron"). Originally the name of a type of wood from an E. Indian tree, used in making dye; the name later was transferred to a similar South American species. <span class="foreign">Brazil</span> in reference to the wood is attested in English from late 14c. Complicating matters is <span class="foreign">Hy Brasil</span>, a name applied by 1436 to one of the larger Azores Islands, later transferred to a legendary island or rock off the west coast of Ireland (sighted in 1791 at lat. 51° 10', long. 15° 58').</dd>
+
+<dt class="highlight"><a href="/index.php?term=Brazzaville&allowed_in_frame=0">Brazzaville</a> <a href="http://dictionary.reference.com/search?q=Brazzaville" class="dictionary" title="Look up Brazzaville at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Brazzaville at Dictionary.com" title="Look up Brazzaville at Dictionary.com" /></a></dt>
+<dd class="highlight">capital of Republic of Congo, named for French explorer Pierre Savorgnan de <span class="foreign">Brazza</span> (1852-1905), who founded it in 1883. An Italian count, his title is from the Adriatic island of <span class="foreign">Brazza</span>, now <span class="foreign">Bra&#269;</span> in Croatia.</dd>
+
+<dt><a href="/index.php?term=brb&allowed_in_frame=0">brb</a> <a href="http://dictionary.reference.com/search?q=brb" class="dictionary" title="Look up brb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up brb at Dictionary.com" title="Look up brb at Dictionary.com" /></a></dt>
+<dd>by 1996, Internet chat acronym for <span class="foreign">be right back</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=breach&allowed_in_frame=0">breach (n.)</a> <a href="http://dictionary.reference.com/search?q=breach" class="dictionary" title="Look up breach at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breach at Dictionary.com" title="Look up breach at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">bryce</span> "breach, fracture, a breaking," from <span class="foreign">brecan</span> (see <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a>), influenced by O.Fr. <span class="foreign">breche</span> "breach, opening, gap," from Frankish; both from P.Gmc. <span class="foreign">*brecho, *br&aelig;ko</span> "broken," from PIE root <span class="foreign">*bhreg-</span> "to break" (see <a href="/index.php?term=fraction&allowed_in_frame=0" class="crossreference">fraction</a>). Figurative sense of "a breaking of rules, etc." was in O.E. <span class="foreign">Breach of contract</span> is at least from 1660s.</dd>
+
+<dt><a href="/index.php?term=breach&allowed_in_frame=0">breach (v.)</a> <a href="http://dictionary.reference.com/search?q=breach" class="dictionary" title="Look up breach at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breach at Dictionary.com" title="Look up breach at Dictionary.com" /></a></dt>
+<dd>1570s, from <a href="/index.php?term=breach&allowed_in_frame=0" class="crossreference">breach</a> (n.). Related: <span class="foreign">Breached</span>; <span class="foreign">breaching</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=bread&allowed_in_frame=0">bread (n.)</a> <a href="http://dictionary.reference.com/search?q=bread" class="dictionary" title="Look up bread at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bread at Dictionary.com" title="Look up bread at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">bread</span> "bit, crumb, morsel; bread," cognate with O.N. <span class="foreign">brau&eth;</span>, Dan. <span class="foreign">br&oslash;d</span>, O.Fris. <span class="foreign">brad</span>, M.Du. <span class="foreign">brot</span>, Du. <span class="foreign">brood</span>, Ger. <span class="foreign">Brot</span>). According to one theory [Watkins, etc.] from from P.Gmc. <span class="foreign">*brautham</span>, which would be from the root of <a href="/index.php?term=brew&allowed_in_frame=0" class="crossreference">brew</a> and refer to the leavening. But OED argues at length for the basic sense being not "cooked food" but "piece of food," and the O.E. word deriving from a P.Gmc. <span class="foreign">*braudsmon-</span> "fragments, bits" (cf. O.H.G. <span class="foreign">brosma</span> "crumb," O.E. <span class="foreign">breotan</span> "to break in pieces") and being related to the root of <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a>. It cites  Slovenian <span class="foreign">kruh</span> "bread," lit. "a piece." Either way, by c.1200 it had replaced the usual O.E. word for "bread," which was <span class="foreign">hlaf</span> (see <a href="/index.php?term=loaf&allowed_in_frame=0" class="crossreference">loaf</a>).
+<BR><BR>
+Slang meaning "money" dates from 1940s, but cf. <a href="/index.php?term=breadwinner&allowed_in_frame=0" class="crossreference">breadwinner</a>. <span class="foreign">Bread-and-butter</span> in the figurative sense of "basic needs" is from 1732. <span class="foreign">Bread and circuses</span> (1914) is from Latin, in reference to food and entertainment provided by governments to keep the populace happy. <span class="foreign">"Duas tantum res anxius optat, Panem et circenses"</span> [Juvenal, <span class="foreign">Sat.</span> x.80].</dd>
+
+<dt><a href="/index.php?term=bread&allowed_in_frame=0">bread (v.)</a> <a href="http://dictionary.reference.com/search?q=bread" class="dictionary" title="Look up bread at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bread at Dictionary.com" title="Look up bread at Dictionary.com" /></a></dt>
+<dd>"to dress with bread crumbs," 1727, from <a href="/index.php?term=bread&allowed_in_frame=0" class="crossreference">bread</a> (n.). Related: <span class="foreign">Breaded</span>; <span class="foreign">breading</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=bread-basket&allowed_in_frame=0">bread-basket (n.)</a> <a href="http://dictionary.reference.com/search?q=bread-basket" class="dictionary" title="Look up bread-basket at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up bread-basket at Dictionary.com" title="Look up bread-basket at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, "basket for holding bread," from <a href="/index.php?term=bread&allowed_in_frame=0" class="crossreference">bread</a> (n.) + <a href="/index.php?term=basket&allowed_in_frame=0" class="crossreference">basket</a>. Slang meaning "stomach" is attested from 1753, especially in pugilism. </dd>
+
+<dt><a href="/index.php?term=breadth&allowed_in_frame=0">breadth (n.)</a> <a href="http://dictionary.reference.com/search?q=breadth" class="dictionary" title="Look up breadth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breadth at Dictionary.com" title="Look up breadth at Dictionary.com" /></a></dt>
+<dd>1520s, alteration of <span class="foreign">brede</span> "breadth," from O.E. <span class="foreign">br&aelig;du</span> "breadth, width, extent," from <span class="foreign">br&aelig;d</span>; probably by analogy with <span class="foreign">long/length</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=breadwinner&allowed_in_frame=0">breadwinner (n.)</a> <a href="http://dictionary.reference.com/search?q=breadwinner" class="dictionary" title="Look up breadwinner at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breadwinner at Dictionary.com" title="Look up breadwinner at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">bread-winner</span>, "one who supplies a living for others, especially a family," 1821, from <a href="/index.php?term=bread&allowed_in_frame=0" class="crossreference">bread</a> (probably in a literal sense) + <a href="/index.php?term=winner&allowed_in_frame=0" class="crossreference">winner</a>. Attested slightly earlier (1818) in sense "skill or art by which one makes a living." Not too far removed from the image at the root of <a href="/index.php?term=lord&allowed_in_frame=0" class="crossreference">lord</a>.</dd>
+
+<dt><a href="/index.php?term=break&allowed_in_frame=0">break (v.)</a> <a href="http://dictionary.reference.com/search?q=break" class="dictionary" title="Look up break at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up break at Dictionary.com" title="Look up break at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">brecan</span> "to break, shatter, burst; injure, violate, destroy, curtail; break into, rush into; burst forth, spring out; subdue, tame" (class IV strong verb; past tense <span class="foreign">br&aelig;c</span>, pp. <span class="foreign">brocen</span>), from P.Gmc. <span class="foreign">*brekan</span> (cf. O.Fris. <span class="foreign">breka</span>, Du. <span class="foreign">breken</span>, O.H.G. <span class="foreign">brehhan</span>, Ger. <span class="foreign">brechen</span>, Goth. <span class="foreign">brikan</span>), from PIE root <span class="foreign">*bhreg-</span> "to break" (see <a href="/index.php?term=fraction&allowed_in_frame=0" class="crossreference">fraction</a>). Most modern senses were in Old English. In reference to the heart from early 13c. Meaning "to disclose" is from early 13c.
+<BR><BR>
+<span class="foreign">Break bread</span> "share food" (with) is from late 14c. <span class="foreign">Break the ice</span> is c.1600, in reference to the "coldness" of encounters of strangers. <span class="foreign">Break wind</span> first attested 1550s. To <span class="foreign">break (something) out</span> (1890s) probably is an image from dock work, of freeing cargo before unloading it. Ironic theatrical good luck formula <span class="foreign">break a leg</span> has parallels in Ger. <span class="foreign">Hals- und Beinbruch</span> "break your neck and leg," and It. <span class="foreign">in bocca al lupo</span>. Evidence of a highly superstitious craft (also see <a href="/index.php?term=Macbeth&allowed_in_frame=0" class="crossreference">Macbeth</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=break&allowed_in_frame=0">break (n.)</a> <a href="http://dictionary.reference.com/search?q=break" class="dictionary" title="Look up break at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up break at Dictionary.com" title="Look up break at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "act of breaking," from <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a> (v.). Sense of "short interval between spells of work (originally between lessons at school) is from 1861. Meaning "stroke of luck" is attested by 1911, probably an image from billiards (where the <span class="foreign">break</span> that starts the game is attested from 1865). Meaning "stroke of mercy" is from 1914. Musical sense, "improvised passage, solo" is attested from 1920s in jazz.</dd>
+
+<dt><a href="/index.php?term=break+dancing&allowed_in_frame=0">break dancing</a> <a href="http://dictionary.reference.com/search?q=break+dancing" class="dictionary" title="Look up break dancing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up break dancing at Dictionary.com" title="Look up break dancing at Dictionary.com" /></a></dt>
+<dd>1982, but the style itself evolved late 1970s in South Bronx, and <span class="foreign">breakdown</span> "a riotous dance, in the style of the negroes" is recorded from 1864. The reference in the modern case is to the rhythmic <span class="foreign">break</span> in a pop-dance song (see <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a> (n.)), which the DJs isolated and the dancers performed to.</dd>
+
+<dt class="highlight"><a href="/index.php?term=breakable&allowed_in_frame=0">breakable (adj.)</a> <a href="http://dictionary.reference.com/search?q=breakable" class="dictionary" title="Look up breakable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breakable at Dictionary.com" title="Look up breakable at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, from <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a> (v.) + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. As a noun, <span class="foreign">breakables</span> is attested from 1820.</dd>
+
+<dt><a href="/index.php?term=breakage&allowed_in_frame=0">breakage (n.)</a> <a href="http://dictionary.reference.com/search?q=breakage" class="dictionary" title="Look up breakage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breakage at Dictionary.com" title="Look up breakage at Dictionary.com" /></a></dt>
+<dd>1813, "action of breaking," from <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a> (v.) + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>. Meaning "loss or damage done by breaking" is from 1848.</dd>
+
+<dt class="highlight"><a href="/index.php?term=breakaway&allowed_in_frame=0">breakaway</a> <a href="http://dictionary.reference.com/search?q=breakaway" class="dictionary" title="Look up breakaway at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breakaway at Dictionary.com" title="Look up breakaway at Dictionary.com" /></a></dt>
+<dd class="highlight">1906 (n.), in reference to sports; 1930s (adj.) in reference to splinter groups; from <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a> (v.) + <a href="/index.php?term=away&allowed_in_frame=0" class="crossreference">away</a>.</dd>
+
+<dt><a href="/index.php?term=breakdown&allowed_in_frame=0">breakdown (n.)</a> <a href="http://dictionary.reference.com/search?q=breakdown" class="dictionary" title="Look up breakdown at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up breakdown at Dictionary.com" title="Look up breakdown at Dictionary.com" /></a></dt>
+<dd>"a collapse," 1832, from <a href="/index.php?term=break&allowed_in_frame=0" class="crossreference">break</a> + <a href="/index.php?term=down&allowed_in_frame=0" class="crossreference">down</a>. The verbal phrase is attested from late 14c. The noun, specifically of machinery, is from 1838; meaning "an analysis in detail" is from 1936. <span class="foreign">Nervous breakdown</span> is from 1905.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=b&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=b&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=b&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=b&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=b&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=b&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=b&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=b&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=b&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=b&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=b&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=b&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=b&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=b&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=b&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=b&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=b&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=b&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=b&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=b&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=b&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=b&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=b&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=b&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=b&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=b&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=b&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=b&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=b&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=b&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=b&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=b&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=b&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=b&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=b&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=b&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=b&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=b&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=b&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a class="current" href="/index.php?l=b&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=b&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=b&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=b&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=b&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=b&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=b&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=b&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=b&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=b&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=b&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=b&amp;p=50&allowed_in_frame=0">51</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658043 -->
+<!-- Page was generated in 0.175166 seconds. -->
+ </body>
+</html>
+<!-- -->

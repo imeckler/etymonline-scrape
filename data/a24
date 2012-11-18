@@ -1,0 +1,425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=ambush&allowed_in_frame=0">ambush (n.)</a> <a href="http://dictionary.reference.com/search?q=ambush" class="dictionary" title="Look up ambush at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ambush at Dictionary.com" title="Look up ambush at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., <span class="foreign">embushe</span>, from the English verb or from M.Fr. <span class="foreign">embusche</span>, from O.Fr. <span class="foreign">embuscher</span> (see <a href="/index.php?term=ambush&allowed_in_frame=0" class="crossreference">ambush</a> (v.)). Earlier was <span class="foreign">ambushment</span> (late 14c.). Figurative use by 1590s.</dd>
+
+<dt><a href="/index.php?term=ame+damnee&allowed_in_frame=0">ame damnee (n.)</a> <a href="http://dictionary.reference.com/search?q=ame+damnee" class="dictionary" title="Look up ame damnee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ame damnee at Dictionary.com" title="Look up ame damnee at Dictionary.com" /></a></dt>
+<dd>"devoted adherent, toady," 1823, from Fr. <span class="foreign">&acirc;me damn&eacute;e</span> "familiar spirit," lit. "damned soul," originally a soul damned by compact with a controlling demon.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amelia&allowed_in_frame=0">Amelia</a> <a href="http://dictionary.reference.com/search?q=Amelia" class="dictionary" title="Look up Amelia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amelia at Dictionary.com" title="Look up Amelia at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, of Germanic origin, lit. "laborious" (cf. O.N. <span class="foreign">ama</span> "to trouble"), later assimilated with Roman gens name <span class="foreign">Aemilia</span>.</dd>
+
+<dt><a href="/index.php?term=ameliorate&allowed_in_frame=0">ameliorate (v.)</a> <a href="http://dictionary.reference.com/search?q=ameliorate" class="dictionary" title="Look up ameliorate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ameliorate at Dictionary.com" title="Look up ameliorate at Dictionary.com" /></a></dt>
+<dd>1767 (implied in <span class="foreign">ameliorating</span>), perhaps a back formation from <a href="/index.php?term=amelioration&allowed_in_frame=0" class="crossreference">amelioration</a> on pattern of Fr. <span class="foreign">am&eacute;liorer</span>. The simpler form <span class="foreign">meliorate</span> was used in Middle English. Related: <span class="foreign">Ameliorated</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amelioration&allowed_in_frame=0">amelioration (n.)</a> <a href="http://dictionary.reference.com/search?q=amelioration" class="dictionary" title="Look up amelioration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amelioration at Dictionary.com" title="Look up amelioration at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from Fr. <span class="foreign">am&eacute;lioration</span>, from O.Fr. <span class="foreign">ameillorer</span> (12c.), from <span class="foreign">a</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">meillior</span> (Mod.Fr. <span class="foreign">meìlleur</span>) "to better," from L.L. <span class="foreign">meliorare</span> "improve," from L. <span class="foreign">melior</span> "better," perhaps originally "stronger," and related to Gk. <span class="foreign">mala</span> "very, very much," from PIE <span class="foreign">*mel-</span> "strong, great" (see <a href="/index.php?term=multi-&allowed_in_frame=0" class="crossreference">multi-</a>).</dd>
+
+<dt><a href="/index.php?term=ameliorative&allowed_in_frame=0">ameliorative (adj.)</a> <a href="http://dictionary.reference.com/search?q=ameliorative" class="dictionary" title="Look up ameliorative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ameliorative at Dictionary.com" title="Look up ameliorative at Dictionary.com" /></a></dt>
+<dd>1796, from <a href="/index.php?term=ameliorate&allowed_in_frame=0" class="crossreference">ameliorate</a> + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amen&allowed_in_frame=0">amen</a> <a href="http://dictionary.reference.com/search?q=amen" class="dictionary" title="Look up amen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amen at Dictionary.com" title="Look up amen at Dictionary.com" /></a></dt>
+<dd class="highlight">Old English, from L.L. <span class="foreign">amen</span>, from Ecclesiastical Gk. <span class="foreign">amen</span>, from Hebrew <span class="foreign">amen</span> "truth," used adverbially as an expression of agreement (e.g. Deut. xxvii:26, I Kings i:36; cf. Modern English <span class="foreign">verily</span>, <span class="foreign">surely</span>, <span class="foreign">absolutely</span> in the same sense), from Semitic root <span class="foreign">a-m-n</span> "to be trustworthy, confirm, support." Used in Old English only at the end of Gospels, otherwise translated as <span class="foreign">So&eth;lic!</span> or <span class="foreign">Swa hit ys</span>, or <span class="foreign">Sy!</span> As an expression of concurrence after prayers, it is recorded from early 13c.</dd>
+
+<dt><a href="/index.php?term=amenability&allowed_in_frame=0">amenability (n.)</a> <a href="http://dictionary.reference.com/search?q=amenability" class="dictionary" title="Look up amenability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amenability at Dictionary.com" title="Look up amenability at Dictionary.com" /></a></dt>
+<dd>1761; see <a href="/index.php?term=amenable&allowed_in_frame=0" class="crossreference">amenable</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amenable&allowed_in_frame=0">amenable (adj.)</a> <a href="http://dictionary.reference.com/search?q=amenable" class="dictionary" title="Look up amenable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amenable at Dictionary.com" title="Look up amenable at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "liable," from Anglo-Fr. <span class="foreign">amenable</span>, M.Fr. <span class="foreign">amener</span> "answerable" (to the law), from <span class="foreign">&agrave;</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">mener</span> "to lead," from L. <span class="foreign">minare</span> "to drive (cattle) with shouts," variant of <span class="foreign">minari</span> "threaten" (see <a href="/index.php?term=menace&allowed_in_frame=0" class="crossreference">menace</a> (n.)). Sense of "tractable" is from 1803, from notion of disposed to answer or submit to influence. Related: <span class="foreign">Amenably</span>.</dd>
+
+<dt><a href="/index.php?term=amend&allowed_in_frame=0">amend (v.)</a> <a href="http://dictionary.reference.com/search?q=amend" class="dictionary" title="Look up amend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amend at Dictionary.com" title="Look up amend at Dictionary.com" /></a></dt>
+<dd>early 13c., "to free from faults, rectify," from O.Fr. <span class="foreign">amender</span> (12c.), from L. <span class="foreign">emendare</span> "to correct, free from fault," from <span class="foreign">ex-</span> "out" (see <a href="/index.php?term=ex-&allowed_in_frame=0" class="crossreference">ex-</a>) + <span class="foreign">menda</span> "fault, blemish," from PIE <span class="foreign">*mend-</span> "physical defect, fault" (cf. Skt. <span class="foreign">minda</span> "physical blemish," O.Ir. <span class="foreign">mennar</span> "stain, blemish," Welsh <span class="foreign">mann</span> "sign, mark"). Supplanted in senses of "repair, cure" by its aphetic offspring <a href="/index.php?term=mend&allowed_in_frame=0" class="crossreference">mend</a>. Meaning "to add to legislation" (ostensibly to correct or improve it) is recorded from 1777. Related: <span class="foreign">Amended</span>; <span class="foreign">amending</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amendment&allowed_in_frame=0">amendment (n.)</a> <a href="http://dictionary.reference.com/search?q=amendment" class="dictionary" title="Look up amendment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amendment at Dictionary.com" title="Look up amendment at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., "betterment, improvement;" c.1300, of persons, "correction, reformation," from O.Fr. <span class="foreign">amendment</span>, from <span class="foreign">amender</span> (see <a href="/index.php?term=amend&allowed_in_frame=0" class="crossreference">amend</a>). Sense expanded to include "correction of error in a legal process" (c.1600) and "alteration of a writ or bill" to remove its faults (1690s).</dd>
+
+<dt><a href="/index.php?term=amends&allowed_in_frame=0">amends (n.)</a> <a href="http://dictionary.reference.com/search?q=amends" class="dictionary" title="Look up amends at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amends at Dictionary.com" title="Look up amends at Dictionary.com" /></a></dt>
+<dd>early 14c., "restitution," collective singular, from O.Fr. <span class="foreign">amendes</span> "fine, penalty," plural of <span class="foreign">amende</span> "reparation," from <span class="foreign">amender</span> "to amend" (see <a href="/index.php?term=amend&allowed_in_frame=0" class="crossreference">amend</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amenities&allowed_in_frame=0">amenities (n.)</a> <a href="http://dictionary.reference.com/search?q=amenities" class="dictionary" title="Look up amenities at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amenities at Dictionary.com" title="Look up amenities at Dictionary.com" /></a></dt>
+<dd class="highlight">"creature comforts of a town, house, etc." 1908, plural of <a href="/index.php?term=amenity&allowed_in_frame=0" class="crossreference">amenity</a>. Latin <span class="foreign">amoena</span>, plural of <span class="foreign">amoenus</span>, also was used as a noun with a sense of "pleasant places."</dd>
+
+<dt><a href="/index.php?term=amenity&allowed_in_frame=0">amenity (n.)</a> <a href="http://dictionary.reference.com/search?q=amenity" class="dictionary" title="Look up amenity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amenity at Dictionary.com" title="Look up amenity at Dictionary.com" /></a></dt>
+<dd>late 14c., "quality of being pleasant or agreeable," from O.Fr. <span class="foreign">amenite</span>, from L. <span class="foreign">amoenitatem</span> (nom. <span class="foreign">amoenitas</span>) "delightfulness, pleasantness," from <span class="foreign">amoenus</span> "pleasant," perhaps related to <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amenorrhea&allowed_in_frame=0">amenorrhea (n.)</a> <a href="http://dictionary.reference.com/search?q=amenorrhea" class="dictionary" title="Look up amenorrhea at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amenorrhea at Dictionary.com" title="Look up amenorrhea at Dictionary.com" /></a></dt>
+<dd class="highlight">1804, Modern Latin, from Greek privative prefix <span class="foreign">a-</span> "not" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (3)) + <span class="foreign">men</span> "month" (see <a href="/index.php?term=moon&allowed_in_frame=0" class="crossreference">moon</a> (n.)) + <span class="foreign">rhein</span> "to flow" (see <a href="/index.php?term=rheum&allowed_in_frame=0" class="crossreference">rheum</a>). Related: <span class="foreign">amenorrheal</span>.</dd>
+
+<dt><a href="/index.php?term=ament&allowed_in_frame=0">ament (n.)</a> <a href="http://dictionary.reference.com/search?q=ament" class="dictionary" title="Look up ament at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ament at Dictionary.com" title="Look up ament at Dictionary.com" /></a></dt>
+<dd>"person born an idiot," 1894, from L. <span class="foreign">amentia</span> "madness," from <span class="foreign">amentem</span> "mad," from <span class="foreign">a-</span> "away from" + <span class="foreign">mentem</span> "mind" (see <a href="/index.php?term=mind&allowed_in_frame=0" class="crossreference">mind</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amentia&allowed_in_frame=0">amentia (n.)</a> <a href="http://dictionary.reference.com/search?q=amentia" class="dictionary" title="Look up amentia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amentia at Dictionary.com" title="Look up amentia at Dictionary.com" /></a></dt>
+<dd class="highlight">"mental deficiency," late 14c., from L. <span class="foreign">amentia</span> "madness," from <span class="foreign">amentem</span> "mad," from <span class="foreign">a-</span> "away from" + <span class="foreign">mentem</span> "mind" (see <a href="/index.php?term=mind&allowed_in_frame=0" class="crossreference">mind</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=Amerasian&allowed_in_frame=0">Amerasian</a> <a href="http://dictionary.reference.com/search?q=Amerasian" class="dictionary" title="Look up Amerasian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amerasian at Dictionary.com" title="Look up Amerasian at Dictionary.com" /></a></dt>
+<dd>1966, noun and adjective, from <a href="/index.php?term=American&allowed_in_frame=0" class="crossreference">American</a> + <a href="/index.php?term=Asian&allowed_in_frame=0" class="crossreference">Asian</a>; coined in reference to children fathered by U.S. servicemen stationed in Asia during the Cold War.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amerce&allowed_in_frame=0">amerce (v.)</a> <a href="http://dictionary.reference.com/search?q=amerce" class="dictionary" title="Look up amerce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amerce at Dictionary.com" title="Look up amerce at Dictionary.com" /></a></dt>
+<dd class="highlight">1215, earlier <span class="foreign">amercy</span>, Anglo-Fr. <span class="foreign">amercier</span> "to fine," from <span class="foreign">merci</span> "mercy, grace" (see <a href="/index.php?term=mercy&allowed_in_frame=0" class="crossreference">mercy</a>). The legal phrase <span class="foreign">estre a merci</span> "to be at the mercy of" (a tribunal, etc.) was corrupted to <span class="foreign">estre amerci&eacute;</span> in an example of how a legalese adverbial phrase can become a verb (cf. <a href="/index.php?term=abandon&allowed_in_frame=0" class="crossreference">abandon</a>). The sense often was "to fine arbitrarily."
+<blockquote>
+<span class="foreign">Frans hom ne seit amerciez pour petit forfet.</span> [Magna Charta]
+</blockquote>
+Related: <span class="foreign">Amercement</span>; <span class="foreign">amerciable</span>.</dd>
+
+<dt><a href="/index.php?term=America&allowed_in_frame=0">America</a> <a href="http://dictionary.reference.com/search?q=America" class="dictionary" title="Look up America at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up America at Dictionary.com" title="Look up America at Dictionary.com" /></a></dt>
+<dd>1507, in Cartographer Martin Waldseem&uuml;ller's treatise <span class="foreign">"Cosmographiae Introductio,"</span> from Mod.L. <span class="foreign">Americanus,</span> after Amerigo Vespucci (1454-1512) who made two trips to the New World as a navigator and claimed to have discovered it. His published works put forward the idea that it was a new continent, and he was first to call it <span class="foreign">Novus Mundus</span> "New World." <span class="foreign">Amerigo</span> is more easily Latinized than <span class="foreign">Vespucci</span>. The name <span class="foreign">Amerigo</span> is Germanic, said to derive from Goth. <span class="foreign">Amalrich</span>, lit. "work-ruler." The Old English form of the name has come down as surnames <span class="foreign">Emmerich</span>, <span class="foreign">Emery</span>, etc. The Italian fem. form merged into <a href="/index.php?term=Amelia&allowed_in_frame=0" class="crossreference">Amelia</a>. Colloquial pronunciation "Ameri-kay," not uncommon 19c., goes back to at least 1643 and a poem that rhymed the word with <span class="foreign">away</span>. <span class="foreign">Amerika</span> "U.S. society viewed as racist, fascist, oppressive, etc." first attested 1969; the spelling is German, but may also suggest the <span class="foreign">KKK</span>.
+<blockquote>
+It is interesting to remember that the song which is essentially Southern -- "Dixie" -- and that which is essentially Northern -- "Yankee Doodle" -- never really had any serious words to them. ["The Bookman," June 1910]
+</blockquote>
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=American&allowed_in_frame=0">American</a> <a href="http://dictionary.reference.com/search?q=American" class="dictionary" title="Look up American at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up American at Dictionary.com" title="Look up American at Dictionary.com" /></a></dt>
+<dd class="highlight">1570s (n.); 1590s (adj.), from Mod.L. <span class="foreign">Americanus</span>, from <a href="/index.php?term=America&allowed_in_frame=0" class="crossreference">America</a> (q.v.); originally in reference to what now are called <span class="foreign">Native Americans</span>; the sense of "resident of North America of European (originally British) descent" is first recorded 1640s (adj.); 1765 (n.).</dd>
+
+<dt><a href="/index.php?term=American+dream&allowed_in_frame=0">American dream</a> <a href="http://dictionary.reference.com/search?q=American+dream" class="dictionary" title="Look up American dream at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up American dream at Dictionary.com" title="Look up American dream at Dictionary.com" /></a></dt>
+<dd>coined 1931 by James Truslow Adams (1878-1949), U.S. writer and popular historian (unrelated to the Massachusetts Adamses), in "Epic of America."
+<blockquote>
+[The American Dream is] that dream of a land in which life should be better and richer and fuller for everyone, with opportunity for each according to ability or achievement. It is a difficult dream for the European upper classes to interpret adequately, and too many of us ourselves have grown weary and mistrustful of it. It is not a dream of motor cars and high wages merely, but a dream of social order in which each man and each woman shall be able to attain to the fullest stature of which they are innately capable, and be recognized by others for what they are, regardless of the fortuitous circumstances of birth or position. [Adams]
+</blockquote>
+Others have used the term as they will.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Americanism&allowed_in_frame=0">Americanism (n.)</a> <a href="http://dictionary.reference.com/search?q=Americanism" class="dictionary" title="Look up Americanism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Americanism at Dictionary.com" title="Look up Americanism at Dictionary.com" /></a></dt>
+<dd class="highlight">1781, in reference to words or phrases distinct from British use, coined by John Witherspoon (1723-1794), president of Princeton College, from <a href="/index.php?term=American&allowed_in_frame=0" class="crossreference">American</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. (<span class="foreign">American English</span> "English language as spoken in the United States" is first recorded 1806, in Webster.) <span class="foreign">Americanism</span> in the patriotic sense "attachment to the U.S." is attested from 1797, first found in the writings of Thomas Jefferson.
+</dd>
+
+<dt><a href="/index.php?term=Americanization&allowed_in_frame=0">Americanization (n.)</a> <a href="http://dictionary.reference.com/search?q=Americanization" class="dictionary" title="Look up Americanization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Americanization at Dictionary.com" title="Look up Americanization at Dictionary.com" /></a></dt>
+<dd>1816, noun of state or action from <a href="/index.php?term=Americanize&allowed_in_frame=0" class="crossreference">Americanize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Americanize&allowed_in_frame=0">Americanize (v.)</a> <a href="http://dictionary.reference.com/search?q=Americanize" class="dictionary" title="Look up Americanize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Americanize at Dictionary.com" title="Look up Americanize at Dictionary.com" /></a></dt>
+<dd class="highlight">1797, from <a href="/index.php?term=American&allowed_in_frame=0" class="crossreference">American</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Americanized</span>; <span class="foreign">Americanizing</span>.</dd>
+
+<dt><a href="/index.php?term=Amerind&allowed_in_frame=0">Amerind</a> <a href="http://dictionary.reference.com/search?q=Amerind" class="dictionary" title="Look up Amerind at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amerind at Dictionary.com" title="Look up Amerind at Dictionary.com" /></a></dt>
+<dd>1899, coined by Maj. John Wesley Powell (1834-1902) at the Bureau of American Ethnology, where he was director, from <a href="/index.php?term=American&allowed_in_frame=0" class="crossreference">American</a> + <a href="/index.php?term=Indian&allowed_in_frame=0" class="crossreference">Indian</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amerindian&allowed_in_frame=0">Amerindian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Amerindian" class="dictionary" title="Look up Amerindian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amerindian at Dictionary.com" title="Look up Amerindian at Dictionary.com" /></a></dt>
+<dd class="highlight">1900; see <a href="/index.php?term=Amerind&allowed_in_frame=0" class="crossreference">Amerind</a>, of which it is the derived adjective.</dd>
+
+<dt><a href="/index.php?term=Ameslan&allowed_in_frame=0">Ameslan (n.)</a> <a href="http://dictionary.reference.com/search?q=Ameslan" class="dictionary" title="Look up Ameslan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ameslan at Dictionary.com" title="Look up Ameslan at Dictionary.com" /></a></dt>
+<dd>1972, acronym of <span class="foreign">Ame(rican) S(ign) Lan(guage),</span> known by that name since 1960, but its history goes back to 1817, evolving from French Sign Language (introduced at American School for the Deaf in Hartford, Conn.) and indigenous sign languages, especially that of Martha's Vineyard. [See "Everyone Here Spoke Sign Language," Nora Ellen Groce, Harvard University Press, 1985]</dd>
+
+<dt class="highlight"><a href="/index.php?term=amethyst&allowed_in_frame=0">amethyst (n.)</a> <a href="http://dictionary.reference.com/search?q=amethyst" class="dictionary" title="Look up amethyst at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amethyst at Dictionary.com" title="Look up amethyst at Dictionary.com" /></a></dt>
+<dd class="highlight">violet quartz, late 13c., <span class="foreign">ametist</span>, from O.Fr. <span class="foreign">ametiste</span> (Mod.Fr. <span class="foreign">am&eacute;thyste</span>) and directly from M.L. <span class="foreign">amatistus</span>, from L. <span class="foreign">amethystus</span>, from Gk. <span class="foreign">amethystos</span> "amethyst," lit. "not intoxicating," from <span class="foreign">a-</span> "not" + <span class="foreign">methyskein</span> "make drunk," from <span class="foreign">methys</span> "wine" (see <a href="/index.php?term=mead&allowed_in_frame=0" class="crossreference">mead</a> (n.1)); based on the stone's ancient reputation for preventing drunkenness, which was perhaps sympathetic magic suggested by its wine-like color. People wore rings made of it before drinking. Spelling restored from Middle English <span class="foreign">ametist</span>.</dd>
+
+<dt><a href="/index.php?term=Amex&allowed_in_frame=0">Amex</a> <a href="http://dictionary.reference.com/search?q=Amex" class="dictionary" title="Look up Amex at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amex at Dictionary.com" title="Look up Amex at Dictionary.com" /></a></dt>
+<dd>blend of <span class="foreign">American Express</span>, trademark registered in U.S. 1950 by American Express Co., originally an express mail service. Its credit card dates from 1958.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amharic&allowed_in_frame=0">Amharic</a> <a href="http://dictionary.reference.com/search?q=Amharic" class="dictionary" title="Look up Amharic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amharic at Dictionary.com" title="Look up Amharic at Dictionary.com" /></a></dt>
+<dd class="highlight">principal language of Ethiopia, 1813, from <span class="foreign">Amhara,</span> name of a central province in Ethiopia.</dd>
+
+<dt><a href="/index.php?term=ami&allowed_in_frame=0">ami (n.)</a> <a href="http://dictionary.reference.com/search?q=ami" class="dictionary" title="Look up ami at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ami at Dictionary.com" title="Look up ami at Dictionary.com" /></a></dt>
+<dd>14c., "friend lover," from O.Fr. <span class="foreign">amy</span>, <span class="foreign">ami</span> (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amiability&allowed_in_frame=0">amiability (n.)</a> <a href="http://dictionary.reference.com/search?q=amiability" class="dictionary" title="Look up amiability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amiability at Dictionary.com" title="Look up amiability at Dictionary.com" /></a></dt>
+<dd class="highlight">1807; see <a href="/index.php?term=amiable&allowed_in_frame=0" class="crossreference">amiable</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>. <span class="foreign">Amiableness</span> is recorded from 1530s.</dd>
+
+<dt><a href="/index.php?term=amiable&allowed_in_frame=0">amiable (adj.)</a> <a href="http://dictionary.reference.com/search?q=amiable" class="dictionary" title="Look up amiable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amiable at Dictionary.com" title="Look up amiable at Dictionary.com" /></a></dt>
+<dd>mid-14c., from O.Fr. <span class="foreign">amiable</span>, from L.L. <span class="foreign">amicabilis</span> "friendly," from <span class="foreign">amicus</span> "friend," related to <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>). The form confused in Old French with <span class="foreign">amable</span> "lovable," from L. <span class="foreign">amare</span>. Reborrowed later in proper Latin form as <a href="/index.php?term=amicable&allowed_in_frame=0" class="crossreference">amicable</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amicability&allowed_in_frame=0">amicability (n.)</a> <a href="http://dictionary.reference.com/search?q=amicability" class="dictionary" title="Look up amicability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amicability at Dictionary.com" title="Look up amicability at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, see <a href="/index.php?term=amicable&allowed_in_frame=0" class="crossreference">amicable</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=amicable&allowed_in_frame=0">amicable (adj.)</a> <a href="http://dictionary.reference.com/search?q=amicable" class="dictionary" title="Look up amicable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amicable at Dictionary.com" title="Look up amicable at Dictionary.com" /></a></dt>
+<dd>early 15c., from L.L. <span class="foreign">amicabilis</span> "friendly," a word in Roman law, from L. <span class="foreign">amicus</span> "friend," related to <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>). Cf. also <a href="/index.php?term=amiable&allowed_in_frame=0" class="crossreference">amiable</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amicably&allowed_in_frame=0">amicably (adv.)</a> <a href="http://dictionary.reference.com/search?q=amicably" class="dictionary" title="Look up amicably at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amicably at Dictionary.com" title="Look up amicably at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, from <a href="/index.php?term=amicable&allowed_in_frame=0" class="crossreference">amicable</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=amicus+curiae&allowed_in_frame=0">amicus curiae</a> <a href="http://dictionary.reference.com/search?q=amicus+curiae" class="dictionary" title="Look up amicus curiae at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amicus curiae at Dictionary.com" title="Look up amicus curiae at Dictionary.com" /></a></dt>
+<dd>1610s, Latin, lit. "friend of the court;" plural is <span class="foreign">amici curiae</span>. From L. <span class="foreign">amicus</span> "friend," related to <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>) + <span class="foreign">curia</span> "court" (see <a href="/index.php?term=curia&allowed_in_frame=0" class="crossreference">curia</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amid&allowed_in_frame=0">amid (prep.)</a> <a href="http://dictionary.reference.com/search?q=amid" class="dictionary" title="Look up amid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amid at Dictionary.com" title="Look up amid at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from <span class="foreign">amidde</span> (c.1200), from O.E. <span class="foreign">on middan</span> "in the middle," from dative singular of <span class="foreign">midde</span> "mid, middle" (see <a href="/index.php?term=middle&allowed_in_frame=0" class="crossreference">middle</a>); the phrase evidently was felt as "in (the) middle" and thus followed by a genitive case, and if this had endured we would follow it today with <span class="foreign">of</span>. (See <a href="/index.php?term=amidst&allowed_in_frame=0" class="crossreference">amidst</a> for further evolution along this line). The same applies to equivalents in Latin (<span class="foreign">in medio</span>) and Greek (<span class="foreign">en meso</span>), both originally adjective phrases which evolved to take the genitive case. But in later Old English <span class="foreign">on middan</span> also was treated as a preposition and followed by dative. Used in compounds from early 13c. (e.g. <span class="foreign">amidships</span>, attested from 1690s and retaining the genitive, as the compounds usually did in early Middle English, suggesting this one is considerably older than the written record of it.)</dd>
+
+<dt><a href="/index.php?term=amidst&allowed_in_frame=0">amidst (prep.)</a> <a href="http://dictionary.reference.com/search?q=amidst" class="dictionary" title="Look up amidst at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amidst at Dictionary.com" title="Look up amidst at Dictionary.com" /></a></dt>
+<dd>a variant of <a href="/index.php?term=amid&allowed_in_frame=0" class="crossreference">amid</a> (q.v.) with adverbial genitive <span class="foreign">-s</span> and parasitic <span class="foreign">-t</span>. <span class="foreign">Amidde</span> became <span class="foreign">amyddes</span> (13c.) and acquired a <span class="foreign">-t</span> by 1560s, probably by association with superlatives in <span class="foreign">-st</span>.
+<blockquote>
+There is a tendency to use <span class="foreign">amidst</span> more distributively than <span class="foreign">amid,</span> e.g. of things scattered about, or a thing moving, in the midst of others. [OED]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=amigo&allowed_in_frame=0">amigo (n.)</a> <a href="http://dictionary.reference.com/search?q=amigo" class="dictionary" title="Look up amigo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amigo at Dictionary.com" title="Look up amigo at Dictionary.com" /></a></dt>
+<dd class="highlight">"friend, comrade," often a form of address, 1837, American English (first attested in the phrase <span class="foreign">adios, Amigo</span>), from Sp. <span class="foreign">amigo</span>, lit. "friend," from L. <span class="foreign">amicus</span> "friend," related to <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>).</dd>
+
+<dt><a href="/index.php?term=amine&allowed_in_frame=0">amine (n.)</a> <a href="http://dictionary.reference.com/search?q=amine" class="dictionary" title="Look up amine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amine at Dictionary.com" title="Look up amine at Dictionary.com" /></a></dt>
+<dd>"compound in which one of the hydrogen atoms of ammonia is replaced by a hydrocarbon radical," 1863, from <a href="/index.php?term=ammonia&allowed_in_frame=0" class="crossreference">ammonia</a> + chemical suffix <a href="/index.php?term=-ine&allowed_in_frame=0" class="crossreference">-ine</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amino-&allowed_in_frame=0">amino-</a> <a href="http://dictionary.reference.com/search?q=amino-" class="dictionary" title="Look up amino- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amino- at Dictionary.com" title="Look up amino- at Dictionary.com" /></a></dt>
+<dd class="highlight">1887, as an element in compound words involving chemicals, from comb. form of <a href="/index.php?term=amine&allowed_in_frame=0" class="crossreference">amine</a>. <span class="foreign">Amino acid</span> is attested from 1898.</dd>
+
+<dt><a href="/index.php?term=amir&allowed_in_frame=0">amir (n.)</a> <a href="http://dictionary.reference.com/search?q=amir" class="dictionary" title="Look up amir at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amir at Dictionary.com" title="Look up amir at Dictionary.com" /></a></dt>
+<dd>1610s; the same word as <a href="/index.php?term=emir&allowed_in_frame=0" class="crossreference">emir</a> (q.v.), but generally used of contemporary Indian or Afghan rulers as opposed to historical ones.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amish&allowed_in_frame=0">Amish (adj.)</a> <a href="http://dictionary.reference.com/search?q=Amish" class="dictionary" title="Look up Amish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amish at Dictionary.com" title="Look up Amish at Dictionary.com" /></a></dt>
+<dd class="highlight">1844, American English, from the name of Jacob <span class="foreign">Amman</span>, 17c. Swiss Mennonite preacher who founded the sect. Originally spelled <span class="foreign">Omish</span>, which reflects the pronunciation in Pennsylvania German dialect. As a noun, by 1884.</dd>
+
+<dt><a href="/index.php?term=amiss&allowed_in_frame=0">amiss (adv.)</a> <a href="http://dictionary.reference.com/search?q=amiss" class="dictionary" title="Look up amiss at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amiss at Dictionary.com" title="Look up amiss at Dictionary.com" /></a></dt>
+<dd>mid-13c., <span class="foreign">amis</span> "off the mark," also "out of order," lit. "on the miss," from <span class="foreign">a</span> "in, on" (see <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1)) + <span class="foreign">missen</span> "fail to hit" (see <a href="/index.php?term=miss&allowed_in_frame=0" class="crossreference">miss</a> (v.)). To <span class="foreign">take (something) amiss</span> originally (late 14c.) was "to miss the meaning of" (see <a href="/index.php?term=mistake&allowed_in_frame=0" class="crossreference">mistake</a>). Now it means "to misinterpret in a bad sense."</dd>
+
+<dt class="highlight"><a href="/index.php?term=amity&allowed_in_frame=0">amity (n.)</a> <a href="http://dictionary.reference.com/search?q=amity" class="dictionary" title="Look up amity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amity at Dictionary.com" title="Look up amity at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "friendly relations," from O.Fr. <span class="foreign">amitie</span> (13c.); earlier <span class="foreign">amistie</span> (11c.), from V.L. <span class="foreign">*amicitatem</span> (nom. <span class="foreign">*amicitas</span>) "friendship," corresponding to L. <span class="foreign">amicitia</span>, from <span class="foreign">amicus</span> (adj.) "friendly;" related to <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>).</dd>
+
+<dt><a href="/index.php?term=ammeter&allowed_in_frame=0">ammeter (n.)</a> <a href="http://dictionary.reference.com/search?q=ammeter" class="dictionary" title="Look up ammeter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ammeter at Dictionary.com" title="Look up ammeter at Dictionary.com" /></a></dt>
+<dd>instrument for measuring the strength of electric currents, 1882, from <a href="/index.php?term=ampere&allowed_in_frame=0" class="crossreference">ampere</a> + <a href="/index.php?term=-meter&allowed_in_frame=0" class="crossreference">-meter</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ammo&allowed_in_frame=0">ammo (n.)</a> <a href="http://dictionary.reference.com/search?q=ammo" class="dictionary" title="Look up ammo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ammo at Dictionary.com" title="Look up ammo at Dictionary.com" /></a></dt>
+<dd class="highlight">1917, shortened form of <a href="/index.php?term=ammunition&allowed_in_frame=0" class="crossreference">ammunition</a>.</dd>
+
+<dt><a href="/index.php?term=ammonia&allowed_in_frame=0">ammonia (n.)</a> <a href="http://dictionary.reference.com/search?q=ammonia" class="dictionary" title="Look up ammonia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ammonia at Dictionary.com" title="Look up ammonia at Dictionary.com" /></a></dt>
+<dd>1799, Modern Latin, coined 1782 by Swedish chemist Torbern Bergman (1735-1784) for gas obtained from <span class="foreign">sal ammoniac</span>, salt deposits containing ammonium chloride found near temple of Jupiter <span class="foreign">Ammon</span> (from Egyptian God <span class="foreign">Amun</span>) in Libya, from Gk. <span class="foreign">ammoniakos</span> "belonging to Ammon." The shrine was ancient already in Augustus' day, and the salts were prepared "from the sands where the camels waited while their masters prayed for good omens" [Shipley]. There also was a gum form of <span class="foreign">sal ammoniac</span>, from a wild plant that grew near the shrine, and across North Africa and Asia. A less likely theory traces the name to Gk. <span class="foreign">Armeniakon</span> "Armenian," since the substance also was found in Armenia. Also known as <span class="foreign">spirit of hartshorn</span> and <span class="foreign">volatile</span> or <span class="foreign">animal alkali</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657947 -->
+<!-- Page was generated in 0.202123 seconds. -->
+ </body>
+</html>
+<!-- -->

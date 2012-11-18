@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=patrician&allowed_in_frame=0">patrician (n.)</a> <a href="http://dictionary.reference.com/search?q=patrician" class="dictionary" title="Look up patrician at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrician at Dictionary.com" title="Look up patrician at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "member of the ancient Roman noble order," from M.Fr. <span class="foreign">patricien</span>, from L. <span class="foreign">patricius</span> "of the rank of the nobles, of the senators; of fatherly dignity," from <span class="foreign">patres conscripti</span> "Roman senators," lit. "fathers," plural of <span class="foreign">pater</span> "father" (see <a href="/index.php?term=father&allowed_in_frame=0" class="crossreference">father</a> (n.)). Contrasted, in ancient Rome, with <span class="foreign">plebeius</span>. Applied to noble citizens and higher orders of free folk in medieval Italian and German cities (sense attested in English from 1610s); hence "nobleman, aristocrat" in a modern sense (1630s). As an adjective, attested from 1610s, from the noun.</dd>
+
+<dt><a href="/index.php?term=patricide&allowed_in_frame=0">patricide (n.)</a> <a href="http://dictionary.reference.com/search?q=patricide" class="dictionary" title="Look up patricide at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patricide at Dictionary.com" title="Look up patricide at Dictionary.com" /></a></dt>
+<dd>1. "person who kills his father" (1590s), 2. "act of killing one's father" (1620s), from M.Fr. <span class="foreign">patricide</span> in both senses, from 1. L. <span class="foreign">patricida</span> "murderer of a father," 2. L. <span class="foreign">patricidium</span>, from <span class="foreign">pater</span> "father" + 1. <span class="foreign">cida</span> "killer," 2. <span class="foreign">cidium</span> "killing" (see <a href="/index.php?term=-cide&allowed_in_frame=0" class="crossreference">-cide</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Patrick&allowed_in_frame=0">Patrick</a> <a href="http://dictionary.reference.com/search?q=Patrick" class="dictionary" title="Look up Patrick at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Patrick at Dictionary.com" title="Look up Patrick at Dictionary.com" /></a></dt>
+<dd class="highlight">masc. proper name, from O.Ir. <span class="foreign">Patraicc</span> (Ir. <span class="foreign">Padraig</span>), from L. <span class="foreign">Patricius,</span> lit. "a patrician" (see <a href="/index.php?term=patrician&allowed_in_frame=0" class="crossreference">patrician</a>). As a given name, chiefly in northern England and Scotland, in Ireland only a popular name after 1600, due probably to the Scots settlers in Ulster. [Reaney]</dd>
+
+<dt><a href="/index.php?term=patrilineal&allowed_in_frame=0">patrilineal (adj.)</a> <a href="http://dictionary.reference.com/search?q=patrilineal" class="dictionary" title="Look up patrilineal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrilineal at Dictionary.com" title="Look up patrilineal at Dictionary.com" /></a></dt>
+<dd>1904, from <a href="/index.php?term=patri-&allowed_in_frame=0" class="crossreference">patri-</a> + <a href="/index.php?term=lineal&allowed_in_frame=0" class="crossreference">lineal</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patrilocal&allowed_in_frame=0">patrilocal (adj.)</a> <a href="http://dictionary.reference.com/search?q=patrilocal" class="dictionary" title="Look up patrilocal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrilocal at Dictionary.com" title="Look up patrilocal at Dictionary.com" /></a></dt>
+<dd class="highlight">1906,  from <a href="/index.php?term=patri-&allowed_in_frame=0" class="crossreference">patri-</a> + <a href="/index.php?term=local&allowed_in_frame=0" class="crossreference">local</a> (adj.).</dd>
+
+<dt><a href="/index.php?term=patrimonial&allowed_in_frame=0">patrimonial (adj.)</a> <a href="http://dictionary.reference.com/search?q=patrimonial" class="dictionary" title="Look up patrimonial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrimonial at Dictionary.com" title="Look up patrimonial at Dictionary.com" /></a></dt>
+<dd>1520s, from M.Fr. <span class="foreign">patrimonial-</span> and directly from L.L. <span class="foreign">patrimonialis</span>, from L. <span class="foreign">patrimonium</span> (see <a href="/index.php?term=patrimony&allowed_in_frame=0" class="crossreference">patrimony</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=patrimony&allowed_in_frame=0">patrimony (n.)</a> <a href="http://dictionary.reference.com/search?q=patrimony" class="dictionary" title="Look up patrimony at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrimony at Dictionary.com" title="Look up patrimony at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "property of the Church," also "spiritual legacy of Christ," from O.Fr. <span class="foreign">patremoine</span> "heritage, patrimony" (12c.) and directly from L. <span class="foreign">patrimonium</span> "a paternal estate, inheritance from a father," also figurative, from <span class="foreign">pater</span> (gen. <span class="foreign">patris</span>) "father" (see <a href="/index.php?term=father&allowed_in_frame=0" class="crossreference">father</a> (n.)) + <span class="foreign">-monium</span>, suffix signifying action, state, condition. Meaning "property inherited from a father or ancestors" is attested from late 14c. Figurative sense of "immaterial things handed down from the past" is from 1580s. A curious sense contrast to <a href="/index.php?term=matrimony&allowed_in_frame=0" class="crossreference">matrimony</a>.</dd>
+
+<dt><a href="/index.php?term=patriot&allowed_in_frame=0">patriot (n.)</a> <a href="http://dictionary.reference.com/search?q=patriot" class="dictionary" title="Look up patriot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patriot at Dictionary.com" title="Look up patriot at Dictionary.com" /></a></dt>
+<dd>1590s, "compatriot," from M.Fr. <span class="foreign">patriote</span> (15c.) and directly from L.L. <span class="foreign">patriota</span> "fellow-countryman" (6c.), from Gk. <span class="foreign">patriotes</span> "fellow countryman," from <span class="foreign">patrios</span> "of one's fathers," <span class="foreign">patris</span> "fatherland," from <span class="foreign">pater</span> (gen. <span class="foreign">patros</span>) "father" (see <a href="/index.php?term=father&allowed_in_frame=0" class="crossreference">father</a> (n.)); with <span class="foreign">-otes</span>, suffix expressing state or condition. Liddell and Scott write that <span class="foreign">patriotes</span> was "applied to barbarians who had only a common [patris], [politai] being used of Greeks who had a common [polis] (or <span class="foreign">free-state</span>)."
+<BR><BR>
+Meaning "loyal and disinterested supporter of one's country" is attested from c.1600, but became an ironic term of ridicule or abuse from mid-18c. in England, so that Johnson, who at first defined it as "one whose ruling passion is the love of his country," in his fourth edition added, "It is sometimes used for a factious disturber of the government."<blockquote>The name of patriot had become [c.1744] a by-word of derision. Horace Walpole scarcely exaggerated when he said that ... the most popular declaration which a candidate could make on the hustings was that he had never been and never would be a patriot. [Macaulay, "Horace Walpole," 1833]</blockquote>Somewhat revived in reference to resistance movements in overrun countries in World War II, it has usually had a positive sense in American English, where the phony and rascally variety has been consigned to the word <span class="foreign">patrioteer</span> (1928). Oriana Fallaci ["The Rage and the Pride," 2002] marvels that Americans, so fond of <a href="/index.php?term=patriotic&allowed_in_frame=0" class="crossreference">patriotic</a>, <span class="foreign">patriot</span>, and <a href="/index.php?term=patriotism&allowed_in_frame=0" class="crossreference">patriotism</a>, lack the root noun and are content to express the idea of <span class="foreign">patria</span> by cumbersome compounds such as <span class="foreign">homeland</span>. (Joyce, Shaw, and H.G. Wells all used <span class="foreign">patria</span> as an English word early 20c., but it failed to stick.) <span class="foreign">Patriots' Day</span> (April 19, anniversary of the 1775 skirmishes at Lexington and Concord Bridge) was observed as a legal holiday in Maine and Massachusetts from 1894.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Patriot+Act&allowed_in_frame=0">Patriot Act</a> <a href="http://dictionary.reference.com/search?q=Patriot+Act" class="dictionary" title="Look up Patriot Act at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Patriot Act at Dictionary.com" title="Look up Patriot Act at Dictionary.com" /></a></dt>
+<dd class="highlight">signed into law Oct. 26, 2001; a contrived acronym for <span class="foreign">Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism</span> Act of 2001.</dd>
+
+<dt><a href="/index.php?term=patriotic&allowed_in_frame=0">patriotic (adj.)</a> <a href="http://dictionary.reference.com/search?q=patriotic" class="dictionary" title="Look up patriotic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patriotic at Dictionary.com" title="Look up patriotic at Dictionary.com" /></a></dt>
+<dd>1650s, "of one's own country," from Fr. <span class="foreign">patriotique</span> or directly from L.L. <span class="foreign">patrioticus</span>, from Gk. <span class="foreign">patriotikos</span>, from <span class="foreign">patriotes</span> (see <a href="/index.php?term=patriot&allowed_in_frame=0" class="crossreference">patriot</a>). Meaning "loyal, supporting one's own country" is from 1757. Related: <span class="foreign">Patriotical</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patriotism&allowed_in_frame=0">patriotism (n.)</a> <a href="http://dictionary.reference.com/search?q=patriotism" class="dictionary" title="Look up patriotism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patriotism at Dictionary.com" title="Look up patriotism at Dictionary.com" /></a></dt>
+<dd class="highlight">1726, from <a href="/index.php?term=patriot&allowed_in_frame=0" class="crossreference">patriot</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt><a href="/index.php?term=patristic&allowed_in_frame=0">patristic (adj.)</a> <a href="http://dictionary.reference.com/search?q=patristic" class="dictionary" title="Look up patristic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patristic at Dictionary.com" title="Look up patristic at Dictionary.com" /></a></dt>
+<dd>1773, from <a href="/index.php?term=patri-&allowed_in_frame=0" class="crossreference">patri-</a> + <a href="/index.php?term=-istic&allowed_in_frame=0" class="crossreference">-istic</a>. Related: <span class="foreign">patristical</span> (1819).</dd>
+
+<dt class="highlight"><a href="/index.php?term=patroclinous&allowed_in_frame=0">patroclinous (adj.)</a> <a href="http://dictionary.reference.com/search?q=patroclinous" class="dictionary" title="Look up patroclinous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patroclinous at Dictionary.com" title="Look up patroclinous at Dictionary.com" /></a></dt>
+<dd class="highlight">"resembling the father rather than the mother," 1913, from <a href="/index.php?term=patri-&allowed_in_frame=0" class="crossreference">patri-</a> + Gk. <span class="foreign">klinein</span> "to lean" (see <a href="/index.php?term=lean&allowed_in_frame=0" class="crossreference">lean</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=patrol&allowed_in_frame=0">patrol (n.)</a> <a href="http://dictionary.reference.com/search?q=patrol" class="dictionary" title="Look up patrol at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrol at Dictionary.com" title="Look up patrol at Dictionary.com" /></a></dt>
+<dd>1660s, "action of going the rounds" (of a military camp, etc.), from Fr. <span class="foreign">patrouille</span> "a night watch" (1530s), from <span class="foreign">patrouiller</span> "go the rounds to watch or guard," originally "tramp through the mud," probably soldiers' slang, from O.Fr. <span class="foreign">patouiller</span> "paddle in water," probably from <span class="foreign">pate</span> "paw, foot" (see <a href="/index.php?term=patten&allowed_in_frame=0" class="crossreference">patten</a>). Compare <span class="foreign">paddlefoot</span>, World War II U.S. Army slang for "infantry soldier." Meaning "those who go on a patrol" is from 1660s. Sense of "detachment of soldiers sent out to scout the countryside, the enemy, etc." is attested from 1702.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patrol&allowed_in_frame=0">patrol (v.)</a> <a href="http://dictionary.reference.com/search?q=patrol" class="dictionary" title="Look up patrol at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrol at Dictionary.com" title="Look up patrol at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, from <a href="/index.php?term=patrol&allowed_in_frame=0" class="crossreference">patrol</a> (n.) and in part from Fr. <span class="foreign">patrouiller</span>. Related: <span class="foreign">Patrolled</span>; <span class="foreign">patrolling</span>.</dd>
+
+<dt><a href="/index.php?term=patrolman&allowed_in_frame=0">patrolman (n.)</a> <a href="http://dictionary.reference.com/search?q=patrolman" class="dictionary" title="Look up patrolman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patrolman at Dictionary.com" title="Look up patrolman at Dictionary.com" /></a></dt>
+<dd>"police constable on a particular beat," 1841, from <a href="/index.php?term=patrol&allowed_in_frame=0" class="crossreference">patrol</a> (n.) + <a href="/index.php?term=man&allowed_in_frame=0" class="crossreference">man</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=patron&allowed_in_frame=0">patron (n.)</a> <a href="http://dictionary.reference.com/search?q=patron" class="dictionary" title="Look up patron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patron at Dictionary.com" title="Look up patron at Dictionary.com" /></a></dt>
+<dd class="highlight">"a lord-master, a protector," c.1300, from O.Fr. <span class="foreign">patron</span> "patron, protector, patron saint" (12c.) and directly from M.L. <span class="foreign">patronus</span> "patron saint, bestower of a benefice, lord, master, model, pattern," from L. <span class="foreign">patronus</span> "defender, protector, former master (of a freed slave); advocate," from <span class="foreign">pater</span> (gen. <span class="foreign">patris</span>) "father" (see <a href="/index.php?term=father&allowed_in_frame=0" class="crossreference">father</a> (n.)). Meaning "one who advances the cause" (of an artist, institution, etc.), usually by the person's wealth and power, is attested from late 14c.; "commonly a wretch who supports with insolence, and is paid with flattery" [Johnson]. Commercial sense of "regular customer" first recorded c.1600. <span class="foreign">Patron saint</span> (1717) originally was simply <span class="foreign">patron</span> (late 14c.).</dd>
+
+<dt><a href="/index.php?term=patronage&allowed_in_frame=0">patronage (n.)</a> <a href="http://dictionary.reference.com/search?q=patronage" class="dictionary" title="Look up patronage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patronage at Dictionary.com" title="Look up patronage at Dictionary.com" /></a></dt>
+<dd>late 14c., "right of presenting a qualified person to a church benefice," from O.Fr. <span class="foreign">patronage</span> (14c.) from <span class="foreign">patron</span> (see <a href="/index.php?term=patron&allowed_in_frame=0" class="crossreference">patron</a>). Secular sense of "action of giving influential support" is from 1550s. General sense of "power to give jobs or favors" is from 1769; meaning "regular business of customers" is 1804.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patroness&allowed_in_frame=0">patroness (n.)</a> <a href="http://dictionary.reference.com/search?q=patroness" class="dictionary" title="Look up patroness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patroness at Dictionary.com" title="Look up patroness at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from M.L. <span class="foreign">patronissa</span>, fem. of <span class="foreign">patronus</span> "protector, defender" (see <a href="/index.php?term=patron&allowed_in_frame=0" class="crossreference">patron</a>).</dd>
+
+<dt><a href="/index.php?term=patronise&allowed_in_frame=0">patronise (v.)</a> <a href="http://dictionary.reference.com/search?q=patronise" class="dictionary" title="Look up patronise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patronise at Dictionary.com" title="Look up patronise at Dictionary.com" /></a></dt>
+<dd>British English spelling of <a href="/index.php?term=patronize&allowed_in_frame=0" class="crossreference">patronize</a> (q.v.); for suffix, see  <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patronize&allowed_in_frame=0">patronize (v.)</a> <a href="http://dictionary.reference.com/search?q=patronize" class="dictionary" title="Look up patronize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patronize at Dictionary.com" title="Look up patronize at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "to act as a patron towards," from <a href="/index.php?term=patron&allowed_in_frame=0" class="crossreference">patron</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>, or from O.Fr. <span class="foreign">patroniser</span>. Meaning "treat in a condescending way" is first attested 1797; sense of "give regular business to" is from 1801. Related: <span class="foreign">Patronized</span>; <a href="/index.php?term=patronizing&allowed_in_frame=0" class="crossreference">patronizing</a>.</dd>
+
+<dt><a href="/index.php?term=patronizing&allowed_in_frame=0">patronizing (adj.)</a> <a href="http://dictionary.reference.com/search?q=patronizing" class="dictionary" title="Look up patronizing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patronizing at Dictionary.com" title="Look up patronizing at Dictionary.com" /></a></dt>
+<dd>1727, pp. adjective from <a href="/index.php?term=patronize&allowed_in_frame=0" class="crossreference">patronize</a>. Related: <span class="foreign">Patronizingly</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patronym&allowed_in_frame=0">patronym (n.)</a> <a href="http://dictionary.reference.com/search?q=patronym" class="dictionary" title="Look up patronym at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patronym at Dictionary.com" title="Look up patronym at Dictionary.com" /></a></dt>
+<dd class="highlight">1834, from Gk. <span class="foreign">patronymos</span>, from <span class="foreign">patr-</span>, comb. form of <span class="foreign">pater</span> "father" (see <a href="/index.php?term=father&allowed_in_frame=0" class="crossreference">father</a> (n.)) + <span class="foreign">-onym</span> "name" (see <a href="/index.php?term=name&allowed_in_frame=0" class="crossreference">name</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=patronymic&allowed_in_frame=0">patronymic (n.)</a> <a href="http://dictionary.reference.com/search?q=patronymic" class="dictionary" title="Look up patronymic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patronymic at Dictionary.com" title="Look up patronymic at Dictionary.com" /></a></dt>
+<dd>1610s, from L.L. <span class="foreign">patronymicum</span>, from neuter of <span class="foreign">patronymicus</span> "derived from a father's name," from <span class="foreign">patronymos</span> "named from the father," from <span class="foreign">pater</span> (gen. <span class="foreign">patros</span>) "father" (see <a href="/index.php?term=father&allowed_in_frame=0" class="crossreference">father</a> (n.)) + <span class="foreign">onyma</span> "name," Aeolic dialectal variant of <span class="foreign">onoma</span> "name" (see <a href="/index.php?term=name&allowed_in_frame=0" class="crossreference">name</a> (n.)). As an adjective from 1660s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patroon&allowed_in_frame=0">patroon (n.)</a> <a href="http://dictionary.reference.com/search?q=patroon" class="dictionary" title="Look up patroon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patroon at Dictionary.com" title="Look up patroon at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, variant of <a href="/index.php?term=patron&allowed_in_frame=0" class="crossreference">patron</a> used in foreign contexts, from Du. <span class="foreign">patroon</span> (a French loan-word) or Fr. <span class="foreign">patron</span> "master, patron," from Old French (see <a href="/index.php?term=patron&allowed_in_frame=0" class="crossreference">patron</a>; also cf. <a href="/index.php?term=-oon&allowed_in_frame=0" class="crossreference">-oon</a>); used from 1758 in parts of New York and New Jersey colonies for "landholder," especially one with certain manorial privileges (abolished c.1850) under the old Dutch governments by the charter of 1629.</dd>
+
+<dt><a href="/index.php?term=patsy&allowed_in_frame=0">patsy (n.)</a> <a href="http://dictionary.reference.com/search?q=patsy" class="dictionary" title="Look up patsy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patsy at Dictionary.com" title="Look up patsy at Dictionary.com" /></a></dt>
+<dd>"fall guy, victim of a deception," 1903, of uncertain origin, possibly an alteration of It. <span class="foreign">pazzo</span> "madman" (see <a href="/index.php?term=patch&allowed_in_frame=0" class="crossreference">patch</a> (n.2)), or south Italian dialectal <span class="foreign">paccio</span> "fool." Another theory traces it to <span class="foreign">Patsy Bolivar</span>, character created by Billy B. Van in an 1890s vaudeville skit who was blamed whenever anything went wrong.
+<blockquote>
+"Poor Rogers," Vincent said, still smiling, "he is always the 'Patsy Bolivar' of the school."
+<BR>
+"Yes," Frank answered, "if there are any mistakes to be made or trouble to fall into, Rogers seems to be always the victim." ["Anthony Yorke," "A College Boy," 1899]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=patten&allowed_in_frame=0">patten (n.)</a> <a href="http://dictionary.reference.com/search?q=patten" class="dictionary" title="Look up patten at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patten at Dictionary.com" title="Look up patten at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">patin</span> "clog, type of shoe" (13c.), probably from <span class="foreign">pate</span> "paw, foot," from Gallo-Romance <span class="foreign">*pauta</span>, ultimately perhaps imitative of the sound made by a paw. The immediate source has been sought in Celtic [Barnhart] and Germanic [OED], but evidence is wanting. Likely cognates include Prov. <span class="foreign">pauta</span>, Catalan <span class="foreign">pote</span>, M.Du., Du. <span class="foreign">poot</span>, Ger. <span class="foreign">Pfote</span> "paw."</dd>
+
+<dt><a href="/index.php?term=patter&allowed_in_frame=0">patter (v.1)</a> <a href="http://dictionary.reference.com/search?q=patter" class="dictionary" title="Look up patter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patter at Dictionary.com" title="Look up patter at Dictionary.com" /></a></dt>
+<dd>"make quick taps," 1610s, frequentative of <a href="/index.php?term=pat&allowed_in_frame=0" class="crossreference">pat</a> (v.). Related: <span class="foreign">Pattered</span>; <span class="foreign">pattering</span>. As a noun in this sense from 1844.</dd>
+
+<dt class="highlight"><a href="/index.php?term=patter&allowed_in_frame=0">patter (v.2)</a> <a href="http://dictionary.reference.com/search?q=patter" class="dictionary" title="Look up patter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patter at Dictionary.com" title="Look up patter at Dictionary.com" /></a></dt>
+<dd class="highlight">"talk rapidly," c.1400, from <span class="foreign">pater</span> "mumble prayers rapidly" (c.1300), shortened form of <a href="/index.php?term=paternoster&allowed_in_frame=0" class="crossreference">paternoster</a>. Perhaps influenced by <a href="/index.php?term=patter&allowed_in_frame=0" class="crossreference">patter</a> (v.1). The related noun is first recorded 1758, originally "cant language of thieves and beggars." Cf. <span class="foreign">Devil's paternoster</span> (1520s) "a grumbling and mumbling to oneself."</dd>
+
+<dt><a href="/index.php?term=pattern&allowed_in_frame=0">pattern (n.)</a> <a href="http://dictionary.reference.com/search?q=pattern" class="dictionary" title="Look up pattern at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pattern at Dictionary.com" title="Look up pattern at Dictionary.com" /></a></dt>
+<dd>early 14c., "outline, plan, model, pattern;" early 15c. as "model of behavior, exemplar," from O.Fr. <span class="foreign">patron</span> and directly from M.L. <span class="foreign">patronus</span> (see <a href="/index.php?term=patron&allowed_in_frame=0" class="crossreference">patron</a>). Extended sense of "decorative design" first recorded 1580s, from earlier sense of a "patron" as a model to be imitated. The difference in form and sense between <span class="foreign">patron</span> and <span class="foreign">pattern</span> wasn't firm till 1700s. Meaning "model or design in dressmaking" (especially one of paper) is first recorded 1792, in Jane Austen.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pattern&allowed_in_frame=0">pattern (v.)</a> <a href="http://dictionary.reference.com/search?q=pattern" class="dictionary" title="Look up pattern at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pattern at Dictionary.com" title="Look up pattern at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "to make a pattern for, design, plan," from <a href="/index.php?term=pattern&allowed_in_frame=0" class="crossreference">pattern</a> (n.). Meaning "to make something after a pattern" is c.1600. Phrase <span class="foreign">pattern after</span> "take as a model" is from 1878.</dd>
+
+<dt><a href="/index.php?term=patty&allowed_in_frame=0">patty (n.)</a> <a href="http://dictionary.reference.com/search?q=patty" class="dictionary" title="Look up patty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up patty at Dictionary.com" title="Look up patty at Dictionary.com" /></a></dt>
+<dd>"small pie," 1710, from <span class="foreign">patti-pan</span> (1690s) "something baked in a small pan," from Fr. <span class="foreign">p&acirc;t&eacute;</span>, from O.Fr. <span class="foreign">paste</span> (see <a href="/index.php?term=paste&allowed_in_frame=0" class="crossreference">paste</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=paucity&allowed_in_frame=0">paucity (n.)</a> <a href="http://dictionary.reference.com/search?q=paucity" class="dictionary" title="Look up paucity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paucity at Dictionary.com" title="Look up paucity at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">paucit&eacute;</span> (14c.) and directly from L. <span class="foreign">paucitatem</span> (nom. <span class="foreign">paucitas</span>) "fewness, scarcity, a small number," from <span class="foreign">paucus</span> "few, little," from PIE root <span class="foreign">*pau-</span> "few, little" (cf. L. <span class="foreign">paullus</span> "little;" O.E. <span class="foreign">feawe</span> "few;" see <a href="/index.php?term=few&allowed_in_frame=0" class="crossreference">few</a> (adj.).</dd>
+
+<dt><a href="/index.php?term=Paul&allowed_in_frame=0">Paul</a> <a href="http://dictionary.reference.com/search?q=Paul" class="dictionary" title="Look up Paul at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Paul at Dictionary.com" title="Look up Paul at Dictionary.com" /></a></dt>
+<dd>masc. proper name, Biblical name of the apostle to the Gentiles, from L. <span class="foreign">Paulum</span> (nom. <span class="foreign">Paulus</span>),  Roman surname of the Aemilian gens, lit. "small" (see <a href="/index.php?term=few&allowed_in_frame=0" class="crossreference">few</a>). Cf. O.Fr. <span class="foreign">Pol</span>, It. <span class="foreign">Paolo</span>, Sp. <span class="foreign">Pablo</span>, Rus. <span class="foreign">Pavel</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pauldron&allowed_in_frame=0">pauldron (n.)</a> <a href="http://dictionary.reference.com/search?q=pauldron" class="dictionary" title="Look up pauldron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pauldron at Dictionary.com" title="Look up pauldron at Dictionary.com" /></a></dt>
+<dd class="highlight">"armor for the shoulder," mid-15c., from O.Fr. <span class="foreign">espauleron</span>, from espaule (Fr. <span class="foreign">&#233;paule</span>) "shoulder" (see <a href="/index.php?term=epaulet&allowed_in_frame=0" class="crossreference">epaulet</a>)</dd>
+
+<dt><a href="/index.php?term=Pauline&allowed_in_frame=0">Pauline</a> <a href="http://dictionary.reference.com/search?q=Pauline" class="dictionary" title="Look up Pauline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pauline at Dictionary.com" title="Look up Pauline at Dictionary.com" /></a></dt>
+<dd>fem. proper name, fem. of <a href="/index.php?term=Paul&allowed_in_frame=0" class="crossreference">Paul</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pauline&allowed_in_frame=0">Pauline (adj.)</a> <a href="http://dictionary.reference.com/search?q=Pauline" class="dictionary" title="Look up Pauline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pauline at Dictionary.com" title="Look up Pauline at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to the apostle Paul," 1817, from L. <span class="foreign">Paulinus</span>, from <span class="foreign">Paulus</span> (see <a href="/index.php?term=Paul&allowed_in_frame=0" class="crossreference">Paul</a>).</dd>
+
+<dt><a href="/index.php?term=paunch&allowed_in_frame=0">paunch (n.)</a> <a href="http://dictionary.reference.com/search?q=paunch" class="dictionary" title="Look up paunch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paunch at Dictionary.com" title="Look up paunch at Dictionary.com" /></a></dt>
+<dd>late 14c. (late 12c. in surnames), from O.Fr. <span class="foreign">pance</span> (O.N.Fr. <span class="foreign">panche</span>) "belly, stomach," from L. <span class="foreign">panticem</span> (nom. <span class="foreign">pantex</span>) "belly, bowels" (cf. Sp. <span class="foreign">panza</span>, It. <span class="foreign">pancia</span>); possibly related to <span class="foreign">panus</span> "swelling" (see <a href="/index.php?term=panic&allowed_in_frame=0" class="crossreference">panic</a> (n.2)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=paunchy&allowed_in_frame=0">paunchy (adj.)</a> <a href="http://dictionary.reference.com/search?q=paunchy" class="dictionary" title="Look up paunchy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paunchy at Dictionary.com" title="Look up paunchy at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from <a href="/index.php?term=paunch&allowed_in_frame=0" class="crossreference">paunch</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Paunchiness</span>.</dd>
+
+<dt><a href="/index.php?term=pauper&allowed_in_frame=0">pauper (n.)</a> <a href="http://dictionary.reference.com/search?q=pauper" class="dictionary" title="Look up pauper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pauper at Dictionary.com" title="Look up pauper at Dictionary.com" /></a></dt>
+<dd>1510s, "person destitute of property or means of livelihood," from L. <span class="foreign">pauper</span> "poor, not wealthy, of small means," from pre-L. <span class="foreign">*pavo-pars</span> "getting little," from <span class="foreign">pau-</span>, root of <span class="foreign">paucus</span> "little" (see <a href="/index.php?term=paucity&allowed_in_frame=0" class="crossreference">paucity</a>) + <span class="foreign">parere</span> "get, produce" (see <a href="/index.php?term=pare&allowed_in_frame=0" class="crossreference">pare</a>). Originally in English a legal word, from Latin phrase <span class="foreign">in forma pauperis</span> (late 15c.) "in the character of a poor person," thus allowed to sue in court without legal fees.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pause&allowed_in_frame=0">pause (n.)</a> <a href="http://dictionary.reference.com/search?q=pause" class="dictionary" title="Look up pause at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pause at Dictionary.com" title="Look up pause at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from O.Fr. <span class="foreign">pausee</span> "a pause, interruption" (14c.) and directly from L. <span class="foreign">pausa</span> "a halt, stop, cessation," from Gk. <span class="foreign">pausis</span> "stopping, ceasing," from <span class="foreign">pauein</span> "to stop, to cause to cease," from PIE root <span class="foreign">*paus-</span> "to leave, desert, cease, stop."</dd>
+
+<dt><a href="/index.php?term=pause&allowed_in_frame=0">pause (v.)</a> <a href="http://dictionary.reference.com/search?q=pause" class="dictionary" title="Look up pause at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pause at Dictionary.com" title="Look up pause at Dictionary.com" /></a></dt>
+<dd>mid-15c., from <a href="/index.php?term=pause&allowed_in_frame=0" class="crossreference">pause</a> (n.) and from M.Fr. <span class="foreign">pauser</span>, from L.L. <span class="foreign">pausare</span> "to halt, cease, pause." Related: <span class="foreign">Paused</span>; <span class="foreign">pausing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pavan&allowed_in_frame=0">pavan (n.)</a> <a href="http://dictionary.reference.com/search?q=pavan" class="dictionary" title="Look up pavan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pavan at Dictionary.com" title="Look up pavan at Dictionary.com" /></a></dt>
+<dd class="highlight">"slow, stately dance," 1530s, from Fr. <span class="foreign">pavane</span> (1520s), probably from Sp. <span class="foreign">pavana</span>, from <span class="foreign">pavo</span> "peacock" (from L. <span class="foreign">pavo</span>), in reference to the bird's courting movements. But some see an Italian origin and trace the name to <span class="foreign">Padovana</span> "Paduan." Possibly there was a merger of two distinct dance words.</dd>
+
+<dt><a href="/index.php?term=pave&allowed_in_frame=0">pave (v.)</a> <a href="http://dictionary.reference.com/search?q=pave" class="dictionary" title="Look up pave at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pave at Dictionary.com" title="Look up pave at Dictionary.com" /></a></dt>
+<dd>early 14c., "to cover (a street) with stones or other material," from O.Fr. <span class="foreign">paver</span> "to pave" (12c.), perhaps a back formation from O.Fr. <span class="foreign">pavement</span> or else from V.L. <span class="foreign">*pavare</span>, from L. <span class="foreign">pavire</span> "to beat, ram, tread down," from PIE <span class="foreign">*pau-</span> "to cut, strike, stamp" (cf. L. <span class="foreign">putare</span> "to prune;" Gk. <span class="foreign">paiein</span> "to strike;" Lith. <span class="foreign">piauju</span> "to cut," <span class="foreign">piuklas</span> "saw"). Related: <span class="foreign">Paved</span>; <span class="foreign">paving</span>. The figurative sense of "make smooth" (as in <span class="foreign">pave the way</span>) is attested from 1580s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pavement&allowed_in_frame=0">pavement (n.)</a> <a href="http://dictionary.reference.com/search?q=pavement" class="dictionary" title="Look up pavement at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pavement at Dictionary.com" title="Look up pavement at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., from O.Fr. <span class="foreign">pavement</span> "roadway, pathway; paving stone" (12c.) and directly from L. <span class="foreign">pavimentum</span> "hard floor, level surface beaten firm," from <span class="foreign">pavire</span> (see <a href="/index.php?term=pave&allowed_in_frame=0" class="crossreference">pave</a>).</dd>
+
+<dt><a href="/index.php?term=paver&allowed_in_frame=0">paver (n.)</a> <a href="http://dictionary.reference.com/search?q=paver" class="dictionary" title="Look up paver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paver at Dictionary.com" title="Look up paver at Dictionary.com" /></a></dt>
+<dd>late 15c., agent noun from <a href="/index.php?term=pave&allowed_in_frame=0" class="crossreference">pave</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pavilion&allowed_in_frame=0">pavilion (n.)</a> <a href="http://dictionary.reference.com/search?q=pavilion" class="dictionary" title="Look up pavilion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pavilion at Dictionary.com" title="Look up pavilion at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1200, "large, stately tent," from O.Fr. <span class="foreign">paveillon</span> "large tent; butterfly" (12c.), from L. <span class="foreign">papilionem</span> (nom. <span class="foreign">papilio</span>) "butterfly, moth," in Medieval Latin "tent" (see <a href="/index.php?term=papillon&allowed_in_frame=0" class="crossreference">papillon</a>); the type of tent so called on resemblance to wings. Meaning "open building in a park, etc., used for shelter or entertainment" is attested from 1680s.</dd>
+
+<dt><a href="/index.php?term=Pavlovian&allowed_in_frame=0">Pavlovian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Pavlovian" class="dictionary" title="Look up Pavlovian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pavlovian at Dictionary.com" title="Look up Pavlovian at Dictionary.com" /></a></dt>
+<dd>1931, from the theories, experiments, and methods of Russian physiologist Ivan Petrovich <span class="foreign">Pavlov</span> (1849-1936), especially in connection with the salivary reflexes of dogs in response to mental stimulus of the sound of a bell (attested from 1911, in <span class="foreign">Pavloff</span> [sic] <span class="foreign">method</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=paw&allowed_in_frame=0">paw (n.)</a> <a href="http://dictionary.reference.com/search?q=paw" class="dictionary" title="Look up paw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paw at Dictionary.com" title="Look up paw at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">powe</span>, <span class="foreign">poe</span> "paw, fist," of uncertain origin. Evidence points to a Gallo-Romance root form <span class="foreign">*pauta</span> which probably is related to the source of <a href="/index.php?term=patten&allowed_in_frame=0" class="crossreference">patten</a>.</dd>
+
+<dt><a href="/index.php?term=paw&allowed_in_frame=0">paw (v.)</a> <a href="http://dictionary.reference.com/search?q=paw" class="dictionary" title="Look up paw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paw at Dictionary.com" title="Look up paw at Dictionary.com" /></a></dt>
+<dd>"use the hands roughly," c.1600, from <a href="/index.php?term=paw&allowed_in_frame=0" class="crossreference">paw</a> (n.). Related: <span class="foreign">Pawed</span>; <span class="foreign">pawing</span>. Middle English had <span class="foreign">pawen</span> "to touch or strike with the paw" (c.1400).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658586 -->
+<!-- Page was generated in 0.170058 seconds. -->
+ </body>
+</html>
+<!-- -->

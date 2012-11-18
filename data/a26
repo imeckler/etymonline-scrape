@@ -1,0 +1,422 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=amplifier&allowed_in_frame=0">amplifier (n.)</a> <a href="http://dictionary.reference.com/search?q=amplifier" class="dictionary" title="Look up amplifier at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amplifier at Dictionary.com" title="Look up amplifier at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s; agent noun from <a href="/index.php?term=amplify&allowed_in_frame=0" class="crossreference">amplify</a>. Electronic sense is from 1914; shortened form <span class="foreign">amp</span> is from 1967.</dd>
+
+<dt><a href="/index.php?term=amplify&allowed_in_frame=0">amplify (v.)</a> <a href="http://dictionary.reference.com/search?q=amplify" class="dictionary" title="Look up amplify at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amplify at Dictionary.com" title="Look up amplify at Dictionary.com" /></a></dt>
+<dd>early 15c., "to enlarge or expand," from M.Fr. <span class="foreign">amplifier</span>, from L. <span class="foreign">amplificare</span> "to enlarge," from <span class="foreign">amplificus</span> "splendid," from <span class="foreign">amplus</span> "large" (see <a href="/index.php?term=ample&allowed_in_frame=0" class="crossreference">ample</a>) + the root of <span class="foreign">facere</span> "make, do" (see <a href="/index.php?term=factitious&allowed_in_frame=0" class="crossreference">factitious</a>). Meaning "augment in volume or amount" is from 1570s. Restriction of use to sound seems to have emerged in the electronic age, c.1915, in reference to radio technology.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amplitude&allowed_in_frame=0">amplitude (n.)</a> <a href="http://dictionary.reference.com/search?q=amplitude" class="dictionary" title="Look up amplitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amplitude at Dictionary.com" title="Look up amplitude at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from M.Fr. <span class="foreign">amplitude</span> or directly from L. <span class="foreign">amplitudinem</span> (nom. <span class="foreign">amplitudo</span>) "wide extent, width," from <span class="foreign">amplus</span> (see <a href="/index.php?term=ample&allowed_in_frame=0" class="crossreference">ample</a>). <span class="foreign">Amplitude modulation</span> in reference to radio wave broadcast (as opposed to <span class="foreign">frequency modulation</span>) first attested 1921, usually abbreviated <span class="foreign">a.m.</span></dd>
+
+<dt><a href="/index.php?term=amply&allowed_in_frame=0">amply (adv.)</a> <a href="http://dictionary.reference.com/search?q=amply" class="dictionary" title="Look up amply at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amply at Dictionary.com" title="Look up amply at Dictionary.com" /></a></dt>
+<dd>1550s, from <a href="/index.php?term=ample&allowed_in_frame=0" class="crossreference">ample</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ampoule&allowed_in_frame=0">ampoule (n.)</a> <a href="http://dictionary.reference.com/search?q=ampoule" class="dictionary" title="Look up ampoule at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ampoule at Dictionary.com" title="Look up ampoule at Dictionary.com" /></a></dt>
+<dd class="highlight">"small bottle or flask," especially one used for holy liquids, c.1200, from O.Fr. <span class="foreign">ampole</span>, from L. <span class="foreign">ampulla</span> "small globular flask or bottle," of uncertain origin, perhaps a contracted form of <a href="/index.php?term=amphora&allowed_in_frame=0" class="crossreference">amphora</a>.</dd>
+
+<dt><a href="/index.php?term=ampul&allowed_in_frame=0">ampul (n.)</a> <a href="http://dictionary.reference.com/search?q=ampul" class="dictionary" title="Look up ampul at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ampul at Dictionary.com" title="Look up ampul at Dictionary.com" /></a></dt>
+<dd>sealed container holding a dose of medicine, 1907, from Fr. <span class="foreign">ampul</span> (1886), from L. <span class="foreign">ampulla</span> (see <a href="/index.php?term=ampoule&allowed_in_frame=0" class="crossreference">ampoule</a>). A modern borrowing of the word represented by Middle English <span class="foreign">ampoule</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ampulla&allowed_in_frame=0">ampulla (n.)</a> <a href="http://dictionary.reference.com/search?q=ampulla" class="dictionary" title="Look up ampulla at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ampulla at Dictionary.com" title="Look up ampulla at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., type of globular ancient Roman vessel; see <a href="/index.php?term=ampoule&allowed_in_frame=0" class="crossreference">ampoule</a>.</dd>
+
+<dt><a href="/index.php?term=amputate&allowed_in_frame=0">amputate (v.)</a> <a href="http://dictionary.reference.com/search?q=amputate" class="dictionary" title="Look up amputate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amputate at Dictionary.com" title="Look up amputate at Dictionary.com" /></a></dt>
+<dd>1630s, back formation from <a href="/index.php?term=amputation&allowed_in_frame=0" class="crossreference">amputation</a> or else from L. <span class="foreign">amputatus</span>, pp. of <span class="foreign">amputare</span> "to cut off, to prune." Related: <span class="foreign">Amputated</span>; <span class="foreign">amputating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amputation&allowed_in_frame=0">amputation (n.)</a> <a href="http://dictionary.reference.com/search?q=amputation" class="dictionary" title="Look up amputation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amputation at Dictionary.com" title="Look up amputation at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, "a cutting off of tree branches, a pruning," also "operation of cutting off a limb, etc., of a body," from M.Fr. <span class="foreign">amputation</span> or directly from L. <span class="foreign">amputationem</span> (nom. <span class="foreign">amputatio</span>), noun of action from pp. stem of <span class="foreign">amputare</span> "cut off, lop off; cut around, to prune," from <span class="foreign">am(bi)-</span> "about" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + <span class="foreign">putare</span> "to prune, trim" (see <a href="/index.php?term=pave&allowed_in_frame=0" class="crossreference">pave</a>).</dd>
+
+<dt><a href="/index.php?term=amputee&allowed_in_frame=0">amputee (n.)</a> <a href="http://dictionary.reference.com/search?q=amputee" class="dictionary" title="Look up amputee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amputee at Dictionary.com" title="Look up amputee at Dictionary.com" /></a></dt>
+<dd>1910, perhaps on a French model; see <a href="/index.php?term=amputation&allowed_in_frame=0" class="crossreference">amputation</a> + <a href="/index.php?term=-ee&allowed_in_frame=0" class="crossreference">-ee</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amsterdam&allowed_in_frame=0">Amsterdam</a> <a href="http://dictionary.reference.com/search?q=Amsterdam" class="dictionary" title="Look up Amsterdam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amsterdam at Dictionary.com" title="Look up Amsterdam at Dictionary.com" /></a></dt>
+<dd class="highlight">principal city of the Netherlands; the name is a reference to the <span class="foreign">dam</span> built on the <span class="foreign">Amstel</span> river. Prevalence of <span class="foreign">dam</span> in Dutch place names reflects the geography of Holland.</dd>
+
+<dt><a href="/index.php?term=amt&allowed_in_frame=0">amt (n.)</a> <a href="http://dictionary.reference.com/search?q=amt" class="dictionary" title="Look up amt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amt at Dictionary.com" title="Look up amt at Dictionary.com" /></a></dt>
+<dd>territorial division in Denmark and Norway, from Dan. <span class="foreign">amt</span>, from Ger. <span class="foreign">Amt</span> "office," from O.H.G. <span class="foreign">ambaht</span>, of Celtic origin, related to Gallo-Romance <span class="foreign">ambactus</span> "servant" (see <a href="/index.php?term=ambassador&allowed_in_frame=0" class="crossreference">ambassador</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amtrac&allowed_in_frame=0">amtrac (n.)</a> <a href="http://dictionary.reference.com/search?q=amtrac" class="dictionary" title="Look up amtrac at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amtrac at Dictionary.com" title="Look up amtrac at Dictionary.com" /></a></dt>
+<dd class="highlight">amphibious assault vehicle, 1944, from <a href="/index.php?term=amphibious&allowed_in_frame=0" class="crossreference">amphibious</a> + <a href="/index.php?term=tractor&allowed_in_frame=0" class="crossreference">tractor</a>.</dd>
+
+<dt><a href="/index.php?term=Amtrak&allowed_in_frame=0">Amtrak</a> <a href="http://dictionary.reference.com/search?q=Amtrak" class="dictionary" title="Look up Amtrak at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amtrak at Dictionary.com" title="Look up Amtrak at Dictionary.com" /></a></dt>
+<dd>U.S. government-run railway corporation, 1971, contraction of <span class="foreign">American Track</span>. Also is known as National Railway Passenger Corp.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amuck&allowed_in_frame=0">amuck (adv.)</a> <a href="http://dictionary.reference.com/search?q=amuck" class="dictionary" title="Look up amuck at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amuck at Dictionary.com" title="Look up amuck at Dictionary.com" /></a></dt>
+<dd class="highlight">17c., variant of <a href="/index.php?term=amok&allowed_in_frame=0" class="crossreference">amok</a>; treated as <span class="foreign">a muck</span> by Dryden, Byron, etc., and defended by Fowler, who considered <span class="foreign">amok</span> didacticism.</dd>
+
+<dt><a href="/index.php?term=amulet&allowed_in_frame=0">amulet (n.)</a> <a href="http://dictionary.reference.com/search?q=amulet" class="dictionary" title="Look up amulet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amulet at Dictionary.com" title="Look up amulet at Dictionary.com" /></a></dt>
+<dd>mid-15c., <span class="foreign">amalettys</span>, from L. <span class="foreign">amuletum</span> (Pliny) "thing worn as a charm against spells, disease, etc.," of uncertain origin, perhaps related to <span class="foreign">amoliri</span> "to avert, to carry away, remove." Not recorded again in English until c.1600; the 15c. use may be via French.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amuse&allowed_in_frame=0">amuse (v.)</a> <a href="http://dictionary.reference.com/search?q=amuse" class="dictionary" title="Look up amuse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amuse at Dictionary.com" title="Look up amuse at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "to divert the attention, beguile, delude," from M.Fr. <span class="foreign">amuser</span> "divert, cause to muse," from <span class="foreign">a</span> "at, to" (but here probably a causal prefix) + <span class="foreign">muser</span> "ponder, stare fixedly" (see <a href="/index.php?term=muse&allowed_in_frame=0" class="crossreference">muse</a> (v.)). Sense of "divert from serious business, tickle the fancy of" is recorded from 1630s, but through 18c. the primary meaning was "deceive, cheat" by first occupying the attention. <a href="/index.php?term=Bemuse&allowed_in_frame=0" class="crossreference">Bemuse</a> retains more of the original meaning. Related: <span class="foreign">Amused</span>; <a href="/index.php?term=amusing&allowed_in_frame=0" class="crossreference">amusing</a>.</dd>
+
+<dt><a href="/index.php?term=amusement&allowed_in_frame=0">amusement (n.)</a> <a href="http://dictionary.reference.com/search?q=amusement" class="dictionary" title="Look up amusement at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amusement at Dictionary.com" title="Look up amusement at Dictionary.com" /></a></dt>
+<dd>c.1600, "diversion of attention," especially in military actions, from Fr. <span class="foreign">amusement</span>, noun of action from <span class="foreign">amuser</span> (see <a href="/index.php?term=amuse&allowed_in_frame=0" class="crossreference">amuse</a>).
+<blockquote>
+And because all bold and irreverent Speeches touching matters of high nature, and all malicious and false Reports tending to Sedition, or to the Amusement of Our People, are punishable ... (etc.) [Charles II, Proclamation of Oct. 26, 1688]</blockquote>
+Meaning "a pastime, play, game, anything which pleasantly diverts the attention" (from duty, work, etc.) is from 1670s, originally depreciative; meaning "pleasurable diversion" attested from 1690s. <span class="foreign">Amusement hall</span> is from 1862; <span class="foreign">amusement park</span> first recorded 1897. </dd>
+
+<dt class="highlight"><a href="/index.php?term=amusing&allowed_in_frame=0">amusing (adj.)</a> <a href="http://dictionary.reference.com/search?q=amusing" class="dictionary" title="Look up amusing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amusing at Dictionary.com" title="Look up amusing at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, "cheating;" prp. adjective from <a href="/index.php?term=amuse&allowed_in_frame=0" class="crossreference">amuse</a> (v.). Sense of "interesting" is from 1712; that of "pleasantly entertaining, tickling to the fancy" is from 1826. Noted late 1920s as a vogue word. <span class="foreign">Amusive</span> has been tried in all senses since 18c. and might be useful, but it never caught on. Related: <span class="foreign">Amusingly</span>.</dd>
+
+<dt><a href="/index.php?term=Amy&allowed_in_frame=0">Amy</a> <a href="http://dictionary.reference.com/search?q=Amy" class="dictionary" title="Look up Amy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amy at Dictionary.com" title="Look up Amy at Dictionary.com" /></a></dt>
+<dd>fem. proper name, from O.Fr. <span class="foreign">Amee</span>, lit. "beloved," from fem. pp. of <span class="foreign">amer</span> "to love," from L. <span class="foreign">amare</span>, perhaps from PIE <span class="foreign">*am-a-</span>, suffixed form of root <span class="foreign">*am-</span>, a Latin and Celtic root forming various nursery words for "mother, aunt," etc. (cf. L. <span class="foreign">amita</span> "aunt").</dd>
+
+<dt class="highlight"><a href="/index.php?term=amygdala&allowed_in_frame=0">amygdala (n.)</a> <a href="http://dictionary.reference.com/search?q=amygdala" class="dictionary" title="Look up amygdala at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amygdala at Dictionary.com" title="Look up amygdala at Dictionary.com" /></a></dt>
+<dd class="highlight">"the tonsils," 1540s (<span class="foreign">amygdal</span>), from Latin, from Gk. <span class="foreign">amygdale</span> "almond" (see <a href="/index.php?term=almond&allowed_in_frame=0" class="crossreference">almond</a>). The anatomical use is as a direct translation of Arabic <span class="foreign">al-lauzatani</span> "the two tonsils," lit. "the two almonds," so called by Arabic physicians for fancied resemblance. From early 15c. as <span class="foreign">amygdales</span> "tonsils;" as "almonds" from mid-12c.</dd>
+
+<dt><a href="/index.php?term=amyl&allowed_in_frame=0">amyl (n.)</a> <a href="http://dictionary.reference.com/search?q=amyl" class="dictionary" title="Look up amyl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amyl at Dictionary.com" title="Look up amyl at Dictionary.com" /></a></dt>
+<dd>hydrocarbon radical, 1850, from L. <span class="foreign">amylum</span>, from Gk. <span class="foreign">amylon</span> "fine meal, starch," noun use of neuter of adjective <span class="foreign">amylos</span> "not ground at the mill, ground by hand," from <span class="foreign">a-</span>, privative prefix, "not" + <span class="foreign">myle</span> "mill" (see <a href="/index.php?term=mill&allowed_in_frame=0" class="crossreference">mill</a> (n.1)). So called because first obtained from the distilled spirits of potato or grain starch (though it also is obtained from other sources).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amylase&allowed_in_frame=0">amylase (n.)</a> <a href="http://dictionary.reference.com/search?q=amylase" class="dictionary" title="Look up amylase at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amylase at Dictionary.com" title="Look up amylase at Dictionary.com" /></a></dt>
+<dd class="highlight">enzyme which brings about the hydrolysis of starch, 1893, from <a href="/index.php?term=amyl&allowed_in_frame=0" class="crossreference">amyl</a> + chemical suffix <a href="/index.php?term=-ase&allowed_in_frame=0" class="crossreference">-ase</a>.</dd>
+
+<dt><a href="/index.php?term=amyloid&allowed_in_frame=0">amyloid (adj.)</a> <a href="http://dictionary.reference.com/search?q=amyloid" class="dictionary" title="Look up amyloid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amyloid at Dictionary.com" title="Look up amyloid at Dictionary.com" /></a></dt>
+<dd>"starch-like," 1857, coined in German (1839) from L. <span class="foreign">amylum</span> (see <a href="/index.php?term=amyl&allowed_in_frame=0" class="crossreference">amyl</a>) + Greek-derived suffix <a href="/index.php?term=-oid&allowed_in_frame=0" class="crossreference">-oid</a>. The noun is attested from 1872.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amyotrophic+lateral+sclerosis&allowed_in_frame=0">amyotrophic lateral sclerosis</a> <a href="http://dictionary.reference.com/search?q=amyotrophic+lateral+sclerosis" class="dictionary" title="Look up amyotrophic lateral sclerosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amyotrophic lateral sclerosis at Dictionary.com" title="Look up amyotrophic lateral sclerosis at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1881, from French, first word from Gk. <span class="foreign">a-</span>, privative prefix, + <span class="foreign">mys</span>, <span class="foreign">myos</span> "muscle" (see <a href="/index.php?term=muscle&allowed_in_frame=0" class="crossreference">muscle</a>) + <span class="foreign">trophikos</span> "feeding," from <span class="foreign">trophe</span> "nourishment" (see <a href="/index.php?term=-trophy&allowed_in_frame=0" class="crossreference">-trophy</a>). Often known in U.S. as Lou Gehrig's disease, after the New York Yankees baseball player (1903–1941) who was diagnosed with it in 1939.</dd>
+
+<dt><a href="/index.php?term=an&allowed_in_frame=0">an</a> <a href="http://dictionary.reference.com/search?q=an" class="dictionary" title="Look up an at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up an at Dictionary.com" title="Look up an at Dictionary.com" /></a></dt>
+<dd>indefinite article before words beginning with vowels, 12c., from O.E. <span class="foreign">an</span> (with a long vowel) "one; lone," also used as a prefix <span class="foreign">an-</span> "single, lone;" see <a href="/index.php?term=one&allowed_in_frame=0" class="crossreference">one</a> for the divergence of that word from this. Also see <a href="/index.php?term=a&allowed_in_frame=0" class="crossreference">a</a>, of which this is the older, fuller form.
+<BR><BR>
+In other European languages, identity between indefinite article and the word for "one" remains explicit (e.g. Fr. <span class="foreign">un</span>, Ger. <span class="foreign">ein</span>, etc.) Old English got by without indefinite articles: <span class="foreign">He was a good man</span> in Old English was <span class="foreign">he w&aelig;s god man</span>. Circa 15c., <span class="foreign">a</span> and <span class="foreign">an</span> commonly were written as one word with the following noun, which contributed to the confusion over how such words as <a href="/index.php?term=newt&allowed_in_frame=0" class="crossreference">newt</a> and <a href="/index.php?term=umpire&allowed_in_frame=0" class="crossreference">umpire</a> ought to be divided (see <a href="/index.php?term=N&allowed_in_frame=0" class="crossreference">N</a>).
+<BR><BR>
+In Shakespeare, etc., <span class="foreign">an</span> sometimes is a contraction of <span class="foreign">as if</span> (a usage first attested c.1300), especially before <span class="foreign">it</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=an-&allowed_in_frame=0">an- (1)</a> <a href="http://dictionary.reference.com/search?q=an-" class="dictionary" title="Look up an- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up an- at Dictionary.com" title="Look up an- at Dictionary.com" /></a></dt>
+<dd class="highlight">privative prefix, from Gk. <span class="foreign">an-</span>, "not, without," related to <span class="foreign">ne-</span> and cognate with Skt. <span class="foreign">an-</span>, L. <span class="foreign">in-</span>, Goth., O.E. <span class="foreign">un-</span> (see <a href="/index.php?term=un-&allowed_in_frame=0" class="crossreference">un-</a>).</dd>
+
+<dt><a href="/index.php?term=an-&allowed_in_frame=0">an- (2)</a> <a href="http://dictionary.reference.com/search?q=an-" class="dictionary" title="Look up an- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up an- at Dictionary.com" title="Look up an- at Dictionary.com" /></a></dt>
+<dd>form of L. <span class="foreign">ad-</span> before <span class="foreign">-n-</span> (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=ana-&allowed_in_frame=0">ana-</a> <a href="http://dictionary.reference.com/search?q=ana-" class="dictionary" title="Look up ana- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ana- at Dictionary.com" title="Look up ana- at Dictionary.com" /></a></dt>
+<dd class="highlight">before verbs <span class="foreign">an-</span>, prefix meaning 1. "upward," 2. "back, backward, against," 3. "again, anew," from Gk. <span class="foreign">ana-</span> "up to, toward, exceedingly, back, against," from <span class="foreign">ana</span> "up, on, upon, throughout, again," cognate with O.E. <span class="foreign">on,</span> from PIE root <span class="foreign">*ano-</span> "on, upon, above" (see <a href="/index.php?term=on&allowed_in_frame=0" class="crossreference">on</a>).</dd>
+
+<dt><a href="/index.php?term=anabaptism&allowed_in_frame=0">anabaptism (n.)</a> <a href="http://dictionary.reference.com/search?q=anabaptism" class="dictionary" title="Look up anabaptism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anabaptism at Dictionary.com" title="Look up anabaptism at Dictionary.com" /></a></dt>
+<dd>1640s (as a Christian doctrine, with capital <span class="foreign">A-</span>, from 1570s), from M.L. <span class="foreign">anabaptismus</span>, from Late Gk. <span class="foreign">anabaptismos</span>, from <span class="foreign">ana-</span> "up (in place or time), back again, anew" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">baptismos</span> "baptism" (see <a href="/index.php?term=baptism&allowed_in_frame=0" class="crossreference">baptism</a>). </dd>
+
+<dt class="highlight"><a href="/index.php?term=Anabaptist&allowed_in_frame=0">Anabaptist (n.)</a> <a href="http://dictionary.reference.com/search?q=Anabaptist" class="dictionary" title="Look up Anabaptist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anabaptist at Dictionary.com" title="Look up Anabaptist at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "one who baptizes over again," from Mod.L. <span class="foreign">anabaptista</span>, from L. <span class="foreign">anabaptismus</span> "second baptism" (used in literal sense from 4c.; see <a href="/index.php?term=anabaptism&allowed_in_frame=0" class="crossreference">anabaptism</a>). Originally in English in reference to sect that practiced adult baptism and arose in Germany 1521. Probably so called because, as a new faith, they baptized converts who already had been baptized (as infants) in the older Christian churches. Modern branches only baptize once (adults) and do not actively seek converts. The name also was applied, usually opprobriously, to <span class="foreign">Baptists</span>, perhaps due to the multiple immersions of their baptisms.</dd>
+
+<dt><a href="/index.php?term=anabasis&allowed_in_frame=0">anabasis (n.)</a> <a href="http://dictionary.reference.com/search?q=anabasis" class="dictionary" title="Look up anabasis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anabasis at Dictionary.com" title="Look up anabasis at Dictionary.com" /></a></dt>
+<dd>1706, from Greek, "military expedition," lit. "a going up (from the coast)," especially in reference to the advance of Cyrus the Younger from near the Aegean coast into Asia, and the subsequent story of the retreat of the 10,000 narrated by Xenophon (401 B.C.E.), from <span class="foreign">anabainein</span> "to go up, mount;" from <span class="foreign">ana</span> "up" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">bainein</span> "to go" (see <a href="/index.php?term=come&allowed_in_frame=0" class="crossreference">come</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=anabolic&allowed_in_frame=0">anabolic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anabolic" class="dictionary" title="Look up anabolic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anabolic at Dictionary.com" title="Look up anabolic at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to the process of building up (especially in metabolism)," 1876, from Gk. <span class="foreign">anabole</span> "that which is thrown up; a mound," from <span class="foreign">anaballein</span> "to throw or toss up," from <span class="foreign">ana</span> "up, upward" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">ballein</span> "to throw" (see <a href="/index.php?term=ballistics&allowed_in_frame=0" class="crossreference">ballistics</a>).</dd>
+
+<dt><a href="/index.php?term=anabolism&allowed_in_frame=0">anabolism (n.)</a> <a href="http://dictionary.reference.com/search?q=anabolism" class="dictionary" title="Look up anabolism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anabolism at Dictionary.com" title="Look up anabolism at Dictionary.com" /></a></dt>
+<dd>1886; see <a href="/index.php?term=anabolic&allowed_in_frame=0" class="crossreference">anabolic</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anachronism&allowed_in_frame=0">anachronism (n.)</a> <a href="http://dictionary.reference.com/search?q=anachronism" class="dictionary" title="Look up anachronism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anachronism at Dictionary.com" title="Look up anachronism at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, "an error in computing time or finding dates," from L. <span class="foreign">anachronismus</span>, from Gk. <span class="foreign">anakhronismos</span>, from <span class="foreign">anakhronizein</span> "refer to wrong time," from <span class="foreign">ana-</span> "against" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">khronos</span> "time" (see <a href="/index.php?term=chrono-&allowed_in_frame=0" class="crossreference">chrono-</a>). Meaning "something out of harmony with the present" first recorded 1816.</dd>
+
+<dt><a href="/index.php?term=anachronistic&allowed_in_frame=0">anachronistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anachronistic" class="dictionary" title="Look up anachronistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anachronistic at Dictionary.com" title="Look up anachronistic at Dictionary.com" /></a></dt>
+<dd>1775; see <a href="/index.php?term=anachronism&allowed_in_frame=0" class="crossreference">anachronism</a> + <a href="/index.php?term=-istic&allowed_in_frame=0" class="crossreference">-istic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anacoluthon&allowed_in_frame=0">anacoluthon (n.)</a> <a href="http://dictionary.reference.com/search?q=anacoluthon" class="dictionary" title="Look up anacoluthon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anacoluthon at Dictionary.com" title="Look up anacoluthon at Dictionary.com" /></a></dt>
+<dd class="highlight">"want of grammatical sequence; changing constructions in mid-clause," 1706, from Latinized form of Gk. <span class="foreign">anakoluthon</span>, neuter of <span class="foreign">anakolouthos</span> "inconsequent," from <span class="foreign">an-</span> "not" (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">akolouthos</span> "following," from copulative prefix <span class="foreign">a-</span> + <span class="foreign">keleuthos</span> "way, road, track, path" (see <a href="/index.php?term=celerity&allowed_in_frame=0" class="crossreference">celerity</a>).</dd>
+
+<dt><a href="/index.php?term=anaconda&allowed_in_frame=0">anaconda (n.)</a> <a href="http://dictionary.reference.com/search?q=anaconda" class="dictionary" title="Look up anaconda at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaconda at Dictionary.com" title="Look up anaconda at Dictionary.com" /></a></dt>
+<dd>1768, a name first used in English to name a Ceylonese python, it was applied erroneously to a large South American boa, called in Brazil <span class="foreign">sucuriuba</span>. The word is of uncertain origin, and no snake name like it now is found in Sinhalese or Tamil. One suggestion is that it is a Latinization of Sinhalese <span class="foreign">henacandaya</span> "whip snake," lit. "lightning-stem" [Barnhart]. Another suggestion is that it represents Tamil <span class="foreign">anaikkonda</span> "having killed an elephant" [OED].</dd>
+
+<dt class="highlight"><a href="/index.php?term=Anacreontic&allowed_in_frame=0">Anacreontic (adj.)</a> <a href="http://dictionary.reference.com/search?q=Anacreontic" class="dictionary" title="Look up Anacreontic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anacreontic at Dictionary.com" title="Look up Anacreontic at Dictionary.com" /></a></dt>
+<dd class="highlight">of or in the manner of <span class="foreign">Anacreon</span>, "convivial bard of Greece" (lit. "Up-lord"), the celebrated Greek lyrical poet (560-478 B.C.E.), born at Teos in Ionia. Also in reference to his lyric form (1706) of a four-line stanza, rhymed alternately, each line with four beats (three trochees and a long syllable), also "convivial and amatory" (1801); and "an erotic poem celebrating love and wine" (1650s).
+<BR><BR>
+Francis Scott Key in 1814 set or wrote his poem "The Star-Spangled Banner" to the melody of "To Anacreon in Heav'n," the drinking song of the popular London gentleman's club called The Anacreontic Society, whose membership was dedicated to "wit, harmony, and the god of wine." The tune is late 18c. and may be the work of society member and court musician John Stafford Smith (1750-1836).</dd>
+
+<dt><a href="/index.php?term=anacrusis&allowed_in_frame=0">anacrusis (n.)</a> <a href="http://dictionary.reference.com/search?q=anacrusis" class="dictionary" title="Look up anacrusis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anacrusis at Dictionary.com" title="Look up anacrusis at Dictionary.com" /></a></dt>
+<dd>"unstressed syllable at the beginning of a verse," 1833, Latinized from Gk. <span class="foreign">anakrousis</span> "a pushing back," of a ship, "backing water," from <span class="foreign">anakrouein</span> "to push back, stop short, check," from <span class="foreign">ana-</span> "back" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">krouein</span> "to strike" (cognate with Rus. <span class="foreign">krusit</span>, Lith. <span class="foreign">krusu</span> "to smash, shatter," O.C.S. <span class="foreign">kruchu</span> "piece, bit of food"), from PIE <span class="foreign">*kreue-</span> (2) "to push, strike."</dd>
+
+<dt class="highlight"><a href="/index.php?term=anadiplosis&allowed_in_frame=0">anadiplosis (n.)</a> <a href="http://dictionary.reference.com/search?q=anadiplosis" class="dictionary" title="Look up anadiplosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anadiplosis at Dictionary.com" title="Look up anadiplosis at Dictionary.com" /></a></dt>
+<dd class="highlight">"repetition of an initial word," 1580s, from Latin, from Gk. <span class="foreign">anadiplosis</span>, from <span class="foreign">anadiploesthai</span> "to be doubled back, to be made double," from <span class="foreign">ana</span> "back" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">diploun</span> "to double, fold over" (see <a href="/index.php?term=diploma&allowed_in_frame=0" class="crossreference">diploma</a>).</dd>
+
+<dt><a href="/index.php?term=anadromous&allowed_in_frame=0">anadromous (adj.)</a> <a href="http://dictionary.reference.com/search?q=anadromous" class="dictionary" title="Look up anadromous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anadromous at Dictionary.com" title="Look up anadromous at Dictionary.com" /></a></dt>
+<dd>of fish, "ascending a river to spawn" (as salmon do), 1753, from Gk. <span class="foreign">anadromos</span> "running upward," from <span class="foreign">ana</span> "up, back" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">dramein</span> "to run" (see <a href="/index.php?term=dromedary&allowed_in_frame=0" class="crossreference">dromedary</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=anaemia&allowed_in_frame=0">anaemia (n.)</a> <a href="http://dictionary.reference.com/search?q=anaemia" class="dictionary" title="Look up anaemia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaemia at Dictionary.com" title="Look up anaemia at Dictionary.com" /></a></dt>
+<dd class="highlight">1824, from French medical term (1761), Modern Latin, from Gk. <span class="foreign">anaimia</span> "lack of blood," from <span class="foreign">anaimos</span> "bloodless," from <span class="foreign">an-</span> "without" (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">haima</span> "blood" (see <a href="/index.php?term=-emia&allowed_in_frame=0" class="crossreference">-emia</a>).</dd>
+
+<dt><a href="/index.php?term=anaemic&allowed_in_frame=0">anaemic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anaemic" class="dictionary" title="Look up anaemic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaemic at Dictionary.com" title="Look up anaemic at Dictionary.com" /></a></dt>
+<dd>c.1840; see <a href="/index.php?term=anaemia&allowed_in_frame=0" class="crossreference">anaemia</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. Figurative sense by 1898.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anaerobic&allowed_in_frame=0">anaerobic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anaerobic" class="dictionary" title="Look up anaerobic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaerobic at Dictionary.com" title="Look up anaerobic at Dictionary.com" /></a></dt>
+<dd class="highlight">"capable of living without oxygen," 1879 (as <span class="foreign">anaerobian</span>; modern form first attested 1884), from Fr. <span class="foreign">ana&eacute;robie,</span> coined 1863 by French bacteriologist Louis Pasteur (1822-1895), from Gk. <span class="foreign">an-</span> "without" (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">aer</span> "air" (see <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1)) + <span class="foreign">bios</span> "life" (see <a href="/index.php?term=bio-&allowed_in_frame=0" class="crossreference">bio-</a>).</dd>
+
+<dt><a href="/index.php?term=anaesthesia&allowed_in_frame=0">anaesthesia (n.)</a> <a href="http://dictionary.reference.com/search?q=anaesthesia" class="dictionary" title="Look up anaesthesia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaesthesia at Dictionary.com" title="Look up anaesthesia at Dictionary.com" /></a></dt>
+<dd>1721, "loss of feeling," Modern Latin, from Gk. <span class="foreign">anaisthesia</span> "want of feeling, lack of sensation (to pleasure or pain)," from <span class="foreign">an-</span> "without" (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1)) + <span class="foreign">aisthesis</span> "feeling," from PIE root <span class="foreign">*au-</span> "to perceive" (see <a href="/index.php?term=audience&allowed_in_frame=0" class="crossreference">audience</a>). As "a procedure for the prevention of pain in surgical operations," from 1846.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anaesthesiologist&allowed_in_frame=0">anaesthesiologist (n.)</a> <a href="http://dictionary.reference.com/search?q=anaesthesiologist" class="dictionary" title="Look up anaesthesiologist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaesthesiologist at Dictionary.com" title="Look up anaesthesiologist at Dictionary.com" /></a></dt>
+<dd class="highlight">1943, American English, from <a href="/index.php?term=anaesthesiology&allowed_in_frame=0" class="crossreference">anaesthesiology</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=anaesthesiology&allowed_in_frame=0">anaesthesiology (n.)</a> <a href="http://dictionary.reference.com/search?q=anaesthesiology" class="dictionary" title="Look up anaesthesiology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaesthesiology at Dictionary.com" title="Look up anaesthesiology at Dictionary.com" /></a></dt>
+<dd>1908, from <a href="/index.php?term=anaesthesia&allowed_in_frame=0" class="crossreference">anaesthesia</a> + <a href="/index.php?term=-ology&allowed_in_frame=0" class="crossreference">-ology</a>.
+<blockquote>
+Anesthesiology. This is the new term adopted by the University of Illinois defining "the science that treats of the means and methods of producing in man or animal various degrees of insensibility with or without hypnosis." ["Medical Herald," January, 1912]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=anaesthetic&allowed_in_frame=0">anaesthetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anaesthetic" class="dictionary" title="Look up anaesthetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaesthetic at Dictionary.com" title="Look up anaesthetic at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, "insensible," from Gk. <span class="foreign">anaisthetos</span> "insensate, without feeling; senseless, stupid" (see <a href="/index.php?term=anaesthesia&allowed_in_frame=0" class="crossreference">anaesthesia</a>). Noun meaning "agent that produces anesthesia" first used in modern sense 1848 by Scottish doctor James Young Simpson (1811-1870), discoverer of the surgical uses of chloroform.</dd>
+
+<dt><a href="/index.php?term=anaesthetist&allowed_in_frame=0">anaesthetist (n.)</a> <a href="http://dictionary.reference.com/search?q=anaesthetist" class="dictionary" title="Look up anaesthetist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anaesthetist at Dictionary.com" title="Look up anaesthetist at Dictionary.com" /></a></dt>
+<dd>1861; see <a href="/index.php?term=anaesthesia&allowed_in_frame=0" class="crossreference">anaesthesia</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657948 -->
+<!-- Page was generated in 0.199852 seconds. -->
+ </body>
+</html>
+<!-- -->

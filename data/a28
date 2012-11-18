@@ -1,0 +1,416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=anathematize&allowed_in_frame=0">anathematize (v.)</a> <a href="http://dictionary.reference.com/search?q=anathematize" class="dictionary" title="Look up anathematize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anathematize at Dictionary.com" title="Look up anathematize at Dictionary.com" /></a></dt>
+<dd class="highlight">"to pronounce an anathema against," 1560s, from Fr. <span class="foreign">anath&eacute;matiser</span> (O.Fr. <span class="foreign">anatemer</span>), from L. <span class="foreign">anathematizare</span>, from Gk. <span class="foreign">anathematizein</span> "to devote (to evil)," from stem of <a href="/index.php?term=anathema&allowed_in_frame=0" class="crossreference">anathema</a>. Alternative <span class="foreign">anathemize</span> (1670s) is less correct and more rare. Related: <span class="foreign">Anathematized</span>; <span class="foreign">anathematizing</span>.</dd>
+
+<dt><a href="/index.php?term=Anatolia&allowed_in_frame=0">Anatolia</a> <a href="http://dictionary.reference.com/search?q=Anatolia" class="dictionary" title="Look up Anatolia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Anatolia at Dictionary.com" title="Look up Anatolia at Dictionary.com" /></a></dt>
+<dd>ancient name of Asia Minor, from M.L. <span class="foreign">Anatolia,</span> from Gk. <span class="foreign">anatole</span> "the east," originally "sunrise" (which of course happens in the east), lit. "a rising above (the horizon)," from <span class="foreign">anatellein</span> "to rise," from <span class="foreign">ana</span> "up" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">tellein</span> "to accomplish, perform."</dd>
+
+<dt class="highlight"><a href="/index.php?term=anatomic&allowed_in_frame=0">anatomic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anatomic" class="dictionary" title="Look up anatomic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anatomic at Dictionary.com" title="Look up anatomic at Dictionary.com" /></a></dt>
+<dd class="highlight">1712, from L. <span class="foreign">anatomicus</span>, from Gk. <span class="foreign">anatomikos</span> "relating to anatomy," from <span class="foreign">anatomia</span> (see <a href="/index.php?term=anatomy&allowed_in_frame=0" class="crossreference">anatomy</a>). <a href="/index.php?term=Anatomical&allowed_in_frame=0" class="crossreference">Anatomical</a> is older.</dd>
+
+<dt><a href="/index.php?term=anatomical&allowed_in_frame=0">anatomical (adj.)</a> <a href="http://dictionary.reference.com/search?q=anatomical" class="dictionary" title="Look up anatomical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anatomical at Dictionary.com" title="Look up anatomical at Dictionary.com" /></a></dt>
+<dd>1580s; see <a href="/index.php?term=anatomy&allowed_in_frame=0" class="crossreference">anatomy</a> + <a href="/index.php?term=-ical&allowed_in_frame=0" class="crossreference">-ical</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anatomically&allowed_in_frame=0">anatomically (adv.)</a> <a href="http://dictionary.reference.com/search?q=anatomically" class="dictionary" title="Look up anatomically at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anatomically at Dictionary.com" title="Look up anatomically at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from <a href="/index.php?term=anatomical&allowed_in_frame=0" class="crossreference">anatomical</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). <span class="foreign">Anatomically correct</span>, of dolls and meaning "with genitalia," is attested 1968, perhaps 1967, Amer.Eng., in reference to <span class="foreign">Petit Fr&#232;re</span>, an imported French boy doll.</dd>
+
+<dt><a href="/index.php?term=anatomize&allowed_in_frame=0">anatomize (v.)</a> <a href="http://dictionary.reference.com/search?q=anatomize" class="dictionary" title="Look up anatomize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anatomize at Dictionary.com" title="Look up anatomize at Dictionary.com" /></a></dt>
+<dd>"to dissect, investigate by dissection," early 15c., from M.L. <span class="foreign">anatomizare</span> or Fr. <span class="foreign">anatomiser</span> (16c.), from Gk. <span class="foreign">anatomia</span> (see <a href="/index.php?term=anatomy&allowed_in_frame=0" class="crossreference">anatomy</a>). Related: <span class="foreign">Anatomized</span>; <span class="foreign">anatomizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anatomy&allowed_in_frame=0">anatomy (n.)</a> <a href="http://dictionary.reference.com/search?q=anatomy" class="dictionary" title="Look up anatomy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anatomy at Dictionary.com" title="Look up anatomy at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "study of the structure of living beings;" c.1400, "anatomical structures," from O.Fr. <span class="foreign">anatomie</span>, from L.L. <span class="foreign">anatomia</span>, from Gk. <span class="foreign">anatomia</span>, from <span class="foreign">anatome</span> "dissection," from <span class="foreign">ana-</span> "up" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">temnein</span> "to cut" (see <a href="/index.php?term=tome&allowed_in_frame=0" class="crossreference">tome</a>). "Dissection" (1540s), "mummy" (1580s), and "skeleton" (1590s) were primary senses of this word in Shakespeare's day; meaning "the science of the structure of organized bodies" predominated from 17c. Often mistakenly divided as <span class="foreign">an atomy</span> or <span class="foreign">a natomy.</span><blockquote>The scyence of the Nathomy is nedefull and necessarye to the Cyrurgyen [1541]</blockquote></dd>
+
+<dt><a href="/index.php?term=ancestor&allowed_in_frame=0">ancestor (n.)</a> <a href="http://dictionary.reference.com/search?q=ancestor" class="dictionary" title="Look up ancestor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancestor at Dictionary.com" title="Look up ancestor at Dictionary.com" /></a></dt>
+<dd>c.1300, <span class="foreign">ancestre</span>, <span class="foreign">antecessour</span>, from O.Fr. <span class="foreign">ancestre</span> (12c., Mod.Fr. <span class="foreign">anc&ecirc;tre</span>), from L.L. <span class="foreign">antecessor</span> "predecessor," lit. "foregoer," agent noun from pp. stem of L. <span class="foreign">antecedere</span> "to precede," from <span class="foreign">ante-</span> "before" (see <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>) + <span class="foreign">cedere</span> "to go" (see <a href="/index.php?term=cede&allowed_in_frame=0" class="crossreference">cede</a>). Current form from early 15c. Feminine form <span class="foreign">ancestress</span> recorded from 1570s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ancestral&allowed_in_frame=0">ancestral (adj.)</a> <a href="http://dictionary.reference.com/search?q=ancestral" class="dictionary" title="Look up ancestral at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancestral at Dictionary.com" title="Look up ancestral at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from O.Fr. <span class="foreign">ancestrel</span> (Anglo-Fr. <span class="foreign">auncestrel</span>), from <span class="foreign">ancestre</span> (see <a href="/index.php?term=ancestor&allowed_in_frame=0" class="crossreference">ancestor</a>). Related: <span class="foreign">Ancestrally</span>.</dd>
+
+<dt><a href="/index.php?term=ancestry&allowed_in_frame=0">ancestry (n.)</a> <a href="http://dictionary.reference.com/search?q=ancestry" class="dictionary" title="Look up ancestry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancestry at Dictionary.com" title="Look up ancestry at Dictionary.com" /></a></dt>
+<dd>early 14c., from O.Fr. <span class="foreign">ancesserie</span> "ancestry, ancestors, forefathers," from <span class="foreign">ancestre</span> (see <a href="/index.php?term=ancestor&allowed_in_frame=0" class="crossreference">ancestor</a>); spelling modified in English by influence of <span class="foreign">ancestor</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anchor&allowed_in_frame=0">anchor (n.)</a> <a href="http://dictionary.reference.com/search?q=anchor" class="dictionary" title="Look up anchor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchor at Dictionary.com" title="Look up anchor at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">ancor</span>, borrowed 9c. from L. <span class="foreign">ancora</span> "anchor," from or cognate with Gk. <span class="foreign">ankyra</span> "anchor, hook" (see <a href="/index.php?term=ankle&allowed_in_frame=0" class="crossreference">ankle</a>). A very early borrowing and said to be the only Latin nautical term used in the Germanic languages. The <span class="foreign">-ch-</span> form emerged late 16c., a pedantic imitation of a corrupt spelling of the Latin word. The figurative sense of "that which gives stability or security" is from late 14c. Meaning "host or presenter of a TV or radio program" is from 1965, short for <a href="/index.php?term=anchorman&allowed_in_frame=0" class="crossreference">anchorman</a>.</dd>
+
+<dt><a href="/index.php?term=anchor&allowed_in_frame=0">anchor (v.)</a> <a href="http://dictionary.reference.com/search?q=anchor" class="dictionary" title="Look up anchor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchor at Dictionary.com" title="Look up anchor at Dictionary.com" /></a></dt>
+<dd>c.1200, from <a href="/index.php?term=anchor&allowed_in_frame=0" class="crossreference">anchor</a> (n.). Related: <span class="foreign">Anchored</span>; <span class="foreign">anchoring</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anchorage&allowed_in_frame=0">anchorage (n.)</a> <a href="http://dictionary.reference.com/search?q=anchorage" class="dictionary" title="Look up anchorage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchorage at Dictionary.com" title="Look up anchorage at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "toll or charge for anchoring" (see <a href="/index.php?term=anchor&allowed_in_frame=0" class="crossreference">anchor</a> (v.) + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>). Meaning "act of dropping anchor, being at anchor" is from 1610s; that of "place suitable for anchoring" is from 1706. The Alaska city of <span class="foreign">Anchorage</span> was founded 1914.</dd>
+
+<dt><a href="/index.php?term=anchoress&allowed_in_frame=0">anchoress (n.)</a> <a href="http://dictionary.reference.com/search?q=anchoress" class="dictionary" title="Look up anchoress at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchoress at Dictionary.com" title="Look up anchoress at Dictionary.com" /></a></dt>
+<dd>"female recluse, nun," late 14c.; see <a href="/index.php?term=anchorite&allowed_in_frame=0" class="crossreference">anchorite</a> + <a href="/index.php?term=-ess&allowed_in_frame=0" class="crossreference">-ess</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anchorite&allowed_in_frame=0">anchorite (n.)</a> <a href="http://dictionary.reference.com/search?q=anchorite" class="dictionary" title="Look up anchorite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchorite at Dictionary.com" title="Look up anchorite at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "hermit (especially those of the Eastern deserts), recluse, one who withdraws from the world for religious reasons," from M.L. <span class="foreign">anchorita</span>, from Gk. <span class="foreign">anakhoretes</span>, lit. "one who has retired," agent noun from <span class="foreign">anakhorein</span> "to retreat, go back, retire," from <span class="foreign">ana-</span> "back" (see <a href="/index.php?term=ana-&allowed_in_frame=0" class="crossreference">ana-</a>) + <span class="foreign">khorein</span> "withdraw, give place," from <span class="foreign">khoros</span> "place, space, free space, room." Replaced O.E. <span class="foreign">ancer</span>, from L.L. <span class="foreign">anchoreta</span>.</dd>
+
+<dt><a href="/index.php?term=anchorman&allowed_in_frame=0">anchorman (n.)</a> <a href="http://dictionary.reference.com/search?q=anchorman" class="dictionary" title="Look up anchorman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchorman at Dictionary.com" title="Look up anchorman at Dictionary.com" /></a></dt>
+<dd>"last man of a tug-of-war team," 1909, from <a href="/index.php?term=anchor&allowed_in_frame=0" class="crossreference">anchor</a> + <a href="/index.php?term=man&allowed_in_frame=0" class="crossreference">man</a> (n.). Later, "one who runs last in a relay race" (1934). Transferred sense "host or presenter of a TV or radio program" is from 1958.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=anchovy&allowed_in_frame=0">anchovy (n.)</a> <a href="http://dictionary.reference.com/search?q=anchovy" class="dictionary" title="Look up anchovy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchovy at Dictionary.com" title="Look up anchovy at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from Port. <span class="foreign">anchova</span>, from Genoese or Corsican dialect, perhaps ultimately from either L. <span class="foreign">apua</span> "small fish" (from Gk. <span class="foreign">aphye</span> "small fry") [Gamillscheg, Diez], or from Basque <span class="foreign">anchu</span> "dried fish," from <span class="foreign">anchuva</span> "dry" [Klein, citing Mahn].</dd>
+
+<dt><a href="/index.php?term=anchylosis&allowed_in_frame=0">anchylosis (n.)</a> <a href="http://dictionary.reference.com/search?q=anchylosis" class="dictionary" title="Look up anchylosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anchylosis at Dictionary.com" title="Look up anchylosis at Dictionary.com" /></a></dt>
+<dd>"stiffness of joints," 1713, from Gk. <span class="foreign">ankylos</span> "crooked" (see <a href="/index.php?term=angle&allowed_in_frame=0" class="crossreference">angle</a> (n.)) + <a href="/index.php?term=-osis&allowed_in_frame=0" class="crossreference">-osis</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ancien+regime&allowed_in_frame=0">ancien regime</a> <a href="http://dictionary.reference.com/search?q=ancien+regime" class="dictionary" title="Look up ancien regime at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancien regime at Dictionary.com" title="Look up ancien regime at Dictionary.com" /></a></dt>
+<dd class="highlight">1794, from Fr. <span class="foreign">ancien r&eacute;gime</span>, lit. "old rule," referring to the government and social order of France before the Revolution there. See <a href="/index.php?term=ancient&allowed_in_frame=0" class="crossreference">ancient</a> + <a href="/index.php?term=regime&allowed_in_frame=0" class="crossreference">regime</a>.</dd>
+
+<dt><a href="/index.php?term=ancient&allowed_in_frame=0">ancient (adj.)</a> <a href="http://dictionary.reference.com/search?q=ancient" class="dictionary" title="Look up ancient at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancient at Dictionary.com" title="Look up ancient at Dictionary.com" /></a></dt>
+<dd>mid-14c., <span class="foreign">auncyen</span>, from O.Fr. <span class="foreign">ancien</span> "old, long-standing, ancient," from V.L. <span class="foreign">*anteanus</span>, lit. "from before," adjectivization of L. <span class="foreign">ante</span> "before, in front of, against" (from PIE <span class="foreign">*anti</span> "against," locative singular of <span class="foreign">*ant-</span> "front, forehead;" see <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>). The parasitic <span class="foreign">-t</span> dates from 15c. by influence of words in <span class="foreign">-ent</span>.
+<BR><BR>
+Specifically, in history, "belonging to the period before the fall of the Western Roman Empire" (and contrasted with <span class="foreign">medieval</span> and <span class="foreign">modern</span>). In English law, "from before the Norman Conquest." <span class="foreign">Ancient of Days</span> is from Dan. vii:9. Related: <span class="foreign">Anciently</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ancient&allowed_in_frame=0">ancient (n.)</a> <a href="http://dictionary.reference.com/search?q=ancient" class="dictionary" title="Look up ancient at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancient at Dictionary.com" title="Look up ancient at Dictionary.com" /></a></dt>
+<dd class="highlight">"standard-bearer," 1550s, a corruption of <a href="/index.php?term=ensign&allowed_in_frame=0" class="crossreference">ensign</a>. Archaic, but preserved in Shakespeare's character <span class="foreign">Aunchient Pistoll</span> in "Henry V." </dd>
+
+<dt><a href="/index.php?term=ancillary&allowed_in_frame=0">ancillary (adj.)</a> <a href="http://dictionary.reference.com/search?q=ancillary" class="dictionary" title="Look up ancillary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ancillary at Dictionary.com" title="Look up ancillary at Dictionary.com" /></a></dt>
+<dd>1660s, "subservient, subordinate," from L. <span class="foreign">ancillaris</span> "relating to maidservants," dim. of <span class="foreign">ancilla</span> "handmaid," fem. diminutive of <span class="foreign">anculus</span> "servant," lit. "he who bustles about," from root of <span class="foreign">ambi-</span> "about" (see <a href="/index.php?term=ambi-&allowed_in_frame=0" class="crossreference">ambi-</a>) + PIE <span class="foreign">*kwol-o-</span>, from root <span class="foreign">*kwel-</span> "move round, turn about, be much about" (see <a href="/index.php?term=cycle&allowed_in_frame=0" class="crossreference">cycle</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=and&allowed_in_frame=0">and</a> <a href="http://dictionary.reference.com/search?q=and" class="dictionary" title="Look up and at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up and at Dictionary.com" title="Look up and at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">and</span>, <span class="foreign">ond</span>, originally meaning "thereupon, next," from P.Gmc. <span class="foreign">*unda</span> (cf. O.S. <span class="foreign">endi</span>, O.Fris. <span class="foreign">anda</span>, M.Du. <span class="foreign">ende</span>, O.H.G. <span class="foreign">enti</span>, Ger. <span class="foreign">und</span>, O.N. <span class="foreign">enn</span>), from PIE <span class="foreign">*en</span>; cognate with L. <span class="foreign">ante</span>, Gk. <span class="foreign">anti</span> (see <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>). Phrase <span class="foreign">and how</span> as an exclamation of emphatic agreement dates from early 1900s.</dd>
+
+<dt><a href="/index.php?term=Andalusia&allowed_in_frame=0">Andalusia</a> <a href="http://dictionary.reference.com/search?q=Andalusia" class="dictionary" title="Look up Andalusia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andalusia at Dictionary.com" title="Look up Andalusia at Dictionary.com" /></a></dt>
+<dd>former name of southern Spain, from Spanish, from Arabic <span class="foreign">al Andalus</span>, name for the entire peninsula, from L.L. <span class="foreign">*Vandalicia</span> "the country of the Vandals," in reference to one of the Germanic tribes that overran the Western Empire 3c.-4c. and for a time settled in southern Spain. See <a href="/index.php?term=vandal&allowed_in_frame=0" class="crossreference">vandal</a>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=andante&allowed_in_frame=0">andante</a> <a href="http://dictionary.reference.com/search?q=andante" class="dictionary" title="Look up andante at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up andante at Dictionary.com" title="Look up andante at Dictionary.com" /></a></dt>
+<dd class="highlight">musical direction, "moderately slow," 1742, from It. <span class="foreign">andante</span>, prp. of <span class="foreign">andare</span> "to go," from V.L. <span class="foreign">ambitare</span> (source of Sp. <span class="foreign">andar</span> "to go"), from L. <span class="foreign">ambitus</span>, pp. of <span class="foreign">ambire</span> "to go round, go about" (see <a href="/index.php?term=ambient&allowed_in_frame=0" class="crossreference">ambient</a>).</dd>
+
+<dt><a href="/index.php?term=Andes&allowed_in_frame=0">Andes</a> <a href="http://dictionary.reference.com/search?q=Andes" class="dictionary" title="Look up Andes at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andes at Dictionary.com" title="Look up Andes at Dictionary.com" /></a></dt>
+<dd>from Quechua <span class="foreign">andi</span> "high crest."</dd>
+
+<dt class="highlight"><a href="/index.php?term=andiron&allowed_in_frame=0">andiron (n.)</a> <a href="http://dictionary.reference.com/search?q=andiron" class="dictionary" title="Look up andiron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up andiron at Dictionary.com" title="Look up andiron at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">andier</span>, of unknown origin, perhaps from Gaulish <span class="foreign">*andero-</span> "a young bull" (cf. Welsh <span class="foreign">anner</span> "heifer"), which would make sense if they once had bull's heads cast onto them. Altered by influence of Middle English <span class="foreign">iren</span> (see <a href="/index.php?term=iron&allowed_in_frame=0" class="crossreference">iron</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=Andorra&allowed_in_frame=0">Andorra</a> <a href="http://dictionary.reference.com/search?q=Andorra" class="dictionary" title="Look up Andorra at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andorra at Dictionary.com" title="Look up Andorra at Dictionary.com" /></a></dt>
+<dd>probably from indigenous (Navarrese) <span class="foreign">andurrial</span> "shrub-covered land."</dd>
+
+<dt class="highlight"><a href="/index.php?term=andouille&allowed_in_frame=0">andouille</a> <a href="http://dictionary.reference.com/search?q=andouille" class="dictionary" title="Look up andouille at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up andouille at Dictionary.com" title="Look up andouille at Dictionary.com" /></a></dt>
+<dd class="highlight">type of sausage, c.1600, from Fr. <span class="foreign">andouille</span> (12c.), from L. <span class="foreign">inductilia</span>, neuter plural of <span class="foreign">inductilis</span>, from <span class="foreign">inducere</span> "to load or put in" (see <a href="/index.php?term=induct&allowed_in_frame=0" class="crossreference">induct</a>). The original notion was perhaps of the filling "introduced" into the sausage.</dd>
+
+<dt><a href="/index.php?term=Andrew&allowed_in_frame=0">Andrew</a> <a href="http://dictionary.reference.com/search?q=Andrew" class="dictionary" title="Look up Andrew at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andrew at Dictionary.com" title="Look up Andrew at Dictionary.com" /></a></dt>
+<dd>masc. proper name, from O.Fr. <span class="foreign">Andreu</span> (Mod.Fr. <span class="foreign">Andr&eacute;</span>), from L. <span class="foreign">Andreas</span>, from Gk. <span class="foreign">Andreas</span>, from <span class="foreign">andreios</span> "manly," from <span class="foreign">aner</span> (gen. <span class="foreign">andros</span>) "man" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>). <span class="foreign">Andrew Millar</span> (1590s) for some forgotten reason became English naval slang for "government authority," and especially "the Royal Navy." <span class="foreign">St. Andrew</span> (feast day Nov. 30) has long been regarded as patron saint of Scotland. The <span class="foreign">Andrew's cross</span> (c.1400) supposedly resembles the one St. Andrew was crucified on.</dd>
+
+<dt class="highlight"><a href="/index.php?term=andro-&allowed_in_frame=0">andro-</a> <a href="http://dictionary.reference.com/search?q=andro-" class="dictionary" title="Look up andro- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up andro- at Dictionary.com" title="Look up andro- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "man, male," from Gk. <span class="foreign">andro-</span>, comb. form of <span class="foreign">aner</span> (gen. <span class="foreign">andros</span>) "man, male" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>).</dd>
+
+<dt><a href="/index.php?term=androcentric&allowed_in_frame=0">androcentric (adj.)</a> <a href="http://dictionary.reference.com/search?q=androcentric" class="dictionary" title="Look up androcentric at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androcentric at Dictionary.com" title="Look up androcentric at Dictionary.com" /></a></dt>
+<dd>1887, from <a href="/index.php?term=andro-&allowed_in_frame=0" class="crossreference">andro-</a> + <a href="/index.php?term=-centric&allowed_in_frame=0" class="crossreference">-centric</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=androcentricity&allowed_in_frame=0">androcentricity (n.)</a> <a href="http://dictionary.reference.com/search?q=androcentricity" class="dictionary" title="Look up androcentricity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androcentricity at Dictionary.com" title="Look up androcentricity at Dictionary.com" /></a></dt>
+<dd class="highlight">1907; see <a href="/index.php?term=androcentric&allowed_in_frame=0" class="crossreference">androcentric</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.</dd>
+
+<dt><a href="/index.php?term=androcentrism&allowed_in_frame=0">androcentrism (n.)</a> <a href="http://dictionary.reference.com/search?q=androcentrism" class="dictionary" title="Look up androcentrism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androcentrism at Dictionary.com" title="Look up androcentrism at Dictionary.com" /></a></dt>
+<dd>1915; see <a href="/index.php?term=androcentric&allowed_in_frame=0" class="crossreference">androcentric</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=androcracy&allowed_in_frame=0">androcracy (n.)</a> <a href="http://dictionary.reference.com/search?q=androcracy" class="dictionary" title="Look up androcracy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androcracy at Dictionary.com" title="Look up androcracy at Dictionary.com" /></a></dt>
+<dd class="highlight">"rule or supremacy of men," 1883; see <a href="/index.php?term=andro-&allowed_in_frame=0" class="crossreference">andro-</a> + <a href="/index.php?term=-cracy&allowed_in_frame=0" class="crossreference">-cracy</a>. Related: <span class="foreign">Androcratic</span>.</dd>
+
+<dt><a href="/index.php?term=androgen&allowed_in_frame=0">androgen (n.)</a> <a href="http://dictionary.reference.com/search?q=androgen" class="dictionary" title="Look up androgen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androgen at Dictionary.com" title="Look up androgen at Dictionary.com" /></a></dt>
+<dd>male sex hormone, 1936, from <a href="/index.php?term=andro-&allowed_in_frame=0" class="crossreference">andro-</a> + <a href="/index.php?term=-gen&allowed_in_frame=0" class="crossreference">-gen</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=androgyne&allowed_in_frame=0">androgyne (n.)</a> <a href="http://dictionary.reference.com/search?q=androgyne" class="dictionary" title="Look up androgyne at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androgyne at Dictionary.com" title="Look up androgyne at Dictionary.com" /></a></dt>
+<dd class="highlight">"hermaphrodite," mid-12c., from M.L. <span class="foreign">androgyne</span>, from Gk. <span class="foreign">androgyne</span> (see <a href="/index.php?term=androgynous&allowed_in_frame=0" class="crossreference">androgynous</a>).</dd>
+
+<dt><a href="/index.php?term=androgynous&allowed_in_frame=0">androgynous (adj.)</a> <a href="http://dictionary.reference.com/search?q=androgynous" class="dictionary" title="Look up androgynous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androgynous at Dictionary.com" title="Look up androgynous at Dictionary.com" /></a></dt>
+<dd>1620s, from L. <span class="foreign">androgynus</span>, from Gk. <span class="foreign">androgynos</span> "hermaphrodite, male and female in one; womanish man;" as an adjective (of baths) "common to men and women," from <span class="foreign">andros</span>, gen. of <span class="foreign">aner</span> "male" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>) + <span class="foreign">gyne</span> "woman" (see <a href="/index.php?term=queen&allowed_in_frame=0" class="crossreference">queen</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=androgyny&allowed_in_frame=0">androgyny (n.)</a> <a href="http://dictionary.reference.com/search?q=androgyny" class="dictionary" title="Look up androgyny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androgyny at Dictionary.com" title="Look up androgyny at Dictionary.com" /></a></dt>
+<dd class="highlight">1836; see <a href="/index.php?term=androgynous&allowed_in_frame=0" class="crossreference">androgynous</a>.</dd>
+
+<dt><a href="/index.php?term=android&allowed_in_frame=0">android (n.)</a> <a href="http://dictionary.reference.com/search?q=android" class="dictionary" title="Look up android at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up android at Dictionary.com" title="Look up android at Dictionary.com" /></a></dt>
+<dd>"automaton resembling a human being," 1842, from Mod.L. <span class="foreign">androides</span> (itself attested as a Latin word in English from 1727), from Gk. <span class="foreign">andro-</span> "human" (see <a href="/index.php?term=andro-&allowed_in_frame=0" class="crossreference">andro-</a>) + <span class="foreign">eides</span> "form, shape." Gk. <span class="foreign">androdes</span> meant "like a man, manly;" cf. also Gk. <span class="foreign">andrias</span> "image of a man, statue." Listed as "rare" in OED 1st edition (1879), popularized from c.1951 by science fiction writers.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Andromache&allowed_in_frame=0">Andromache</a> <a href="http://dictionary.reference.com/search?q=Andromache" class="dictionary" title="Look up Andromache at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andromache at Dictionary.com" title="Look up Andromache at Dictionary.com" /></a></dt>
+<dd class="highlight">wife of Hector, Latin <span class="foreign">Andromache</span>, from Gk. <span class="foreign">Andromakhe</span>, perhaps lit. "whose husband excells in fighting," fem. of <span class="foreign">andromakhos</span> "fighting with men;" see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a> + <a href="/index.php?term=-machy&allowed_in_frame=0" class="crossreference">-machy</a>.</dd>
+
+<dt><a href="/index.php?term=Andromeda&allowed_in_frame=0">Andromeda</a> <a href="http://dictionary.reference.com/search?q=Andromeda" class="dictionary" title="Look up Andromeda at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andromeda at Dictionary.com" title="Look up Andromeda at Dictionary.com" /></a></dt>
+<dd>constellation, 1667 (earlier <span class="foreign">Andromece</span>, mid-15c.); in classical mythology the daughter of Cepheus and Cassiopeia, from Greek, lit. "mindful of her husband," from <span class="foreign">andros</span>, gen. of <span class="foreign">aner</span> "man" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>) + <span class="foreign">medesthai</span> "to be mindful of, think on," related to <span class="foreign">medea</span> (neuter plural) "counsels, plans, devices, cunning" (and source of the name <a href="/index.php?term=Medea&allowed_in_frame=0" class="crossreference">Medea</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=andron&allowed_in_frame=0">andron (n.)</a> <a href="http://dictionary.reference.com/search?q=andron" class="dictionary" title="Look up andron at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up andron at Dictionary.com" title="Look up andron at Dictionary.com" /></a></dt>
+<dd class="highlight">men's apartment in a house, from Gk. <span class="foreign">andron</span>, collateral form of <span class="foreign">andronitis</span> "men's apartment," from <span class="foreign">aner</span> (gen. <span class="foreign">andros</span>) "man" (see <a href="/index.php?term=anthropo-&allowed_in_frame=0" class="crossreference">anthropo-</a>).</dd>
+
+<dt><a href="/index.php?term=androphobia&allowed_in_frame=0">androphobia (n.)</a> <a href="http://dictionary.reference.com/search?q=androphobia" class="dictionary" title="Look up androphobia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up androphobia at Dictionary.com" title="Look up androphobia at Dictionary.com" /></a></dt>
+<dd>"morbid fear of the male sex" (sometimes, rather, "of the human race" or "of crowds), 1844, from <a href="/index.php?term=andro-&allowed_in_frame=0" class="crossreference">andro-</a> + <a href="/index.php?term=-phobia&allowed_in_frame=0" class="crossreference">-phobia</a>. Related: <span class="foreign">Androphobic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Andy&allowed_in_frame=0">Andy</a> <a href="http://dictionary.reference.com/search?q=Andy" class="dictionary" title="Look up Andy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Andy at Dictionary.com" title="Look up Andy at Dictionary.com" /></a></dt>
+<dd class="highlight">familiar shortening of masc. proper name <a href="/index.php?term=Andrew&allowed_in_frame=0" class="crossreference">Andrew</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=anear&allowed_in_frame=0">anear (adv.)</a> <a href="http://dictionary.reference.com/search?q=anear" class="dictionary" title="Look up anear at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anear at Dictionary.com" title="Look up anear at Dictionary.com" /></a></dt>
+<dd>"nearly," c.1600, from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + <a href="/index.php?term=near&allowed_in_frame=0" class="crossreference">near</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anecdotage&allowed_in_frame=0">anecdotage (n.)</a> <a href="http://dictionary.reference.com/search?q=anecdotage" class="dictionary" title="Look up anecdotage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anecdotage at Dictionary.com" title="Look up anecdotage at Dictionary.com" /></a></dt>
+<dd class="highlight">"anecdotes collectively," 1823, from <a href="/index.php?term=anecdote&allowed_in_frame=0" class="crossreference">anecdote</a> + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>. As a jocular coinage meaning "garrulous old age" it is recorded from 1835, and led to <span class="foreign">anecdotard</span>.</dd>
+
+<dt><a href="/index.php?term=anecdotal&allowed_in_frame=0">anecdotal (adj.)</a> <a href="http://dictionary.reference.com/search?q=anecdotal" class="dictionary" title="Look up anecdotal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anecdotal at Dictionary.com" title="Look up anecdotal at Dictionary.com" /></a></dt>
+<dd>1794, from <a href="/index.php?term=anecdote&allowed_in_frame=0" class="crossreference">anecdote</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1). Related: <span class="foreign">Anecdotally</span>. <span class="foreign">Anecdotical</span> is attested from 1744.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anecdote&allowed_in_frame=0">anecdote (n.)</a> <a href="http://dictionary.reference.com/search?q=anecdote" class="dictionary" title="Look up anecdote at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anecdote at Dictionary.com" title="Look up anecdote at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, "secret or private stories," from Fr. <span class="foreign">anecdote</span> (17c.) or directly from Gk. <span class="foreign">anekdota</span> "things unpublished," neuter plural of <span class="foreign">anekdotos</span>, from <span class="foreign">an-</span> "not" (see <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a>) + <span class="foreign">ekdotos</span> "published," from <span class="foreign">ek-</span> "out" + <span class="foreign">didonai</span> "to give" (see <a href="/index.php?term=date&allowed_in_frame=0" class="crossreference">date</a> (1)).
+<BR><BR>
+Procopius' 6c. <span class="foreign">Anecdota</span>, unpublished memoirs of Emperor Justinian full of court gossip, gave the word a sense of "revelation of secrets," which decayed in English to "brief, amusing stories" (1761).</dd>
+
+<dt><a href="/index.php?term=anechoic&allowed_in_frame=0">anechoic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anechoic" class="dictionary" title="Look up anechoic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anechoic at Dictionary.com" title="Look up anechoic at Dictionary.com" /></a></dt>
+<dd>1948, in electronics, from <a href="/index.php?term=an-&allowed_in_frame=0" class="crossreference">an-</a> (1) "not" + <a href="/index.php?term=echoic&allowed_in_frame=0" class="crossreference">echoic</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657951 -->
+<!-- Page was generated in 0.182173 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=panoptic&allowed_in_frame=0">panoptic (adj.)</a> <a href="http://dictionary.reference.com/search?q=panoptic" class="dictionary" title="Look up panoptic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panoptic at Dictionary.com" title="Look up panoptic at Dictionary.com" /></a></dt>
+<dd class="highlight">1826, from Gk. <span class="foreign">panoptos</span> "fully visible, seen by all," from <span class="foreign">panopes</span> "all-seeing," from <span class="foreign">pan</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <span class="foreign">optos</span> (see <a href="/index.php?term=optic&allowed_in_frame=0" class="crossreference">optic</a>). Related: <span class="foreign">Panoptical</span>.</dd>
+
+<dt><a href="/index.php?term=panopticon&allowed_in_frame=0">panopticon (n.)</a> <a href="http://dictionary.reference.com/search?q=panopticon" class="dictionary" title="Look up panopticon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panopticon at Dictionary.com" title="Look up panopticon at Dictionary.com" /></a></dt>
+<dd>1768, a type of optical instrument or telescope, from Gk. <span class="foreign">pan</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <span class="foreign">optikon</span>, neuter of <span class="foreign">optikos</span> "of or for sight" (see <a href="/index.php?term=optic&allowed_in_frame=0" class="crossreference">optic</a>). Later the name of a type of prison designed by Bentham (1791) in which wardens had a constant view of all inmates, and "a showroom" (1850).</dd>
+
+<dt class="highlight"><a href="/index.php?term=panorama&allowed_in_frame=0">panorama (n.)</a> <a href="http://dictionary.reference.com/search?q=panorama" class="dictionary" title="Look up panorama at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panorama at Dictionary.com" title="Look up panorama at Dictionary.com" /></a></dt>
+<dd class="highlight">1796, "a painting on a revolving cylindrical surface," coined c.1789 by inventor, Irish artist Robert Barker, lit. "a complete view," from <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a> "all" + Gk. <span class="foreign">horama</span> "a view," from <span class="foreign">horan</span> "to look, see" (see <a href="/index.php?term=warrant&allowed_in_frame=0" class="crossreference">warrant</a> (n.)). Meaning "comprehensive survey" is 1801.
+</dd>
+
+<dt><a href="/index.php?term=panoramic&allowed_in_frame=0">panoramic (adj.)</a> <a href="http://dictionary.reference.com/search?q=panoramic" class="dictionary" title="Look up panoramic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panoramic at Dictionary.com" title="Look up panoramic at Dictionary.com" /></a></dt>
+<dd>1813; see <a href="/index.php?term=panorama&allowed_in_frame=0" class="crossreference">panorama</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. <span class="foreign">Panoramic camera</span> is attested from 1878.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pansexual&allowed_in_frame=0">pansexual (adj.)</a> <a href="http://dictionary.reference.com/search?q=pansexual" class="dictionary" title="Look up pansexual at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pansexual at Dictionary.com" title="Look up pansexual at Dictionary.com" /></a></dt>
+<dd class="highlight">1926 (<span class="foreign">pansexualism</span> is from 1917), from <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a> + <a href="/index.php?term=sexual&allowed_in_frame=0" class="crossreference">sexual</a>. Originally in reference to the view that the sex instinct plays the primary part in all human activity, mental and physical; this was held by his critics to be the view of Freud, therefore a term of reproach leveled at early psychology.</dd>
+
+<dt><a href="/index.php?term=Panslavism&allowed_in_frame=0">Panslavism (n.)</a> <a href="http://dictionary.reference.com/search?q=Panslavism" class="dictionary" title="Look up Panslavism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Panslavism at Dictionary.com" title="Look up Panslavism at Dictionary.com" /></a></dt>
+<dd>1846, from Ger. <span class="foreign">Pansclavismus</span>, coined as a linguistic term by Herkel in 1826.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pansy&allowed_in_frame=0">pansy (n.)</a> <a href="http://dictionary.reference.com/search?q=pansy" class="dictionary" title="Look up pansy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pansy at Dictionary.com" title="Look up pansy at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from M.Fr. <span class="foreign">pens&eacute;e</span> "a pansy," lit. "thought, remembrance," from fem. pp. of <span class="foreign">penser</span> "to think," from L. <span class="foreign">pensare</span> "consider," frequentative of <span class="foreign">pendere</span> "to weigh" (see <a href="/index.php?term=pensive&allowed_in_frame=0" class="crossreference">pensive</a>). So called because it was regarded as a symbol of thought or remembrance. Meaning "effeminate homosexual man" is first recorded 1929.</dd>
+
+<dt><a href="/index.php?term=pant&allowed_in_frame=0">pant (v.)</a> <a href="http://dictionary.reference.com/search?q=pant" class="dictionary" title="Look up pant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pant at Dictionary.com" title="Look up pant at Dictionary.com" /></a></dt>
+<dd>mid-15c., perhaps a shortening of O.Fr. <span class="foreign">pantaisier</span> "gasp, puff, pant, be out of breath, be in distress" (12c.), probably from V.L. <span class="foreign">*pantasiare</span> "be oppressed with a nightmare, struggle for breathing during a nightmare," lit. "to have visions," from Gk. <span class="foreign">phantasioun</span> "have or form images, subject to hallucinations," from <span class="foreign">phantasia</span> "appearance, image, fantasy" (see <a href="/index.php?term=phantasm&allowed_in_frame=0" class="crossreference">phantasm</a>). Related: <span class="foreign">Panted</span>; <span class="foreign">panting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pant&allowed_in_frame=0">pant (n.)</a> <a href="http://dictionary.reference.com/search?q=pant" class="dictionary" title="Look up pant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pant at Dictionary.com" title="Look up pant at Dictionary.com" /></a></dt>
+<dd class="highlight">"a gasping breath," c.1500, from <a href="/index.php?term=pant&allowed_in_frame=0" class="crossreference">pant</a> (v.).</dd>
+
+<dt><a href="/index.php?term=Pantaloon&allowed_in_frame=0">Pantaloon (n.)</a> <a href="http://dictionary.reference.com/search?q=Pantaloon" class="dictionary" title="Look up Pantaloon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pantaloon at Dictionary.com" title="Look up Pantaloon at Dictionary.com" /></a></dt>
+<dd>skinny, foolish old man in Italian comedy, 1580s; see <a href="/index.php?term=pantaloons&allowed_in_frame=0" class="crossreference">pantaloons</a>. As a kind of leggings, 1660s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantaloons&allowed_in_frame=0">pantaloons (n.)</a> <a href="http://dictionary.reference.com/search?q=pantaloons" class="dictionary" title="Look up pantaloons at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantaloons at Dictionary.com" title="Look up pantaloons at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, "kind of tights" (originally a French fashion and execrated as such by late 17c. English writers), associated with <span class="foreign">Pantaloun</span> (1580s), silly old man character in It. comedy who wore tight trousers over his skinny legs, from It. <span class="foreign">Pantalone</span>, originally <span class="foreign">San Pantaleone</span>, Christian martyr, a popular saint in Venice (Pantaleone in the comedies represents the Venetian). The name is of Greek origin and means "all-compassionate" (or, according to Klein, "entirely lion"). Applied to tight long trousers (replacing knee-breeches) by 1798; <span class="foreign">pants</span> is a shortened form first recorded 1840.</dd>
+
+<dt><a href="/index.php?term=Panthalassa&allowed_in_frame=0">Panthalassa</a> <a href="http://dictionary.reference.com/search?q=Panthalassa" class="dictionary" title="Look up Panthalassa at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Panthalassa at Dictionary.com" title="Look up Panthalassa at Dictionary.com" /></a></dt>
+<dd>"universal sea," such as that which surrounded <a href="/index.php?term=Pangaea&allowed_in_frame=0" class="crossreference">Pangaea</a>, 1893 (Suess), from <span class="foreign">pan-</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + Gk. <span class="foreign">thalassa</span> "sea," a word from a lost pre-Greek Mediterranean language.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantheism&allowed_in_frame=0">pantheism (n.)</a> <a href="http://dictionary.reference.com/search?q=pantheism" class="dictionary" title="Look up pantheism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantheism at Dictionary.com" title="Look up pantheism at Dictionary.com" /></a></dt>
+<dd class="highlight">"belief that God and the universe are identical," from <span class="foreign">pantheist</span> (n.), which was coined (1705) by Irish deist John Toland (1670-1722), from Gk. <span class="foreign">pan-</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <span class="foreign">theos</span> "god" (see <a href="/index.php?term=Thea&allowed_in_frame=0" class="crossreference">Thea</a>). Toland's word was borrowed into French, which from it formed <span class="foreign">panth&eacute;isme</span> (1712) which returned to English as <span class="foreign">pantheism</span> "the doctrine that all is god" in 1732 (no evidence that Toland used <span class="foreign">pantheism</span>). Gk. <span class="foreign">pantheios</span> meant "common to all gods" (see <a href="/index.php?term=pantheon&allowed_in_frame=0" class="crossreference">pantheon</a>). Other words used at various times for similar notions include <span class="foreign">panentheism</span>, "philosophy founded on the notion that all things are <span class="foreign">in</span> God" (1874), from German (1828), coined by Karl Christian Friedrich Krause (1781-1832).</dd>
+
+<dt><a href="/index.php?term=pantheist&allowed_in_frame=0">pantheist (n.)</a> <a href="http://dictionary.reference.com/search?q=pantheist" class="dictionary" title="Look up pantheist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantheist at Dictionary.com" title="Look up pantheist at Dictionary.com" /></a></dt>
+<dd>1705, see <a href="/index.php?term=pantheism&allowed_in_frame=0" class="crossreference">pantheism</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantheistic&allowed_in_frame=0">pantheistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=pantheistic" class="dictionary" title="Look up pantheistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantheistic at Dictionary.com" title="Look up pantheistic at Dictionary.com" /></a></dt>
+<dd class="highlight">1732, from <a href="/index.php?term=pantheist&allowed_in_frame=0" class="crossreference">pantheist</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt><a href="/index.php?term=pantheon&allowed_in_frame=0">pantheon (n.)</a> <a href="http://dictionary.reference.com/search?q=pantheon" class="dictionary" title="Look up pantheon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantheon at Dictionary.com" title="Look up pantheon at Dictionary.com" /></a></dt>
+<dd>c.1300, from <span class="foreign">Pantheon</span>, name of a temple for all the gods built in Rome c.25 B.C.E. by Agrippa (since 609 C.E. made into the Christian church of Santa Maria Rotonda), from Gk. <span class="foreign">Pantheion (hieron)</span> "(shrine) of all the gods," from <span class="foreign">pantheion</span>, neuter of <span class="foreign">pantheios</span>, from <span class="foreign">pan-</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <span class="foreign">theios</span> "of or for the gods," from <span class="foreign">theos</span> "god" (see <a href="/index.php?term=Thea&allowed_in_frame=0" class="crossreference">Thea</a>). Sense of any group of exalted persons is first found 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=panther&allowed_in_frame=0">panther (n.)</a> <a href="http://dictionary.reference.com/search?q=panther" class="dictionary" title="Look up panther at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panther at Dictionary.com" title="Look up panther at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., from O.Fr. <span class="foreign">pantere</span> "panther" (12c.), from L. <span class="foreign">panthera</span>, from Gk. <span class="foreign">panther</span> "panther, leopard," probably of Oriental origin, cf. Skt. <span class="foreign">pundarikam</span> "tiger," perhaps lit. "the yellowish animal," from <span class="foreign">pandarah</span> "whitish-yellow." Folk etymology derivation from Gk. <span class="foreign">pan-</span> "all" + <span class="foreign">ther</span> "beast" led to many curious fables.</dd>
+
+<dt><a href="/index.php?term=panties&allowed_in_frame=0">panties (n.)</a> <a href="http://dictionary.reference.com/search?q=panties" class="dictionary" title="Look up panties at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panties at Dictionary.com" title="Look up panties at Dictionary.com" /></a></dt>
+<dd>1845, "drawers for men" (derogatory), dim. of <a href="/index.php?term=pants&allowed_in_frame=0" class="crossreference">pants</a>; meaning "underpants for women or children" first recorded 1908. <span class="foreign">Panty raid</span> first attested 1952.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantisocracy&allowed_in_frame=0">pantisocracy (n.)</a> <a href="http://dictionary.reference.com/search?q=pantisocracy" class="dictionary" title="Look up pantisocracy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantisocracy at Dictionary.com" title="Look up pantisocracy at Dictionary.com" /></a></dt>
+<dd class="highlight">"ideal Utopian community in which all have equal rights," 1794, lit. "equal rule of all," from Gk. <span class="foreign">pant-</span>, comb. form of <span class="foreign">pantos</span>, gen. of <span class="foreign">pan</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <span class="foreign">isocratia</span> "equality of power" (see <a href="/index.php?term=isocracy&allowed_in_frame=0" class="crossreference">isocracy</a>).</dd>
+
+<dt><a href="/index.php?term=pantomime&allowed_in_frame=0">pantomime (n.)</a> <a href="http://dictionary.reference.com/search?q=pantomime" class="dictionary" title="Look up pantomime at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantomime at Dictionary.com" title="Look up pantomime at Dictionary.com" /></a></dt>
+<dd>1610s, "mime actor," from L. <span class="foreign">pantomimus</span> "mime, dancer," from Gk. <span class="foreign">pantomimos</span> "actor," lit. "imitator of all," from <span class="foreign">panto-</span> (gen. of <span class="foreign">pan</span>) "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <span class="foreign">mimos</span> "imitator" (see <a href="/index.php?term=mime&allowed_in_frame=0" class="crossreference">mime</a> (n.)). Meaning "drama or play without words" first recorded 1735. The English dramatic performances so called, usually at Christmas and with words and songs and stock characters, are attested by this name from 1739; said to have originated c.1717. Related: <span class="foreign">Pantomimic</span>; <span class="foreign">pantomimical</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantomime&allowed_in_frame=0">pantomime (v.)</a> <a href="http://dictionary.reference.com/search?q=pantomime" class="dictionary" title="Look up pantomime at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantomime at Dictionary.com" title="Look up pantomime at Dictionary.com" /></a></dt>
+<dd class="highlight">1768, from <a href="/index.php?term=pantomime&allowed_in_frame=0" class="crossreference">pantomime</a> (n.). Related: <span class="foreign">Pantomimed</span>; <span class="foreign">pantomiming</span>.</dd>
+
+<dt><a href="/index.php?term=pantothenic&allowed_in_frame=0">pantothenic (adj.)</a> <a href="http://dictionary.reference.com/search?q=pantothenic" class="dictionary" title="Look up pantothenic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantothenic at Dictionary.com" title="Look up pantothenic at Dictionary.com" /></a></dt>
+<dd>denoting a B-complex vitamin acid, 1933, from Gk. <span class="foreign">pantothen</span> "from all quarters, on every side," from <span class="foreign">panto-</span>, comb. form of <span class="foreign">pantos</span>, genitive of <span class="foreign">pan</span> "all" (see <a href="/index.php?term=pan-&allowed_in_frame=0" class="crossreference">pan-</a>) + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. So called because it was found in so many sources.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantry&allowed_in_frame=0">pantry (n.)</a> <a href="http://dictionary.reference.com/search?q=pantry" class="dictionary" title="Look up pantry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantry at Dictionary.com" title="Look up pantry at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from Anglo-Fr. <span class="foreign">panetrie</span> (O.Fr. <span class="foreign">paneterie</span>) "bread room," from M.L. <span class="foreign">panataria</span> "office or room of a servant who has charge of food" (lit. "bread"), from L. <span class="foreign">panis</span> "bread" (see <a href="/index.php?term=food&allowed_in_frame=0" class="crossreference">food</a>). Sense in English has evolved so far that its roots in "bread" are no longer felt.</dd>
+
+<dt><a href="/index.php?term=pants&allowed_in_frame=0">pants (n.)</a> <a href="http://dictionary.reference.com/search?q=pants" class="dictionary" title="Look up pants at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pants at Dictionary.com" title="Look up pants at Dictionary.com" /></a></dt>
+<dd>trousers, 1840, see <a href="/index.php?term=pantaloons&allowed_in_frame=0" class="crossreference">pantaloons</a>. Colloquial singular <span class="foreign">pant</span> is attested from 1893. To <span class="foreign">wear the pants</span> "be the dominant member of a household" is first attested 1931. To do something <span class="foreign">by the seat of (one's) pants</span> "by human instinct" is from 1942, originally of pilots, perhaps with some notion of being able to sense the condition and situation of the plane by engine vibrations, etc. To be <span class="foreign">caught with (one's) pants down</span> "discovered in an embarrassing condition" is from 1932.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantsuit&allowed_in_frame=0">pantsuit (n.)</a> <a href="http://dictionary.reference.com/search?q=pantsuit" class="dictionary" title="Look up pantsuit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantsuit at Dictionary.com" title="Look up pantsuit at Dictionary.com" /></a></dt>
+<dd class="highlight">1966, contraction of <span class="foreign">pants suit</span> (1964), from <a href="/index.php?term=pants&allowed_in_frame=0" class="crossreference">pants</a> + <a href="/index.php?term=suit&allowed_in_frame=0" class="crossreference">suit</a> (n.).</dd>
+
+<dt><a href="/index.php?term=pantyhose&allowed_in_frame=0">pantyhose (n.)</a> <a href="http://dictionary.reference.com/search?q=pantyhose" class="dictionary" title="Look up pantyhose at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantyhose at Dictionary.com" title="Look up pantyhose at Dictionary.com" /></a></dt>
+<dd>1963; see <a href="/index.php?term=panties&allowed_in_frame=0" class="crossreference">panties</a> + <a href="/index.php?term=hose&allowed_in_frame=0" class="crossreference">hose</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pantywaist&allowed_in_frame=0">pantywaist (n.)</a> <a href="http://dictionary.reference.com/search?q=pantywaist" class="dictionary" title="Look up pantywaist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pantywaist at Dictionary.com" title="Look up pantywaist at Dictionary.com" /></a></dt>
+<dd class="highlight">"weak or effeminate male," 1936, from a type of child's garment with short pants that buttoned to the waist of a shirt; see <a href="/index.php?term=panties&allowed_in_frame=0" class="crossreference">panties</a> + <a href="/index.php?term=waist&allowed_in_frame=0" class="crossreference">waist</a>.</dd>
+
+<dt><a href="/index.php?term=panzer&allowed_in_frame=0">panzer (adj.)</a> <a href="http://dictionary.reference.com/search?q=panzer" class="dictionary" title="Look up panzer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up panzer at Dictionary.com" title="Look up panzer at Dictionary.com" /></a></dt>
+<dd>1940, from of Ger. <span class="foreign">Panzerdivision</span> "armored unit," from <span class="foreign">Panzer</span> "tank," lit. "armor," from M.H.G. <span class="foreign">panzier</span>, from O.Fr. <span class="foreign">panciere</span> "armor for the belly," from <span class="foreign">pance</span> "belly, stomach," from L. <span class="foreign">pantex</span> (gen. <span class="foreign">panticis</span>) "belly" (see <a href="/index.php?term=paunch&allowed_in_frame=0" class="crossreference">paunch</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pap&allowed_in_frame=0">pap (n.1)</a> <a href="http://dictionary.reference.com/search?q=pap" class="dictionary" title="Look up pap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pap at Dictionary.com" title="Look up pap at Dictionary.com" /></a></dt>
+<dd class="highlight">"soft food for infants," late 14c., from O.Fr. <span class="foreign">pape</span> "watered gruel," from L. <span class="foreign">pappa</span>, a widespread word in children's language for "food" (e.g. M.H.G., Du. <span class="foreign">pap</span>, Ger. <span class="foreign">Pappe</span>, Sp., Port. <span class="foreign">papa</span>, It. <span class="foreign">pappa</span>), imitative of an infant's noise when hungry; possibly associated with <a href="/index.php?term=pap&allowed_in_frame=0" class="crossreference">pap</a> (n.2). Meaning "over-simplified idea" first recorded 1540s.</dd>
+
+<dt><a href="/index.php?term=pap&allowed_in_frame=0">pap (n.2)</a> <a href="http://dictionary.reference.com/search?q=pap" class="dictionary" title="Look up pap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pap at Dictionary.com" title="Look up pap at Dictionary.com" /></a></dt>
+<dd>"nipple of a woman's breast," c.1200, first attested in Northern and Midlands writing, probably from a Scandinavian source (not recorded in Old Norse, but cf. dialectal Swed. <span class="foreign">pappe</span>), from PIE imitative root <span class="foreign">*pap-</span> "to swell" (cf. L. <span class="foreign">papilla</span> "nipple," <span class="foreign">papula</span> "a swelling, pimple;" Lith. <span class="foreign">papas</span> "nipple").</dd>
+
+<dt class="highlight"><a href="/index.php?term=pap&allowed_in_frame=0">pap (n.3)</a> <a href="http://dictionary.reference.com/search?q=pap" class="dictionary" title="Look up pap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pap at Dictionary.com" title="Look up pap at Dictionary.com" /></a></dt>
+<dd class="highlight">"older man," 1844, shortening of <a href="/index.php?term=papa&allowed_in_frame=0" class="crossreference">papa</a>.</dd>
+
+<dt><a href="/index.php?term=Pap+test&allowed_in_frame=0">Pap test</a> <a href="http://dictionary.reference.com/search?q=Pap+test" class="dictionary" title="Look up Pap test at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pap test at Dictionary.com" title="Look up Pap test at Dictionary.com" /></a></dt>
+<dd>1963, short for <span class="foreign">Papanicolaou</span> (1947) in reference to George Nicholas <span class="foreign">Papanicolaou</span> (1883-1962), Greek-born U.S. anatomist who developed the technique of examining secreted cells to test for cancer.</dd>
+
+<dt class="highlight"><a href="/index.php?term=papa&allowed_in_frame=0">papa (n.)</a> <a href="http://dictionary.reference.com/search?q=papa" class="dictionary" title="Look up papa at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papa at Dictionary.com" title="Look up papa at Dictionary.com" /></a></dt>
+<dd class="highlight">"father," 1680s, from Fr. <span class="foreign">papa</span>, from L. <span class="foreign">papa</span>, originally a child's word, cf. Gk. <span class="foreign">pappa</span> (voc.) "o father," <span class="foreign">pappas</span> "father," <span class="foreign">pappos</span> "grandfather." The native word is <a href="/index.php?term=daddy&allowed_in_frame=0" class="crossreference">daddy</a>; first use of <span class="foreign">papa</span> was in courtly speech, as a continental affectation, not used by common folk until late 18c.</dd>
+
+<dt><a href="/index.php?term=papacy&allowed_in_frame=0">papacy (n.)</a> <a href="http://dictionary.reference.com/search?q=papacy" class="dictionary" title="Look up papacy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papacy at Dictionary.com" title="Look up papacy at Dictionary.com" /></a></dt>
+<dd>late 14c., from M.L. <span class="foreign">papatia</span> "papal office," from L.L. <span class="foreign">papa</span> "pope" (see <a href="/index.php?term=pope&allowed_in_frame=0" class="crossreference">pope</a>). Old English had <span class="foreign">papdom</span> in this sense.</dd>
+
+<dt class="highlight"><a href="/index.php?term=papal&allowed_in_frame=0">papal (adj.)</a> <a href="http://dictionary.reference.com/search?q=papal" class="dictionary" title="Look up papal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papal at Dictionary.com" title="Look up papal at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">papal</span> (late 14c.) and directly from M.L. <span class="foreign">papalis</span> "pertaining to the pope," from <span class="foreign">papa</span> (see <a href="/index.php?term=pope&allowed_in_frame=0" class="crossreference">pope</a>).</dd>
+
+<dt><a href="/index.php?term=paparazzi&allowed_in_frame=0">paparazzi (n.)</a> <a href="http://dictionary.reference.com/search?q=paparazzi" class="dictionary" title="Look up paparazzi at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paparazzi at Dictionary.com" title="Look up paparazzi at Dictionary.com" /></a></dt>
+<dd>1961, from It. <span class="foreign">Paparazzo</span> (pl. <span class="foreign">paparazzi</span>) surname of the freelance photographer in Federico Fellini's 1959 film <span class="foreign">"La Dolce Vita."</span> The surname itself is of no special significance; it is said to be a common one in Calabria, and Fellini is said to have borrowed it from a travel book, "By the Ionian Sea," in which occurs the name of hotel owner Coriolano Paparazzo.</dd>
+
+<dt class="highlight"><a href="/index.php?term=paparazzo&allowed_in_frame=0">paparazzo (n.)</a> <a href="http://dictionary.reference.com/search?q=paparazzo" class="dictionary" title="Look up paparazzo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paparazzo at Dictionary.com" title="Look up paparazzo at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=paparazzi&allowed_in_frame=0" class="crossreference">paparazzi</a>.</dd>
+
+<dt><a href="/index.php?term=papaw&allowed_in_frame=0">papaw (n.)</a> <a href="http://dictionary.reference.com/search?q=papaw" class="dictionary" title="Look up papaw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papaw at Dictionary.com" title="Look up papaw at Dictionary.com" /></a></dt>
+<dd>1620s, variant of <a href="/index.php?term=papaya&allowed_in_frame=0" class="crossreference">papaya</a> (q.v.), used from 1760 to designate the papaw tree.</dd>
+
+<dt class="highlight"><a href="/index.php?term=papaya&allowed_in_frame=0">papaya (n.)</a> <a href="http://dictionary.reference.com/search?q=papaya" class="dictionary" title="Look up papaya at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papaya at Dictionary.com" title="Look up papaya at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s for fruit, 1610s for tree, from Spanish, probably from Arawakan (W.Indies) <span class="foreign">papaya</span>.</dd>
+
+<dt><a href="/index.php?term=paper&allowed_in_frame=0">paper (n.)</a> <a href="http://dictionary.reference.com/search?q=paper" class="dictionary" title="Look up paper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paper at Dictionary.com" title="Look up paper at Dictionary.com" /></a></dt>
+<dd>mid-14c., from Anglo-Fr. <span class="foreign">paper</span>, O.Fr. <span class="foreign">papier</span> "paper, document," from L. <span class="foreign">papyrus</span> "paper, paper made of papyrus stalks" (see <a href="/index.php?term=papyrus&allowed_in_frame=0" class="crossreference">papyrus</a>). Meaning "paper money" attested from 1722. As shortened form of <span class="foreign">newspaper</span>, first attested 1640s. In plural, "collection of papers to establish one's identity, credentials, etc.," it is attested from 1680s. As an adjective from 1590s. Figurative of something flimsy or unsubstantial from 1716. <span class="foreign">Paper chase</span> is British slang from 1932. <span class="foreign">Paper tiger</span> (1952) translates Chinese <span class="foreign">tsuh lao fu</span>, popularized by Mao Zedong. <span class="foreign">Paper doll</span> attested from 1849; <span class="foreign">paper plate</span> from 1723.</dd>
+
+<dt class="highlight"><a href="/index.php?term=paper&allowed_in_frame=0">paper (v.)</a> <a href="http://dictionary.reference.com/search?q=paper" class="dictionary" title="Look up paper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paper at Dictionary.com" title="Look up paper at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, "to write down on paper," from <a href="/index.php?term=paper&allowed_in_frame=0" class="crossreference">paper</a> (n.). Meaning "to decorate a room with paper hangings" is from 1774. Related: <span class="foreign">Papered</span>; <span class="foreign">papering</span>. Verbal phrase <span class="foreign">paper over</span> in the figurative sense is from 1955, from the notion of hiding plaster cracks with wallaper.</dd>
+
+<dt><a href="/index.php?term=paper-weight&allowed_in_frame=0">paper-weight (n.)</a> <a href="http://dictionary.reference.com/search?q=paper-weight" class="dictionary" title="Look up paper-weight at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paper-weight at Dictionary.com" title="Look up paper-weight at Dictionary.com" /></a></dt>
+<dd>"heavy object used to hold down papers," 1858, from <a href="/index.php?term=paper&allowed_in_frame=0" class="crossreference">paper</a> (n.) + <a href="/index.php?term=weight&allowed_in_frame=0" class="crossreference">weight</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=paperback&allowed_in_frame=0">paperback (n.)</a> <a href="http://dictionary.reference.com/search?q=paperback" class="dictionary" title="Look up paperback at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paperback at Dictionary.com" title="Look up paperback at Dictionary.com" /></a></dt>
+<dd class="highlight">1899, from <a href="/index.php?term=paper&allowed_in_frame=0" class="crossreference">paper</a> (n.) + <a href="/index.php?term=back&allowed_in_frame=0" class="crossreference">back</a> (n.). Adjective <span class="foreign">paper-backed</span> attested from 1888.</dd>
+
+<dt><a href="/index.php?term=paperless&allowed_in_frame=0">paperless (adj.)</a> <a href="http://dictionary.reference.com/search?q=paperless" class="dictionary" title="Look up paperless at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paperless at Dictionary.com" title="Look up paperless at Dictionary.com" /></a></dt>
+<dd>1938 of cigarettes; 1967 of banks; 1971 of offices, from <a href="/index.php?term=paper&allowed_in_frame=0" class="crossreference">paper</a> (n.) + <a href="/index.php?term=-less&allowed_in_frame=0" class="crossreference">-less</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=paperwork&allowed_in_frame=0">paperwork (n.)</a> <a href="http://dictionary.reference.com/search?q=paperwork" class="dictionary" title="Look up paperwork at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up paperwork at Dictionary.com" title="Look up paperwork at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "things made of paper," from <a href="/index.php?term=paper&allowed_in_frame=0" class="crossreference">paper</a> (n.) + <a href="/index.php?term=work&allowed_in_frame=0" class="crossreference">work</a> (n.). Meaning "work done on paper" is from 1889.</dd>
+
+<dt><a href="/index.php?term=papier-mache&allowed_in_frame=0">papier-mache (n.)</a> <a href="http://dictionary.reference.com/search?q=papier-mache" class="dictionary" title="Look up papier-mache at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papier-mache at Dictionary.com" title="Look up papier-mache at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">papier mache</span>, 1753, from Fr. <span class="foreign">papier-m&acirc;ch&eacute;</span>, lit. "chewed paper," from O.Fr. <span class="foreign">papier</span> "paper" (see <a href="/index.php?term=paper&allowed_in_frame=0" class="crossreference">paper</a> (n.)) + <span class="foreign">m&acirc;ch&eacute;</span> "compressed, mashed," from pp. of <span class="foreign">m&acirc;cher</span>, lit. "to chew," from L.L. <span class="foreign">masticare</span> "masticate" (see <a href="/index.php?term=mastication&allowed_in_frame=0" class="crossreference">mastication</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=papilla&allowed_in_frame=0">papilla (n.)</a> <a href="http://dictionary.reference.com/search?q=papilla" class="dictionary" title="Look up papilla at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papilla at Dictionary.com" title="Look up papilla at Dictionary.com" /></a></dt>
+<dd class="highlight">pl. <span class="foreign">papillae</span>, 1690s, "nipple," from L. <span class="foreign">papilla</span> "nipple," dim. of <span class="foreign">papula</span> "swelling" (see <a href="/index.php?term=pap&allowed_in_frame=0" class="crossreference">pap</a> (n.2)). Meaning "nipple-like protuberance" attested from 1713.</dd>
+
+<dt><a href="/index.php?term=papillary&allowed_in_frame=0">papillary (adj.)</a> <a href="http://dictionary.reference.com/search?q=papillary" class="dictionary" title="Look up papillary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papillary at Dictionary.com" title="Look up papillary at Dictionary.com" /></a></dt>
+<dd>1660s, from L. <span class="foreign">papilla</span> (see <a href="/index.php?term=papilla&allowed_in_frame=0" class="crossreference">papilla</a>) + <a href="/index.php?term=-ary&allowed_in_frame=0" class="crossreference">-ary</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=papilledema&allowed_in_frame=0">papilledema (n.)</a> <a href="http://dictionary.reference.com/search?q=papilledema" class="dictionary" title="Look up papilledema at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papilledema at Dictionary.com" title="Look up papilledema at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">papilloedema</span>, 1908, from <a href="/index.php?term=papilla&allowed_in_frame=0" class="crossreference">papilla</a> + <a href="/index.php?term=edema&allowed_in_frame=0" class="crossreference">edema</a>.</dd>
+
+<dt><a href="/index.php?term=papilloma&allowed_in_frame=0">papilloma (n.)</a> <a href="http://dictionary.reference.com/search?q=papilloma" class="dictionary" title="Look up papilloma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up papilloma at Dictionary.com" title="Look up papilloma at Dictionary.com" /></a></dt>
+<dd>1866, a modern Latin hybrid from <a href="/index.php?term=papilla&allowed_in_frame=0" class="crossreference">papilla</a> + <a href="/index.php?term=-oma&allowed_in_frame=0" class="crossreference">-oma</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658574 -->
+<!-- Page was generated in 0.168741 seconds. -->
+ </body>
+</html>
+<!-- -->

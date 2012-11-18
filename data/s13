@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=scrap&allowed_in_frame=0">scrap (v.1)</a> <a href="http://dictionary.reference.com/search?q=scrap" class="dictionary" title="Look up scrap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrap at Dictionary.com" title="Look up scrap at Dictionary.com" /></a></dt>
+<dd class="highlight">"to make into scrap," 1891, from <a href="/index.php?term=scrap&allowed_in_frame=0" class="crossreference">scrap</a> (n.1). Related: <span class="foreign">Scrapped</span>; <span class="foreign">scrapping</span>.</dd>
+
+<dt><a href="/index.php?term=scrap&allowed_in_frame=0">scrap (v.2)</a> <a href="http://dictionary.reference.com/search?q=scrap" class="dictionary" title="Look up scrap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrap at Dictionary.com" title="Look up scrap at Dictionary.com" /></a></dt>
+<dd>"to fight, brawl," 1874, from <a href="/index.php?term=scrap&allowed_in_frame=0" class="crossreference">scrap</a> (n.2). Related: <span class="foreign">Scrapped</span>; <span class="foreign">scrapping</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrap&allowed_in_frame=0">scrap (n.1)</a> <a href="http://dictionary.reference.com/search?q=scrap" class="dictionary" title="Look up scrap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrap at Dictionary.com" title="Look up scrap at Dictionary.com" /></a></dt>
+<dd class="highlight">"small piece," late 14c., from O.N. <span class="foreign">skrap</span> "scraps, trifles," from <span class="foreign">skrapa</span> "to scrape" (see <a href="/index.php?term=scrape&allowed_in_frame=0" class="crossreference">scrape</a>). Meaning "remains of metal produced after rolling or casting" is from 1790. <span class="foreign">Scrap iron</span> first recorded 1823.</dd>
+
+<dt><a href="/index.php?term=scrap&allowed_in_frame=0">scrap (n.2)</a> <a href="http://dictionary.reference.com/search?q=scrap" class="dictionary" title="Look up scrap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrap at Dictionary.com" title="Look up scrap at Dictionary.com" /></a></dt>
+<dd>"fight," 1846, possibly a variant of <a href="/index.php?term=scrape&allowed_in_frame=0" class="crossreference">scrape</a> (n.) on the notion of "an abrasive encounter." But Weekley suggests obsolete colloquial <span class="foreign">scrap</span> "scheme, villainy, vile intention" (1670s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrapbook&allowed_in_frame=0">scrapbook (n.)</a> <a href="http://dictionary.reference.com/search?q=scrapbook" class="dictionary" title="Look up scrapbook at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrapbook at Dictionary.com" title="Look up scrapbook at Dictionary.com" /></a></dt>
+<dd class="highlight">1825, from <a href="/index.php?term=scrap&allowed_in_frame=0" class="crossreference">scrap</a> (n.1) + <a href="/index.php?term=book&allowed_in_frame=0" class="crossreference">book</a> (n.). As a verb, by 1889. Related: <span class="foreign">Scrapbooked</span>; <span class="foreign">scrapbooking</span>.
+</dd>
+
+<dt><a href="/index.php?term=scrape&allowed_in_frame=0">scrape (v.)</a> <a href="http://dictionary.reference.com/search?q=scrape" class="dictionary" title="Look up scrape at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrape at Dictionary.com" title="Look up scrape at Dictionary.com" /></a></dt>
+<dd>c.1300, probably from O.N. <span class="foreign">skrapa</span> "to scrape, erase," from P.Gmc. <span class="foreign">*skrapojan</span> (cf. O.E. <span class="foreign">scrapian</span> "to scrape," Du. <span class="foreign">schrapen,</span> Ger. <span class="foreign">schrappen</span>). To <span class="foreign">scrape the bottom of the barrel</span> in figurative sense is from 1942.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrape&allowed_in_frame=0">scrape (n.)</a> <a href="http://dictionary.reference.com/search?q=scrape" class="dictionary" title="Look up scrape at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrape at Dictionary.com" title="Look up scrape at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "a scraping instrument;" late 15c., "act of scraping or scratching," from <a href="/index.php?term=scrape&allowed_in_frame=0" class="crossreference">scrape</a> (v.). Meaning "embarrassing or awkward predicament" is recorded from 1709, as OED suggests, "probably from the notion of being 'scraped' in going through a narrow passage."</dd>
+
+<dt><a href="/index.php?term=scraper&allowed_in_frame=0">scraper (n.)</a> <a href="http://dictionary.reference.com/search?q=scraper" class="dictionary" title="Look up scraper at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scraper at Dictionary.com" title="Look up scraper at Dictionary.com" /></a></dt>
+<dd>1560s, agent noun from <a href="/index.php?term=scrape&allowed_in_frame=0" class="crossreference">scrape</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrapple&allowed_in_frame=0">scrapple (n.)</a> <a href="http://dictionary.reference.com/search?q=scrapple" class="dictionary" title="Look up scrapple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrapple at Dictionary.com" title="Look up scrapple at Dictionary.com" /></a></dt>
+<dd class="highlight">cornmeal boiled in scraps of pork, 1855, probably a dim. form of <a href="/index.php?term=scrap&allowed_in_frame=0" class="crossreference">scrap</a> (n.1).</dd>
+
+<dt><a href="/index.php?term=scrappy&allowed_in_frame=0">scrappy (adj.)</a> <a href="http://dictionary.reference.com/search?q=scrappy" class="dictionary" title="Look up scrappy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrappy at Dictionary.com" title="Look up scrappy at Dictionary.com" /></a></dt>
+<dd>"consisting of scraps," 1837, from <a href="/index.php?term=scrap&allowed_in_frame=0" class="crossreference">scrap</a> (n.1). Meaning "inclined to fight" (1895) is from <a href="/index.php?term=scrap&allowed_in_frame=0" class="crossreference">scrap</a> (v.2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scratch&allowed_in_frame=0">scratch (v.)</a> <a href="http://dictionary.reference.com/search?q=scratch" class="dictionary" title="Look up scratch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scratch at Dictionary.com" title="Look up scratch at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, probably a fusion of M.E. <span class="foreign">scratten</span> and <span class="foreign">crachen</span>, both meaning "to scratch," both of uncertain origin. Related: <span class="foreign">Scratched</span>; <span class="foreign">scratching</span>. Billiards sense of "to hit the cue ball into a pocket" is first recorded 1909 (also, originally, <span class="foreign">itch</span>), though earlier it meant "a lucky shot" (1850). Meaning "to withdraw (a horse) from a race" is 1865, from notion of scratching name off list of competitors; used in a non-sporting sense of "cancel a plan, etc." from 1680s.</dd>
+
+<dt><a href="/index.php?term=scratch&allowed_in_frame=0">scratch (n.)</a> <a href="http://dictionary.reference.com/search?q=scratch" class="dictionary" title="Look up scratch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scratch at Dictionary.com" title="Look up scratch at Dictionary.com" /></a></dt>
+<dd>1580s, from <a href="/index.php?term=scratch&allowed_in_frame=0" class="crossreference">scratch</a> (v.). Slang sense of "money" is from 1914, of uncertain signification. Many figurative senses (e.g. <span class="foreign">up to scratch</span>) are from sporting use for "line or mark drawn as a starting place," attested from 1778 (but the earliest use is figurative); meaning "nothing" (in <span class="foreign">from scratch</span>) is 1922, also from sporting sense of "starting point of a competitor who receives no odds in a handicap match."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Scratch&allowed_in_frame=0">Scratch</a> <a href="http://dictionary.reference.com/search?q=Scratch" class="dictionary" title="Look up Scratch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Scratch at Dictionary.com" title="Look up Scratch at Dictionary.com" /></a></dt>
+<dd class="highlight">in <span class="foreign">Old Scratch</span> "the Devil," 1740, is from earlier <span class="foreign">Scrat,</span> from O.N. <span class="foreign">skratte</span> "goblin, monster," a word which was used in late O.E. for "hermaphrodite" (cf. O.H.G. <span class="foreign">scrato</span> "satyr, wood demon").</dd>
+
+<dt><a href="/index.php?term=scratchy&allowed_in_frame=0">scratchy</a> <a href="http://dictionary.reference.com/search?q=scratchy" class="dictionary" title="Look up scratchy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scratchy at Dictionary.com" title="Look up scratchy at Dictionary.com" /></a></dt>
+<dd>1710, from <a href="/index.php?term=scratch&allowed_in_frame=0" class="crossreference">scratch</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Of sounds (especially in reproduction) from 1889. Related: <span class="foreign">Scratchiness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrawl&allowed_in_frame=0">scrawl (v.)</a> <a href="http://dictionary.reference.com/search?q=scrawl" class="dictionary" title="Look up scrawl at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrawl at Dictionary.com" title="Look up scrawl at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, perhaps from M.E. <span class="foreign">scrawlen</span> "spread out the limbs, sprawl" (late 14c.), which possibly is an alteration of <span class="foreign">sprawlen</span> (see <a href="/index.php?term=sprawl&allowed_in_frame=0" class="crossreference">sprawl</a>) or <a href="/index.php?term=crawl&allowed_in_frame=0" class="crossreference">crawl</a>. Related: <span class="foreign">Scrawled</span>; <span class="foreign">scrawling</span>. The noun is recorded from 1690s.</dd>
+
+<dt><a href="/index.php?term=scrawny&allowed_in_frame=0">scrawny</a> <a href="http://dictionary.reference.com/search?q=scrawny" class="dictionary" title="Look up scrawny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrawny at Dictionary.com" title="Look up scrawny at Dictionary.com" /></a></dt>
+<dd>1833, apparently a dialectal variant of <span class="foreign">scranny</span> "lean, thin" (1820), which is of uncertain origin, perhaps from O.N. <span class="foreign">skr&aelig;lna</span> "to shrivel."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scream&allowed_in_frame=0">scream (v.)</a> <a href="http://dictionary.reference.com/search?q=scream" class="dictionary" title="Look up scream at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scream at Dictionary.com" title="Look up scream at Dictionary.com" /></a></dt>
+<dd class="highlight">late 12c., <span class="foreign">scr&aelig;men</span>, of uncertain origin, similar to words in Scandinavian, Dutch, German, and Flemish (cf. O.N. <span class="foreign">skr&aelig;ma</span> "to terrify, scare," Swed. <span class="foreign">scrana</span> "to scream," O.H.G. <span class="foreign">scrian</span>, Ger. <span class="foreign">schreien</span> "to cry"). The noun is attested from mid-15c.<blockquote>And (as they say) lamentings heard i' th' Ayre; Strange Schreemes of Death. ["Macbeth," II.iii.61]</blockquote>Shakespeare's spelling probably reflects "sk-" as spelled in words from Latin (e.g. <span class="foreign">school</span>); he also has <span class="foreign">schreene</span> for <span class="foreign">screen.</span> Slang meaning "something that evokes a cry of laughter" is 1903; <span class="foreign">screamer</span> in this sense is from 1831. <span class="foreign">Screaming meemies</span> is World War I army slang, originally a soldiers' name for a type of German artillery shell that made a loud noise in flight (from French woman's name <span class="foreign">Mimi</span>), extended to the battle fatigue caused by long exposure to enemy fire.</dd>
+
+<dt><a href="/index.php?term=scree&allowed_in_frame=0">scree</a> <a href="http://dictionary.reference.com/search?q=scree" class="dictionary" title="Look up scree at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scree at Dictionary.com" title="Look up scree at Dictionary.com" /></a></dt>
+<dd>1781, back-formation from <span class="foreign">screes</span> (pl.) "pebbles, small stones," from O.N. <span class="foreign">skri&eth;a</span> "landslide," from <span class="foreign">skri&eth;a</span> "to slide, glide," from P.Gmc. <span class="foreign">*skrithanan</span> (cf. O.E. <span class="foreign">scri&thorn;an</span> "to go, glide," O.S. <span class="foreign">skridan,</span> Du. <span class="foreign">schrijden,</span> O.H.G. <span class="foreign">scritan,</span> Ger. <span class="foreign">schreiten</span> "to stride").</dd>
+
+<dt class="highlight"><a href="/index.php?term=screech&allowed_in_frame=0">screech</a> <a href="http://dictionary.reference.com/search?q=screech" class="dictionary" title="Look up screech at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screech at Dictionary.com" title="Look up screech at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., <span class="foreign">schrichen</span>, possibly of imitative origin (cf. <span class="foreign">shriek</span>). The noun is first recorded 1550s. <span class="foreign">Screech owl</span> is attested from 1590s (<span class="foreign">scritch-owl</span> is from 1520s).</dd>
+
+<dt><a href="/index.php?term=screed&allowed_in_frame=0">screed (n.)</a> <a href="http://dictionary.reference.com/search?q=screed" class="dictionary" title="Look up screed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screed at Dictionary.com" title="Look up screed at Dictionary.com" /></a></dt>
+<dd>early 14c., "fragment, strip of cloth," from northern England dialectal variant of O.E. <span class="foreign">screade</span> (see <a href="/index.php?term=shred&allowed_in_frame=0" class="crossreference">shred</a>). Meaning "lengthy speech" is first recorded 1789, from notion of reading from a long list.</dd>
+
+<dt class="highlight"><a href="/index.php?term=screen&allowed_in_frame=0">screen (n.)</a> <a href="http://dictionary.reference.com/search?q=screen" class="dictionary" title="Look up screen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screen at Dictionary.com" title="Look up screen at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "upright piece of furniture providing protection from heat of a fire, drafts, etc.," probably from an aphetic (Anglo-French?) variant of O.N.Fr. <span class="foreign">escren</span>, O.Fr. <span class="foreign">escran</span> "a screen against heat" (early 14c.), perhaps from M.Du. <span class="foreign">scherm</span> "screen, cover," or Frank. <span class="foreign">*skrank</span> "barrier," from a Germanic root related to O.H.G. <span class="foreign">skirm, skerm</span> "protection" (cf. <span class="foreign">skirmish</span>). Meaning "net-wire frame used in windows and doors" is recorded from 1895. Meaning "flat horizontal surface for reception of projected images" is from 1810, originally in reference to magic lantern shows; later of movies. Transferred sense of "cinema world collectively" is attested from 1914; hence <a href="/index.php?term=screenplay&allowed_in_frame=0" class="crossreference">screenplay</a> (1916), <span class="foreign">screen test</span> (1922), <span class="foreign">screenwriter</span> (1921). <span class="foreign">Screen saver</span> first attested 1990.</dd>
+
+<dt><a href="/index.php?term=screen&allowed_in_frame=0">screen (v.)</a> <a href="http://dictionary.reference.com/search?q=screen" class="dictionary" title="Look up screen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screen at Dictionary.com" title="Look up screen at Dictionary.com" /></a></dt>
+<dd>"to shield from punishment, to conceal," late 15c., from <a href="/index.php?term=screen&allowed_in_frame=0" class="crossreference">screen</a> (n.). Meaning "examine systematically for suitability" is from 1943; sense of "to release a movie" is from 1915. Related: <span class="foreign">Screened</span>; <span class="foreign">screening</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=screenplay&allowed_in_frame=0">screenplay</a> <a href="http://dictionary.reference.com/search?q=screenplay" class="dictionary" title="Look up screenplay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screenplay at Dictionary.com" title="Look up screenplay at Dictionary.com" /></a></dt>
+<dd class="highlight">1916, from <a href="/index.php?term=screen&allowed_in_frame=0" class="crossreference">screen</a> + <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a>.</dd>
+
+<dt><a href="/index.php?term=screenshot&allowed_in_frame=0">screenshot</a> <a href="http://dictionary.reference.com/search?q=screenshot" class="dictionary" title="Look up screenshot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screenshot at Dictionary.com" title="Look up screenshot at Dictionary.com" /></a></dt>
+<dd>by 1991, from (computer) <a href="/index.php?term=screen&allowed_in_frame=0" class="crossreference">screen</a> + <a href="/index.php?term=shot&allowed_in_frame=0" class="crossreference">shot</a> in the photograph sense.</dd>
+
+<dt class="highlight"><a href="/index.php?term=screw&allowed_in_frame=0">screw (n.)</a> <a href="http://dictionary.reference.com/search?q=screw" class="dictionary" title="Look up screw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screw at Dictionary.com" title="Look up screw at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from M.Fr. <span class="foreign">escroue</span> "nut, cylindrical socket, screwhole," of uncertain etymology; not found in other Romanic languages. Perhaps via Gallo-Romance <span class="foreign">*scroba</span> or W.Gmc. <span class="foreign">*scruva</span> from V.L. <span class="foreign">scrobis</span> "screw-head groove," in classical Latin "ditch, trench," also "vagina" (Diez, though OED finds this "phonologically impossible"). Kluge and others trace it to L. <span class="foreign">scrofa</span> "breeding sow," perhaps based on the shape of a pig's penis (cf. Port. <span class="foreign">porca</span>, Sp. <span class="foreign">perca</span> "a female screw," from L. <span class="foreign">porca</span> "sow"). A group of apparently cognate Germanic words (M.L.G., M.Du. <span class="foreign">schruve</span>, Du. <span class="foreign">schroef</span>, Ger. <span class="foreign">Schraube</span>, Swed. <span class="foreign">skrufva</span> "screw") often are said to be French loan-words. Sense of "means of pressure or coercion" is from 1640s, probably in reference to instruments of torture (e.g. <span class="foreign">thumbscrews</span>). Meaning "prison guard, warden" is 1812 in underworld slang, originally in reference to the key they carried. To <span class="foreign">have a screw loose</span> "have a dangerous (usually mental) weakness" is recorded from 1810. <span class="foreign">Screwy</span> (1820) originally meant "tipsy, slightly drunk;" sense of "crazy, ridiculous" first recorded 1887.</dd>
+
+<dt><a href="/index.php?term=screw&allowed_in_frame=0">screw (v.)</a> <a href="http://dictionary.reference.com/search?q=screw" class="dictionary" title="Look up screw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screw at Dictionary.com" title="Look up screw at Dictionary.com" /></a></dt>
+<dd>"to twist (something) like a screw," 1590s, from <a href="/index.php?term=screw&allowed_in_frame=0" class="crossreference">screw</a> (n.). Slang meaning "to copulate" dates from at least 1725, on the notion of driving a screw into something. Meaning "a prostitute" also is attested from 1725. Slang meaning "an act of copulation" (n.) is recorded from 1929. First recorded 1949 in exclamations as a euphemism. Related: <span class="foreign">Screwed</span>; <span class="foreign">screwing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=screwball&allowed_in_frame=0">screwball (n.)</a> <a href="http://dictionary.reference.com/search?q=screwball" class="dictionary" title="Look up screwball at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screwball at Dictionary.com" title="Look up screwball at Dictionary.com" /></a></dt>
+<dd class="highlight">"eccentric person," 1933, U.S. slang, earlier as a type of erratic baseball pitch (1928), from a still earlier name for a type of delivery in cricket (1866), from <a href="/index.php?term=screw&allowed_in_frame=0" class="crossreference">screw</a> (n.) + <a href="/index.php?term=ball&allowed_in_frame=0" class="crossreference">ball</a> (n.1). <span class="foreign">Screwball comedy</span> is attested from 1938.</dd>
+
+<dt><a href="/index.php?term=screwdriver&allowed_in_frame=0">screwdriver (n.)</a> <a href="http://dictionary.reference.com/search?q=screwdriver" class="dictionary" title="Look up screwdriver at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up screwdriver at Dictionary.com" title="Look up screwdriver at Dictionary.com" /></a></dt>
+<dd>"tool for driving screws," 1779, from <a href="/index.php?term=screw&allowed_in_frame=0" class="crossreference">screw</a> (n.) + <span class="foreign">driver.</span> Meaning "cocktail made from vodka and orange juice" is recorded from 1956. (<span class="foreign">Screwed/screwy</span> had a sense of "drunk" since 19c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scribble&allowed_in_frame=0">scribble (v.)</a> <a href="http://dictionary.reference.com/search?q=scribble" class="dictionary" title="Look up scribble at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scribble at Dictionary.com" title="Look up scribble at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from M.L. <span class="foreign">scribillare</span>, dim. of L. <span class="foreign">scribere</span> "to write" (see <a href="/index.php?term=script&allowed_in_frame=0" class="crossreference">script</a>). Related: <span class="foreign">Scribbled</span>; <span class="foreign">scribbling</span>. The noun is from 1570s. </dd>
+
+<dt><a href="/index.php?term=scribbler&allowed_in_frame=0">scribbler</a> <a href="http://dictionary.reference.com/search?q=scribbler" class="dictionary" title="Look up scribbler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scribbler at Dictionary.com" title="Look up scribbler at Dictionary.com" /></a></dt>
+<dd>"petty author," 1550s, agent noun from <a href="/index.php?term=scribble&allowed_in_frame=0" class="crossreference">scribble</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scribe&allowed_in_frame=0">scribe (v.)</a> <a href="http://dictionary.reference.com/search?q=scribe" class="dictionary" title="Look up scribe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scribe at Dictionary.com" title="Look up scribe at Dictionary.com" /></a></dt>
+<dd class="highlight">"to write," mid-15c., from L. <span class="foreign">scribere</span> "to write" (see <a href="/index.php?term=script&allowed_in_frame=0" class="crossreference">script</a>). </dd>
+
+<dt><a href="/index.php?term=scribe&allowed_in_frame=0">scribe (n.)</a> <a href="http://dictionary.reference.com/search?q=scribe" class="dictionary" title="Look up scribe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scribe at Dictionary.com" title="Look up scribe at Dictionary.com" /></a></dt>
+<dd>c.1200, "professional interpreter of the Jewish Law" (late 11c. as a surname), from L.L. <span class="foreign">scriba</span> "teacher of Jewish law," used in Vulgate to render Gk. <span class="foreign">grammateus</span>, corresponding to Heb. <span class="foreign">sopher</span> "writer, scholar." In secular Latin, <span class="foreign">scriba</span> meant "keeper of accounts, secretary" (from <span class="foreign">scribere</span> "to write;" see <a href="/index.php?term=script&allowed_in_frame=0" class="crossreference">script</a>). It recovered this sense in English from late 14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrim&allowed_in_frame=0">scrim (n.)</a> <a href="http://dictionary.reference.com/search?q=scrim" class="dictionary" title="Look up scrim at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrim at Dictionary.com" title="Look up scrim at Dictionary.com" /></a></dt>
+<dd class="highlight">"upholstery lining," 1792, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=scrimmage&allowed_in_frame=0">scrimmage</a> <a href="http://dictionary.reference.com/search?q=scrimmage" class="dictionary" title="Look up scrimmage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrimmage at Dictionary.com" title="Look up scrimmage at Dictionary.com" /></a></dt>
+<dd>late 15c., alteration of <a href="/index.php?term=skirmish&allowed_in_frame=0" class="crossreference">skirmish</a>. The verb is recorded from 1825. Related: <span class="foreign">Scrimmaged</span>; <span class="foreign">scrimmaging</span>. Meaning in rugby and U.S. football dates from 1857, originally "a confused struggle between players."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrimp&allowed_in_frame=0">scrimp</a> <a href="http://dictionary.reference.com/search?q=scrimp" class="dictionary" title="Look up scrimp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrimp at Dictionary.com" title="Look up scrimp at Dictionary.com" /></a></dt>
+<dd class="highlight">"to make too small," 1774, originally an adj., "scant, meager" (1718), possibly from a Scandinavian source (cf. Swed. <span class="foreign">skrumpna</span> "to shrink, shrivel up"), or from a continental Germanic source akin to M.H.G. <span class="foreign">schrimpfen</span>, Ger. <span class="foreign">schrumpfen</span> "to shrivel" (cf. <a href="/index.php?term=shrimp&allowed_in_frame=0" class="crossreference">shrimp</a>).</dd>
+
+<dt><a href="/index.php?term=scrimshaw&allowed_in_frame=0">scrimshaw (n.)</a> <a href="http://dictionary.reference.com/search?q=scrimshaw" class="dictionary" title="Look up scrimshaw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrimshaw at Dictionary.com" title="Look up scrimshaw at Dictionary.com" /></a></dt>
+<dd>1864, back-formation from <span class="foreign">scrimshander</span> ("Moby Dick," 1851), <span class="foreign">scrimshonting</span> (1825), American English nautical word, of unknown origin. <span class="foreign">Scrimshaw</span> is an English surname, attested from mid-12c., from O.Fr. <span class="foreign">escremisseor</span> "fencing-master."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrip&allowed_in_frame=0">scrip</a> <a href="http://dictionary.reference.com/search?q=scrip" class="dictionary" title="Look up scrip at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrip at Dictionary.com" title="Look up scrip at Dictionary.com" /></a></dt>
+<dd class="highlight">"a certificate of a right to receive something (especially a stock share)," 1762, probably shortened from <span class="foreign">(sub)scrip(tion) receipt</span>. Originally "receipt for a portion of a loan subscribed," meaning "certificate issued as currency" first recorded 1790.</dd>
+
+<dt><a href="/index.php?term=script&allowed_in_frame=0">script (n.)</a> <a href="http://dictionary.reference.com/search?q=script" class="dictionary" title="Look up script at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up script at Dictionary.com" title="Look up script at Dictionary.com" /></a></dt>
+<dd>late 14c., "something written," from O.Fr. <span class="foreign">escrit</span> (Mod.Fr. <span class="foreign">&eacute;crit</span>) "a writing, written paper," from L. <span class="foreign">scriptum</span> "a writing, book, law, line, mark," noun use of neut. pp. of <span class="foreign">scribere</span> "to write," from PIE <span class="foreign">*skreibh-</span> (cf. Gk. <span class="foreign">skariphasthai</span> "to scratch an outline, sketch," Lett. <span class="foreign">skripat</span> "scratch, write," O.N. <span class="foreign">hrifa</span> "scratch"), from root <span class="foreign">*sker-</span> "cut, incise" (cf. O.E. <span class="foreign">sceran</span> "cut off, shear;" see <a href="/index.php?term=shear&allowed_in_frame=0" class="crossreference">shear</a>) on the notion of carving marks in stone, wood, etc.
+<BR><BR>
+Meaning "handwriting" is recorded from 1860. Theatrical use, short for <span class="foreign">manuscript</span>, is attested from 1897. The importance of Rome to the spread of civilization in Europe is attested by the fact that the word for "write" in Romance, Celtic and Germanic languages derives from <span class="foreign">scribere</span> (e.g. Fr. <span class="foreign">&eacute;crire</span>, Ir. <span class="foreign">scriobhaim</span>, Welsh <span class="foreign">ysgrifennu</span>, Ger. <span class="foreign">schreiben</span>), but the cognate O.E. <span class="foreign">scrifan</span> means "to allot, assign, decree" (see <a href="/index.php?term=shrive&allowed_in_frame=0" class="crossreference">shrive</a>; also cf. O.N. <span class="foreign">skript</span> "penance") and Modern English uses <a href="/index.php?term=write&allowed_in_frame=0" class="crossreference">write</a> (v.) to express this action.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scriptorium&allowed_in_frame=0">scriptorium</a> <a href="http://dictionary.reference.com/search?q=scriptorium" class="dictionary" title="Look up scriptorium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scriptorium at Dictionary.com" title="Look up scriptorium at Dictionary.com" /></a></dt>
+<dd class="highlight">1774, from L.L. <span class="foreign">scriptorium</span> "place for writing," neut. of L. <span class="foreign">scriptorius</span> "pertaining to writing," from L. <span class="foreign">scriptus</span>, pp. of <span class="foreign">scribere</span> "to write" (see <a href="/index.php?term=script&allowed_in_frame=0" class="crossreference">script</a>).</dd>
+
+<dt><a href="/index.php?term=scripture&allowed_in_frame=0">scripture (n.)</a> <a href="http://dictionary.reference.com/search?q=scripture" class="dictionary" title="Look up scripture at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scripture at Dictionary.com" title="Look up scripture at Dictionary.com" /></a></dt>
+<dd>c.1300, "a writing, an act of writing," especially "the sacred writings of the Bible," from L.L. <span class="foreign">scriptura</span> "the writings contained in the Bible, a passage from the Bible," from L. <span class="foreign">scriptura</span> "a writing, character, inscription," from <span class="foreign">scriptus</span>, pp. of <span class="foreign">scribere</span> "write" (see <a href="/index.php?term=script&allowed_in_frame=0" class="crossreference">script</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scritch&allowed_in_frame=0">scritch</a> <a href="http://dictionary.reference.com/search?q=scritch" class="dictionary" title="Look up scritch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scritch at Dictionary.com" title="Look up scritch at Dictionary.com" /></a></dt>
+<dd class="highlight">see <span class="foreign">screech.</span></dd>
+
+<dt><a href="/index.php?term=scrivener&allowed_in_frame=0">scrivener</a> <a href="http://dictionary.reference.com/search?q=scrivener" class="dictionary" title="Look up scrivener at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrivener at Dictionary.com" title="Look up scrivener at Dictionary.com" /></a></dt>
+<dd>"professional penman, copyist," late 14c. (early 13c. as a surname), from <span class="foreign">scrivein</span> "scribe" (c.1300), from O.Fr. <span class="foreign">escrivain</span> "a writer, notary, clerk," from V.L. <span class="foreign">*scribanem</span> accusative of <span class="foreign">scriba</span> "a scribe," from <span class="foreign">scribere</span> (see <a href="/index.php?term=script&allowed_in_frame=0" class="crossreference">script</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrod&allowed_in_frame=0">scrod</a> <a href="http://dictionary.reference.com/search?q=scrod" class="dictionary" title="Look up scrod at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrod at Dictionary.com" title="Look up scrod at Dictionary.com" /></a></dt>
+<dd class="highlight">1841, "young cod, split and fried or boiled," possibly from Du. <span class="foreign">schrood</span> "piece cut off," from M.Du. <span class="foreign">scrode</span> "shred" (cf. O.E. <span class="foreign">screade,</span> see <a href="/index.php?term=shred&allowed_in_frame=0" class="crossreference">shred</a>). If this is the origin, the notion is probably of fish cut into pieces for drying or cooking.<blockquote>A Boston brahmin is on a business trip to Philadelphia. In search of dinner, and hungry for that Boston favorite, broiled scrod, he hops into a cab and asks the driver, "My good man, take me someplace where I can get scrod." The cabbie replies, "Pal, that's the first time I've ever been asked that in the passive pluperfect subjunctive." </blockquote></dd>
+
+<dt><a href="/index.php?term=scrofula&allowed_in_frame=0">scrofula</a> <a href="http://dictionary.reference.com/search?q=scrofula" class="dictionary" title="Look up scrofula at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrofula at Dictionary.com" title="Look up scrofula at Dictionary.com" /></a></dt>
+<dd>c.1400, <span class="foreign">scrophulas</span> (pl.) from L.L. <span class="foreign">scroful&aelig;</span> (pl.) "swelling of the glands of the neck," lit. "little pigs," from L. <span class="foreign">scrofa</span> "breeding sow." The connection may be because the glands associated with the disease resemble the body of a sow, or because pigs were thought to be prone to it. Cf. Gk. <span class="foreign">khoirades</span> (pl.) "scrofula," related to <span class="foreign">khoiros</span> "young pig."</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrofulous&allowed_in_frame=0">scrofulous</a> <a href="http://dictionary.reference.com/search?q=scrofulous" class="dictionary" title="Look up scrofulous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrofulous at Dictionary.com" title="Look up scrofulous at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c.; see <a href="/index.php?term=scrofula&allowed_in_frame=0" class="crossreference">scrofula</a> + <a href="/index.php?term=-ous&allowed_in_frame=0" class="crossreference">-ous</a>. Related: <span class="foreign">Scrofulously</span>.</dd>
+
+<dt><a href="/index.php?term=scroggy&allowed_in_frame=0">scroggy</a> <a href="http://dictionary.reference.com/search?q=scroggy" class="dictionary" title="Look up scroggy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scroggy at Dictionary.com" title="Look up scroggy at Dictionary.com" /></a></dt>
+<dd>"overgrown with bushes," mid-15c., from <span class="foreign">scrog</span> (n.) "a stunted bush, a shrub-like plant" (c.1400), probably related to <span class="foreign">scrag</span> "a lean person or thing" (1570s); cf. <a href="/index.php?term=scraggly&allowed_in_frame=0" class="crossreference">scraggly</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scroll&allowed_in_frame=0">scroll (n.)</a> <a href="http://dictionary.reference.com/search?q=scroll" class="dictionary" title="Look up scroll at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scroll at Dictionary.com" title="Look up scroll at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, "roll of parchment or paper," altered (by association with <span class="foreign">rolle</span> "roll") from <span class="foreign">scrowe</span> (early 13c.), from Anglo-Fr. <span class="foreign">escrowe</span>, O.Fr. <span class="foreign">escroe</span> "scrap, roll of parchment," from Frank. <span class="foreign">*skroda</span> "shred" (cf. M.Du. <span class="foreign">schroode</span> "shred," O.H.G. <span class="foreign">scrot</span> "piece cut off," Ger. <span class="foreign">Schrot</span> "log, block, small shot"), from P.Gmc. <span class="foreign">*skrautha</span> "something cut." The verb meaning "to write down in a scroll" is recorded from c.1600; sense of "show a few lines at a time" (on a computer or TV screen) first recorded 1981. Related: <span class="foreign">Scrolled</span>; <span class="foreign">scrolling</span>.</dd>
+
+<dt><a href="/index.php?term=scrooge&allowed_in_frame=0">scrooge (n.)</a> <a href="http://dictionary.reference.com/search?q=scrooge" class="dictionary" title="Look up scrooge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrooge at Dictionary.com" title="Look up scrooge at Dictionary.com" /></a></dt>
+<dd>generic for "miser," 1940, from curmudgeonly character in Dickens' 1843 story "A Christmas Carol." It does not appear to be a genuine English surname.</dd>
+
+<dt class="highlight"><a href="/index.php?term=scrotum&allowed_in_frame=0">scrotum (n.)</a> <a href="http://dictionary.reference.com/search?q=scrotum" class="dictionary" title="Look up scrotum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrotum at Dictionary.com" title="Look up scrotum at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from L. <span class="foreign">scrotum,</span> cognate with O.E. <span class="foreign">scrud</span> "garment" (source of <a href="/index.php?term=shroud&allowed_in_frame=0" class="crossreference">shroud</a> (n.)).<blockquote>"Isn't the sea what Algy calls it: a grey sweet mother? The snotgreen sea. The scrotum-tightening sea. Epi oinopa ponton." [Joyce, "Ulysses"]</blockquote></dd>
+
+<dt><a href="/index.php?term=scrounge&allowed_in_frame=0">scrounge</a> <a href="http://dictionary.reference.com/search?q=scrounge" class="dictionary" title="Look up scrounge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up scrounge at Dictionary.com" title="Look up scrounge at Dictionary.com" /></a></dt>
+<dd>"to acquire by irregular means," 1915, alteration of dialectal <span class="foreign">scrunge</span> "to search stealthily, rummage, pilfer" (1909), of uncertain origin, perhaps from dial. <span class="foreign">scringe</span> "to pry about." Popularized by the military in World War I. Perhaps related to <span class="foreign">scrouge, scrooge</span> "push, jostle" (1755, Cockney slang for "a crowd"), probably suggestive of <span class="foreign">screw, squeeze.</span></dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658713 -->
+<!-- Page was generated in 0.176757 seconds. -->
+ </body>
+</html>
+<!-- -->

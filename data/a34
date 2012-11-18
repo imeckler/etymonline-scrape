@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=anti-imperialist&allowed_in_frame=0">anti-imperialist (adj.)</a> <a href="http://dictionary.reference.com/search?q=anti-imperialist" class="dictionary" title="Look up anti-imperialist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-imperialist at Dictionary.com" title="Look up anti-imperialist at Dictionary.com" /></a></dt>
+<dd class="highlight">1898, American English, in debates about the Spanish-American War, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=imperialist&allowed_in_frame=0" class="crossreference">imperialist</a>. Related: <span class="foreign">Anti-imperialism</span>.</dd>
+
+<dt><a href="/index.php?term=anti-intellectual&allowed_in_frame=0">anti-intellectual</a> <a href="http://dictionary.reference.com/search?q=anti-intellectual" class="dictionary" title="Look up anti-intellectual at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-intellectual at Dictionary.com" title="Look up anti-intellectual at Dictionary.com" /></a></dt>
+<dd>1821 (adj.), from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=intellectual&allowed_in_frame=0" class="crossreference">intellectual</a>. As a noun meaning "an anti-intellectual person" from 1913.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anti-intellectualism&allowed_in_frame=0">anti-intellectualism (n.)</a> <a href="http://dictionary.reference.com/search?q=anti-intellectualism" class="dictionary" title="Look up anti-intellectualism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-intellectualism at Dictionary.com" title="Look up anti-intellectualism at Dictionary.com" /></a></dt>
+<dd class="highlight">1904, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=intellectualism&allowed_in_frame=0" class="crossreference">intellectualism</a>; or in some cases from <a href="/index.php?term=anti-intellectual&allowed_in_frame=0" class="crossreference">anti-intellectual</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt><a href="/index.php?term=anti-macassar&allowed_in_frame=0">anti-macassar (n.)</a> <a href="http://dictionary.reference.com/search?q=anti-macassar" class="dictionary" title="Look up anti-macassar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-macassar at Dictionary.com" title="Look up anti-macassar at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">antimacassar</span>, 1852, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <span class="foreign">macassar</span> oil, proprietary name of a hair tonic advertised as imported from the district of <a href="/index.php?term=Macassar&allowed_in_frame=0" class="crossreference">Macassar</a> on the Indonesian island of Sulawesi. The cloth was laid to protect chair and sofa fabric from people leaning their oily heads back against it.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anti-Semite&allowed_in_frame=0">anti-Semite (n.)</a> <a href="http://dictionary.reference.com/search?q=anti-Semite" class="dictionary" title="Look up anti-Semite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-Semite at Dictionary.com" title="Look up anti-Semite at Dictionary.com" /></a></dt>
+<dd class="highlight">1881, see <a href="/index.php?term=anti-Semitism&allowed_in_frame=0" class="crossreference">anti-Semitism</a>.</dd>
+
+<dt><a href="/index.php?term=anti-Semitic&allowed_in_frame=0">anti-Semitic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anti-Semitic" class="dictionary" title="Look up anti-Semitic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-Semitic at Dictionary.com" title="Look up anti-Semitic at Dictionary.com" /></a></dt>
+<dd>1881, see <a href="/index.php?term=anti-Semitism&allowed_in_frame=0" class="crossreference">anti-Semitism</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anti-Semitism&allowed_in_frame=0">anti-Semitism (n.)</a> <a href="http://dictionary.reference.com/search?q=anti-Semitism" class="dictionary" title="Look up anti-Semitism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-Semitism at Dictionary.com" title="Look up anti-Semitism at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">antisemitism</span>, 1881, from Ger. <span class="foreign">Antisemitismus</span>, first used by Wilhelm Marr (1819-1904) German radical, nationalist and race-agitator, who founded the <span class="foreign">Antisemiten-Liga</span> in 1879; see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=Semite&allowed_in_frame=0" class="crossreference">Semite</a>. Not etymologically restricted to anti-Jewish theories, actions, or policies, but almost always used in this sense. Those who object to the inaccuracy of the term might try Hermann Adler's <span class="foreign">Judaeophobia</span> (1882). <span class="foreign">Anti-Semitic</span> (also <span class="foreign">antisemitic</span>) and <span class="foreign">anti-Semite</span> (also <span class="foreign">antisemite</span>) also are from 1881, like <span class="foreign">anti-Semitism</span> they appear first in English in an article in the "Athenaeum" of Sept. 31, in reference to German literature.</dd>
+
+<dt><a href="/index.php?term=anti-social&allowed_in_frame=0">anti-social (adj.)</a> <a href="http://dictionary.reference.com/search?q=anti-social" class="dictionary" title="Look up anti-social at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-social at Dictionary.com" title="Look up anti-social at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">antisocial</span>, 1797, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=social&allowed_in_frame=0" class="crossreference">social</a> (adj.). First-attested use is in sense of "unsociable;" meaning "hostile to social order or norms" is from 1802.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anti-war&allowed_in_frame=0">anti-war (adj.)</a> <a href="http://dictionary.reference.com/search?q=anti-war" class="dictionary" title="Look up anti-war at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anti-war at Dictionary.com" title="Look up anti-war at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">antiwar</span>, 1857, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=war&allowed_in_frame=0" class="crossreference">war</a> (n.).</dd>
+
+<dt><a href="/index.php?term=antibiotic&allowed_in_frame=0">antibiotic (adj.)</a> <a href="http://dictionary.reference.com/search?q=antibiotic" class="dictionary" title="Look up antibiotic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antibiotic at Dictionary.com" title="Look up antibiotic at Dictionary.com" /></a></dt>
+<dd>1894, "destructive to micro-organisms," from Fr. <span class="foreign">antibiotique</span> (c.1889), from <span class="foreign">anti-</span> "against" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + <span class="foreign">biotique</span> "of (microbial) life," from L.L. <span class="foreign">bioticus</span> "of life" (see <a href="/index.php?term=biotic&allowed_in_frame=0" class="crossreference">biotic</a>). As a noun, first recorded 1941 in works of U.S. microbiologist Selman Waksman (1888-1973), discoverer of streptomycin. Earlier the adjective was used in a sense "not from living organisms" in debates over the origins of certain fossils.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antibody&allowed_in_frame=0">antibody (n.)</a> <a href="http://dictionary.reference.com/search?q=antibody" class="dictionary" title="Look up antibody at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antibody at Dictionary.com" title="Look up antibody at Dictionary.com" /></a></dt>
+<dd class="highlight">"substance developed in blood as an antitoxin," 1901, a hybrid formed from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> "against" + <a href="/index.php?term=body&allowed_in_frame=0" class="crossreference">body</a>. Probably a translation of Ger. <span class="foreign">Antik&ouml;rper</span>, condensed from a phrase such as <span class="foreign">anti-toxisches K&ouml;rper</span> "anti-toxic body."</dd>
+
+<dt><a href="/index.php?term=antic&allowed_in_frame=0">antic (n.)</a> <a href="http://dictionary.reference.com/search?q=antic" class="dictionary" title="Look up antic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antic at Dictionary.com" title="Look up antic at Dictionary.com" /></a></dt>
+<dd>1520s, "grotesque or comical gesture," from It. <span class="foreign">antico</span> "antique," from L. <span class="foreign">antiquus</span> "old" (see <a href="/index.php?term=antique&allowed_in_frame=0" class="crossreference">antique</a>). Originally (like <span class="foreign">grotesque</span>) a 16c. Italian word referring to the strange and fantastic representations on ancient murals unearthed around Rome (especially originally the Baths of Titus, rediscovered 16c.); later extended to "any bizarre thing or behavior," in which sense it first arrived in English. As an adjective in English from 1580s, "grotesque, bizarre."</dd>
+
+<dt class="highlight"><a href="/index.php?term=antichrist&allowed_in_frame=0">antichrist (n.)</a> <a href="http://dictionary.reference.com/search?q=antichrist" class="dictionary" title="Look up antichrist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antichrist at Dictionary.com" title="Look up antichrist at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from L.L. <span class="foreign">antichristus</span>, from Gk. <span class="foreign">antikhristos</span> [I John ii:18], from <span class="foreign">anti-</span> "against" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + <span class="foreign">khristos</span> (see <a href="/index.php?term=Christ&allowed_in_frame=0" class="crossreference">Christ</a>).</dd>
+
+<dt><a href="/index.php?term=antichristian&allowed_in_frame=0">antichristian (adj.)</a> <a href="http://dictionary.reference.com/search?q=antichristian" class="dictionary" title="Look up antichristian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antichristian at Dictionary.com" title="Look up antichristian at Dictionary.com" /></a></dt>
+<dd>1530s, "pertaining to the antichrist," from <a href="/index.php?term=antichrist&allowed_in_frame=0" class="crossreference">antichrist</a> + <a href="/index.php?term=-ian&allowed_in_frame=0" class="crossreference">-ian</a>; as "opposition to Christianity" (also <span class="foreign">anti-Christian</span>), 1580s, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=Christian&allowed_in_frame=0" class="crossreference">Christian</a> (adj.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=anticipate&allowed_in_frame=0">anticipate (v.)</a> <a href="http://dictionary.reference.com/search?q=anticipate" class="dictionary" title="Look up anticipate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticipate at Dictionary.com" title="Look up anticipate at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "to cause to happen sooner," a back formation from <a href="/index.php?term=anticipation&allowed_in_frame=0" class="crossreference">anticipation</a>, or else from L. <span class="foreign">anticipatus</span>, pp. of <span class="foreign">anticipare</span> "take (care of) ahead of time," lit. "taking into possession beforehand," from <span class="foreign">ante</span> "before" (see <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>) + <span class="foreign">capere</span> "to take" (see <a href="/index.php?term=capable&allowed_in_frame=0" class="crossreference">capable</a>). Later "to be aware of (something) coming at a future time" (1640s). Used in the sense of "expect, look forward to" since 1749, but <span class="foreign">anticipate</span> has an element of "prepare for, forestall" that should prevent its being used as a synonym for <span class="foreign">expect</span>. Related: <span class="foreign">Anticipated</span>; <span class="foreign">anticipating</span>.</dd>
+
+<dt><a href="/index.php?term=anticipation&allowed_in_frame=0">anticipation (n.)</a> <a href="http://dictionary.reference.com/search?q=anticipation" class="dictionary" title="Look up anticipation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticipation at Dictionary.com" title="Look up anticipation at Dictionary.com" /></a></dt>
+<dd>late 14c., from L. <span class="foreign">anticipationem</span> (nom. <span class="foreign">anticipatio</span>) "preconception, preconceived notion," noun of action from pp. stem of <span class="foreign">anticipare</span> "take care of ahead of time" (see <a href="/index.php?term=anticipate&allowed_in_frame=0" class="crossreference">anticipate</a>). Meaning "action of looking forward to" is from 1809.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anticipatory&allowed_in_frame=0">anticipatory (adj.)</a> <a href="http://dictionary.reference.com/search?q=anticipatory" class="dictionary" title="Look up anticipatory at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticipatory at Dictionary.com" title="Look up anticipatory at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, from <a href="/index.php?term=anticipate&allowed_in_frame=0" class="crossreference">anticipate</a> + <a href="/index.php?term=-ory&allowed_in_frame=0" class="crossreference">-ory</a>.</dd>
+
+<dt><a href="/index.php?term=anticlimactic&allowed_in_frame=0">anticlimactic (adj.)</a> <a href="http://dictionary.reference.com/search?q=anticlimactic" class="dictionary" title="Look up anticlimactic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticlimactic at Dictionary.com" title="Look up anticlimactic at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">anti-climactic</span>, 1831; see <a href="/index.php?term=anticlimax&allowed_in_frame=0" class="crossreference">anticlimax</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anticlimax&allowed_in_frame=0">anticlimax (n.)</a> <a href="http://dictionary.reference.com/search?q=anticlimax" class="dictionary" title="Look up anticlimax at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticlimax at Dictionary.com" title="Look up anticlimax at Dictionary.com" /></a></dt>
+<dd class="highlight">"the addition of a particular which suddenly lowers the effect," 1701, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=climax&allowed_in_frame=0" class="crossreference">climax</a> (n.).</dd>
+
+<dt><a href="/index.php?term=anticline&allowed_in_frame=0">anticline (n.)</a> <a href="http://dictionary.reference.com/search?q=anticline" class="dictionary" title="Look up anticline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticline at Dictionary.com" title="Look up anticline at Dictionary.com" /></a></dt>
+<dd>1867, earlier <span class="foreign">anticlinal</span> (1849, by ellipsis from <span class="foreign">anticlinal fold</span>), from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> "against" + Gk. <span class="foreign">klinein</span> "to lean, slope" (see <a href="/index.php?term=lean&allowed_in_frame=0" class="crossreference">lean</a> (v.)). Form assimilated to <a href="/index.php?term=incline&allowed_in_frame=0" class="crossreference">incline</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anticoagulant&allowed_in_frame=0">anticoagulant</a> <a href="http://dictionary.reference.com/search?q=anticoagulant" class="dictionary" title="Look up anticoagulant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticoagulant at Dictionary.com" title="Look up anticoagulant at Dictionary.com" /></a></dt>
+<dd class="highlight">1905, adjective and noun, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=coagulant&allowed_in_frame=0" class="crossreference">coagulant</a>.</dd>
+
+<dt><a href="/index.php?term=antics&allowed_in_frame=0">antics (n.)</a> <a href="http://dictionary.reference.com/search?q=antics" class="dictionary" title="Look up antics at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antics at Dictionary.com" title="Look up antics at Dictionary.com" /></a></dt>
+<dd>"ludicrous behavior," 1520s; see <a href="/index.php?term=antic&allowed_in_frame=0" class="crossreference">antic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=anticyclone&allowed_in_frame=0">anticyclone (n.)</a> <a href="http://dictionary.reference.com/search?q=anticyclone" class="dictionary" title="Look up anticyclone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up anticyclone at Dictionary.com" title="Look up anticyclone at Dictionary.com" /></a></dt>
+<dd class="highlight">1863, coined by Francis Galton (1822-1911), English polymath, explorer, and meteorologist, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=cyclone&allowed_in_frame=0" class="crossreference">cyclone</a>. Related: <span class="foreign">Anticyclonic</span>.</dd>
+
+<dt><a href="/index.php?term=antidepressant&allowed_in_frame=0">antidepressant (n.)</a> <a href="http://dictionary.reference.com/search?q=antidepressant" class="dictionary" title="Look up antidepressant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antidepressant at Dictionary.com" title="Look up antidepressant at Dictionary.com" /></a></dt>
+<dd>1876, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=depressant&allowed_in_frame=0" class="crossreference">depressant</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antidisestablishmentarianism&allowed_in_frame=0">antidisestablishmentarianism (n.)</a> <a href="http://dictionary.reference.com/search?q=antidisestablishmentarianism" class="dictionary" title="Look up antidisestablishmentarianism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antidisestablishmentarianism at Dictionary.com" title="Look up antidisestablishmentarianism at Dictionary.com" /></a></dt>
+<dd class="highlight">"opposition to disestablishment of the Church of England," 1838, said by Weekley to be first recorded in Gladstone's "Church and State," from <a href="/index.php?term=dis-&allowed_in_frame=0" class="crossreference">dis-</a> + <a href="/index.php?term=establishment&allowed_in_frame=0" class="crossreference">establishment</a> in the sense of "the ecclesiastical system established by law; the Church of England" (1731). Hence, <span class="foreign">establishmentarianism</span> "the principle of a state church," and <span class="foreign">disestablish</span> (1590s) "to deprive (a church) of especial state patronage and support" (first used specifically of Christian churches in 1806), which are married in this word. Rarely used at all now except in examples of the longest words, amongst which it has been counted at least since 1901.</dd>
+
+<dt><a href="/index.php?term=antidotal&allowed_in_frame=0">antidotal (adj.)</a> <a href="http://dictionary.reference.com/search?q=antidotal" class="dictionary" title="Look up antidotal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antidotal at Dictionary.com" title="Look up antidotal at Dictionary.com" /></a></dt>
+<dd>1640s, from <a href="/index.php?term=antidote&allowed_in_frame=0" class="crossreference">antidote</a> + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=antidote&allowed_in_frame=0">antidote (n.)</a> <a href="http://dictionary.reference.com/search?q=antidote" class="dictionary" title="Look up antidote at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antidote at Dictionary.com" title="Look up antidote at Dictionary.com" /></a></dt>
+<dd class="highlight">"remedy counteracting poison," 1510s (earlier in English as a Latin word), from M.Fr. <span class="foreign">antidot</span> and directly from L. <span class="foreign">antidotum</span> "a remedy against poison," from Gk. <span class="foreign">antidoton</span> "given as a remedy," lit. "given against," verbal adjective of <span class="foreign">antididonai</span> "give in return," from <span class="foreign">anti-</span> "against" + <span class="foreign">didonai</span> "to give" (see <a href="/index.php?term=date&allowed_in_frame=0" class="crossreference">date</a> (n.1)). Cf. Middle English <span class="foreign">antidotarie</span> "treatise on drugs or medicines" (c.1400).</dd>
+
+<dt><a href="/index.php?term=Antietam&allowed_in_frame=0">Antietam</a> <a href="http://dictionary.reference.com/search?q=Antietam" class="dictionary" title="Look up Antietam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Antietam at Dictionary.com" title="Look up Antietam at Dictionary.com" /></a></dt>
+<dd>place name, eastern U.S., from an Algonquian word perhaps meaning "swift water;" the name occurrs in Pennsylvania and Ohio, but the best-known is a creek near Sharpsburg in Washington County, Maryland, site of a bloody Civil War battle Sept. 17, 1862.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antifebrile&allowed_in_frame=0">antifebrile</a> <a href="http://dictionary.reference.com/search?q=antifebrile" class="dictionary" title="Look up antifebrile at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antifebrile at Dictionary.com" title="Look up antifebrile at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=febrile&allowed_in_frame=0" class="crossreference">febrile</a>.</dd>
+
+<dt><a href="/index.php?term=antifreeze&allowed_in_frame=0">antifreeze</a> <a href="http://dictionary.reference.com/search?q=antifreeze" class="dictionary" title="Look up antifreeze at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antifreeze at Dictionary.com" title="Look up antifreeze at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">anti-freeze</span>; 1913 (adj.), 1935 as a noun; from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=freeze&allowed_in_frame=0" class="crossreference">freeze</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antigen&allowed_in_frame=0">antigen (n.)</a> <a href="http://dictionary.reference.com/search?q=antigen" class="dictionary" title="Look up antigen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antigen at Dictionary.com" title="Look up antigen at Dictionary.com" /></a></dt>
+<dd class="highlight">"substance that causes production of an antibody," 1908, from Ger. <span class="foreign">Antigen</span>, from Fr. <span class="foreign">antig&egrave;ne</span> (1899), from <span class="foreign">anti-</span> (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + Gk. <span class="foreign">-gen</span> (see <a href="/index.php?term=-gen&allowed_in_frame=0" class="crossreference">-gen</a>).</dd>
+
+<dt><a href="/index.php?term=Antigone&allowed_in_frame=0">Antigone</a> <a href="http://dictionary.reference.com/search?q=Antigone" class="dictionary" title="Look up Antigone at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Antigone at Dictionary.com" title="Look up Antigone at Dictionary.com" /></a></dt>
+<dd>daughter of Oedipus, her name may mean "in place of a mother" in Greek, from <span class="foreign">anti-</span> "opposite, in place of" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + <span class="foreign">gone</span> "womb, childbirth, generation," from root of <span class="foreign">gignesthai</span> “to be born” related to <span class="foreign">genos</span> "race, birth, descent" (see <a href="/index.php?term=genus&allowed_in_frame=0" class="crossreference">genus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Antigua&allowed_in_frame=0">Antigua</a> <a href="http://dictionary.reference.com/search?q=Antigua" class="dictionary" title="Look up Antigua at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Antigua at Dictionary.com" title="Look up Antigua at Dictionary.com" /></a></dt>
+<dd class="highlight">Caribbean island, from Spanish fem. of <span class="foreign">antiguo</span>, lit. "ancient, antique" (see <a href="/index.php?term=antique&allowed_in_frame=0" class="crossreference">antique</a>); discovered by Columbus in 1493 and named by him for the church of <span class="foreign">Santa Maria la Antigua</span> ("Old St. Mary's") in Seville.</dd>
+
+<dt><a href="/index.php?term=antihero&allowed_in_frame=0">antihero (n.)</a> <a href="http://dictionary.reference.com/search?q=antihero" class="dictionary" title="Look up antihero at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antihero at Dictionary.com" title="Look up antihero at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">anti-hero</span>; 1714, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=hero&allowed_in_frame=0" class="crossreference">hero</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antihistamine&allowed_in_frame=0">antihistamine (n.)</a> <a href="http://dictionary.reference.com/search?q=antihistamine" class="dictionary" title="Look up antihistamine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antihistamine at Dictionary.com" title="Look up antihistamine at Dictionary.com" /></a></dt>
+<dd class="highlight">1933, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=histamine&allowed_in_frame=0" class="crossreference">histamine</a>.</dd>
+
+<dt><a href="/index.php?term=antimatter&allowed_in_frame=0">antimatter (n.)</a> <a href="http://dictionary.reference.com/search?q=antimatter" class="dictionary" title="Look up antimatter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antimatter at Dictionary.com" title="Look up antimatter at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">anti-matter</span>, 1953, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=matter&allowed_in_frame=0" class="crossreference">matter</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=antimetabole&allowed_in_frame=0">antimetabole (n.)</a> <a href="http://dictionary.reference.com/search?q=antimetabole" class="dictionary" title="Look up antimetabole at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antimetabole at Dictionary.com" title="Look up antimetabole at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from Gk. <span class="foreign">antimetabole</span>, from <span class="foreign">anti-</span> "opposite" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + <span class="foreign">metabole</span> "turning about" (see <a href="/index.php?term=metabolism&allowed_in_frame=0" class="crossreference">metabolism</a>).</dd>
+
+<dt><a href="/index.php?term=antimony&allowed_in_frame=0">antimony (n.)</a> <a href="http://dictionary.reference.com/search?q=antimony" class="dictionary" title="Look up antimony at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antimony at Dictionary.com" title="Look up antimony at Dictionary.com" /></a></dt>
+<dd>brittle metallic element, early 15c., from O.Fr. <span class="foreign">antimoine</span> and directly from M.L. <span class="foreign">antimonium</span>, an alchemist's term (used 11c. by Constantinus Africanus), origin obscure, probably a Latinization of Gk. <span class="foreign">stimmi</span> "powdered antimony, black antimony" (a cosmetic used to paint the eyelids), from some Arabic word (cf. <span class="foreign">al 'othmud</span>), unless the Arabic word is from the Greek or the Latin is from Arabic; probably ultimately from Egyptian <span class="foreign">stm</span> "powdered antimony." In French folk etymology, <span class="foreign">anti-moine</span> "monk's bane" (from <span class="foreign">moine</span>).
+<BR><BR>
+As the name of a pure element, it is attested in English from 1788. Its chemical symbol <span class="foreign">Sb</span> is for <span class="foreign">Stibium</span>, the Latin name for "black antimony," which word was used also in English for "black antimony."</dd>
+
+<dt class="highlight"><a href="/index.php?term=antinode&allowed_in_frame=0">antinode (n.)</a> <a href="http://dictionary.reference.com/search?q=antinode" class="dictionary" title="Look up antinode at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antinode at Dictionary.com" title="Look up antinode at Dictionary.com" /></a></dt>
+<dd class="highlight">1872, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=node&allowed_in_frame=0" class="crossreference">node</a>.</dd>
+
+<dt><a href="/index.php?term=antinomian&allowed_in_frame=0">antinomian (n.)</a> <a href="http://dictionary.reference.com/search?q=antinomian" class="dictionary" title="Look up antinomian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antinomian at Dictionary.com" title="Look up antinomian at Dictionary.com" /></a></dt>
+<dd>"one who maintains the moral law is not binding on Christians under the law of grace," 1640s, from M.L. <span class="foreign">Antinomi</span>, name given to a sect of this sort that arose in Germany in 1535, from Gk. <span class="foreign">anti-</span> "opposite, against" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + <span class="foreign">nomos</span> "rule, law" (see <a href="/index.php?term=numismatics&allowed_in_frame=0" class="crossreference">numismatics</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=antinomianism&allowed_in_frame=0">antinomianism (n.)</a> <a href="http://dictionary.reference.com/search?q=antinomianism" class="dictionary" title="Look up antinomianism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antinomianism at Dictionary.com" title="Look up antinomianism at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from <a href="/index.php?term=antinomian&allowed_in_frame=0" class="crossreference">antinomian</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>.</dd>
+
+<dt><a href="/index.php?term=antinomy&allowed_in_frame=0">antinomy (n.)</a> <a href="http://dictionary.reference.com/search?q=antinomy" class="dictionary" title="Look up antinomy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antinomy at Dictionary.com" title="Look up antinomy at Dictionary.com" /></a></dt>
+<dd>1590s, "contradiction in the laws," from L. <span class="foreign">antinomia</span>, from Gk. <span class="foreign">antinomia</span> "ambiguity in the law," from <span class="foreign">anti-</span> "against" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + <span class="foreign">nomos</span> "law" (see <a href="/index.php?term=numismatics&allowed_in_frame=0" class="crossreference">numismatics</a>). As a term in logic, from 1802 (Kant).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Antioch&allowed_in_frame=0">Antioch</a> <a href="http://dictionary.reference.com/search?q=Antioch" class="dictionary" title="Look up Antioch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Antioch at Dictionary.com" title="Look up Antioch at Dictionary.com" /></a></dt>
+<dd class="highlight">modern <span class="foreign">Antakya</span> in Turkey, anciently the capital of Syria, founded c.300 B.C.E. by Seleucus I Nictor and named for his father, <span class="foreign">Antiochus</span>.</dd>
+
+<dt><a href="/index.php?term=antioxidant&allowed_in_frame=0">antioxidant</a> <a href="http://dictionary.reference.com/search?q=antioxidant" class="dictionary" title="Look up antioxidant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antioxidant at Dictionary.com" title="Look up antioxidant at Dictionary.com" /></a></dt>
+<dd>1920 (n.); 1932 (adj.), from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=oxidant&allowed_in_frame=0" class="crossreference">oxidant</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antipasto&allowed_in_frame=0">antipasto (n.)</a> <a href="http://dictionary.reference.com/search?q=antipasto" class="dictionary" title="Look up antipasto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antipasto at Dictionary.com" title="Look up antipasto at Dictionary.com" /></a></dt>
+<dd class="highlight">1934, from It. <span class="foreign">antipasto</span>, from <span class="foreign">anti-</span> "before" (see <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>) + <span class="foreign">pasto</span> "food," from L. <span class="foreign">pascere</span> "to feed" (see <a href="/index.php?term=pastor&allowed_in_frame=0" class="crossreference">pastor</a>). Earlier anglicized as <span class="foreign">antepast</span> (1590).</dd>
+
+<dt><a href="/index.php?term=antipathetic&allowed_in_frame=0">antipathetic (adj.)</a> <a href="http://dictionary.reference.com/search?q=antipathetic" class="dictionary" title="Look up antipathetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antipathetic at Dictionary.com" title="Look up antipathetic at Dictionary.com" /></a></dt>
+<dd>1630s "having an antipathy for," from an adjectival construction from Gk. <span class="foreign">antipathein</span> (see <a href="/index.php?term=antipathy&allowed_in_frame=0" class="crossreference">antipathy</a>). Related: <span class="foreign">antipathetical</span> (c.1600); <span class="foreign">antipathetically</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=antipathic&allowed_in_frame=0">antipathic (adj.)</a> <a href="http://dictionary.reference.com/search?q=antipathic" class="dictionary" title="Look up antipathic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antipathic at Dictionary.com" title="Look up antipathic at Dictionary.com" /></a></dt>
+<dd class="highlight">1830, from Fr. <span class="foreign">antipathique</span>; see <a href="/index.php?term=antipathy&allowed_in_frame=0" class="crossreference">antipathy</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. It tends to be used in medicine in place of <a href="/index.php?term=antipathetic&allowed_in_frame=0" class="crossreference">antipathetic</a>.</dd>
+
+<dt><a href="/index.php?term=antipathy&allowed_in_frame=0">antipathy (n.)</a> <a href="http://dictionary.reference.com/search?q=antipathy" class="dictionary" title="Look up antipathy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antipathy at Dictionary.com" title="Look up antipathy at Dictionary.com" /></a></dt>
+<dd>c.1600, from L. <span class="foreign">antipathia</span>, from Gk. <span class="foreign">antipatheia</span>, noun of state from <span class="foreign">antipathes</span> "opposed in feeling, having opposite feeling; in return for suffering; felt mutually," from <span class="foreign">anti-</span> "against" (see <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a>) + root of <span class="foreign">pathos</span> "feeling" (see <a href="/index.php?term=pathos&allowed_in_frame=0" class="crossreference">pathos</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=antiperspirant&allowed_in_frame=0">antiperspirant (adj.)</a> <a href="http://dictionary.reference.com/search?q=antiperspirant" class="dictionary" title="Look up antiperspirant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antiperspirant at Dictionary.com" title="Look up antiperspirant at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1946, from <a href="/index.php?term=anti-&allowed_in_frame=0" class="crossreference">anti-</a> + <a href="/index.php?term=perspire&allowed_in_frame=0" class="crossreference">perspire</a> + adjectival suffix <a href="/index.php?term=-ant&allowed_in_frame=0" class="crossreference">-ant</a>.</dd>
+
+<dt><a href="/index.php?term=antiphon&allowed_in_frame=0">antiphon (n.)</a> <a href="http://dictionary.reference.com/search?q=antiphon" class="dictionary" title="Look up antiphon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up antiphon at Dictionary.com" title="Look up antiphon at Dictionary.com" /></a></dt>
+<dd>c.1500, "a versicle sung responsively," from M.Fr. <span class="foreign">antiphone</span> "hymn" or directly from M.L. <span class="foreign">antiphona</span>, from Gk. <span class="foreign">antiphona,</span> from <span class="foreign">anti-</span> "over against" + <span class="foreign">phone</span> "voice" (see <a href="/index.php?term=fame&allowed_in_frame=0" class="crossreference">fame</a>). A re-adoption of the word which had become <a href="/index.php?term=anthem&allowed_in_frame=0" class="crossreference">anthem</a> in English and lost its original meaning.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657958 -->
+<!-- Page was generated in 0.179936 seconds. -->
+ </body>
+</html>
+<!-- -->

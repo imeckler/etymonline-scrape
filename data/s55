@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=spirituality&allowed_in_frame=0">spirituality</a> <a href="http://dictionary.reference.com/search?q=spirituality" class="dictionary" title="Look up spirituality at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spirituality at Dictionary.com" title="Look up spirituality at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from M.Fr. <span class="foreign">spiritualite</span>, from L.L. <span class="foreign">spiritualitatem</span> (nom. <span class="foreign">spiritualitas</span>), from L. <span class="foreign">spiritualis</span> (see <a href="/index.php?term=spiritual&allowed_in_frame=0" class="crossreference">spiritual</a>). An earlier form was <span class="foreign">spiritualty</span> (late 14c.).</dd>
+
+<dt><a href="/index.php?term=spirochete&allowed_in_frame=0">spirochete</a> <a href="http://dictionary.reference.com/search?q=spirochete" class="dictionary" title="Look up spirochete at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spirochete at Dictionary.com" title="Look up spirochete at Dictionary.com" /></a></dt>
+<dd>1877, from Mod.L. <span class="foreign">Spiroch&aelig;ta,</span> the genus name, from <span class="foreign">spiro-</span> Mod.L. comb. form of Gk. <span class="foreign">speira</span> "a coil" (see <a href="/index.php?term=spiral&allowed_in_frame=0" class="crossreference">spiral</a>) + Gk. <span class="foreign">chaite</span> "hair."</dd>
+
+<dt class="highlight"><a href="/index.php?term=spirometer&allowed_in_frame=0">spirometer</a> <a href="http://dictionary.reference.com/search?q=spirometer" class="dictionary" title="Look up spirometer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spirometer at Dictionary.com" title="Look up spirometer at Dictionary.com" /></a></dt>
+<dd class="highlight">1846, formed irregularly from L. <span class="foreign">spirare</span> "to breathe" (see <a href="/index.php?term=spirit&allowed_in_frame=0" class="crossreference">spirit</a>) + <a href="/index.php?term=-meter&allowed_in_frame=0" class="crossreference">-meter</a>. Related: <span class="foreign">Spirometry</span>.</dd>
+
+<dt><a href="/index.php?term=spissitude&allowed_in_frame=0">spissitude</a> <a href="http://dictionary.reference.com/search?q=spissitude" class="dictionary" title="Look up spissitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spissitude at Dictionary.com" title="Look up spissitude at Dictionary.com" /></a></dt>
+<dd>c.1400, "density, thickness, compactness," from L. <span class="foreign">spissitudo</span>, from <span class="foreign">spissus</span> "thick, dense, compact, close" (cf. It. <span class="foreign">spesso</span>, Sp. <span class="foreign">espeso</span>, O.Fr. <span class="foreign">espes</span>, Fr. <span class="foreign">&eacute;pais</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=spit&allowed_in_frame=0">spit (v.)</a> <a href="http://dictionary.reference.com/search?q=spit" class="dictionary" title="Look up spit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spit at Dictionary.com" title="Look up spit at Dictionary.com" /></a></dt>
+<dd class="highlight">"expel saliva," O.E. <span class="foreign">spittan</span> (Anglian), <span class="foreign">sp&aelig;tan</span> (W.Saxon), from PIE <span class="foreign">*sp(y)eu-</span>, of imitative origin (see <a href="/index.php?term=spew&allowed_in_frame=0" class="crossreference">spew</a>). Not the usual O.E. word for this; <span class="foreign">sp&aelig;tlan</span> (see <a href="/index.php?term=spittle&allowed_in_frame=0" class="crossreference">spittle</a>) and <span class="foreign">spiwan</span> (see <a href="/index.php?term=spew&allowed_in_frame=0" class="crossreference">spew</a>) are more common. Meaning "to eject saliva (at someone or something) as a gesture of contempt" is in Old English.</dd>
+
+<dt><a href="/index.php?term=spit&allowed_in_frame=0">spit (n.1)</a> <a href="http://dictionary.reference.com/search?q=spit" class="dictionary" title="Look up spit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spit at Dictionary.com" title="Look up spit at Dictionary.com" /></a></dt>
+<dd>"saliva," c.1300, from <a href="/index.php?term=spit&allowed_in_frame=0" class="crossreference">spit</a> (v.). Meaning "the very likeness" is attested from c.1600 (e.g. <span class="foreign">spitting image</span>, attested from 1901); cf. Fr. <span class="foreign">crach&eacute;</span> in same sense. Military phrase <span class="foreign">spit and polish</span> first recorded 1895.</dd>
+
+<dt class="highlight"><a href="/index.php?term=spit&allowed_in_frame=0">spit (n.2)</a> <a href="http://dictionary.reference.com/search?q=spit" class="dictionary" title="Look up spit at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spit at Dictionary.com" title="Look up spit at Dictionary.com" /></a></dt>
+<dd class="highlight">"sharp-pointed rod on which meat is roasted," O.E. <span class="foreign">spitu</span>, from P.Gmc. <span class="foreign">*spituz</span> (cf. M.Du. <span class="foreign">spit</span>, Swed. <span class="foreign">spett</span>, O.H.G. <span class="foreign">spiz</span>, Ger. <span class="foreign">Spie&szlig;</span> "spit," Ger. <span class="foreign">spitz</span> "pointed"), from PIE <span class="foreign">*spei-</span> "sharp point" (see <a href="/index.php?term=spike&allowed_in_frame=0" class="crossreference">spike</a> (n.1)). This is also the source of the word meaning "sandy point" (1670s). O.Fr. <span class="foreign">espois</span>, Sp. <span class="foreign">espeto</span> "spit" are Germanic loan-words. The verb meaning "to put on a spit" is recorded from c.1200.</dd>
+
+<dt><a href="/index.php?term=Spitalfields&allowed_in_frame=0">Spitalfields</a> <a href="http://dictionary.reference.com/search?q=Spitalfields" class="dictionary" title="Look up Spitalfields at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Spitalfields at Dictionary.com" title="Look up Spitalfields at Dictionary.com" /></a></dt>
+<dd>district east of London, famed for the work of Huguenot refugee weavers who took up residence there, from <span class="foreign">St. Mary Spital</span>, a M.E. shortened form of <a href="/index.php?term=hospital&allowed_in_frame=0" class="crossreference">hospital</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=spitball&allowed_in_frame=0">spitball (n.)</a> <a href="http://dictionary.reference.com/search?q=spitball" class="dictionary" title="Look up spitball at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spitball at Dictionary.com" title="Look up spitball at Dictionary.com" /></a></dt>
+<dd class="highlight">1846 in the schoolboy sense; 1905 in the baseball sense, from <a href="/index.php?term=spit&allowed_in_frame=0" class="crossreference">spit</a> + <a href="/index.php?term=ball&allowed_in_frame=0" class="crossreference">ball</a> (n.1).</dd>
+
+<dt><a href="/index.php?term=spite&allowed_in_frame=0">spite (n.)</a> <a href="http://dictionary.reference.com/search?q=spite" class="dictionary" title="Look up spite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spite at Dictionary.com" title="Look up spite at Dictionary.com" /></a></dt>
+<dd>c.1300, shortened form of <span class="foreign">despit</span> "malice" (see <a href="/index.php?term=despite&allowed_in_frame=0" class="crossreference">despite</a>). Corresponding to M.Du. <span class="foreign">spijt</span>, M.L.G. <span class="foreign">spyt</span>, M.Swed. <span class="foreign">spit</span>. Commonly spelled <span class="foreign">spight</span> c.1575-1700. The verb is attested from c.1400. Phrase <span class="foreign">in spite of</span> is recorded from c.1400.</dd>
+
+<dt class="highlight"><a href="/index.php?term=spiteful&allowed_in_frame=0">spiteful</a> <a href="http://dictionary.reference.com/search?q=spiteful" class="dictionary" title="Look up spiteful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spiteful at Dictionary.com" title="Look up spiteful at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from <a href="/index.php?term=spite&allowed_in_frame=0" class="crossreference">spite</a> + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>. Related: <span class="foreign">Spitefully</span>; <span class="foreign">spitefulness</span>.</dd>
+
+<dt><a href="/index.php?term=spitfire&allowed_in_frame=0">spitfire</a> <a href="http://dictionary.reference.com/search?q=spitfire" class="dictionary" title="Look up spitfire at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spitfire at Dictionary.com" title="Look up spitfire at Dictionary.com" /></a></dt>
+<dd>1600, from <a href="/index.php?term=spit&allowed_in_frame=0" class="crossreference">spit</a> (v.) + <a href="/index.php?term=fire&allowed_in_frame=0" class="crossreference">fire</a> (n.). Replaced earlier <span class="foreign">shitfire</span> (cf. Florentine <span class="foreign">cacafuoco</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=spittle&allowed_in_frame=0">spittle</a> <a href="http://dictionary.reference.com/search?q=spittle" class="dictionary" title="Look up spittle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spittle at Dictionary.com" title="Look up spittle at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "saliva, spit," probably an alteration (by influence of <a href="/index.php?term=spit&allowed_in_frame=0" class="crossreference">spit</a> (v.)) of O.E. <span class="foreign">sp&aelig;tl, spatl</span>, from P.Gmc. <span class="foreign">*sp&aelig;tlan</span>, which is related to O.E. <span class="foreign">sp&aelig;tan</span> "to spit."</dd>
+
+<dt><a href="/index.php?term=spittoon&allowed_in_frame=0">spittoon (n.)</a> <a href="http://dictionary.reference.com/search?q=spittoon" class="dictionary" title="Look up spittoon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spittoon at Dictionary.com" title="Look up spittoon at Dictionary.com" /></a></dt>
+<dd>1823, American English, from <a href="/index.php?term=spit&allowed_in_frame=0" class="crossreference">spit</a> (n.1) + <a href="/index.php?term=-oon&allowed_in_frame=0" class="crossreference">-oon</a>. A rare instance of a word formed in English using this suffix (<span class="foreign">octoroon</span> is another). Replaced earlier <span class="foreign">spitting box</span> (1680s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Spitz&allowed_in_frame=0">Spitz</a> <a href="http://dictionary.reference.com/search?q=Spitz" class="dictionary" title="Look up Spitz at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Spitz at Dictionary.com" title="Look up Spitz at Dictionary.com" /></a></dt>
+<dd class="highlight">breed of small Pomeranian dog, 1842, from Ger. <span class="foreign">Spitz</span> (occasionally <span class="foreign">Spitzhund</span>), from <span class="foreign">spitz</span> "pointed" (see <a href="/index.php?term=spit&allowed_in_frame=0" class="crossreference">spit</a> (n.)). So called from the shape of its muzzle.</dd>
+
+<dt><a href="/index.php?term=spiv&allowed_in_frame=0">spiv (n.)</a> <a href="http://dictionary.reference.com/search?q=spiv" class="dictionary" title="Look up spiv at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spiv at Dictionary.com" title="Look up spiv at Dictionary.com" /></a></dt>
+<dd>"petty crook who will turn his hand to anything so long as it does not involve honest work," 1934, British slang, probably dating back to late 19c. and connected with <span class="foreign">spiff</span> (see <a href="/index.php?term=spiffy&allowed_in_frame=0" class="crossreference">spiffy</a>) in one of its various senses. Being a flashy dresser was a spiv characteristic.
+<blockquote>
+The spiv reached his apotheosis during World War II and the succeeding years, when the disrupted economic conditions allowed ample scope for unofficial trading (a pair of nylons here, a few packets of cigarettes there) and other petty crime. He became a stock figure in the English social comedy, represented on screen by such stereotypes as 'Flash Harry' (played by George Cole) in the St. Trinian's films and Pte. Walker in <span class="foreign">Dad's Army</span>. [Ayto, "20th Century Words"]</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=splanchnic&allowed_in_frame=0">splanchnic</a> <a href="http://dictionary.reference.com/search?q=splanchnic" class="dictionary" title="Look up splanchnic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splanchnic at Dictionary.com" title="Look up splanchnic at Dictionary.com" /></a></dt>
+<dd class="highlight">1690s, "pertaining to the viscera," from Gk. <span class="foreign">splankhnon</span>, usually in pl., <span class="foreign">splankhna</span> "the innards, entrails" (heart, lungs, liver, kidneys); related to <span class="foreign">splen</span> (see <a href="/index.php?term=spleen&allowed_in_frame=0" class="crossreference">spleen</a>).</dd>
+
+<dt><a href="/index.php?term=splash&allowed_in_frame=0">splash (v.)</a> <a href="http://dictionary.reference.com/search?q=splash" class="dictionary" title="Look up splash at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splash at Dictionary.com" title="Look up splash at Dictionary.com" /></a></dt>
+<dd>1715, probably an alteration of <span class="foreign">plash</span> with an intensive <span class="foreign">s-.</span> The noun is attested from 1736; meaning "striking or ostentatious display" is first attested 1804. <span class="foreign">Splashy</span> "sensational" first attested 1836. <span class="foreign">Splash-down</span> in the spacecraft sense is attested from 1961.</dd>
+
+<dt class="highlight"><a href="/index.php?term=splat&allowed_in_frame=0">splat</a> <a href="http://dictionary.reference.com/search?q=splat" class="dictionary" title="Look up splat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splat at Dictionary.com" title="Look up splat at Dictionary.com" /></a></dt>
+<dd class="highlight">"to land with a smacking sound," 1897, probably of imitative origin.</dd>
+
+<dt><a href="/index.php?term=splatter&allowed_in_frame=0">splatter (v.)</a> <a href="http://dictionary.reference.com/search?q=splatter" class="dictionary" title="Look up splatter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splatter at Dictionary.com" title="Look up splatter at Dictionary.com" /></a></dt>
+<dd>1784, but earlier in <span class="foreign">splatterdash</span> (1772), perhaps a blend of <span class="foreign">spatter</span> and <span class="foreign">splash.</span></dd>
+
+<dt class="highlight"><a href="/index.php?term=splay&allowed_in_frame=0">splay (v.)</a> <a href="http://dictionary.reference.com/search?q=splay" class="dictionary" title="Look up splay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splay at Dictionary.com" title="Look up splay at Dictionary.com" /></a></dt>
+<dd class="highlight">"to spread out," early 14c., shortened form of <span class="foreign">desplayen</span> (see <a href="/index.php?term=display&allowed_in_frame=0" class="crossreference">display</a>). Pp. adj. <span class="foreign">splayed</span> "spread out" is attested from 1540s.</dd>
+
+<dt><a href="/index.php?term=spleen&allowed_in_frame=0">spleen (n.)</a> <a href="http://dictionary.reference.com/search?q=spleen" class="dictionary" title="Look up spleen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spleen at Dictionary.com" title="Look up spleen at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">esplen</span>, from L. <span class="foreign">splen</span>, from Gk. <span class="foreign">splen</span>, from PIE <span class="foreign">*splegh-</span> (cf. Skt. <span class="foreign">plihan-</span>, Avestan <span class="foreign">sperezan</span>, Armenian <span class="foreign">p'aicaln</span>, L. <span class="foreign">lien</span>, O.C.S. <span class="foreign">slezena</span>, Lith. <span class="foreign">bluznis</span>, O.Prus. <span class="foreign">blusne</span>, O.Ir. <span class="foreign">selg</span> "spleen"). Regarded in medieval physiology as the seat of morose feelings and bad temper. Hence figurative sense of "violent ill-temper" (1590s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=splendid&allowed_in_frame=0">splendid (adj.)</a> <a href="http://dictionary.reference.com/search?q=splendid" class="dictionary" title="Look up splendid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splendid at Dictionary.com" title="Look up splendid at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, probably a shortening of earlier <span class="foreign">splendidious</span> (early 15c.), from L. <span class="foreign">splendidus</span> "magnificent, brilliant," from <span class="foreign">splendere</span> "be bright, shine, gleam, glisten," from PIE <span class="foreign">*(s)plend-</span> "bright" (cf, Lith. <span class="foreign">splendziu</span> "I shine," M.Ir. <span class="foreign">lainn</span> "bright"). An earlier form was <span class="foreign">splendent</span> (late 15c.).</dd>
+
+<dt><a href="/index.php?term=splendiferous&allowed_in_frame=0">splendiferous (adj.)</a> <a href="http://dictionary.reference.com/search?q=splendiferous" class="dictionary" title="Look up splendiferous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splendiferous at Dictionary.com" title="Look up splendiferous at Dictionary.com" /></a></dt>
+<dd>considered a playful elaboration since its re-birth in 1843, but it was a perfectly good 15c. word, from M.L. <span class="foreign">splendorifer</span>, from <span class="foreign">splendor</span> (see <a href="/index.php?term=splendor&allowed_in_frame=0" class="crossreference">splendor</a>) + <span class="foreign">ferre</span> "to bear" (see <a href="/index.php?term=infer&allowed_in_frame=0" class="crossreference">infer</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=splendor&allowed_in_frame=0">splendor</a> <a href="http://dictionary.reference.com/search?q=splendor" class="dictionary" title="Look up splendor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splendor at Dictionary.com" title="Look up splendor at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from M.Fr. <span class="foreign">esplendour</span>, from L. <span class="foreign">splendor</span> "brilliance," from <span class="foreign">splendere</span> "be bright, shine" (see <a href="/index.php?term=splendid&allowed_in_frame=0" class="crossreference">splendid</a>).</dd>
+
+<dt><a href="/index.php?term=splenetic&allowed_in_frame=0">splenetic</a> <a href="http://dictionary.reference.com/search?q=splenetic" class="dictionary" title="Look up splenetic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splenetic at Dictionary.com" title="Look up splenetic at Dictionary.com" /></a></dt>
+<dd>1540s, “pertaining to the spleen,” from L.L. <span class="foreign">spleneticus</span>, from <span class="foreign">splen</span> (see <a href="/index.php?term=spleen&allowed_in_frame=0" class="crossreference">spleen</a>). Meaning “irritably morose” is from 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=splenomegaly&allowed_in_frame=0">splenomegaly</a> <a href="http://dictionary.reference.com/search?q=splenomegaly" class="dictionary" title="Look up splenomegaly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splenomegaly at Dictionary.com" title="Look up splenomegaly at Dictionary.com" /></a></dt>
+<dd class="highlight">enlargement of the spleen, 1900, from <span class="foreign">spleno-</span>, comb. form of Gk. <span class="foreign">splen</span> (see <a href="/index.php?term=spleen&allowed_in_frame=0" class="crossreference">spleen</a>) + <span class="foreign">megas</span> "great" (fem. <span class="foreign">megale</span>; see <a href="/index.php?term=mickle&allowed_in_frame=0" class="crossreference">mickle</a>).</dd>
+
+<dt><a href="/index.php?term=splice&allowed_in_frame=0">splice (v.)</a> <a href="http://dictionary.reference.com/search?q=splice" class="dictionary" title="Look up splice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splice at Dictionary.com" title="Look up splice at Dictionary.com" /></a></dt>
+<dd>1520s, originally a sailors' word, from M.Du. <span class="foreign">splissen</span> "to splice," ultimately from PIE <span class="foreign">*(s)plei-</span> "to split, splice" (see <a href="/index.php?term=flint&allowed_in_frame=0" class="crossreference">flint</a>). The Dutch word was borrowed in French as <span class="foreign">&eacute;pisser</span>. Used of motion picture film from 1912; of DNA from 1975. Related: <span class="foreign">Spliced</span>; <span class="foreign">splicing</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=spliff&allowed_in_frame=0">spliff (n.)</a> <a href="http://dictionary.reference.com/search?q=spliff" class="dictionary" title="Look up spliff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spliff at Dictionary.com" title="Look up spliff at Dictionary.com" /></a></dt>
+<dd class="highlight">conical cannabis cigarette, 1936, a West Indian word, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=spline&allowed_in_frame=0">spline</a> <a href="http://dictionary.reference.com/search?q=spline" class="dictionary" title="Look up spline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spline at Dictionary.com" title="Look up spline at Dictionary.com" /></a></dt>
+<dd>“long, thin piece of wood or metal,” 1756, from E.Anglian dialect, perhaps from older Dan. <span class="foreign">splind</span> or N.Fris. <span class="foreign">splinj</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=splint&allowed_in_frame=0">splint</a> <a href="http://dictionary.reference.com/search?q=splint" class="dictionary" title="Look up splint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splint at Dictionary.com" title="Look up splint at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "plate of armor," probably from M.L.G. <span class="foreign">splinte, splente</span> "thin piece of iron," related to M.Du. <span class="foreign">splinte</span> "splint," probably ult. from PIE <span class="foreign">*(s)plei-</span> "to split, splice" (see <a href="/index.php?term=flint&allowed_in_frame=0" class="crossreference">flint</a>). Cognate with Dan. <span class="foreign">splint</span> "splinter," Swed. <span class="foreign">splint</span> "wooden peg, wedge." Meaning "slender flexible slip of wood" is recorded from early 14c.; specific surgical sense is attested from c.1400.</dd>
+
+<dt><a href="/index.php?term=splinter&allowed_in_frame=0">splinter</a> <a href="http://dictionary.reference.com/search?q=splinter" class="dictionary" title="Look up splinter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splinter at Dictionary.com" title="Look up splinter at Dictionary.com" /></a></dt>
+<dd>late 14c., from M.Du. <span class="foreign">splinter, splenter</span> "a splinter," related to <span class="foreign">splinte</span> (see <a href="/index.php?term=splint&allowed_in_frame=0" class="crossreference">splint</a>). The verb is from 1580s; figurative sense from c.1600. Related: <span class="foreign">Splintered</span>; <span class="foreign">splintering</span>. The adjective (as in <span class="foreign">splinter party</span>) is first recorded 1935, from the noun.</dd>
+
+<dt class="highlight"><a href="/index.php?term=split&allowed_in_frame=0">split (v.)</a> <a href="http://dictionary.reference.com/search?q=split" class="dictionary" title="Look up split at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up split at Dictionary.com" title="Look up split at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, from M.Du. <span class="foreign">splitten</span>, from P.Gmc. <span class="foreign">*spl(e)it-</span> (cf. Dan., Fris. <span class="foreign">splitte</span>, O.Fris. <span class="foreign">splita</span>, Ger. <span class="foreign">splei&szlig;en</span> "to split"), from PIE <span class="foreign">*(s)plei-</span> "to split, splice" (see <a href="/index.php?term=flint&allowed_in_frame=0" class="crossreference">flint</a>). Meaning "leave, depart" first recorded 1954, U.S. slang. Of couples, "to separate, divorce" from 1942. To <a href="/index.php?term=split the difference&allowed_in_frame=0" class="crossreference">split the difference</a> is from 1715; to <a href="/index.php?term=split (one's) ticket&allowed_in_frame=0" class="crossreference">split (one's) ticket</a> in the U.S. political sense is attested from 1842. The acrobatic feat first so called in 1861. Meaning "sweet dish of sliced fruit with ice cream" is attested from 1920, Amer.Eng. <span class="foreign">Splitting image</span> "exact likeness" is from 1880. <span class="foreign">Split screen</span> is from 1953; <span class="foreign">split shift</span> is from 1955; <span class="foreign">split personality</span> first attested 1919. <span class="foreign">Split-level</span> as a type of building plan is recorded from 1952. <span class="foreign">Split-second</span> first attested 1884, in ref. to a type of stopwatch with two second hands that could be stopped independently; adj. meaning "occurring in a fraction of a second" is from 1946.</dd>
+
+<dt><a href="/index.php?term=splotch&allowed_in_frame=0">splotch</a> <a href="http://dictionary.reference.com/search?q=splotch" class="dictionary" title="Look up splotch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splotch at Dictionary.com" title="Look up splotch at Dictionary.com" /></a></dt>
+<dd>c.1600, perhaps a blend of <span class="foreign">spot, blot</span>, and <span class="foreign">botch</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=splurge&allowed_in_frame=0">splurge (n.)</a> <a href="http://dictionary.reference.com/search?q=splurge" class="dictionary" title="Look up splurge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splurge at Dictionary.com" title="Look up splurge at Dictionary.com" /></a></dt>
+<dd class="highlight">1828, "ostentatious display," perhaps a blend of <span class="foreign">splash</span> and <span class="foreign">surge.</span> The meaning "extravagant indulgence in spending" is first recorded 1928. The verb, in this sense, is attested from 1934.</dd>
+
+<dt><a href="/index.php?term=splutter&allowed_in_frame=0">splutter (n.)</a> <a href="http://dictionary.reference.com/search?q=splutter" class="dictionary" title="Look up splutter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up splutter at Dictionary.com" title="Look up splutter at Dictionary.com" /></a></dt>
+<dd>1670s, perhaps a variant of <a href="/index.php?term=sputter&allowed_in_frame=0" class="crossreference">sputter</a>, intensified by the consonant cluster of <span class="foreign">splash, splatter,</span> etc. The verb is from 1728.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Spock&allowed_in_frame=0">Spock</a> <a href="http://dictionary.reference.com/search?q=Spock" class="dictionary" title="Look up Spock at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Spock at Dictionary.com" title="Look up Spock at Dictionary.com" /></a></dt>
+<dd class="highlight">half-alien character in the "Star Trek" U.S. entertainment franchise, developed and named 1964 by series creator Gene Roddenberry, who later said he was simply searching for an alien-sounding word and not thinking of popular baby doctor and author Benjamin <span class="foreign">Spock</span>, whose name is of Dutch origin.</dd>
+
+<dt><a href="/index.php?term=Spock-marked&allowed_in_frame=0">Spock-marked</a> <a href="http://dictionary.reference.com/search?q=Spock-marked" class="dictionary" title="Look up Spock-marked at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Spock-marked at Dictionary.com" title="Look up Spock-marked at Dictionary.com" /></a></dt>
+<dd>1967, "affected by upbringing in accordance with the principles of Dr. (Benjamin M.) <span class="foreign">Spock</span>" (1903-1998), U.S. physician and child-care specialist, author of "Common Sense Book of Baby and Child Care" (1946).</dd>
+
+<dt class="highlight"><a href="/index.php?term=spode&allowed_in_frame=0">spode</a> <a href="http://dictionary.reference.com/search?q=spode" class="dictionary" title="Look up spode at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spode at Dictionary.com" title="Look up spode at Dictionary.com" /></a></dt>
+<dd class="highlight">fine sort of porcelain, 1869, named for first maker, Josiah <span class="foreign">Spode</span> (1754-1827), potter in Stoke-on-Trent, England.</dd>
+
+<dt><a href="/index.php?term=spoil&allowed_in_frame=0">spoil (v.)</a> <a href="http://dictionary.reference.com/search?q=spoil" class="dictionary" title="Look up spoil at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spoil at Dictionary.com" title="Look up spoil at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">espoillier</span> "to strip, plunder," from L. <span class="foreign">spoliare</span> "to strip of clothing, rob," from <span class="foreign">spolium</span> "armor stripped from an enemy, booty;" originally "skin stripped from a killed animal," from PIE <span class="foreign">*spol-yo-</span>, perhaps from root <span class="foreign">*spel-</span> "to split, to break off" (cf. Gk. <span class="foreign">aspalon</span> "skin, hide," <span class="foreign">spolas</span> "flayed skin;" Lith. <span class="foreign">spaliai</span> "shives of flax;" O.C.S. <span class="foreign">rasplatiti</span> "to cleave, split;" M.L.G. <span class="foreign">spalden</span>, O.H.G. <span class="foreign">spaltan</span> "to split;" Skt. <span class="foreign">sphatayati</span> "splits"). Sense of "to damage so as to render useless" is from 1560s; that of "to over-indulge" (a child, etc.) is from 1640s (implied in <span class="foreign">spoiled</span>). Intransitive sense of "to go bad" is from 1690s. To be <span class="foreign">spoiling for</span> (a fight, etc.) is from 1865, from notion that one will "spoil" if he doesn't get it. The noun meaning "goods captured in time of war" is from c.1300. <span class="foreign">Spoil-sport</span> attested from 1801. <span class="foreign">Spoils system</span> in U.S. politics attested by 1839, commonly associated with the administration of President Andrew Jackson.</dd>
+
+<dt class="highlight"><a href="/index.php?term=spoiler&allowed_in_frame=0">spoiler (n.)</a> <a href="http://dictionary.reference.com/search?q=spoiler" class="dictionary" title="Look up spoiler at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spoiler at Dictionary.com" title="Look up spoiler at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "one who robs or plunders," agent noun from <a href="/index.php?term=spoil&allowed_in_frame=0" class="crossreference">spoil</a>. Meaning "one who mars another's chance at victory" is attested from 1950 in U.S. politics, perhaps from boxing. Aeronautics sense is from 1928, because it destroys the "lift" on the plane; transferred to structures serving a similar purpose on speedboats (1957) and motor vehicles (1963). Meaning "information about the plot of a movie, etc., which might 'spoil' it for one who has not seen it" is attested by 1982.</dd>
+
+<dt><a href="/index.php?term=spoke&allowed_in_frame=0">spoke</a> <a href="http://dictionary.reference.com/search?q=spoke" class="dictionary" title="Look up spoke at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spoke at Dictionary.com" title="Look up spoke at Dictionary.com" /></a></dt>
+<dd>(of a wheel), O.E. <span class="foreign">spaca</span> "spoke," related to <span class="foreign">spicing</span> "large nail," from P.Gmc. <span class="foreign">*spaikon</span> (cf. O.S. <span class="foreign">speca</span>, O.Fris. <span class="foreign">spake</span>, Du. <span class="foreign">spaak</span>, O.H.G. <span class="foreign">speicha</span>, Ger. <span class="foreign">speiche</span> "spoke"), probably from PIE <span class="foreign">*spei-</span> "sharp point" (see <a href="/index.php?term=spike&allowed_in_frame=0" class="crossreference">spike</a> (n.1)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=spokesman&allowed_in_frame=0">spokesman</a> <a href="http://dictionary.reference.com/search?q=spokesman" class="dictionary" title="Look up spokesman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spokesman at Dictionary.com" title="Look up spokesman at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, "an interpreter," 1530s in the sense of "person who speaks for another or others." Irregular formation from <span class="foreign">spoke</span>, past tense of <a href="/index.php?term=speak&allowed_in_frame=0" class="crossreference">speak</a> (actually a back-formation from <span class="foreign">spoken</span>). <span class="foreign">Spokeswoman</span> is from 1650s; <span class="foreign">spokesperson</span> is from 1972. <span class="foreign">Spokesmodel</span> is attested from 1990.</dd>
+
+<dt><a href="/index.php?term=spoliation&allowed_in_frame=0">spoliation</a> <a href="http://dictionary.reference.com/search?q=spoliation" class="dictionary" title="Look up spoliation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spoliation at Dictionary.com" title="Look up spoliation at Dictionary.com" /></a></dt>
+<dd>c.1400, from L. <span class="foreign">spoliationem</span> (nom. <span class="foreign">spoliatio</span>) "a robbing, plundering, pillaging," noun of action from <span class="foreign">spoliare</span> "to plunder, rob" (see <a href="/index.php?term=spoil&allowed_in_frame=0" class="crossreference">spoil</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=spondee&allowed_in_frame=0">spondee</a> <a href="http://dictionary.reference.com/search?q=spondee" class="dictionary" title="Look up spondee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spondee at Dictionary.com" title="Look up spondee at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "metrical foot consisting of two long syllables," from O.Fr. <span class="foreign">spondee</span>, from L. <span class="foreign">spondeus</span>, from Gk. <span class="foreign">spondeios (pous),</span> the name of the meter originally used in chants accompanying libations, from <span class="foreign">sponde</span> "solemn libation," related to <span class="foreign">spendein</span> "make a drink offering," from PIE root <span class="foreign">*spend-</span> "to make an offering, perform a rite," hence "to engage oneself by a ritual act" (cf. L. <span class="foreign">spondere</span> "to engage oneself, promise," Hittite <span class="foreign">shipantahhi</span> "I pour out a libation, I sacrifice").</dd>
+
+<dt><a href="/index.php?term=spondulicks&allowed_in_frame=0">spondulicks</a> <a href="http://dictionary.reference.com/search?q=spondulicks" class="dictionary" title="Look up spondulicks at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spondulicks at Dictionary.com" title="Look up spondulicks at Dictionary.com" /></a></dt>
+<dd>1856, American English slang, "money, cash," of unknown origin, said to be from Gk. <span class="foreign">spondylikos</span>, from <span class="foreign">spondylos</span>, a seashell used as currency (the Greek word means lit. "vertebra"). Used by Mark Twain and O. Henry and adopted into British English, where it survives despite having faded in American English.</dd>
+
+<dt class="highlight"><a href="/index.php?term=spondylitis&allowed_in_frame=0">spondylitis</a> <a href="http://dictionary.reference.com/search?q=spondylitis" class="dictionary" title="Look up spondylitis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spondylitis at Dictionary.com" title="Look up spondylitis at Dictionary.com" /></a></dt>
+<dd class="highlight">1849, Mod.L., from L. <span class="foreign">spondylus</span>, from Gk. <span class="foreign">spondylos</span>, variant of <span class="foreign">sphondylos</span> “vertebra” + <a href="/index.php?term=-itis&allowed_in_frame=0" class="crossreference">-itis</a>.</dd>
+
+<dt><a href="/index.php?term=spondylolisthesis&allowed_in_frame=0">spondylolisthesis</a> <a href="http://dictionary.reference.com/search?q=spondylolisthesis" class="dictionary" title="Look up spondylolisthesis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spondylolisthesis at Dictionary.com" title="Look up spondylolisthesis at Dictionary.com" /></a></dt>
+<dd>from Gk. <span class="foreign">spondylos</span>, variant of <span class="foreign">sphondylos</span> “vertebra” + <span class="foreign">oliothesis</span> “dislocation, slipping.”</dd>
+
+<dt class="highlight"><a href="/index.php?term=spondylosis&allowed_in_frame=0">spondylosis</a> <a href="http://dictionary.reference.com/search?q=spondylosis" class="dictionary" title="Look up spondylosis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up spondylosis at Dictionary.com" title="Look up spondylosis at Dictionary.com" /></a></dt>
+<dd class="highlight">from Gk. <span class="foreign">spondylos</span>, variant of <span class="foreign">sphondylos</span> “vertebra” + <a href="/index.php?term=-osis&allowed_in_frame=0" class="crossreference">-osis</a>.</dd>
+
+<dt><a href="/index.php?term=sponge&allowed_in_frame=0">sponge (n.)</a> <a href="http://dictionary.reference.com/search?q=sponge" class="dictionary" title="Look up sponge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sponge at Dictionary.com" title="Look up sponge at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sponge, spunge,</span> from L. <span class="foreign">spongia</span> "a sponge," also "sea animal from which a sponge comes," from Gk. <span class="foreign">spongia,</span> related to <span class="foreign">spongos</span> "sponge," borrowed from an unknown source. The Latin word is the source of O.S. <span class="foreign">spunsia</span>, M.Du. <span class="foreign">spongie</span>, O.Fr. <span class="foreign">esponge</span>, Sp. <span class="foreign">esponja</span>, It. <span class="foreign">spugna</span>. To <span class="foreign">throw in the sponge</span> "quit, submit" (1860) is from prizefighting, in ref. to the sponges used to cleanse the faces of combatants between rounds (cf. later <span class="foreign">throw in the towel</span>). <span class="foreign">Sponge-cake</span> is attested from 1808.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658760 -->
+<!-- Page was generated in 0.209351 seconds. -->
+ </body>
+</html>
+<!-- -->

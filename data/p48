@@ -1,0 +1,438 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=potpourri&allowed_in_frame=0">potpourri (n.)</a> <a href="http://dictionary.reference.com/search?q=potpourri" class="dictionary" title="Look up potpourri at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potpourri at Dictionary.com" title="Look up potpourri at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, "mixed meats served in a stew," from Fr. <span class="foreign">pot pourri</span> "stew," lit. "rotten pot" (loan-translation of Sp. <span class="foreign">olla podrida</span>), from <span class="foreign">pourri,</span> pp. of <span class="foreign">pourrir</span> "to rot," from V.L. <span class="foreign">*putrire</span>, from L. <span class="foreign">putrescere</span> "grow rotten" (see <a href="/index.php?term=putrescent&allowed_in_frame=0" class="crossreference">putrescent</a>). Notion of "medley" led to meaning "mixture of dried flowers and spices," first recorded in English 1749. Figurative sense (originally in music) of "miscellaneous collection" is recorded from 1855.</dd>
+
+<dt><a href="/index.php?term=Potsdam&allowed_in_frame=0">Potsdam</a> <a href="http://dictionary.reference.com/search?q=Potsdam" class="dictionary" title="Look up Potsdam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Potsdam at Dictionary.com" title="Look up Potsdam at Dictionary.com" /></a></dt>
+<dd>town in Germany, first recorded 993 as <span class="foreign">Poztupimi</span>; the name is of Slavic origin, the first element <span class="foreign">po</span> "by near," the second element influenced by Dutch names in <span class="foreign">-dam</span>. The <span class="foreign">Potsdam Conference</span> of the victorious Allies in World War II was held July 17-Aug. 2, 1945, to decide the fate of Germany.</dd>
+
+<dt class="highlight"><a href="/index.php?term=potsherd&allowed_in_frame=0">potsherd (n.)</a> <a href="http://dictionary.reference.com/search?q=potsherd" class="dictionary" title="Look up potsherd at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potsherd at Dictionary.com" title="Look up potsherd at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from <a href="/index.php?term=pot&allowed_in_frame=0" class="crossreference">pot</a> (n.1) + <span class="foreign">schoord</span>, from O.E. <span class="foreign">sceard</span> (see <a href="/index.php?term=shard&allowed_in_frame=0" class="crossreference">shard</a>).</dd>
+
+<dt><a href="/index.php?term=potshot&allowed_in_frame=0">potshot (n.)</a> <a href="http://dictionary.reference.com/search?q=potshot" class="dictionary" title="Look up potshot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potshot at Dictionary.com" title="Look up potshot at Dictionary.com" /></a></dt>
+<dd>1858, "shot taken at animal simply to kill for food," in other words, to get it in the pot, not for sporting or marksmanship; from <a href="/index.php?term=pot&allowed_in_frame=0" class="crossreference">pot</a> (n.1) + <a href="/index.php?term=shot&allowed_in_frame=0" class="crossreference">shot</a> (n.). Extended sense of "opportunistic criticism" first recorded 1926.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pottage&allowed_in_frame=0">pottage (n.)</a> <a href="http://dictionary.reference.com/search?q=pottage" class="dictionary" title="Look up pottage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pottage at Dictionary.com" title="Look up pottage at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., lit. "that which is put in a pot," from O.Fr. <span class="foreign">potage</span> "soup," from <span class="foreign">pot</span> "pot" (see <a href="/index.php?term=pot&allowed_in_frame=0" class="crossreference">pot</a> (n.1)).</dd>
+
+<dt><a href="/index.php?term=potter&allowed_in_frame=0">potter (n.)</a> <a href="http://dictionary.reference.com/search?q=potter" class="dictionary" title="Look up potter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potter at Dictionary.com" title="Look up potter at Dictionary.com" /></a></dt>
+<dd>late O.E. <span class="foreign">pottere</span>, O.Fr. <span class="foreign">potier</span>, from root of <a href="/index.php?term=pot&allowed_in_frame=0" class="crossreference">pot</a> (n.1). <span class="foreign">Potter's field</span> (1520s) is Biblical, a ground where clay suitable for pottery was dug, later purchased by high priests of Jerusalem as a burying ground for strangers, criminals, and the poor (Matt. xxvii:7). An older Old English word for "potter" was <span class="foreign">crocwyrhta</span> "crock-wright."</dd>
+
+<dt class="highlight"><a href="/index.php?term=potter&allowed_in_frame=0">potter (v.)</a> <a href="http://dictionary.reference.com/search?q=potter" class="dictionary" title="Look up potter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potter at Dictionary.com" title="Look up potter at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, "to poke again and again," frequentative of obsolete <span class="foreign">poten</span> "to push, poke," from O.E. <span class="foreign">potian</span> "to push" (see <a href="/index.php?term=put&allowed_in_frame=0" class="crossreference">put</a>). Sense of "occupy oneself in a trifling way" is first recorded 1740. Related: <span class="foreign">Pottered</span>; <span class="foreign">pottering</span>.</dd>
+
+<dt><a href="/index.php?term=pottery&allowed_in_frame=0">pottery (n.)</a> <a href="http://dictionary.reference.com/search?q=pottery" class="dictionary" title="Look up pottery at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pottery at Dictionary.com" title="Look up pottery at Dictionary.com" /></a></dt>
+<dd>late 15c., "a potter's workshop," from O.Fr. <span class="foreign">poterie</span> (13c.), from <span class="foreign">potier</span> (see <a href="/index.php?term=potter&allowed_in_frame=0" class="crossreference">potter</a>). Attested from 1727 as "the potter's art;" from 1785 as "potteryware."</dd>
+
+<dt class="highlight"><a href="/index.php?term=potty&allowed_in_frame=0">potty (adj.)</a> <a href="http://dictionary.reference.com/search?q=potty" class="dictionary" title="Look up potty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potty at Dictionary.com" title="Look up potty at Dictionary.com" /></a></dt>
+<dd class="highlight">"crazy, silly," 1920, slang, of unknown origin, perhaps connected to <span class="foreign">potter (v.)</span>. Earlier slang senses were "easy to manage" (1899) and "feeble, petty" (1860).</dd>
+
+<dt><a href="/index.php?term=potty&allowed_in_frame=0">potty (n.)</a> <a href="http://dictionary.reference.com/search?q=potty" class="dictionary" title="Look up potty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up potty at Dictionary.com" title="Look up potty at Dictionary.com" /></a></dt>
+<dd>1942, child's word for "chamber pot," from <a href="/index.php?term=pot&allowed_in_frame=0" class="crossreference">pot</a> (n.1). <span class="foreign">Potty-training</span> is attested from 1958. <span class="foreign">Potty-mouth</span> "one who uses obscene language" is student slang from 1968.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pouch&allowed_in_frame=0">pouch (n.)</a> <a href="http://dictionary.reference.com/search?q=pouch" class="dictionary" title="Look up pouch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pouch at Dictionary.com" title="Look up pouch at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "small bag in which money is carried," from Anglo-Fr. <span class="foreign">puche</span>, O.N.Fr. <span class="foreign">pouche</span> (13c.), O.Fr. <span class="foreign">poche,</span> from a Germanic source (cf. O.E. <span class="foreign">pocca</span> "bag;" see <a href="/index.php?term=poke&allowed_in_frame=0" class="crossreference">poke</a> (n.1)). Extended to cavities in animal bodies from mid-15c.</dd>
+
+<dt><a href="/index.php?term=pouf&allowed_in_frame=0">pouf</a> <a href="http://dictionary.reference.com/search?q=pouf" class="dictionary" title="Look up pouf at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pouf at Dictionary.com" title="Look up pouf at Dictionary.com" /></a></dt>
+<dd>"styles of elaborate female head-dress," 1817 (in ref. to styles of c.1780), from Fr. <span class="foreign">bouffer</span> "to blow out, puff," probably of imitative origin. As a fashion in dress-making, recorded from 1869; in ref. to over-stuffed cushions, 1884.</dd>
+
+<dt class="highlight"><a href="/index.php?term=poultice&allowed_in_frame=0">poultice (n.)</a> <a href="http://dictionary.reference.com/search?q=poultice" class="dictionary" title="Look up poultice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poultice at Dictionary.com" title="Look up poultice at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, alteration of M.E. <span class="foreign">pultes</span>, from L. <span class="foreign">pultes</span>, pl. of <span class="foreign">puls</span> "porridge" (see <a href="/index.php?term=pulse&allowed_in_frame=0" class="crossreference">pulse</a> (n.2)).</dd>
+
+<dt><a href="/index.php?term=poultry&allowed_in_frame=0">poultry (n.)</a> <a href="http://dictionary.reference.com/search?q=poultry" class="dictionary" title="Look up poultry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poultry at Dictionary.com" title="Look up poultry at Dictionary.com" /></a></dt>
+<dd>mid-14c., from O.Fr. <span class="foreign">pouletrie</span> "domestic fowl" (late 13c.), from <span class="foreign">poulet</span> "young fowl" (see <a href="/index.php?term=pullet&allowed_in_frame=0" class="crossreference">pullet</a>). <span class="foreign">Poulterer</span> (1630s) is a redundancy, but has largely ousted original <span class="foreign">poulter</span> (c.1400), from O.Fr. <span class="foreign">pouletier</span> "poulterer," with agent suffix <span class="foreign">-er.</span> Poetic <span class="foreign">poulter's measure</span> (1570s) is of fanciful origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pounce&allowed_in_frame=0">pounce (v.)</a> <a href="http://dictionary.reference.com/search?q=pounce" class="dictionary" title="Look up pounce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pounce at Dictionary.com" title="Look up pounce at Dictionary.com" /></a></dt>
+<dd class="highlight">1680s, originally "to seize with the pounces," from <span class="foreign">pownse</span> (n.) "hawk's claws" (late 15c.), from O.Fr. <span class="foreign">poin&ccedil;on</span> (see <a href="/index.php?term=punch&allowed_in_frame=0" class="crossreference">punch</a> (v.)), on the notion of the claws that punch holes in things. In falconry, the heel claw is a <span class="foreign">talon</span>, and others are <span class="foreign">pounces</span>.</dd>
+
+<dt><a href="/index.php?term=pound&allowed_in_frame=0">pound (n.1)</a> <a href="http://dictionary.reference.com/search?q=pound" class="dictionary" title="Look up pound at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pound at Dictionary.com" title="Look up pound at Dictionary.com" /></a></dt>
+<dd>"measure of weight," O.E. <span class="foreign">pund</span>, from W.Gmc. stem <span class="foreign">*punda-</span> "pound" as a measure of weight (cf. Goth. <span class="foreign">pund</span>, O.H.G. <span class="foreign">pfunt</span>, Ger. <span class="foreign">Pfund</span>, M.Du. <span class="foreign">pont</span>, O.Fris., O.N. <span class="foreign">pund</span>), early borrowing from L. <span class="foreign">pondo</span> "pound," originally in <span class="foreign">libra pondo</span> "a pound by weight," from <span class="foreign">pondo</span> (adv.) "by weight," ablative of <span class="foreign">*pondus</span> "weight" (see <a href="/index.php?term=span&allowed_in_frame=0" class="crossreference">span</a> (v.)). Meaning "unit of money" was in O.E., originally "pound of silver." At first "12 ounces;" meaning "16 ounces" was established before late 14c. <span class="foreign">Pound cake</span> (1747) so called because it has a pound, more or less, of each ingredient. <span class="foreign">Pound of flesh</span> is from "Merchant of Venice" IV.i. The abbreviations <span class="foreign">lb., £</span> are from <span class="foreign">libra</span>, and reflect the medieval custom of keeping accounts in Latin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pound&allowed_in_frame=0">pound (n.2)</a> <a href="http://dictionary.reference.com/search?q=pound" class="dictionary" title="Look up pound at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pound at Dictionary.com" title="Look up pound at Dictionary.com" /></a></dt>
+<dd class="highlight">"enclosed place for animals," late O.E. <span class="foreign">pundfald</span> "penfold, pound," related to <span class="foreign">pyndan</span> "to dam up, enclose (water)," and thus from the same root as <span class="foreign">pond.</span> Ultimate origin unknown; no certain cognates beyond English.</dd>
+
+<dt><a href="/index.php?term=pound&allowed_in_frame=0">pound (v.)</a> <a href="http://dictionary.reference.com/search?q=pound" class="dictionary" title="Look up pound at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pound at Dictionary.com" title="Look up pound at Dictionary.com" /></a></dt>
+<dd>"pulverize," O.E. <span class="foreign">punian</span> "crush," from W.Gmc. <span class="foreign">*puno-</span>, stem of <span class="foreign">*punojanan</span> (cf. Low Ger. <span class="foreign">pun</span>, Du. <span class="foreign">puin</span> "fragments"). With intrusive <span class="foreign">-d-</span> from 16c. Related: <span class="foreign">Pounded</span>; <span class="foreign">pounding</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pour&allowed_in_frame=0">pour (v.)</a> <a href="http://dictionary.reference.com/search?q=pour" class="dictionary" title="Look up pour at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pour at Dictionary.com" title="Look up pour at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, perhaps from O.Fr. (Flanders dialect) <span class="foreign">purer</span> "to sift (grain), pour out (water)," from L. <span class="foreign">purare</span> "to purify," from <span class="foreign">purus</span> "pure" (see <a href="/index.php?term=pure&allowed_in_frame=0" class="crossreference">pure</a>). Replaced O.E. <span class="foreign">geotan</span>. Related: <span class="foreign">Poured</span>; <span class="foreign">pouring</span>.</dd>
+
+<dt><a href="/index.php?term=pout&allowed_in_frame=0">pout (v.)</a> <a href="http://dictionary.reference.com/search?q=pout" class="dictionary" title="Look up pout at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pout at Dictionary.com" title="Look up pout at Dictionary.com" /></a></dt>
+<dd>early 14c., perhaps from Scandinavian (cf. Swed. dial. <span class="foreign">puta</span> "to be puffed out"), or Frisian (cf. E.Fris. <span class="foreign">p&uuml;t</span> "bag, swelling," Low Ger. <span class="foreign">puddig</span> "swollen"), related via notion of "inflation" to O.E. <span class="foreign">&aelig;lepute</span> "fish with inflated parts," and M.Du. <span class="foreign">puyt</span>, Flem. <span class="foreign">puut</span> "frog."</dd>
+
+<dt class="highlight"><a href="/index.php?term=pouty&allowed_in_frame=0">pouty (adj.)</a> <a href="http://dictionary.reference.com/search?q=pouty" class="dictionary" title="Look up pouty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pouty at Dictionary.com" title="Look up pouty at Dictionary.com" /></a></dt>
+<dd class="highlight">1863, from <a href="/index.php?term=pout&allowed_in_frame=0" class="crossreference">pout</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Poutiness</span>.</dd>
+
+<dt><a href="/index.php?term=poverty&allowed_in_frame=0">poverty (n.)</a> <a href="http://dictionary.reference.com/search?q=poverty" class="dictionary" title="Look up poverty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poverty at Dictionary.com" title="Look up poverty at Dictionary.com" /></a></dt>
+<dd>late 12c., from O.Fr. <span class="foreign">poverte</span>, from L. <span class="foreign">paupertatem</span> (nom. <span class="foreign">paupertas</span>) "poverty," from <span class="foreign">pauper</span> (see <a href="/index.php?term=poor&allowed_in_frame=0" class="crossreference">poor</a>).<blockquote>Seeing so much poverty everywhere makes me think that God is not rich. He gives the appearance of it, but I suspect some financial difficulties. [Victor Hugo, <span class="foreign">"Les Mis&eacute;rables,"</span> 1862]</blockquote>
+<span class="foreign">Poverty line</span> attested from 1901.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pow&allowed_in_frame=0">pow</a> <a href="http://dictionary.reference.com/search?q=pow" class="dictionary" title="Look up pow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pow at Dictionary.com" title="Look up pow at Dictionary.com" /></a></dt>
+<dd class="highlight">expression imitative of a blow, collision, etc., first recorded 1881.</dd>
+
+<dt><a href="/index.php?term=powder&allowed_in_frame=0">powder (n.)</a> <a href="http://dictionary.reference.com/search?q=powder" class="dictionary" title="Look up powder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up powder at Dictionary.com" title="Look up powder at Dictionary.com" /></a></dt>
+<dd>late 13c., from O.Fr. <span class="foreign">poudre</span> (13c.), earlier <span class="foreign">pouldre</span> (11c.), from L. <span class="foreign">pulverem</span> (nom. <span class="foreign">pulvis</span>) "dust" (see <a href="/index.php?term=pollen&allowed_in_frame=0" class="crossreference">pollen</a>). In the sense "powdered cosmetic," it is recorded from 1570s. In figurative sense, <span class="foreign">powder keg</span> is first attested 1855. <span class="foreign">Powder room,</span> euphemistic for "women's lavatory," is attested from 1941. <span class="foreign">Powder puff</span> first recorded 1704; as a symbol of femaleness or effeminacy, in use from at least 1930s. Phrase <span class="foreign">take a powder</span> "scram, vanish," is from 1920, perhaps from the notion of taking a laxative medicine, so one has to leave in a hurry; or from a magician's magical powder, which made things disappear.</dd>
+
+<dt class="highlight"><a href="/index.php?term=powder&allowed_in_frame=0">powder (v.)</a> <a href="http://dictionary.reference.com/search?q=powder" class="dictionary" title="Look up powder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up powder at Dictionary.com" title="Look up powder at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">poudrer</span>, from <span class="foreign">poudre</span> (see <a href="/index.php?term=powder&allowed_in_frame=0" class="crossreference">powder</a> (n.)). Related: <span class="foreign">Powdered</span>; <span class="foreign">powdering</span>.</dd>
+
+<dt><a href="/index.php?term=power&allowed_in_frame=0">power (n.)</a> <a href="http://dictionary.reference.com/search?q=power" class="dictionary" title="Look up power at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up power at Dictionary.com" title="Look up power at Dictionary.com" /></a></dt>
+<dd>c.1300, "ability; ability to act or do; strength, vigor, might," especially in battle; "efficacy; control, mastery, lordship, dominion; legal power or authority; authorization; military force, an army," from Anglo-Fr. <span class="foreign">pouair</span>, O.Fr. <span class="foreign">povoir</span>, noun use of the infinitive, "to be able," earlier <span class="foreign">podir</span> (9c.), from V.L. <span class="foreign">*potere</span>, from L. <span class="foreign">potis</span> "powerful" (see <a href="/index.php?term=potent&allowed_in_frame=0" class="crossreference">potent</a>).
+<blockquote>
+Whatever some hypocritical ministers of government may say about it, power is the greatest of all pleasures. It seems to me that only love can beat it, and love is a happy illness that can't be picked up as easily as a Ministry. [Stendhal <span class="foreign">"de l'Amour,"</span> 1822]
+</blockquote>
+Meaning "specific ability or capacity" is from early 15c. Meaning "a state or nation with regard to international authority or influence" is from 1726. Phrase <span class="foreign">the powers that be</span> is from Rom. xiii:1. As a statement wishing good luck, <span class="foreign">more power to (someone)</span> is recorded from 1842.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=power&allowed_in_frame=0">power (v.)</a> <a href="http://dictionary.reference.com/search?q=power" class="dictionary" title="Look up power at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up power at Dictionary.com" title="Look up power at Dictionary.com" /></a></dt>
+<dd class="highlight">"to supply with power," 1898, from <a href="/index.php?term=power&allowed_in_frame=0" class="crossreference">power</a> (n.). Related: <span class="foreign">Powered</span>; <span class="foreign">powering</span>.</dd>
+
+<dt><a href="/index.php?term=power-broker&allowed_in_frame=0">power-broker (n.)</a> <a href="http://dictionary.reference.com/search?q=power-broker" class="dictionary" title="Look up power-broker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up power-broker at Dictionary.com" title="Look up power-broker at Dictionary.com" /></a></dt>
+<dd>1961, apparently coined by T.H. White in reference to the 1960 U.S. presidential election; from <a href="/index.php?term=power&allowed_in_frame=0" class="crossreference">power</a> (n.) + <a href="/index.php?term=broker&allowed_in_frame=0" class="crossreference">broker</a> (n.). </dd>
+
+<dt class="highlight"><a href="/index.php?term=powerful&allowed_in_frame=0">powerful (adj.)</a> <a href="http://dictionary.reference.com/search?q=powerful" class="dictionary" title="Look up powerful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up powerful at Dictionary.com" title="Look up powerful at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from <a href="/index.php?term=power&allowed_in_frame=0" class="crossreference">power</a> (n.) + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>. Related: <span class="foreign">Powerfully</span>.</dd>
+
+<dt><a href="/index.php?term=powerhouse&allowed_in_frame=0">powerhouse (n.)</a> <a href="http://dictionary.reference.com/search?q=powerhouse" class="dictionary" title="Look up powerhouse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up powerhouse at Dictionary.com" title="Look up powerhouse at Dictionary.com" /></a></dt>
+<dd>1881, "building where power is generated," from <a href="/index.php?term=power&allowed_in_frame=0" class="crossreference">power</a> (n.) + <a href="/index.php?term=house&allowed_in_frame=0" class="crossreference">house</a> (n.). Figurative sense is from 1915.</dd>
+
+<dt class="highlight"><a href="/index.php?term=powerless&allowed_in_frame=0">powerless (adj.)</a> <a href="http://dictionary.reference.com/search?q=powerless" class="dictionary" title="Look up powerless at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up powerless at Dictionary.com" title="Look up powerless at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "lacking might or fortitude," from <a href="/index.php?term=power&allowed_in_frame=0" class="crossreference">power</a> (n.) + <a href="/index.php?term=-less&allowed_in_frame=0" class="crossreference">-less</a>. Related: <span class="foreign">Powerlessly</span>; <span class="foreign">powerlessness</span>.</dd>
+
+<dt><a href="/index.php?term=PowerPoint&allowed_in_frame=0">PowerPoint</a> <a href="http://dictionary.reference.com/search?q=PowerPoint" class="dictionary" title="Look up PowerPoint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up PowerPoint at Dictionary.com" title="Look up PowerPoint at Dictionary.com" /></a></dt>
+<dd>Microsoft computer slide show program, 1987.</dd>
+
+<dt class="highlight"><a href="/index.php?term=powwow&allowed_in_frame=0">powwow (n.)</a> <a href="http://dictionary.reference.com/search?q=powwow" class="dictionary" title="Look up powwow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up powwow at Dictionary.com" title="Look up powwow at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, "priest, sorcerer," from a southern New England Algonquian language (probably Narragansett) <span class="foreign">powwow</span> "shaman, medicine man, Indian priest," from a verb meaning "to use divination, to dream," from Proto-Algonquian <span class="foreign">*pawe:wa</span> "he dreams, one who dreams." Meaning "magical ceremony among N.Amer. Indians" is recorded from 1660s. Sense of "council, conference, meeting" is first recorded 1812. Verb sense of "to confer, discuss" is attested from 1780.</dd>
+
+<dt><a href="/index.php?term=pox&allowed_in_frame=0">pox (n.)</a> <a href="http://dictionary.reference.com/search?q=pox" class="dictionary" title="Look up pox at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pox at Dictionary.com" title="Look up pox at Dictionary.com" /></a></dt>
+<dd>late 15c., spelling alteration of <span class="foreign">pockes</span>, plural of <span class="foreign">pocke</span> (see <a href="/index.php?term=pock&allowed_in_frame=0" class="crossreference">pock</a>). Especially (after c.1500) of syphilis.</dd>
+
+<dt class="highlight"><a href="/index.php?term=poxy&allowed_in_frame=0">poxy (adj.)</a> <a href="http://dictionary.reference.com/search?q=poxy" class="dictionary" title="Look up poxy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poxy at Dictionary.com" title="Look up poxy at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1853 in literal sense, from <a href="/index.php?term=pox&allowed_in_frame=0" class="crossreference">pox</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). As a deprecatory adjective, attested in English dialects by 1899.</dd>
+
+<dt><a href="/index.php?term=poy&allowed_in_frame=0">poy (n.)</a> <a href="http://dictionary.reference.com/search?q=poy" class="dictionary" title="Look up poy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up poy at Dictionary.com" title="Look up poy at Dictionary.com" /></a></dt>
+<dd>pole used to propel a boat, late 15c., of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=ppm&allowed_in_frame=0">ppm</a> <a href="http://dictionary.reference.com/search?q=ppm" class="dictionary" title="Look up ppm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ppm at Dictionary.com" title="Look up ppm at Dictionary.com" /></a></dt>
+<dd class="highlight">abbreviation of <span class="foreign">parts per million</span>, attested by 1913.</dd>
+
+<dt><a href="/index.php?term=PR&allowed_in_frame=0">PR</a> <a href="http://dictionary.reference.com/search?q=PR" class="dictionary" title="Look up PR at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up PR at Dictionary.com" title="Look up PR at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">p.r.</span>; 1942, abbreviation of <span class="foreign">public relations</span> (see <a href="/index.php?term=public&allowed_in_frame=0" class="crossreference">public</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=practicable&allowed_in_frame=0">practicable (adj.)</a> <a href="http://dictionary.reference.com/search?q=practicable" class="dictionary" title="Look up practicable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practicable at Dictionary.com" title="Look up practicable at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s (implied in <span class="foreign">practicableness</span>), from M.Fr. <span class="foreign">pratiquable</span> (1590s), from <span class="foreign">pratiquer</span> "to practice," from M.L. <span class="foreign">practicare</span> "to practice" (see <a href="/index.php?term=practical&allowed_in_frame=0" class="crossreference">practical</a>).</dd>
+
+<dt><a href="/index.php?term=practical&allowed_in_frame=0">practical (adj.)</a> <a href="http://dictionary.reference.com/search?q=practical" class="dictionary" title="Look up practical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practical at Dictionary.com" title="Look up practical at Dictionary.com" /></a></dt>
+<dd>c.1600, earlier <span class="foreign">practic</span> (adj.) in same sense (late 14c.), from O.Fr. <span class="foreign">practique</span> (adj.) "fit for action," earlier <span class="foreign">pratique</span> (13c.), from M.L. <span class="foreign">practicalis</span>, L.L. <span class="foreign">practicus</span> "practical," from Gk. <span class="foreign">praktikos</span> "practical."</dd>
+
+<dt class="highlight"><a href="/index.php?term=practically&allowed_in_frame=0">practically (adv.)</a> <a href="http://dictionary.reference.com/search?q=practically" class="dictionary" title="Look up practically at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practically at Dictionary.com" title="Look up practically at Dictionary.com" /></a></dt>
+<dd class="highlight">"for practical purposes, as good as," 1748, from <a href="/index.php?term=practical&allowed_in_frame=0" class="crossreference">practical</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt><a href="/index.php?term=practice&allowed_in_frame=0">practice (v.)</a> <a href="http://dictionary.reference.com/search?q=practice" class="dictionary" title="Look up practice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practice at Dictionary.com" title="Look up practice at Dictionary.com" /></a></dt>
+<dd>early 15c., "to perform repeatedly to acquire skill;" mid-15c., "to perform, to work at, exercise," from O.Fr. <span class="foreign">practiser</span> "to practice," from M.L. <span class="foreign">practicare</span> "to do, perform, practice," from L.L. <span class="foreign">practicus</span> "practical," from Gk. <span class="foreign">praktikos</span> "practical" (see <a href="/index.php?term=practical&allowed_in_frame=0" class="crossreference">practical</a>). Related: <a href="/index.php?term=Practiced&allowed_in_frame=0" class="crossreference">Practiced</a>; <a href="/index.php?term=practicing&allowed_in_frame=0" class="crossreference">practicing</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=practice&allowed_in_frame=0">practice (n.)</a> <a href="http://dictionary.reference.com/search?q=practice" class="dictionary" title="Look up practice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practice at Dictionary.com" title="Look up practice at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., originally as <span class="foreign">practise</span>, from O.Fr. <span class="foreign">pratiser</span>, from M.L. <span class="foreign">practicare</span> (see <a href="/index.php?term=practice&allowed_in_frame=0" class="crossreference">practice</a> (n.)). Also as <span class="foreign">practik</span>, which survived in parallel into 19c. </dd>
+
+<dt><a href="/index.php?term=practiced&allowed_in_frame=0">practiced (adj.)</a> <a href="http://dictionary.reference.com/search?q=practiced" class="dictionary" title="Look up practiced at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practiced at Dictionary.com" title="Look up practiced at Dictionary.com" /></a></dt>
+<dd>"expert," 1560s, pp. adjective from <a href="/index.php?term=practice&allowed_in_frame=0" class="crossreference">practice</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=practicing&allowed_in_frame=0">practicing (adj.)</a> <a href="http://dictionary.reference.com/search?q=practicing" class="dictionary" title="Look up practicing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practicing at Dictionary.com" title="Look up practicing at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s in reference to professions; from 1906 in reference to religions; prp. adjective from <a href="/index.php?term=practice&allowed_in_frame=0" class="crossreference">practice</a> (v.).</dd>
+
+<dt><a href="/index.php?term=practicum&allowed_in_frame=0">practicum (n.)</a> <a href="http://dictionary.reference.com/search?q=practicum" class="dictionary" title="Look up practicum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practicum at Dictionary.com" title="Look up practicum at Dictionary.com" /></a></dt>
+<dd>1904, from L.L. <span class="foreign">practicum</span>, neuter of <span class="foreign">practicus</span> (see <a href="/index.php?term=practical&allowed_in_frame=0" class="crossreference">practical</a>). Cf. Ger. <span class="foreign">praktikum</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=practise&allowed_in_frame=0">practise</a> <a href="http://dictionary.reference.com/search?q=practise" class="dictionary" title="Look up practise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practise at Dictionary.com" title="Look up practise at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=practice&allowed_in_frame=0" class="crossreference">practice</a>.</dd>
+
+<dt><a href="/index.php?term=practitioner&allowed_in_frame=0">practitioner (n.)</a> <a href="http://dictionary.reference.com/search?q=practitioner" class="dictionary" title="Look up practitioner at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up practitioner at Dictionary.com" title="Look up practitioner at Dictionary.com" /></a></dt>
+<dd>1540s, a hybrid formed from <span class="foreign">practitian</span> (c.1500, from Fr. <span class="foreign">practicien</span>, from L.L. <span class="foreign">practicus</span> "fit for action," see <a href="/index.php?term=practice&allowed_in_frame=0" class="crossreference">practice</a>) on model of <span class="foreign">parishioner</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Prado&allowed_in_frame=0">Prado</a> <a href="http://dictionary.reference.com/search?q=Prado" class="dictionary" title="Look up Prado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Prado at Dictionary.com" title="Look up Prado at Dictionary.com" /></a></dt>
+<dd class="highlight">public park and promenade in Madrid, 1640s, Spanish, from L. <span class="foreign">pratum</span> "meadow" (see <a href="/index.php?term=prairie&allowed_in_frame=0" class="crossreference">prairie</a>).</dd>
+
+<dt><a href="/index.php?term=praecipe&allowed_in_frame=0">praecipe</a> <a href="http://dictionary.reference.com/search?q=praecipe" class="dictionary" title="Look up praecipe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up praecipe at Dictionary.com" title="Look up praecipe at Dictionary.com" /></a></dt>
+<dd>c.1500 (in Magna Carta in Anglo-Latin), from L. <span class="foreign">praecipe</span>, imperative of <span class="foreign">praecipere</span> "to admonish, enjoin," from the opening words of such a writ, <span class="foreign">praecipe quod reddat</span> "enjoin (him) that he render."</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658630 -->
+<!-- Page was generated in 0.203444 seconds. -->
+ </body>
+</html>
+<!-- -->

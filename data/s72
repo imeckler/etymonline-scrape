@@ -1,0 +1,473 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=subsidiarity&allowed_in_frame=0">subsidiarity (n.)</a> <a href="http://dictionary.reference.com/search?q=subsidiarity" class="dictionary" title="Look up subsidiarity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsidiarity at Dictionary.com" title="Look up subsidiarity at Dictionary.com" /></a></dt>
+<dd class="highlight">1936, from Ger. <span class="foreign">Subsidiarit&auml;t</span>, paraphrasing the Latin of Pius XI in his <span class="foreign">Quadragesimo Anno</span> of 1931; see <a href="/index.php?term=subsidiary&allowed_in_frame=0" class="crossreference">subsidiary</a> + <a href="/index.php?term=-ity&allowed_in_frame=0" class="crossreference">-ity</a>.
+<blockquote>
+Just as it is gravely wrong to take from individuals what they can accomplish by their own initiative and industry and give it to the community, so also it is an injustice and at the same time a grave evil and disturbance of right order to assign to a greater and higher association what lesser and subordinate organizations can do. For every social activity ought of its very nature to furnish help to the members of the body social, and never destroy and absorb them. [Pius XI, <span class="foreign">Quadragesimo Anno</span>, 1931]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=subsidiary&allowed_in_frame=0">subsidiary (adj.)</a> <a href="http://dictionary.reference.com/search?q=subsidiary" class="dictionary" title="Look up subsidiary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsidiary at Dictionary.com" title="Look up subsidiary at Dictionary.com" /></a></dt>
+<dd>1540s, from M.Fr. <span class="foreign">subsidiaire</span>, from L. <span class="foreign">subsidiarius</span> "serving to assist or supplement," from <span class="foreign">subsidium</span> "help, aid" (see <a href="/index.php?term=subsidy&allowed_in_frame=0" class="crossreference">subsidy</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=subsidise&allowed_in_frame=0">subsidise (v.)</a> <a href="http://dictionary.reference.com/search?q=subsidise" class="dictionary" title="Look up subsidise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsidise at Dictionary.com" title="Look up subsidise at Dictionary.com" /></a></dt>
+<dd class="highlight">British English spelling of <a href="/index.php?term=subsidize&allowed_in_frame=0" class="crossreference">subsidize</a>. For suffix, see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Subsidised</span>; <span class="foreign">subsidising</span>.</dd>
+
+<dt><a href="/index.php?term=subsidize&allowed_in_frame=0">subsidize (v.)</a> <a href="http://dictionary.reference.com/search?q=subsidize" class="dictionary" title="Look up subsidize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsidize at Dictionary.com" title="Look up subsidize at Dictionary.com" /></a></dt>
+<dd>1795, from <a href="/index.php?term=subsidy&allowed_in_frame=0" class="crossreference">subsidy</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>.
+Originally "to pay to hire" (mercenaries, foreign troops, etc.), also of nations, "to buy neutrality or alliance." Meaning "to bribe" is from 1815. Meaning "to support by grants of (often government) money" is from 1828. Related: <span class="foreign">Subsidized</span>; <span class="foreign">subsidizing</span>.
+
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=subsidy&allowed_in_frame=0">subsidy (n.)</a> <a href="http://dictionary.reference.com/search?q=subsidy" class="dictionary" title="Look up subsidy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsidy at Dictionary.com" title="Look up subsidy at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Anglo-Fr. <span class="foreign">subsidie</span>, from O.Fr. <span class="foreign">subside</span> "help, aid, contribution," from L. <span class="foreign">subsidium</span> "help, aid, assistance, (military) reinforcements," from <span class="foreign">sub</span> "behind, near" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">sedere</span> "to sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>).</dd>
+
+<dt><a href="/index.php?term=subsist&allowed_in_frame=0">subsist (v.)</a> <a href="http://dictionary.reference.com/search?q=subsist" class="dictionary" title="Look up subsist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsist at Dictionary.com" title="Look up subsist at Dictionary.com" /></a></dt>
+<dd>1540s, "to exist," from L. <span class="foreign">subsistere</span> "to stand still or firm," (see <a href="/index.php?term=subsistence&allowed_in_frame=0" class="crossreference">subsistence</a>). Meaning "to support oneself" (in a certain way) is from 1640s. Related: <span class="foreign">Subsisted</span>; <span class="foreign">subsisting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subsistence&allowed_in_frame=0">subsistence (n.)</a> <a href="http://dictionary.reference.com/search?q=subsistence" class="dictionary" title="Look up subsistence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsistence at Dictionary.com" title="Look up subsistence at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "existence, independence," from L.L. <span class="foreign">subsistentia</span> "substance, reality," from L. <span class="foreign">subsistens</span>, prp. of <span class="foreign">subsistere</span> "stand still or firm," from <span class="foreign">sub</span> "under, up to" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">sistere</span> "to assume a standing position," from <span class="foreign">stare</span> "to stand" (see <a href="/index.php?term=assist&allowed_in_frame=0" class="crossreference">assist</a>). Properly a loan-translation of Gk. <span class="foreign">hypostasis</span> "subsistence," lit. "anything placed under." Meaning "provision of support for animal life" is from 1640s.</dd>
+
+<dt><a href="/index.php?term=subsistent&allowed_in_frame=0">subsistent (adj.)</a> <a href="http://dictionary.reference.com/search?q=subsistent" class="dictionary" title="Look up subsistent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsistent at Dictionary.com" title="Look up subsistent at Dictionary.com" /></a></dt>
+<dd>1520s, from L. <span class="foreign">subsistentem</span> (nom. <span class="foreign">subsistens</span>), prp. of <span class="foreign">subsistere</span> (see <a href="/index.php?term=subsistence&allowed_in_frame=0" class="crossreference">subsistence</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=subsoil&allowed_in_frame=0">subsoil (n.)</a> <a href="http://dictionary.reference.com/search?q=subsoil" class="dictionary" title="Look up subsoil at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsoil at Dictionary.com" title="Look up subsoil at Dictionary.com" /></a></dt>
+<dd class="highlight">1799, from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> + <a href="/index.php?term=soil&allowed_in_frame=0" class="crossreference">soil</a> (n.).</dd>
+
+<dt><a href="/index.php?term=subspecies&allowed_in_frame=0">subspecies (n.)</a> <a href="http://dictionary.reference.com/search?q=subspecies" class="dictionary" title="Look up subspecies at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subspecies at Dictionary.com" title="Look up subspecies at Dictionary.com" /></a></dt>
+<dd>1690s, from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> + <a href="/index.php?term=species&allowed_in_frame=0" class="crossreference">species</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=substance&allowed_in_frame=0">substance (n.)</a> <a href="http://dictionary.reference.com/search?q=substance" class="dictionary" title="Look up substance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substance at Dictionary.com" title="Look up substance at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "essential nature," from O.Fr. <span class="foreign">substance</span> (12c.), from L. <span class="foreign">substantia</span> "being, essence, material," from <span class="foreign">substans</span>, prp. of <span class="foreign">substare</span> "stand firm, be under or present," from <span class="foreign">sub</span> "up to, under" + <span class="foreign">stare</span> "to stand," from PIE root <span class="foreign">*sta-</span> "to stand" (see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>). A loan-translation of Gk. <span class="foreign">hypostasis</span>. Meaning "any kind of corporeal matter" is first attested mid-14c. Sense of "the matter of a study, discourse, etc." first recorded late 14c.</dd>
+
+<dt><a href="/index.php?term=substandard&allowed_in_frame=0">substandard (adj.)</a> <a href="http://dictionary.reference.com/search?q=substandard" class="dictionary" title="Look up substandard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substandard at Dictionary.com" title="Look up substandard at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">sub-standard</span>, 1909, from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> + <a href="/index.php?term=standard&allowed_in_frame=0" class="crossreference">standard</a> (adj.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=substantial&allowed_in_frame=0">substantial (adj.)</a> <a href="http://dictionary.reference.com/search?q=substantial" class="dictionary" title="Look up substantial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substantial at Dictionary.com" title="Look up substantial at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "ample, sizeable," from O.Fr. <span class="foreign">substantiel</span> (13c.), from L. <span class="foreign">substantialis</span> "having substance or reality, material," from <span class="foreign">substantia</span> (see <a href="/index.php?term=substance&allowed_in_frame=0" class="crossreference">substance</a>). Meaning "existing, having real existence" is from late 14c.</dd>
+
+<dt><a href="/index.php?term=substantiate&allowed_in_frame=0">substantiate (v.)</a> <a href="http://dictionary.reference.com/search?q=substantiate" class="dictionary" title="Look up substantiate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substantiate at Dictionary.com" title="Look up substantiate at Dictionary.com" /></a></dt>
+<dd>1650s, "to make real, to give substance to," from Mod.L. <span class="foreign">substantiatus</span>, pp. of <span class="foreign">substantiare</span>, from L. <span class="foreign">substantia</span> (see <a href="/index.php?term=substance&allowed_in_frame=0" class="crossreference">substance</a>). Meaning "to demonstrate or prove" is attested from 1803. Related: <span class="foreign">Substantiated</span>; <span class="foreign">substantiating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=substantive&allowed_in_frame=0">substantive (adj.)</a> <a href="http://dictionary.reference.com/search?q=substantive" class="dictionary" title="Look up substantive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substantive at Dictionary.com" title="Look up substantive at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "standing by itself," from O.Fr. <span class="foreign">substantif</span>, from L.L. <span class="foreign">substantivum</span>, neut. of L. <span class="foreign">substantivus</span> "of substance or being," from <span class="foreign">substantia</span> (see <a href="/index.php?term=substance&allowed_in_frame=0" class="crossreference">substance</a>). The grammatical term (late 14c.) was introduced by the French to denote the noun in contradistinction to the adjective, from L. <span class="foreign">nomen substantivum</span> "name or word of substance."</dd>
+
+<dt><a href="/index.php?term=substation&allowed_in_frame=0">substation (n.)</a> <a href="http://dictionary.reference.com/search?q=substation" class="dictionary" title="Look up substation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substation at Dictionary.com" title="Look up substation at Dictionary.com" /></a></dt>
+<dd>1881, in the policing sense, from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> + <a href="/index.php?term=station&allowed_in_frame=0" class="crossreference">station</a> (n.). Power grid sense is attested from 1901.</dd>
+
+<dt class="highlight"><a href="/index.php?term=substitute&allowed_in_frame=0">substitute (v.)</a> <a href="http://dictionary.reference.com/search?q=substitute" class="dictionary" title="Look up substitute at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substitute at Dictionary.com" title="Look up substitute at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c. in transitive sense, 1888 as intransitive, from L. <span class="foreign">substitutus</span>, pp. of <span class="foreign">substituere</span> (see <a href="/index.php?term=substitution&allowed_in_frame=0" class="crossreference">substitution</a>). Related: <span class="foreign">Substituted</span>; <span class="foreign">substituting</span>.</dd>
+
+<dt><a href="/index.php?term=substitute&allowed_in_frame=0">substitute (n.)</a> <a href="http://dictionary.reference.com/search?q=substitute" class="dictionary" title="Look up substitute at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substitute at Dictionary.com" title="Look up substitute at Dictionary.com" /></a></dt>
+<dd>"one who acts in place of another," early 15c., from O.Fr. <span class="foreign">substitute</span> and directly from L. <span class="foreign">substitutus</span>, pp. of <span class="foreign">substituere</span> (see <a href="/index.php?term=substitution&allowed_in_frame=0" class="crossreference">substitution</a>). Team sports sense is from 1849.</dd>
+
+<dt class="highlight"><a href="/index.php?term=substitution&allowed_in_frame=0">substitution (n.)</a> <a href="http://dictionary.reference.com/search?q=substitution" class="dictionary" title="Look up substitution at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substitution at Dictionary.com" title="Look up substitution at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "appointment of a subordinate or successor," from M.Fr. <span class="foreign">substitution</span>, from L.L. <span class="foreign">substitutionem</span> (nom. <span class="foreign">substitutio</span>) "a putting in place of another," from pp. stem of L. <span class="foreign">substituere</span> "put in place of another, place under or next to," from <span class="foreign">sub</span> "under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">statuere</span> "set up," from PIE root <span class="foreign">*sta-</span> "to stand," with derivatives meaning "place or thing that is standing" (see <a href="/index.php?term=stet&allowed_in_frame=0" class="crossreference">stet</a>).</dd>
+
+<dt><a href="/index.php?term=substract&allowed_in_frame=0">substract (v.)</a> <a href="http://dictionary.reference.com/search?q=substract" class="dictionary" title="Look up substract at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substract at Dictionary.com" title="Look up substract at Dictionary.com" /></a></dt>
+<dd>"to subtract," 1540s, "now illiterate" [OED], from Mod.L. <span class="foreign">substractus</span>, pp. of <span class="foreign">substrahere</span>, alternative form of <span class="foreign">subtrahere</span> (see <a href="/index.php?term=subtraction&allowed_in_frame=0" class="crossreference">subtraction</a>). Related: <span class="foreign">Subtracted</span>; <span class="foreign">subtracting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=substrate&allowed_in_frame=0">substrate (n.)</a> <a href="http://dictionary.reference.com/search?q=substrate" class="dictionary" title="Look up substrate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substrate at Dictionary.com" title="Look up substrate at Dictionary.com" /></a></dt>
+<dd class="highlight">1810, from Mod.L. <span class="foreign">substratum</span> (see <a href="/index.php?term=substratum&allowed_in_frame=0" class="crossreference">substratum</a>).</dd>
+
+<dt><a href="/index.php?term=substratum&allowed_in_frame=0">substratum (n.)</a> <a href="http://dictionary.reference.com/search?q=substratum" class="dictionary" title="Look up substratum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substratum at Dictionary.com" title="Look up substratum at Dictionary.com" /></a></dt>
+<dd>1630s, from Mod.L. <span class="foreign">substratum</span> (pl. <span class="foreign">substrata</span>), neuter singular pp. of L. <span class="foreign">substernere</span> "to spread underneath," from <span class="foreign">sub-</span> (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">sternere</span> (see <a href="/index.php?term=stratum&allowed_in_frame=0" class="crossreference">stratum</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=substructure&allowed_in_frame=0">substructure (n.)</a> <a href="http://dictionary.reference.com/search?q=substructure" class="dictionary" title="Look up substructure at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up substructure at Dictionary.com" title="Look up substructure at Dictionary.com" /></a></dt>
+<dd class="highlight">1726, from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> + <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a> (n.).</dd>
+
+<dt><a href="/index.php?term=subsume&allowed_in_frame=0">subsume (v.)</a> <a href="http://dictionary.reference.com/search?q=subsume" class="dictionary" title="Look up subsume at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subsume at Dictionary.com" title="Look up subsume at Dictionary.com" /></a></dt>
+<dd>1530s, from Mod.L. <span class="foreign">subsumere</span> "to take under," from L. <span class="foreign">sub</span> "under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">sumere</span> "to take" (see <a href="/index.php?term=exempt&allowed_in_frame=0" class="crossreference">exempt</a>). Related: <span class="foreign">Subsumed</span>; <span class="foreign">subsuming</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subtend&allowed_in_frame=0">subtend (v.)</a> <a href="http://dictionary.reference.com/search?q=subtend" class="dictionary" title="Look up subtend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtend at Dictionary.com" title="Look up subtend at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, from L. <span class="foreign">subtendere</span>, from <span class="foreign">sub</span> "under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">tendere</span> "to stretch" (see <a href="/index.php?term=tenet&allowed_in_frame=0" class="crossreference">tenet</a>). Related: <span class="foreign">Subtended</span>; <span class="foreign">subtending</span>.</dd>
+
+<dt><a href="/index.php?term=subterfuge&allowed_in_frame=0">subterfuge (n.)</a> <a href="http://dictionary.reference.com/search?q=subterfuge" class="dictionary" title="Look up subterfuge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subterfuge at Dictionary.com" title="Look up subterfuge at Dictionary.com" /></a></dt>
+<dd>1570s, from M.Fr. <span class="foreign">subterfuge</span>, from L.L. <span class="foreign">subterfugium</span> "an evasion," from L. <span class="foreign">subterfugere</span> "to evade, escape, flee by stealth," from <span class="foreign">subter</span> "beneath, secretly" + <span class="foreign">fugere</span> "flee" (see <a href="/index.php?term=fugitive&allowed_in_frame=0" class="crossreference">fugitive</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=subterranean&allowed_in_frame=0">subterranean (adj.)</a> <a href="http://dictionary.reference.com/search?q=subterranean" class="dictionary" title="Look up subterranean at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subterranean at Dictionary.com" title="Look up subterranean at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from L. <span class="foreign">subterraneus</span> "underground," from <span class="foreign">sub</span> "under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">terra</span> "earth" (see <a href="/index.php?term=terrain&allowed_in_frame=0" class="crossreference">terrain</a>).</dd>
+
+<dt><a href="/index.php?term=subtext&allowed_in_frame=0">subtext (n.)</a> <a href="http://dictionary.reference.com/search?q=subtext" class="dictionary" title="Look up subtext at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtext at Dictionary.com" title="Look up subtext at Dictionary.com" /></a></dt>
+<dd>"underlying theme of a work of literature, 1950, from <a href="/index.php?term=sub&allowed_in_frame=0" class="crossreference">sub</a>- + <a href="/index.php?term=text&allowed_in_frame=0" class="crossreference">text</a>. Originally a term in Konstantin Stanislavsky's theory of acting. Earlier it was used in a lit. sense of "text appearing below other text on  a page" (1726).</dd>
+
+<dt class="highlight"><a href="/index.php?term=subtile&allowed_in_frame=0">subtile (adj.)</a> <a href="http://dictionary.reference.com/search?q=subtile" class="dictionary" title="Look up subtile at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtile at Dictionary.com" title="Look up subtile at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "clever, dexterous," from O.Fr. <span class="foreign">subtil</span> (14c.), from L. <span class="foreign">subtilis</span> "fine, thin, delicate" (see <a href="/index.php?term=subtle&allowed_in_frame=0" class="crossreference">subtle</a>). A Latinized refashioning of the French source of <span class="foreign">subtle</span>.</dd>
+
+<dt><a href="/index.php?term=subtility&allowed_in_frame=0">subtility (n.)</a> <a href="http://dictionary.reference.com/search?q=subtility" class="dictionary" title="Look up subtility at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtility at Dictionary.com" title="Look up subtility at Dictionary.com" /></a></dt>
+<dd>late 14c., alteration of <a href="/index.php?term=subtlety&allowed_in_frame=0" class="crossreference">subtlety</a> on model of <a href="/index.php?term=subtile&allowed_in_frame=0" class="crossreference">subtile</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subtitle&allowed_in_frame=0">subtitle (n.)</a> <a href="http://dictionary.reference.com/search?q=subtitle" class="dictionary" title="Look up subtitle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtitle at Dictionary.com" title="Look up subtitle at Dictionary.com" /></a></dt>
+<dd class="highlight">1825, "subordinate or additional title," in reference to literary works, from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> "under" + <a href="/index.php?term=title&allowed_in_frame=0" class="crossreference">title</a>. Applied to motion pictures first in 1909.</dd>
+
+<dt><a href="/index.php?term=subtle&allowed_in_frame=0">subtle (adj.)</a> <a href="http://dictionary.reference.com/search?q=subtle" class="dictionary" title="Look up subtle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtle at Dictionary.com" title="Look up subtle at Dictionary.com" /></a></dt>
+<dd>c.1300, <span class="foreign">sutel, soutil</span>, in ref. to things, "of thin consistency;" in reference to craftsmen, "skilled, clever," from O.Fr. <span class="foreign">soutil</span>, from L. <span class="foreign">subtilis</span> "fine, thin, delicate, finely woven," from <span class="foreign">sub</span> "under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">-tilis</span>, from <span class="foreign">tela</span> "web" and <span class="foreign">texere</span> "to weave" (see <a href="/index.php?term=texture&allowed_in_frame=0" class="crossreference">texture</a>). The spelling with <span class="foreign">-b-</span> reflects confusion with <a href="/index.php?term=subtile&allowed_in_frame=0" class="crossreference">subtile</a>. Most non-material senses were present by late 14c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subtlety&allowed_in_frame=0">subtlety (n.)</a> <a href="http://dictionary.reference.com/search?q=subtlety" class="dictionary" title="Look up subtlety at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtlety at Dictionary.com" title="Look up subtlety at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">soutilte</span>, from L. <span class="foreign">subtilitatem</span> (nom. <span class="foreign">subtilitas</span>), noun of quality from <span class="foreign">subtilis</span> (see <a href="/index.php?term=subtle&allowed_in_frame=0" class="crossreference">subtle</a>).</dd>
+
+<dt><a href="/index.php?term=subtotal&allowed_in_frame=0">subtotal (n.)</a> <a href="http://dictionary.reference.com/search?q=subtotal" class="dictionary" title="Look up subtotal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtotal at Dictionary.com" title="Look up subtotal at Dictionary.com" /></a></dt>
+<dd>1906, from <a href="/index.php?term=sub&allowed_in_frame=0" class="crossreference">sub</a>- + <a href="/index.php?term=total&allowed_in_frame=0" class="crossreference">total</a> (n.). The verb is attested from 1936.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subtract&allowed_in_frame=0">subtract (v.)</a> <a href="http://dictionary.reference.com/search?q=subtract" class="dictionary" title="Look up subtract at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtract at Dictionary.com" title="Look up subtract at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s, from L. <span class="foreign">subtractus</span>, pp. of <span class="foreign">subtrahere</span> (see <a href="/index.php?term=subtraction&allowed_in_frame=0" class="crossreference">subtraction</a>). Related: <span class="foreign">Subtracted</span>; <span class="foreign">subtracting</span>. Earlier verb form was <span class="foreign">subtraien</span> (early 15c.).
+<blockquote>
+Here he teches &thorn;e Craft how &thorn;ou schalt know, whan &thorn;ou hast subtrayd, whe&thorn;er &thorn;ou hast wel ydo or no. ["Craft of Numbering," c.1425]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=subtraction&allowed_in_frame=0">subtraction (n.)</a> <a href="http://dictionary.reference.com/search?q=subtraction" class="dictionary" title="Look up subtraction at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtraction at Dictionary.com" title="Look up subtraction at Dictionary.com" /></a></dt>
+<dd>c.1400, "withdrawal, removal," from L.L. <span class="foreign">subtractionem</span> (nom. <span class="foreign">subtractio</span>) "a drawing back, taking away," from pp. stem of L. <span class="foreign">subtrahere</span> "take away, draw off," from <span class="foreign">sub</span> "from under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">trahere</span> "to pull, draw" (see <a href="/index.php?term=tract&allowed_in_frame=0" class="crossreference">tract</a> (n.1)). The mathematical sense is attested from early 15c.
+<blockquote>&THORN;ou most know &thorn;at subtraccion is drawynge of one nowmber oute of ano&thorn;er nomber. ["The Crafte of Nombrynge," c.1425]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=subtrahend&allowed_in_frame=0">subtrahend (n.)</a> <a href="http://dictionary.reference.com/search?q=subtrahend" class="dictionary" title="Look up subtrahend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtrahend at Dictionary.com" title="Look up subtrahend at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, from L. <span class="foreign">subtrahendus numerus</span> "number to be subtracted," from gerundive form of <span class="foreign">subtrahere</span> (see <a href="/index.php?term=subtraction&allowed_in_frame=0" class="crossreference">subtraction</a>).</dd>
+
+<dt><a href="/index.php?term=subtropical&allowed_in_frame=0">subtropical (adj.)</a> <a href="http://dictionary.reference.com/search?q=subtropical" class="dictionary" title="Look up subtropical at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subtropical at Dictionary.com" title="Look up subtropical at Dictionary.com" /></a></dt>
+<dd>1842, from <a href="/index.php?term=sub&allowed_in_frame=0" class="crossreference">sub</a>- + <a href="/index.php?term=tropical&allowed_in_frame=0" class="crossreference">tropical</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=suburb&allowed_in_frame=0">suburb (n.)</a> <a href="http://dictionary.reference.com/search?q=suburb" class="dictionary" title="Look up suburb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suburb at Dictionary.com" title="Look up suburb at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "residential area outside a town or city," from O.Fr. <span class="foreign">suburbe</span>, from L. <span class="foreign">suburbium</span> "an outlying part of a city," from <span class="foreign">sub</span> "below, near" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">urbs</span> (gen. <span class="foreign">urbis</span>) "city." An Old English word for it was <span class="foreign">underburg</span>. Close to crowds but just beyond the reach of municipal jurisdiction, suburbs in 17c., especially those of London, had a sense of "inferior, debased, and licentious habits or life" (e.g. <span class="foreign">suburban sinner</span>, slang for "loose woman, prostitute"). By 1817, the tinge had shifted to "inferior manners and narrow views." Compare also French equivalent <a href="/index.php?term=faubourg&allowed_in_frame=0" class="crossreference">faubourg</a>.
+<blockquote>
+[T]he growth of the metropolis throws vast numbers of people into distant dormitories where ... life is carried on without the discipline of rural occupations and without the cultural resources that the Central District of the city still retains. [Lewis Mumford, 1922]</blockquote></dd>
+
+<dt><a href="/index.php?term=suburban&allowed_in_frame=0">suburban (adj.)</a> <a href="http://dictionary.reference.com/search?q=suburban" class="dictionary" title="Look up suburban at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suburban at Dictionary.com" title="Look up suburban at Dictionary.com" /></a></dt>
+<dd>1620s, from <a href="/index.php?term=suburb&allowed_in_frame=0" class="crossreference">suburb</a> + <a href="/index.php?term=-an&allowed_in_frame=0" class="crossreference">-an</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=suburbanite&allowed_in_frame=0">suburbanite (n.)</a> <a href="http://dictionary.reference.com/search?q=suburbanite" class="dictionary" title="Look up suburbanite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suburbanite at Dictionary.com" title="Look up suburbanite at Dictionary.com" /></a></dt>
+<dd class="highlight">1890, from <a href="/index.php?term=suburban&allowed_in_frame=0" class="crossreference">suburban</a> + <a href="/index.php?term=-ite&allowed_in_frame=0" class="crossreference">-ite</a>. Middle English used <span class="foreign">suburban</span> (n.) in this sense (mid-14c.).</dd>
+
+<dt><a href="/index.php?term=suburbanization&allowed_in_frame=0">suburbanization (n.)</a> <a href="http://dictionary.reference.com/search?q=suburbanization" class="dictionary" title="Look up suburbanization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suburbanization at Dictionary.com" title="Look up suburbanization at Dictionary.com" /></a></dt>
+<dd>1926, noun of action from <a href="/index.php?term=suburbanize&allowed_in_frame=0" class="crossreference">suburbanize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=suburbanize&allowed_in_frame=0">suburbanize (v.)</a> <a href="http://dictionary.reference.com/search?q=suburbanize" class="dictionary" title="Look up suburbanize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suburbanize at Dictionary.com" title="Look up suburbanize at Dictionary.com" /></a></dt>
+<dd class="highlight">1893, from <a href="/index.php?term=suburban&allowed_in_frame=0" class="crossreference">suburban</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Suburbanized</span>; <span class="foreign">suburbanizing</span>.</dd>
+
+<dt><a href="/index.php?term=suburbia&allowed_in_frame=0">suburbia (n.)</a> <a href="http://dictionary.reference.com/search?q=suburbia" class="dictionary" title="Look up suburbia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up suburbia at Dictionary.com" title="Look up suburbia at Dictionary.com" /></a></dt>
+<dd>1895, from <a href="/index.php?term=suburb&allowed_in_frame=0" class="crossreference">suburb</a> + <a href="/index.php?term=-ia&allowed_in_frame=0" class="crossreference">-ia</a>, probably influenced by <span class="foreign">utopia</span>; originally in England with reference to London.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subvention&allowed_in_frame=0">subvention (n.)</a> <a href="http://dictionary.reference.com/search?q=subvention" class="dictionary" title="Look up subvention at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subvention at Dictionary.com" title="Look up subvention at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from M.Fr. <span class="foreign">subvention</span>, from L.L. <span class="foreign">subventionem</span> (nom. <span class="foreign">subventio</span>) "assistance," from pp. stem of L. <span class="foreign">subvenire</span> "come to one's aid," from <span class="foreign">sub</span> "up to" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">venire</span> "to come" (see <a href="/index.php?term=venue&allowed_in_frame=0" class="crossreference">venue</a>).</dd>
+
+<dt><a href="/index.php?term=subversion&allowed_in_frame=0">subversion (n.)</a> <a href="http://dictionary.reference.com/search?q=subversion" class="dictionary" title="Look up subversion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subversion at Dictionary.com" title="Look up subversion at Dictionary.com" /></a></dt>
+<dd>late 14c., "physical destruction, demolition, ruination," from O.Fr. <span class="foreign">subversion</span>, from L.L. <span class="foreign">subversionem</span> (nom. <span class="foreign">subversio</span>) "an overthrow, ruin, destruction," from pp. stem of <span class="foreign">subvertere</span> (see <a href="/index.php?term=subvert&allowed_in_frame=0" class="crossreference">subvert</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=subversive&allowed_in_frame=0">subversive (adj.)</a> <a href="http://dictionary.reference.com/search?q=subversive" class="dictionary" title="Look up subversive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subversive at Dictionary.com" title="Look up subversive at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from L. <span class="foreign">subvers-</span>, pp. stem of <span class="foreign">subvertere</span> (see <a href="/index.php?term=subvert&allowed_in_frame=0" class="crossreference">subvert</a>) + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>. As a noun, attested from 1887.</dd>
+
+<dt><a href="/index.php?term=subvert&allowed_in_frame=0">subvert (v.)</a> <a href="http://dictionary.reference.com/search?q=subvert" class="dictionary" title="Look up subvert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subvert at Dictionary.com" title="Look up subvert at Dictionary.com" /></a></dt>
+<dd>late 14c., "to raze, destroy, overthrow," from M.Fr. <span class="foreign">subvertir</span>, from L. <span class="foreign">subvertere</span>, from <span class="foreign">sub</span> "under" (see <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a>) + <span class="foreign">vertere</span> "to turn" (see <a href="/index.php?term=versus&allowed_in_frame=0" class="crossreference">versus</a>). Related: <span class="foreign">Subverted</span>; <span class="foreign">subverting</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=subway&allowed_in_frame=0">subway (n.)</a> <a href="http://dictionary.reference.com/search?q=subway" class="dictionary" title="Look up subway at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up subway at Dictionary.com" title="Look up subway at Dictionary.com" /></a></dt>
+<dd class="highlight">1825, "underground passage" (for water pipes or pedestrians), from <a href="/index.php?term=sub-&allowed_in_frame=0" class="crossreference">sub-</a> + <a href="/index.php?term=way&allowed_in_frame=0" class="crossreference">way</a>. The sense of "underground railway in a city" is first recorded 1893, in reference to Boston.</dd>
+
+<dt><a href="/index.php?term=succedaneum&allowed_in_frame=0">succedaneum (n.)</a> <a href="http://dictionary.reference.com/search?q=succedaneum" class="dictionary" title="Look up succedaneum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up succedaneum at Dictionary.com" title="Look up succedaneum at Dictionary.com" /></a></dt>
+<dd>"substitute," 1640s, from neuter of L. <span class="foreign">succedaneus</span> "succeeding, acting as substitute" (see <a href="/index.php?term=succeed&allowed_in_frame=0" class="crossreference">succeed</a>). Especially of inferior drugs substituted for better ones.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658778 -->
+<!-- Page was generated in 0.199576 seconds. -->
+ </body>
+</html>
+<!-- -->

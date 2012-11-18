@@ -1,0 +1,418 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=asperation&allowed_in_frame=0">asperation (n.)</a> <a href="http://dictionary.reference.com/search?q=asperation" class="dictionary" title="Look up asperation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asperation at Dictionary.com" title="Look up asperation at Dictionary.com" /></a></dt>
+<dd class="highlight">1721, noun of action from <a href="/index.php?term=asperate&allowed_in_frame=0" class="crossreference">asperate</a> (v.). <span class="foreign">Asperacioun</span> "harshness" is attested from early 15c.</dd>
+
+<dt><a href="/index.php?term=Asperger%27s+Syndrome&allowed_in_frame=0">Asperger&#039;s Syndrome</a> <a href="http://dictionary.reference.com/search?q=Asperger%27s+Syndrome" class="dictionary" title="Look up Asperger&#039;s Syndrome at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Asperger&#039;s Syndrome at Dictionary.com" title="Look up Asperger&#039;s Syndrome at Dictionary.com" /></a></dt>
+<dd>1981, in reference to Austrian pediatrician Hans <span class="foreign">Asperger</span> (1906-1980), who described it in 1944 (and called it <span class="foreign">autistic psychopathy</span>; Ger. <span class="foreign">autistischen psychopathen</span>). A standard diagnosis since 1992; recognition of Asperger's work was delayed, perhaps, because his school and much of his early research was destroyed by Allied bombing in 1944.
+<blockquote>
+The example of autism shows particularly well how even abnormal personalities can be capable of development and adjustment. Possibilities of social integration which one would never have dremt of may arise in the course of development. [Hans Asperger, "Autistic psychopathy in Childhood," 1944]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=asperges&allowed_in_frame=0">asperges</a> <a href="http://dictionary.reference.com/search?q=asperges" class="dictionary" title="Look up asperges at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asperges at Dictionary.com" title="Look up asperges at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, from L. <span class="foreign">asperges</span>, 2nd person singular future indicative of <span class="foreign">aspergere</span> "to scatter, strew upon, sprinkle," from <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">spargere</span> "to sprinkle" (see <a href="/index.php?term=sparse&allowed_in_frame=0" class="crossreference">sparse</a>). The word is taken from the phrase <span class="foreign">Asperges me, Domine, hyssopo et mundabor</span>, from  Psalm 51 (Vulgate), sung during the rite of sprinkling a congregation with holy water.</dd>
+
+<dt><a href="/index.php?term=asperity&allowed_in_frame=0">asperity (n.)</a> <a href="http://dictionary.reference.com/search?q=asperity" class="dictionary" title="Look up asperity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asperity at Dictionary.com" title="Look up asperity at Dictionary.com" /></a></dt>
+<dd>c.1200, <span class="foreign">asprete</span> "hardship, harshness of feelings," a figurative use, from O.Fr. <span class="foreign">asperit&eacute;</span> "difficulty, painful situation, harsh treatment" (12c., Mod.Fr. <span class="foreign">&acirc;pret&eacute;</span>), from L. <span class="foreign">asperitatem</span> (nom. <span class="foreign">asperitas</span>) "roughness," from <span class="foreign">asper</span> "rough, harsh," of unknown origin; in Latin used also of sour wine, bad weather, and hard times. Figurative meaning "harshness of feeling" attested from early 15c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=asperse&allowed_in_frame=0">asperse (v.)</a> <a href="http://dictionary.reference.com/search?q=asperse" class="dictionary" title="Look up asperse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asperse at Dictionary.com" title="Look up asperse at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "to besprinkle," from L. <span class="foreign">aspersus</span>, pp. of <span class="foreign">aspergere</span> (see <a href="/index.php?term=aspersion&allowed_in_frame=0" class="crossreference">aspersion</a>). Meaning "to bespatter someone's character with rumor and false reports" is recorded from 1610s.</dd>
+
+<dt><a href="/index.php?term=aspersion&allowed_in_frame=0">aspersion (n.)</a> <a href="http://dictionary.reference.com/search?q=aspersion" class="dictionary" title="Look up aspersion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspersion at Dictionary.com" title="Look up aspersion at Dictionary.com" /></a></dt>
+<dd>mid-15c., from L. <span class="foreign">aspersionem</span> (nom. <span class="foreign">aspersio</span>) "a sprinkling," noun of action from pp. stem of <span class="foreign">aspergere</span> "to sprinkle on," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">spargere</span> "sprinkle, strew" (see <a href="/index.php?term=sparse&allowed_in_frame=0" class="crossreference">sparse</a>). Originally in theology, the shedding of Christ's blood. Modern sense of "bespattering with slander" first attested 1590s. To <span class="foreign">cast aspersions</span> was in Fielding (1749).</dd>
+
+<dt class="highlight"><a href="/index.php?term=asphalt&allowed_in_frame=0">asphalt (n.)</a> <a href="http://dictionary.reference.com/search?q=asphalt" class="dictionary" title="Look up asphalt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asphalt at Dictionary.com" title="Look up asphalt at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "hard, resinous mineral pitch found originally in Biblical lands," from L.L. <span class="foreign">asphaltum</span>, from Gk. <span class="foreign">asphaltos</span> "asphalt, bitumen," probably from a non-Greek source, possibly Semitic [Klein, citing Lewy, 1895]. Another theory holds it to be from Gk. <span class="foreign">a-</span> "not" + <span class="foreign">*sphaltos</span> "able to be thrown down," taken as verbal adj. of <span class="foreign">sphallein</span> "to throw down," in reference to a use of the material in building. Meaning "paving composition" dates from 1847 and its popular use in this sense established the modern form of the English word, mostly displacing <span class="foreign">asphaltum</span>, <span class="foreign">asphaltos</span>. As a verb meaning "to cover with asphalt," from 1872.</dd>
+
+<dt><a href="/index.php?term=aspheterism&allowed_in_frame=0">aspheterism (n.)</a> <a href="http://dictionary.reference.com/search?q=aspheterism" class="dictionary" title="Look up aspheterism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspheterism at Dictionary.com" title="Look up aspheterism at Dictionary.com" /></a></dt>
+<dd>doctrine that there ought to be no private property, 1794, from Gk. <span class="foreign">a-</span> "not," privative prefix, + <span class="foreign">spheteros</span> "one's own," from <span class="foreign">sphetrisomos</span> "appropriation."</dd>
+
+<dt class="highlight"><a href="/index.php?term=asphodel&allowed_in_frame=0">asphodel (n.)</a> <a href="http://dictionary.reference.com/search?q=asphodel" class="dictionary" title="Look up asphodel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asphodel at Dictionary.com" title="Look up asphodel at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from L. <span class="foreign">asphodelus</span>, from Gk. <span class="foreign">asphodelos</span> "asphodel, king's spear," of unknown origin (see <a href="/index.php?term=daffodil&allowed_in_frame=0" class="crossreference">daffodil</a>). Taken in poetic use for a mythical deathless flower that overspreads the Elysian meadows.<blockquote>To embathe In nectared lavers strewed with asphodel. [Milton, <span class="foreign">"Comus,"</span> 1634]</blockquote></dd>
+
+<dt><a href="/index.php?term=asphyxia&allowed_in_frame=0">asphyxia (n.)</a> <a href="http://dictionary.reference.com/search?q=asphyxia" class="dictionary" title="Look up asphyxia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asphyxia at Dictionary.com" title="Look up asphyxia at Dictionary.com" /></a></dt>
+<dd>1706, "stoppage of pulse," from Modern Latin, from Gk. <span class="foreign">asphyxia</span> "stopping of the pulse," from <span class="foreign">a-</span> "not" + <span class="foreign">sphyzein</span> "to throb." The current sense of "suffocation" is from 1778, but it is a "curious infelicity of etymology" [OED] since victims of suffocation have a pulse for some time after breathing has stopped.</dd>
+
+<dt class="highlight"><a href="/index.php?term=asphyxiate&allowed_in_frame=0">asphyxiate (v.)</a> <a href="http://dictionary.reference.com/search?q=asphyxiate" class="dictionary" title="Look up asphyxiate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asphyxiate at Dictionary.com" title="Look up asphyxiate at Dictionary.com" /></a></dt>
+<dd class="highlight">1818, "to suffocate" (someone or something), from <a href="/index.php?term=asphyxia&allowed_in_frame=0" class="crossreference">asphyxia</a> + <a href="/index.php?term=-ate&allowed_in_frame=0" class="crossreference">-ate</a> (2). Related: <span class="foreign">Asphyxiated</span>; <span class="foreign">asphyxiating</span>.
+</dd>
+
+<dt><a href="/index.php?term=asphyxiation&allowed_in_frame=0">asphyxiation (n.)</a> <a href="http://dictionary.reference.com/search?q=asphyxiation" class="dictionary" title="Look up asphyxiation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asphyxiation at Dictionary.com" title="Look up asphyxiation at Dictionary.com" /></a></dt>
+<dd>1866, noun of action from <a href="/index.php?term=asphyxiate&allowed_in_frame=0" class="crossreference">asphyxiate</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aspic&allowed_in_frame=0">aspic (n.)</a> <a href="http://dictionary.reference.com/search?q=aspic" class="dictionary" title="Look up aspic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspic at Dictionary.com" title="Look up aspic at Dictionary.com" /></a></dt>
+<dd class="highlight">1789, "savory meat jelly," from Fr. <span class="foreign">aspic</span> "jelly" (18c.), lit. "asp," from O.Fr. <span class="foreign">aspe</span> (see <a href="/index.php?term=asp&allowed_in_frame=0" class="crossreference">asp</a>) + ending from <span class="foreign">basilisc</span> "basilisk" (the two creatures sometimes were confused with one another). The foodstuff said to be so called from its coldness (<span class="foreign">froid comme un aspic</span> is said by Littr&eacute; to be a proverbial phrase), or the colors in the gelatin, or the shape of the mold.</dd>
+
+<dt><a href="/index.php?term=aspirant&allowed_in_frame=0">aspirant (n.)</a> <a href="http://dictionary.reference.com/search?q=aspirant" class="dictionary" title="Look up aspirant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspirant at Dictionary.com" title="Look up aspirant at Dictionary.com" /></a></dt>
+<dd>"one who aspires," 1738, from Fr. <span class="foreign">aspirant</span>, from L. <span class="foreign">aspirantem</span> (nom. <span class="foreign">aspirans</span>), prp. of <span class="foreign">aspirare</span> (see <a href="/index.php?term=aspire&allowed_in_frame=0" class="crossreference">aspire</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aspirate&allowed_in_frame=0">aspirate (n.)</a> <a href="http://dictionary.reference.com/search?q=aspirate" class="dictionary" title="Look up aspirate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspirate at Dictionary.com" title="Look up aspirate at Dictionary.com" /></a></dt>
+<dd class="highlight">1725, "sound of the letter 'H'," especially at the beginning of a word, from L. <span class="foreign">aspiratio</span> "a breathing, exhalation, the pronunciation of the letter H" (see <a href="/index.php?term=aspire&allowed_in_frame=0" class="crossreference">aspire</a>).</dd>
+
+<dt><a href="/index.php?term=aspirate&allowed_in_frame=0">aspirate (v.)</a> <a href="http://dictionary.reference.com/search?q=aspirate" class="dictionary" title="Look up aspirate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspirate at Dictionary.com" title="Look up aspirate at Dictionary.com" /></a></dt>
+<dd>"to pronounce with audible breath," 1700; perhaps a back formation from <span class="foreign">aspiration</span> (2), or from Fr. <span class="foreign">aspirer</span> (1520s), or directly from L. <span class="foreign">aspiratus</span>, pp. of <span class="foreign">aspirare</span> (see <a href="/index.php?term=aspire&allowed_in_frame=0" class="crossreference">aspire</a>). Related: <span class="foreign">Aspirated</span>; <span class="foreign">aspirating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aspiration&allowed_in_frame=0">aspiration (n.1)</a> <a href="http://dictionary.reference.com/search?q=aspiration" class="dictionary" title="Look up aspiration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspiration at Dictionary.com" title="Look up aspiration at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "action of breathing into," from L. <span class="foreign">aspirationem</span> (nom. <span class="foreign">aspiratio</span>), noun of action from pp. stem of <span class="foreign">aspirare</span> (see <a href="/index.php?term=aspire&allowed_in_frame=0" class="crossreference">aspire</a>). Meaning "steadfast longing for a higher goal, earnest desire for something above one" is recorded from c.1600 (sometimes collectively, as <span class="foreign">aspirations</span>).</dd>
+
+<dt><a href="/index.php?term=aspiration&allowed_in_frame=0">aspiration (n.2)</a> <a href="http://dictionary.reference.com/search?q=aspiration" class="dictionary" title="Look up aspiration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspiration at Dictionary.com" title="Look up aspiration at Dictionary.com" /></a></dt>
+<dd>late 14c., "action of aspirating," noun of action from <a href="/index.php?term=aspirate&allowed_in_frame=0" class="crossreference">aspirate</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aspire&allowed_in_frame=0">aspire (v.)</a> <a href="http://dictionary.reference.com/search?q=aspire" class="dictionary" title="Look up aspire at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspire at Dictionary.com" title="Look up aspire at Dictionary.com" /></a></dt>
+<dd class="highlight">"to strive for," c.1400, from O.Fr. <span class="foreign">aspirer</span> "aspire to; inspire; breathe, breathe on" (12c.), from L. <span class="foreign">aspirare</span> "to breathe upon, to breathe," also, in transf. senses, "to be favorable to, assist; to climb up to, to endeavor to obtain, to reach to, to seek to reach; infuse," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">spirare</span> "to breathe" (see <a href="/index.php?term=spirit&allowed_in_frame=0" class="crossreference">spirit</a>). The notion is of "panting with desire," or perhaps of rising smoke. Related: <span class="foreign">Aspired</span>; <span class="foreign">aspiring</span>.</dd>
+
+<dt><a href="/index.php?term=aspirin&allowed_in_frame=0">aspirin (n.)</a> <a href="http://dictionary.reference.com/search?q=aspirin" class="dictionary" title="Look up aspirin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aspirin at Dictionary.com" title="Look up aspirin at Dictionary.com" /></a></dt>
+<dd>coined 1899 (H. Dresser) in German as a trademark name, from Gk. <span class="foreign">a-</span> "without" + L. <span class="foreign">Spiraea (ulmaria)</span> "meadow-sweet," the plant in whose flowers or leaves the processed acid in the medicine is found naturally, + chemical ending <span class="foreign">-in</span> (see <a href="/index.php?term=-ine&allowed_in_frame=0" class="crossreference">-ine</a> (2)). "Hence <span class="foreign">aspirin</span> prop. means 'acetylo-salicylic acid which is gained <span class="foreign">not</span> from the <span class="foreign">Spiraea ulmaria</span> (but in a chemical way)' " [Klein]. Or the whole might be a contraction of <span class="foreign">acetylierte spirs&auml;ure</span>, the German name of the acid [Flood], which now is obsolete, replaced by <span class="foreign">salicylic acid</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=asportation&allowed_in_frame=0">asportation (n.)</a> <a href="http://dictionary.reference.com/search?q=asportation" class="dictionary" title="Look up asportation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asportation at Dictionary.com" title="Look up asportation at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1500, from L. <span class="foreign">asportationem</span> (nom. <span class="foreign">asportatio</span>) "a breathing on, exhalation," noun of action from pp. stem of <span class="foreign">asportare</span> "to carry off," from <span class="foreign">abs-</span> "away" (see <a href="/index.php?term=ab-&allowed_in_frame=0" class="crossreference">ab-</a>) + <span class="foreign">portare</span> "to carry" (see <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1)).</dd>
+
+<dt><a href="/index.php?term=asquint&allowed_in_frame=0">asquint (adv.)</a> <a href="http://dictionary.reference.com/search?q=asquint" class="dictionary" title="Look up asquint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asquint at Dictionary.com" title="Look up asquint at Dictionary.com" /></a></dt>
+<dd>early 13c., "obliquely, with a sidelong glance," of uncertain etymology; from <a href="/index.php?term=a-&allowed_in_frame=0" class="crossreference">a-</a> (1) + "a word corresponding to Du. <span class="foreign">schuinte</span> 'slope, slant' of the independent use of which no instances survive ..." [OED]. "Middle English Dictionary" compares Fr. <span class="foreign">&eacute;quinter</span> "cut to a point;" Fr. dialectal <span class="foreign">(e)squintar</span> "cast a glance, look furtively."</dd>
+
+<dt class="highlight"><a href="/index.php?term=ass&allowed_in_frame=0">ass (n.1)</a> <a href="http://dictionary.reference.com/search?q=ass" class="dictionary" title="Look up ass at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ass at Dictionary.com" title="Look up ass at Dictionary.com" /></a></dt>
+<dd class="highlight">beast of burden, O.E. <span class="foreign">assa</span> (Old Northumbrian <span class="foreign">assal, assald</span>) "he-ass," probably from O.Celt. <span class="foreign">*as(s)in</span> "donkey," which (with Ger. <span class="foreign">esel</span>, Goth. <span class="foreign">asilus</span>, Lith. <span class="foreign">asilas</span>, O.C.S. <span class="foreign">osl</span>) is ultimately from L. <span class="foreign">asinus</span>, probably of Middle Eastern origin (cf. Sumerian <span class="foreign">ansu</span>). Since ancient Greek times, in fables and parables, the animal typified clumsiness and stupidity (hence <span class="foreign">asshead</span>, late 15c., etc.). To <span class="foreign">make an ass of oneself</span> is from 1580s. <span class="foreign">Asses' Bridge</span> (c.1780), from L. <span class="foreign">Pons Asinorum</span>, is fifth proposition of first book of Euclid's "Elements."
+<blockquote>
+For al schal deie and al schal passe, Als wel a Leoun as an asse. [John Gower, "Confessio Amantis," 1393]
+</blockquote>
+In Middle English, someone uncomprehending or unappreciative would be <span class="foreign">lik an asse that listeth on a harpe</span>. In 15c., an <span class="foreign">ass man</span> was a donkey driver.</dd>
+
+<dt><a href="/index.php?term=ass&allowed_in_frame=0">ass (n.2)</a> <a href="http://dictionary.reference.com/search?q=ass" class="dictionary" title="Look up ass at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ass at Dictionary.com" title="Look up ass at Dictionary.com" /></a></dt>
+<dd>slang for "backside," first attested 1860 in nautical slang, in popular use from 1930; chiefly U.S.; from dialectal variant pronunciation of <a href="/index.php?term=arse&allowed_in_frame=0" class="crossreference">arse</a> (q.v.). The loss of <span class="foreign">-r-</span> before <span class="foreign">-s-</span> attested in several other words (e.g. <span class="foreign">burst/bust, curse/cuss, horse/hoss, barse/bass</span>). Indirect evidence of the change from <span class="foreign">arse</span> to <span class="foreign">ass</span> can be traced to 1785 (in euphemistic avoidance of <span class="foreign">ass</span> "donkey" by polite speakers) and perhaps to Shakespeare, if Nick <span class="foreign">Bottom</span> transformed into a donkey in "A Midsummer Night's Dream" (1594) is the word-play some think it is. Meaning "woman regarded as a sexual object" is from 1942. Colloquial <span class="foreign">(one's) ass</span> "one's self, one's person" attested by 1958.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assail&allowed_in_frame=0">assail (v.)</a> <a href="http://dictionary.reference.com/search?q=assail" class="dictionary" title="Look up assail at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assail at Dictionary.com" title="Look up assail at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1200, from O.Fr. <span class="foreign">assalir</span> "attack, assault, assail" (12c., Mod.Fr. <span class="foreign">assaillir</span>), from V.L. <span class="foreign">*adsalire</span> "to leap at," from L. <span class="foreign">ad-</span> "at" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">salire</span> "to leap" (see <a href="/index.php?term=salient&allowed_in_frame=0" class="crossreference">salient</a>). Figurative use from mid-14c. Related: <span class="foreign">Assailed</span>; <span class="foreign">assailing</span>; <span class="foreign">assailable</span>.</dd>
+
+<dt><a href="/index.php?term=assailant&allowed_in_frame=0">assailant (n.)</a> <a href="http://dictionary.reference.com/search?q=assailant" class="dictionary" title="Look up assailant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assailant at Dictionary.com" title="Look up assailant at Dictionary.com" /></a></dt>
+<dd>1530s, from Fr. <span class="foreign">assailant</span>, noun use of prp. of <span class="foreign">assailir</span> (see <a href="/index.php?term=assail&allowed_in_frame=0" class="crossreference">assail</a>). Earlier in same sense was <span class="foreign">assailer</span> (c.1400).</dd>
+
+<dt class="highlight"><a href="/index.php?term=assassin&allowed_in_frame=0">assassin (n.)</a> <a href="http://dictionary.reference.com/search?q=assassin" class="dictionary" title="Look up assassin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assassin at Dictionary.com" title="Look up assassin at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s (in Anglo-Latin from mid-13c.), via French and Italian, from Arabic <span class="foreign">hashishiyyin</span> "hashish-users," plural of <span class="foreign">hashishiyy</span>, from <a href="/index.php?term=hashish&allowed_in_frame=0" class="crossreference">hashish</a> (q.v.). A fanatical Ismaili Muslim sect of the time of the Crusades, under leadership of the "Old Man of the Mountains" (translates Arabic <span class="foreign">shaik-al-jibal</span>, name applied to Hasan ibu-al-Sabbah), with a reputation for murdering opposing leaders after intoxicating themselves by eating hashish. The pl. suffix <span class="foreign">-in</span> was mistaken in Europe for part of the word (cf. <a href="/index.php?term=Bedouin&allowed_in_frame=0" class="crossreference">Bedouin</a>).</dd>
+
+<dt><a href="/index.php?term=assassinate&allowed_in_frame=0">assassinate (v.)</a> <a href="http://dictionary.reference.com/search?q=assassinate" class="dictionary" title="Look up assassinate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assassinate at Dictionary.com" title="Look up assassinate at Dictionary.com" /></a></dt>
+<dd>1610s, from pp. stem of M.L. <span class="foreign">assassinare</span> (see <a href="/index.php?term=assassin&allowed_in_frame=0" class="crossreference">assassin</a>). Of reputations, characters, etc., from 1620s. Related: <span class="foreign">Assassinated</span>; <span class="foreign">assassinating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assassination&allowed_in_frame=0">assassination (n.)</a> <a href="http://dictionary.reference.com/search?q=assassination" class="dictionary" title="Look up assassination at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assassination at Dictionary.com" title="Look up assassination at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, noun of action from <a href="/index.php?term=assassinate&allowed_in_frame=0" class="crossreference">assassinate</a> (q.v.).</dd>
+
+<dt><a href="/index.php?term=assault&allowed_in_frame=0">assault (n.)</a> <a href="http://dictionary.reference.com/search?q=assault" class="dictionary" title="Look up assault at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assault at Dictionary.com" title="Look up assault at Dictionary.com" /></a></dt>
+<dd>late 14c., earlier <span class="foreign">asaut</span> (c.1200), from O.Fr. <span class="foreign">asaut</span>, <span class="foreign">assaut</span> "an attack, an assault, attacking forces" (12c.), from V.L. <span class="foreign">*adsaltus</span> "attack, assault," from <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + L. <span class="foreign">saltus</span> "a leap," from <span class="foreign">salire</span> "to leap, spring" (see <a href="/index.php?term=assail&allowed_in_frame=0" class="crossreference">assail</a>). In law by 1580s; historically, <span class="foreign">assault</span> includes menacing words or actions; <span class="foreign">battery</span> is an actual blow.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assault&allowed_in_frame=0">assault (v.)</a> <a href="http://dictionary.reference.com/search?q=assault" class="dictionary" title="Look up assault at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assault at Dictionary.com" title="Look up assault at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from M.Fr. <span class="foreign">asauter</span>, <span class="foreign">assauter</span>, from V.L. <span class="foreign">*assaltare</span> (see <a href="/index.php?term=assault&allowed_in_frame=0" class="crossreference">assault</a> (n.)). Related: <span class="foreign">Assaulted</span>; <span class="foreign">assaulting</span>.</dd>
+
+<dt><a href="/index.php?term=assay&allowed_in_frame=0">assay (v.)</a> <a href="http://dictionary.reference.com/search?q=assay" class="dictionary" title="Look up assay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assay at Dictionary.com" title="Look up assay at Dictionary.com" /></a></dt>
+<dd>c.1300, "to try, endeavor, strive; test the quality of," from Anglo-Fr. <span class="foreign">assaier</span>, from <span class="foreign">assai</span> (n.), from O.Fr. <span class="foreign">essai</span> "trial" (see <a href="/index.php?term=essay&allowed_in_frame=0" class="crossreference">essay</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=assay&allowed_in_frame=0">assay (n.)</a> <a href="http://dictionary.reference.com/search?q=assay" class="dictionary" title="Look up assay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assay at Dictionary.com" title="Look up assay at Dictionary.com" /></a></dt>
+<dd class="highlight">"trial, test of quality, test of character," mid-14c., from Anglo-Fr. <span class="foreign">assai</span> (see <a href="/index.php?term=assay&allowed_in_frame=0" class="crossreference">assay</a> (v.)). Meaning "analysis" is from late 14c.</dd>
+
+<dt><a href="/index.php?term=assemblage&allowed_in_frame=0">assemblage (n.)</a> <a href="http://dictionary.reference.com/search?q=assemblage" class="dictionary" title="Look up assemblage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assemblage at Dictionary.com" title="Look up assemblage at Dictionary.com" /></a></dt>
+<dd>c.1704, from Fr. <span class="foreign">assemblage</span> "gathering, assemblage," from <span class="foreign">assembler</span> (see <a href="/index.php?term=assemble&allowed_in_frame=0" class="crossreference">assemble</a>). Earlier English words in the same sense include <span class="foreign">assemblement</span>, <span class="foreign">assemblance</span> (both late 15c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=assemble&allowed_in_frame=0">assemble (v.)</a> <a href="http://dictionary.reference.com/search?q=assemble" class="dictionary" title="Look up assemble at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assemble at Dictionary.com" title="Look up assemble at Dictionary.com" /></a></dt>
+<dd class="highlight">earlly 14c., trans. and intrans., from O.Fr. <span class="foreign">assembler</span> "come together, join, unite; gather" (11c.), from L. <span class="foreign">assimulare</span> "to make like, liken, compare; copy, imitate; feign, pretend," later "to gather together," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">simulare</span> "to make like" (see <a href="/index.php?term=simulation&allowed_in_frame=0" class="crossreference">simulation</a>). In Middle English and in Old French it also was a euphemism for "to couple sexually." Meaning "to put parts together" in manufacturing is from 1852. Related: <span class="foreign">Assembled</span>; <span class="foreign">assembling</span>. <span class="foreign">Assemble together</span> is redundant.</dd>
+
+<dt><a href="/index.php?term=assembly&allowed_in_frame=0">assembly (n.)</a> <a href="http://dictionary.reference.com/search?q=assembly" class="dictionary" title="Look up assembly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assembly at Dictionary.com" title="Look up assembly at Dictionary.com" /></a></dt>
+<dd>c.1300, "a gathering of persons, a group gathered for some purpose," from O.Fr. <span class="foreign">as(s)emblee</span> "assembly, gathering; union, marriage," noun use of fem. pp. of <span class="foreign">assembler</span> "to assemble" (see <a href="/index.php?term=assemble&allowed_in_frame=0" class="crossreference">assemble</a>). Meaning "gathering together" is recorded from early 15c.; that of "act of assembling parts or objects" is from 1914, as is <span class="foreign">assembly line</span>. School sense is recorded from 1932.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assent&allowed_in_frame=0">assent (v.)</a> <a href="http://dictionary.reference.com/search?q=assent" class="dictionary" title="Look up assent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assent at Dictionary.com" title="Look up assent at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">assentir</span> "agree; get used to" (12c.), from L. <span class="foreign">assentare</span> "to agree with," frequentative of <span class="foreign">assentire</span>, from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">sentire</span> "to feel, think" (see <a href="/index.php?term=sense&allowed_in_frame=0" class="crossreference">sense</a>). Related: <span class="foreign">Assented</span>; <span class="foreign">assenting</span>.</dd>
+
+<dt><a href="/index.php?term=assent&allowed_in_frame=0">assent (n.)</a> <a href="http://dictionary.reference.com/search?q=assent" class="dictionary" title="Look up assent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assent at Dictionary.com" title="Look up assent at Dictionary.com" /></a></dt>
+<dd>early 14c., "consent, approval," from O.Fr. <span class="foreign">assent</span>, a back formation from <span class="foreign">assentir</span> (see <a href="/index.php?term=assent&allowed_in_frame=0" class="crossreference">assent</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=assert&allowed_in_frame=0">assert (v.)</a> <a href="http://dictionary.reference.com/search?q=assert" class="dictionary" title="Look up assert at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assert at Dictionary.com" title="Look up assert at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, "declare," from L. <span class="foreign">assertus</span>, pp. of <span class="foreign">asserere</span> "claim, maintain, affirm" (see <a href="/index.php?term=assertion&allowed_in_frame=0" class="crossreference">assertion</a>). Related: <span class="foreign">Asserted</span>; <span class="foreign">asserting</span>. To <span class="foreign">assert oneself</span> "stand up for one's rights" is recorded from 1879.</dd>
+
+<dt><a href="/index.php?term=assertion&allowed_in_frame=0">assertion (n.)</a> <a href="http://dictionary.reference.com/search?q=assertion" class="dictionary" title="Look up assertion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assertion at Dictionary.com" title="Look up assertion at Dictionary.com" /></a></dt>
+<dd>early 15c., <span class="foreign">assercioun</span>, from M.Fr. <span class="foreign">assertion</span> (14c.) or directly from L.L. <span class="foreign">assertionem</span> (nom. <span class="foreign">assertio</span>), noun of action from pp. stem of L. <span class="foreign">asserere</span> "claim rights over something, state, maintain, affirm," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">serere</span> "join" (see <a href="/index.php?term=series&allowed_in_frame=0" class="crossreference">series</a>). By "joining oneself" to a particular view, one "claimed" or "maintained" it.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assertive&allowed_in_frame=0">assertive (adj.)</a> <a href="http://dictionary.reference.com/search?q=assertive" class="dictionary" title="Look up assertive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assertive at Dictionary.com" title="Look up assertive at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, "declaratory, positive, full of assertion," from <a href="/index.php?term=assert&allowed_in_frame=0" class="crossreference">assert</a> + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>. Meaning "insisting on one's rights" is short for <span class="foreign">self-assertive</span> (1865).</dd>
+
+<dt><a href="/index.php?term=assertively&allowed_in_frame=0">assertively (adv.)</a> <a href="http://dictionary.reference.com/search?q=assertively" class="dictionary" title="Look up assertively at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assertively at Dictionary.com" title="Look up assertively at Dictionary.com" /></a></dt>
+<dd>mid-15c., <span class="foreign">assertiveli</span>; see <a href="/index.php?term=assertive&allowed_in_frame=0" class="crossreference">assertive</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=assertiveness&allowed_in_frame=0">assertiveness</a> <a href="http://dictionary.reference.com/search?q=assertiveness" class="dictionary" title="Look up assertiveness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assertiveness at Dictionary.com" title="Look up assertiveness at Dictionary.com" /></a></dt>
+<dd class="highlight">"tendency toward self-assertion," 1881, from <a href="/index.php?term=assertive&allowed_in_frame=0" class="crossreference">assertive</a> + <a href="/index.php?term=-ness&allowed_in_frame=0" class="crossreference">-ness</a>.</dd>
+
+<dt><a href="/index.php?term=assess&allowed_in_frame=0">assess (v.)</a> <a href="http://dictionary.reference.com/search?q=assess" class="dictionary" title="Look up assess at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assess at Dictionary.com" title="Look up assess at Dictionary.com" /></a></dt>
+<dd>early 15c., "to fix the amount (of a tax, fine, etc.)," from Anglo-Fr. <span class="foreign">assesser</span>, from M.L. <span class="foreign">assessare</span> "fix a tax upon," originally frequentative of L. <span class="foreign">assessus</span> "a sitting by," pp. of <span class="foreign">assidere</span> "to sit beside" (and thus to assist in the office of a judge), from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">sedere</span> "to sit" (see <a href="/index.php?term=sedentary&allowed_in_frame=0" class="crossreference">sedentary</a>). One of the judge's assistant's jobs was to fix the amount of a fine or tax. Meaning "to estimate the value of property for the purpose of taxing it" is from 1809; transferred sense of "to judge the value of a person, idea, etc." is from 1934. Related: <span class="foreign">Assessed</span>; <span class="foreign">assessing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assessable&allowed_in_frame=0">assessable (adj.)</a> <a href="http://dictionary.reference.com/search?q=assessable" class="dictionary" title="Look up assessable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assessable at Dictionary.com" title="Look up assessable at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from <a href="/index.php?term=assess&allowed_in_frame=0" class="crossreference">assess</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>.</dd>
+
+<dt><a href="/index.php?term=assessment&allowed_in_frame=0">assessment (n.)</a> <a href="http://dictionary.reference.com/search?q=assessment" class="dictionary" title="Look up assessment at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assessment at Dictionary.com" title="Look up assessment at Dictionary.com" /></a></dt>
+<dd>1540s, "value of property for tax purposes," from <a href="/index.php?term=assess&allowed_in_frame=0" class="crossreference">assess</a> + <a href="/index.php?term=-ment&allowed_in_frame=0" class="crossreference">-ment</a>. Meaning "determination or adjustment of tax rate" is from 1540s; general sense of "estimation" is recorded from 1620s. In education jargon from 1956.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assessor&allowed_in_frame=0">assessor (n.)</a> <a href="http://dictionary.reference.com/search?q=assessor" class="dictionary" title="Look up assessor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assessor at Dictionary.com" title="Look up assessor at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">assessor</span> "assistant judge, assessor (in court)" (12c., Mod.Fr. <span class="foreign">assesseur</span>) and directly from L. <span class="foreign">assessor</span> "an assistant, aid; an assistant judge," in L.L. "one who assesses taxes," lit. "a sitter-by," agent noun from pp. stem of <span class="foreign">assidere</span> (see <a href="/index.php?term=assess&allowed_in_frame=0" class="crossreference">assess</a>).</dd>
+
+<dt><a href="/index.php?term=asset&allowed_in_frame=0">asset (n.)</a> <a href="http://dictionary.reference.com/search?q=asset" class="dictionary" title="Look up asset at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asset at Dictionary.com" title="Look up asset at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=assets&allowed_in_frame=0" class="crossreference">assets</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=assets&allowed_in_frame=0">assets (n.)</a> <a href="http://dictionary.reference.com/search?q=assets" class="dictionary" title="Look up assets at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up assets at Dictionary.com" title="Look up assets at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "sufficient estate," from Anglo-Fr. <span class="foreign">asetz</span> (singular), from O.Fr. <span class="foreign">assez</span> (11c.) "sufficiency, satisfaction; compensation," noun use of adverb meaning "enough, sufficiently; very much, a great deal," from V.L. <span class="foreign">*ad satis</span> "to sufficiency," from L. <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">satis</span> "enough" (see <a href="/index.php?term=sad&allowed_in_frame=0" class="crossreference">sad</a>). Beginning as a legal term, "sufficient estate" (to satisfy debts and legacies), it passed into general use; meaning "any property that theoretically can be converted to ready money" is from 1580s. <span class="foreign">Asset</span> is a 19c. artificial singular. <span class="foreign">Asset stripping</span> attested from 1972.</dd>
+
+<dt><a href="/index.php?term=asseverate&allowed_in_frame=0">asseverate (v.)</a> <a href="http://dictionary.reference.com/search?q=asseverate" class="dictionary" title="Look up asseverate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up asseverate at Dictionary.com" title="Look up asseverate at Dictionary.com" /></a></dt>
+<dd>1791, from L. <span class="foreign">asseveratus</span>, pp. of <span class="foreign">asseverare</span> "to affirm, insist on, maintain," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">severus</span> "serious, severe" (see <a href="/index.php?term=severe&allowed_in_frame=0" class="crossreference">severe</a>). Related: <span class="foreign">Asseverated</span>; <span class="foreign">asseverating</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657981 -->
+<!-- Page was generated in 0.176749 seconds. -->
+ </body>
+</html>
+<!-- -->

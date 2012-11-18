@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=pendency&allowed_in_frame=0">pendency (n.)</a> <a href="http://dictionary.reference.com/search?q=pendency" class="dictionary" title="Look up pendency at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendency at Dictionary.com" title="Look up pendency at Dictionary.com" /></a></dt>
+<dd class="highlight">1630s, from <a href="/index.php?term=pendent&allowed_in_frame=0" class="crossreference">pendent</a> + <a href="/index.php?term=-cy&allowed_in_frame=0" class="crossreference">-cy</a>.</dd>
+
+<dt><a href="/index.php?term=pendent&allowed_in_frame=0">pendent (adj.)</a> <a href="http://dictionary.reference.com/search?q=pendent" class="dictionary" title="Look up pendent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendent at Dictionary.com" title="Look up pendent at Dictionary.com" /></a></dt>
+<dd>c.1600 respelling of Middle English <span class="foreign">pendaunt</span> "hanging, overhanging" (late 14c., from O.Fr. <span class="foreign">pendant</span>; see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>) on model of its Latin original, <span class="foreign">pendentem</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pendentive&allowed_in_frame=0">pendentive (n.)</a> <a href="http://dictionary.reference.com/search?q=pendentive" class="dictionary" title="Look up pendentive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendentive at Dictionary.com" title="Look up pendentive at Dictionary.com" /></a></dt>
+<dd class="highlight">1727, from Fr. <span class="foreign">pendentif</span> (mid-16c.), from L. <span class="foreign">pendentem</span> (nom. <span class="foreign">pendens</span>) "hanging," prp. of <span class="foreign">pendere</span> "to hang" (see <a href="/index.php?term=pendent&allowed_in_frame=0" class="crossreference">pendent</a> (adj.)).</dd>
+
+<dt><a href="/index.php?term=pending&allowed_in_frame=0">pending (prep.)</a> <a href="http://dictionary.reference.com/search?q=pending" class="dictionary" title="Look up pending at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pending at Dictionary.com" title="Look up pending at Dictionary.com" /></a></dt>
+<dd>1640s, "during, in the process of," preposition formed from root of Fr. <span class="foreign">pendant</span> "during," lit. "hanging," prp. of <span class="foreign">pendere</span> "to hang, to suspend" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). Meaning patterned on a secondary sense of L. <span class="foreign">pendente</span> "not decided," lit. "hanging," in legal phrase <span class="foreign">pendente lite</span> "while the suit is pending." Use of the prp. before nouns caused it to be regarded as a preposition. As an adjective from 1797.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pendragon&allowed_in_frame=0">pendragon (n.)</a> <a href="http://dictionary.reference.com/search?q=pendragon" class="dictionary" title="Look up pendragon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendragon at Dictionary.com" title="Look up pendragon at Dictionary.com" /></a></dt>
+<dd class="highlight">"Welsh warlord" (mainly known now in Arthurian <span class="foreign">Uther Pendragon</span>), late 15c., title of a chief leader in war of ancient Britain or Wales, from <span class="foreign">pen</span> "head" (see <a href="/index.php?term=pen-&allowed_in_frame=0" class="crossreference">pen-</a>) + <a href="/index.php?term=dragon&allowed_in_frame=0" class="crossreference">dragon</a>, which figured on the standard of a cohort.</dd>
+
+<dt><a href="/index.php?term=pendular&allowed_in_frame=0">pendular (adj.)</a> <a href="http://dictionary.reference.com/search?q=pendular" class="dictionary" title="Look up pendular at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendular at Dictionary.com" title="Look up pendular at Dictionary.com" /></a></dt>
+<dd>1734, from Fr. <span class="foreign">pendulaire</span>, from <span class="foreign">pendule</span>, from <span class="foreign">pendre</span> (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pendulous&allowed_in_frame=0">pendulous (adj.)</a> <a href="http://dictionary.reference.com/search?q=pendulous" class="dictionary" title="Look up pendulous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendulous at Dictionary.com" title="Look up pendulous at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from L. <span class="foreign">pendulus</span> "hanging down," figuratively "doubtful, uncertain, hesitating," from <span class="foreign">pendere</span> "to hang" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). Related: <span class="foreign">Pendulously</span>.</dd>
+
+<dt><a href="/index.php?term=pendulum&allowed_in_frame=0">pendulum (n.)</a> <a href="http://dictionary.reference.com/search?q=pendulum" class="dictionary" title="Look up pendulum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pendulum at Dictionary.com" title="Look up pendulum at Dictionary.com" /></a></dt>
+<dd>1660, from Mod.L. <span class="foreign">pendulum</span> (1643), noun use of neuter of Latin adjective <span class="foreign">pendulus</span> "hanging down," from <span class="foreign">pendere</span> "to hang" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). The Modern Latin word is perhaps a Latinization of It. <span class="foreign">pendolo</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Penelope&allowed_in_frame=0">Penelope</a> <a href="http://dictionary.reference.com/search?q=Penelope" class="dictionary" title="Look up Penelope at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Penelope at Dictionary.com" title="Look up Penelope at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, name of the faithful wife in the "Odyssey," from Gk. <span class="foreign">Penelopeia</span>, probably related to <span class="foreign">pene</span> "thread on the bobbin," from <span class="foreign">penos</span> "web," cognate with L. <span class="foreign">pannus</span> "cloth garment" (see <a href="/index.php?term=pane&allowed_in_frame=0" class="crossreference">pane</a> (n.)). Used in English as the type of the virtuous wife (1580) as it was in Latin.</dd>
+
+<dt><a href="/index.php?term=penetrable&allowed_in_frame=0">penetrable (adj.)</a> <a href="http://dictionary.reference.com/search?q=penetrable" class="dictionary" title="Look up penetrable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penetrable at Dictionary.com" title="Look up penetrable at Dictionary.com" /></a></dt>
+<dd>early 15c., "penetrating," from L. <span class="foreign">penetrabilis</span> "penetrable, vulnerable," from <span class="foreign">penetrare</span> (see <a href="/index.php?term=penetrate&allowed_in_frame=0" class="crossreference">penetrate</a>). Meaning "capable of being penetrated" is attested from 1530s; figurative use by 1590s. Related: <span class="foreign">Penetrability</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=penetrate&allowed_in_frame=0">penetrate (v.)</a> <a href="http://dictionary.reference.com/search?q=penetrate" class="dictionary" title="Look up penetrate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penetrate at Dictionary.com" title="Look up penetrate at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from L. <span class="foreign">penetratus</span>, pp. of <span class="foreign">penetrare</span> "to put or get into, enter into," related to <span class="foreign">penitus</span> "within, inmost," <span class="foreign">penus</span> "innermost part of a temple, store of food," <span class="foreign">penates</span> "household gods." Related: <span class="foreign">Penetrated</span>; <a href="/index.php?term=penetrating&allowed_in_frame=0" class="crossreference">penetrating</a>.</dd>
+
+<dt><a href="/index.php?term=penetrating&allowed_in_frame=0">penetrating (adj.)</a> <a href="http://dictionary.reference.com/search?q=penetrating" class="dictionary" title="Look up penetrating at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penetrating at Dictionary.com" title="Look up penetrating at Dictionary.com" /></a></dt>
+<dd>"touching the feelings intensely," 1630s, figurative prp. adjective from <a href="/index.php?term=penetrate&allowed_in_frame=0" class="crossreference">penetrate</a> (v.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=penetration&allowed_in_frame=0">penetration (n.)</a> <a href="http://dictionary.reference.com/search?q=penetration" class="dictionary" title="Look up penetration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penetration at Dictionary.com" title="Look up penetration at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, "insight, shrewdness," from L. <span class="foreign">penetrationem</span> (nom. <span class="foreign">penetratio</span>) "a penetrating or piercing," noun of action from pp. stem of <span class="foreign">penetrare</span> (see <a href="/index.php?term=penetrate&allowed_in_frame=0" class="crossreference">penetrate</a>). The sexual sense is attested from 1610s.</dd>
+
+<dt><a href="/index.php?term=penguin&allowed_in_frame=0">penguin (n.)</a> <a href="http://dictionary.reference.com/search?q=penguin" class="dictionary" title="Look up penguin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penguin at Dictionary.com" title="Look up penguin at Dictionary.com" /></a></dt>
+<dd>1570s, originally used of the great auk of Newfoundland (now extinct), shift in meaning to the Antarctic bird (which looks something like it, found by Drake in Magellan's Straits in 1578) is from 1580s. Of unknown origin, though often asserted to be from Welsh <span class="foreign">pen</span> "head" (see <a href="/index.php?term=pen-&allowed_in_frame=0" class="crossreference">pen-</a>) + <span class="foreign">gwyn</span> "white" (see <a href="/index.php?term=Gwendolyn&allowed_in_frame=0" class="crossreference">Gwendolyn</a>), but Barnhart says the proposed formation is not proper Welsh. The great auk had a large white patch between its bill and eye. The French and Breton versions of the word ultimately are from English.</dd>
+
+<dt class="highlight"><a href="/index.php?term=penholder&allowed_in_frame=0">penholder (n.)</a> <a href="http://dictionary.reference.com/search?q=penholder" class="dictionary" title="Look up penholder at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penholder at Dictionary.com" title="Look up penholder at Dictionary.com" /></a></dt>
+<dd class="highlight">1815, from <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (n.1) + <a href="/index.php?term=holder&allowed_in_frame=0" class="crossreference">holder</a>.</dd>
+
+<dt><a href="/index.php?term=penicillin&allowed_in_frame=0">penicillin (n.)</a> <a href="http://dictionary.reference.com/search?q=penicillin" class="dictionary" title="Look up penicillin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penicillin at Dictionary.com" title="Look up penicillin at Dictionary.com" /></a></dt>
+<dd>1929, coined in English by Alexander Fleming (1881-1955), who first recognized its antibiotic properties, from Mod.L. <span class="foreign">Penicillium notatum</span> (1867), the name of the mould from which it was first obtained, from L. <span class="foreign">penicillus</span> "paintbrush" (see <a href="/index.php?term=pencil&allowed_in_frame=0" class="crossreference">pencil</a> (n.)), in reference to the shape of the mould cells.</dd>
+
+<dt class="highlight"><a href="/index.php?term=peninsula&allowed_in_frame=0">peninsula (n.)</a> <a href="http://dictionary.reference.com/search?q=peninsula" class="dictionary" title="Look up peninsula at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peninsula at Dictionary.com" title="Look up peninsula at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from L. <span class="foreign">p&aelig;ninsula</span> "a peninsula," lit. "almost an island," from <span class="foreign">p&aelig;ne</span> "almost" + <span class="foreign">insula</span> "island" (see <a href="/index.php?term=isle&allowed_in_frame=0" class="crossreference">isle</a>). Earlier translated as <span class="foreign">demie island</span>.</dd>
+
+<dt><a href="/index.php?term=peninsular&allowed_in_frame=0">peninsular (adj.)</a> <a href="http://dictionary.reference.com/search?q=peninsular" class="dictionary" title="Look up peninsular at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up peninsular at Dictionary.com" title="Look up peninsular at Dictionary.com" /></a></dt>
+<dd>1610s, from <a href="/index.php?term=peninsula&allowed_in_frame=0" class="crossreference">peninsula</a> + <a href="/index.php?term=-ar&allowed_in_frame=0" class="crossreference">-ar</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=penis&allowed_in_frame=0">penis (n.)</a> <a href="http://dictionary.reference.com/search?q=penis" class="dictionary" title="Look up penis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penis at Dictionary.com" title="Look up penis at Dictionary.com" /></a></dt>
+<dd class="highlight">1670s, perhaps from Fr. <span class="foreign">p&eacute;nis</span> or directly from L. <span class="foreign">penis</span> "penis," earlier "tail," from PIE <span class="foreign">*pes-/*pesos-</span> "penis" (cf. Skt. <span class="foreign">pasas-</span>, Gk. <span class="foreign">peos, posthe</span> "penis," probably also O.E. <span class="foreign">f&aelig;sl</span> "progeny, offspring," O.N. <span class="foreign">f&ouml;sull</span>, Ger. <span class="foreign">Fasel</span> "young of animals, brood"). The proper plural is <span class="foreign">penes</span>. The adjective is <span class="foreign">penial</span>. In psychological writing, <span class="foreign">penis envy</span> is attested from 1924.</dd>
+
+<dt><a href="/index.php?term=penitence&allowed_in_frame=0">penitence (n.)</a> <a href="http://dictionary.reference.com/search?q=penitence" class="dictionary" title="Look up penitence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penitence at Dictionary.com" title="Look up penitence at Dictionary.com" /></a></dt>
+<dd>c.1200, from O.Fr. <span class="foreign">penitence</span> (11c.) and directly from L. <span class="foreign">paenitentia</span> "repentance," noun of condition from <span class="foreign">paenitentum</span> (nom. <span class="foreign">paenitens</span>) "penitent," prp. of <span class="foreign">paenitere</span> "cause or feel regret," probably originally "is not enough, is unsatisfactory," from <span class="foreign">paene</span> "nearby, almost."</dd>
+
+<dt class="highlight"><a href="/index.php?term=penitent&allowed_in_frame=0">penitent (adj.)</a> <a href="http://dictionary.reference.com/search?q=penitent" class="dictionary" title="Look up penitent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penitent at Dictionary.com" title="Look up penitent at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">p&eacute;nitent</span> (14c.) and directly from L. <span class="foreign">paenitentem</span> (see <a href="/index.php?term=penitence&allowed_in_frame=0" class="crossreference">penitence</a>). As a noun, late 14c., from the adjective.</dd>
+
+<dt><a href="/index.php?term=penitential&allowed_in_frame=0">penitential (adj.)</a> <a href="http://dictionary.reference.com/search?q=penitential" class="dictionary" title="Look up penitential at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penitential at Dictionary.com" title="Look up penitential at Dictionary.com" /></a></dt>
+<dd>c.1500, from M.L. <span class="foreign">penitentialis</span>, from L. <span class="foreign">paenitentia</span> "repentance" (see <a href="/index.php?term=penitence&allowed_in_frame=0" class="crossreference">penitence</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=penitentiary&allowed_in_frame=0">penitentiary (n.)</a> <a href="http://dictionary.reference.com/search?q=penitentiary" class="dictionary" title="Look up penitentiary at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penitentiary at Dictionary.com" title="Look up penitentiary at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "place of punishment for offenses against the church," from M.L. <span class="foreign">penitentiaria</span>, from fem. of <span class="foreign">penitentiarius</span> (adj.) "of penance," from L. <span class="foreign">paenitentia</span> "penitence" (see <a href="/index.php?term=penitence&allowed_in_frame=0" class="crossreference">penitence</a>). Meaning "house of correction" (originally an asylum for prostitutes) is from 1806, short for <span class="foreign">penitentiary house</span> (1776). Slang shortening <span class="foreign">pen</span> is attested from 1884.</dd>
+
+<dt><a href="/index.php?term=penknife&allowed_in_frame=0">penknife (n.)</a> <a href="http://dictionary.reference.com/search?q=penknife" class="dictionary" title="Look up penknife at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penknife at Dictionary.com" title="Look up penknife at Dictionary.com" /></a></dt>
+<dd>early 15c., from <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (n.1) + <a href="/index.php?term=knife&allowed_in_frame=0" class="crossreference">knife</a> (n.). So called because such small knives were used to sharpen quills.</dd>
+
+<dt class="highlight"><a href="/index.php?term=penman&allowed_in_frame=0">penman (n.)</a> <a href="http://dictionary.reference.com/search?q=penman" class="dictionary" title="Look up penman at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penman at Dictionary.com" title="Look up penman at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, "copyist, clerk, scrivener" (obsolete), from <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (n.1) + <a href="/index.php?term=man&allowed_in_frame=0" class="crossreference">man</a> (n.).</dd>
+
+<dt><a href="/index.php?term=penmanship&allowed_in_frame=0">penmanship (n.)</a> <a href="http://dictionary.reference.com/search?q=penmanship" class="dictionary" title="Look up penmanship at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penmanship at Dictionary.com" title="Look up penmanship at Dictionary.com" /></a></dt>
+<dd>1690s, from obsolete <a href="/index.php?term=penman&allowed_in_frame=0" class="crossreference">penman</a> "copyist, clerk, scrivener" + <a href="/index.php?term=-ship&allowed_in_frame=0" class="crossreference">-ship</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pennant&allowed_in_frame=0">pennant (n.)</a> <a href="http://dictionary.reference.com/search?q=pennant" class="dictionary" title="Look up pennant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pennant at Dictionary.com" title="Look up pennant at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, "rope for hoisting," probably a blend of <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a> in the nautical sense of "suspended rope" and <a href="/index.php?term=pennon&allowed_in_frame=0" class="crossreference">pennon</a>. Use for "flag on a warship" first recorded 1690s; "flag symbolizing a sports championship" (especially baseball) is from 1880; as a synonym for "championship" it was first used 1915.</dd>
+
+<dt><a href="/index.php?term=penniless&allowed_in_frame=0">penniless (adj.)</a> <a href="http://dictionary.reference.com/search?q=penniless" class="dictionary" title="Look up penniless at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penniless at Dictionary.com" title="Look up penniless at Dictionary.com" /></a></dt>
+<dd>"destitute," early 14c., <span class="foreign">penyles</span>, from <a href="/index.php?term=penny&allowed_in_frame=0" class="crossreference">penny</a> + <a href="/index.php?term=-less&allowed_in_frame=0" class="crossreference">-less</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pennon&allowed_in_frame=0">pennon (n.)</a> <a href="http://dictionary.reference.com/search?q=pennon" class="dictionary" title="Look up pennon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pennon at Dictionary.com" title="Look up pennon at Dictionary.com" /></a></dt>
+<dd class="highlight">long, narrow flag (often triangular or swallow-tailed), late 14c., from O.Fr. <span class="foreign">penon</span> "feathers of an arrow; streamer, flag, banner," from <span class="foreign">penne</span> "feather," from L. <span class="foreign">penna</span> "feather" (see <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (n.1)).</dd>
+
+<dt><a href="/index.php?term=Pennsylvania&allowed_in_frame=0">Pennsylvania</a> <a href="http://dictionary.reference.com/search?q=Pennsylvania" class="dictionary" title="Look up Pennsylvania at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pennsylvania at Dictionary.com" title="Look up Pennsylvania at Dictionary.com" /></a></dt>
+<dd>American colony, later U.S. state, 1681, lit. "Penn's Woods," a hybrid formed from the surname <span class="foreign">Penn</span> (Welsh, lit. "head") + L. <span class="foreign">sylvania</span> (see <a href="/index.php?term=sylvan&allowed_in_frame=0" class="crossreference">sylvan</a>). Not named for William Penn, the proprietor, but, on suggestion of Charles II, for Penn's late father, Admiral William Penn (1621-1670), who had lent the king the money that was repaid to the son in the form of land for a Quaker settlement in America. The story goes that the younger Penn wanted to call it <span class="foreign">New Wales</span>, but the king's secretary, a Welshman of orthodox religion, wouldn't hear of it. <span class="foreign">Pennsylvania Dutch</span> is attested from 1824.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pennsylvanian&allowed_in_frame=0">Pennsylvanian (adj.)</a> <a href="http://dictionary.reference.com/search?q=Pennsylvanian" class="dictionary" title="Look up Pennsylvanian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pennsylvanian at Dictionary.com" title="Look up Pennsylvanian at Dictionary.com" /></a></dt>
+<dd class="highlight">1698, from <a href="/index.php?term=Pennsylvania&allowed_in_frame=0" class="crossreference">Pennsylvania</a> + <a href="/index.php?term=-an&allowed_in_frame=0" class="crossreference">-an</a>. In reference to a geological system, attested from 1891. As a noun meaning "a person of Pennsylvania," by 1685.</dd>
+
+<dt><a href="/index.php?term=penny&allowed_in_frame=0">penny (n.)</a> <a href="http://dictionary.reference.com/search?q=penny" class="dictionary" title="Look up penny at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penny at Dictionary.com" title="Look up penny at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">pening</span>, <span class="foreign">penig</span>, Northumbrian <span class="foreign">penning</span> "penny," from P.Gmc. <span class="foreign">*panninggaz</span> (cf. O.N. <span class="foreign">penningr</span>, Swed. <span class="foreign">p&auml;nning</span>, Dan. <span class="foreign">penge</span>, O.Fris. <span class="foreign">panning</span>, O.S. <span class="foreign">pending</span>, M.Du. <span class="foreign">pennic</span>, Du. <span class="foreign">penning</span>, O.H.G. <span class="foreign">pfenning</span>, Ger. <span class="foreign">Pfennig</span>, not recorded in Gothic, where <span class="foreign">skatts</span> is used instead), of unknown origin.
+<BR><BR>
+The English coin was originally set at one-twelfth of a shilling and was of silver, later copper, then bronze. There are two plural forms: <span class="foreign">pennies</span> of individual coins, <span class="foreign">pence</span> collectively. In translations it rendered various foreign coins of small denomination, especially L. <span class="foreign">denarius</span>, whence comes its abbreviation <span class="foreign">d.</span>
+<BR><BR>
+As American English colloquial for <a href="/index.php?term=cent&allowed_in_frame=0" class="crossreference">cent</a>, it is recorded from 1889. <span class="foreign">Penny-a-liner</span> "writer for a journal or newspaper" is attested from 1834. <span class="foreign">Penny dreadful</span> "cheap and gory fiction" dates from c.1870. Phrase <span class="foreign">penny-wise and pound-foolish</span> is recorded from c.1600. <span class="foreign">Penny-pincher</span> "miserly person" is recorded from 1906 (as an adjective <span class="foreign">penny-pinching</span> is recorded from 1858, American English). <span class="foreign">Penny loafers</span> attested from 1960.</dd>
+
+<dt class="highlight"><a href="/index.php?term=penny-ante&allowed_in_frame=0">penny-ante (adj.)</a> <a href="http://dictionary.reference.com/search?q=penny-ante" class="dictionary" title="Look up penny-ante at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penny-ante at Dictionary.com" title="Look up penny-ante at Dictionary.com" /></a></dt>
+<dd class="highlight">"cheap, trivial," 1935; extended from use in reference to poker played for insignificant stakes (1855), from <a href="/index.php?term=penny&allowed_in_frame=0" class="crossreference">penny</a> + <a href="/index.php?term=ante&allowed_in_frame=0" class="crossreference">ante</a>.</dd>
+
+<dt><a href="/index.php?term=pennyfarthing&allowed_in_frame=0">pennyfarthing (adj.)</a> <a href="http://dictionary.reference.com/search?q=pennyfarthing" class="dictionary" title="Look up pennyfarthing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pennyfarthing at Dictionary.com" title="Look up pennyfarthing at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">penny farthing</span>, <span class="foreign">penny-farthing</span>, "ineffective," 1887, from <a href="/index.php?term=penny&allowed_in_frame=0" class="crossreference">penny</a> + <a href="/index.php?term=farthing&allowed_in_frame=0" class="crossreference">farthing</a>, the two together making but a small sum. The noun, in reference to the kind of bicycle with a small wheel in back and a big one in front (so called from the notion of different size coins) is first recorded 1927.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pennyroyal&allowed_in_frame=0">pennyroyal (n.)</a> <a href="http://dictionary.reference.com/search?q=pennyroyal" class="dictionary" title="Look up pennyroyal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pennyroyal at Dictionary.com" title="Look up pennyroyal at Dictionary.com" /></a></dt>
+<dd class="highlight">herb, 1520s, alteration by folk etymology of Anglo-Fr. <span class="foreign">puliol real</span>; for second element see <a href="/index.php?term=royal&allowed_in_frame=0" class="crossreference">royal</a>; first element ultimately from L. <span class="foreign">puleium</span> "thyme," of unknown origin.</dd>
+
+<dt><a href="/index.php?term=pennyweight&allowed_in_frame=0">pennyweight (n.)</a> <a href="http://dictionary.reference.com/search?q=pennyweight" class="dictionary" title="Look up pennyweight at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pennyweight at Dictionary.com" title="Look up pennyweight at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">penega gewiht</span>, originally the weight of a silver penny; see <a href="/index.php?term=penny&allowed_in_frame=0" class="crossreference">penny</a> + <a href="/index.php?term=weight&allowed_in_frame=0" class="crossreference">weight</a> (n.). </dd>
+
+<dt class="highlight"><a href="/index.php?term=pennyworth&allowed_in_frame=0">pennyworth (n.)</a> <a href="http://dictionary.reference.com/search?q=pennyworth" class="dictionary" title="Look up pennyworth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pennyworth at Dictionary.com" title="Look up pennyworth at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">peningwur&eth;</span>; see <a href="/index.php?term=penny&allowed_in_frame=0" class="crossreference">penny</a> + <a href="/index.php?term=worth&allowed_in_frame=0" class="crossreference">worth</a> (1). Figurative of "small amount" from mid-14c.</dd>
+
+<dt><a href="/index.php?term=penology&allowed_in_frame=0">penology (n.)</a> <a href="http://dictionary.reference.com/search?q=penology" class="dictionary" title="Look up penology at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penology at Dictionary.com" title="Look up penology at Dictionary.com" /></a></dt>
+<dd>"study of punishment and crime prevention," 1838, coined apparently by Francis Lieber, corresponding member of the Philadephia Society for Alleviating the Miseries of Public Prisons, from <span class="foreign">pen-</span> as in <span class="foreign">penitentiary</span> (ultimately from L. <span class="foreign">poena</span> "penalty, punishment;" see <a href="/index.php?term=penal&allowed_in_frame=0" class="crossreference">penal</a>) + <a href="/index.php?term=-ology&allowed_in_frame=0" class="crossreference">-ology</a> "study of." Related: <span class="foreign">Penologist</span>; <span class="foreign">penological</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Pensacola&allowed_in_frame=0">Pensacola</a> <a href="http://dictionary.reference.com/search?q=Pensacola" class="dictionary" title="Look up Pensacola at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Pensacola at Dictionary.com" title="Look up Pensacola at Dictionary.com" /></a></dt>
+<dd class="highlight">name of a Muskogean tribe, from Choctaw, lit. "hair-people," from <span class="foreign">pashi</span> "hair of the head" + <span class="foreign">oklah</span> "people."</dd>
+
+<dt><a href="/index.php?term=pension&allowed_in_frame=0">pension (n.)</a> <a href="http://dictionary.reference.com/search?q=pension" class="dictionary" title="Look up pension at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pension at Dictionary.com" title="Look up pension at Dictionary.com" /></a></dt>
+<dd>mid-14c., "payment for services," especially "reward, payment out of a benefice" (early 14c., in Anglo-Latin), from O.Fr. <span class="foreign">pension</span> "payment, rent" (13c.) and directly from L. <span class="foreign">pensionem</span> (nom. <span class="foreign">pensio</span>) "a payment, installment, rent," from pp. stem of <span class="foreign">pendere</span> "pay, weigh" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). Meaning "regular payment in consideration of past service" first recorded 1520s. Meaning "boarding house, boarding school" first attested 1640s, from French, and usually in reference to places in France or elsewhere on the Continent.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pension&allowed_in_frame=0">pension (v.)</a> <a href="http://dictionary.reference.com/search?q=pension" class="dictionary" title="Look up pension at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pension at Dictionary.com" title="Look up pension at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, "to live in a pension," from <a href="/index.php?term=pension&allowed_in_frame=0" class="crossreference">pension</a> (n.) or else from Fr. <span class="foreign">pensionner</span>. Meaning "to grant a pension" is from 1702. Related: <span class="foreign">Pensioned</span>; <span class="foreign">pensioning</span>.</dd>
+
+<dt><a href="/index.php?term=pensioner&allowed_in_frame=0">pensioner (n.)</a> <a href="http://dictionary.reference.com/search?q=pensioner" class="dictionary" title="Look up pensioner at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pensioner at Dictionary.com" title="Look up pensioner at Dictionary.com" /></a></dt>
+<dd>late 15c., from Anglo-Fr. <span class="foreign">pensionner</span>, from O.Fr. <span class="foreign">pensionnier</span> (mid-14c.), from M.L. <span class="foreign">pensionarius</span>, from <span class="foreign">pension</span> (see <a href="/index.php?term=pension&allowed_in_frame=0" class="crossreference">pension</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pensive&allowed_in_frame=0">pensive (adj.)</a> <a href="http://dictionary.reference.com/search?q=pensive" class="dictionary" title="Look up pensive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pensive at Dictionary.com" title="Look up pensive at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">pensif</span> "thoughtful, distracted, musing" (11c.), from <span class="foreign">penser</span> "to think," from L. <span class="foreign">pensare</span> "weigh, consider," frequentative of <span class="foreign">pendere</span> "weigh" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). Related: <span class="foreign">Pensively</span>; <span class="foreign">pensiveness</span>.</dd>
+
+<dt><a href="/index.php?term=pent&allowed_in_frame=0">pent (adj.)</a> <a href="http://dictionary.reference.com/search?q=pent" class="dictionary" title="Look up pent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pent at Dictionary.com" title="Look up pent at Dictionary.com" /></a></dt>
+<dd>"kept in, confined," 1540s, variant of <span class="foreign">penned</span>, pp. of <a href="/index.php?term=pen&allowed_in_frame=0" class="crossreference">pen</a> (v.2). <span class="foreign">Pent-up</span> (also <span class="foreign">pent up</span>) is from 1580s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=penta-&allowed_in_frame=0">penta-</a> <a href="http://dictionary.reference.com/search?q=penta-" class="dictionary" title="Look up penta- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up penta- at Dictionary.com" title="Look up penta- at Dictionary.com" /></a></dt>
+<dd class="highlight">word-forming element meaning "five, containing five," from Gk. <span class="foreign">penta-</span> (before a vowel <span class="foreign">pent-</span>), comb. form of <span class="foreign">pente</span> "five," related to Aeolian <span class="foreign">pempte</span> (see <a href="/index.php?term=five&allowed_in_frame=0" class="crossreference">five</a>), with <span class="foreign">-a-</span> by analogy of <span class="foreign">hepta-</span>, <span class="foreign">ennea-</span>, <span class="foreign">deka-</span>.</dd>
+
+<dt><a href="/index.php?term=pentacle&allowed_in_frame=0">pentacle (n.)</a> <a href="http://dictionary.reference.com/search?q=pentacle" class="dictionary" title="Look up pentacle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pentacle at Dictionary.com" title="Look up pentacle at Dictionary.com" /></a></dt>
+<dd>1590s, from M.L. <span class="foreign">pentaculum</span> "pentagram," a hybrid coined from Gk. <span class="foreign">pente</span> "five" (see <a href="/index.php?term=five&allowed_in_frame=0" class="crossreference">five</a>) + L. <span class="foreign">-culum</span>, diminutive (or instrumental) suffix. OED notes other similar words: Italian had <span class="foreign">pentacolo</span> "anything with five points," and Fr. <span class="foreign">pentacle</span> (16c.) was the name of something used in necromancy, perhaps a five-branched candlestick; French had <span class="foreign">pentacol</span> "amulet worn around the neck" (14c.), from <span class="foreign">pend-</span> "to hang" + <span class="foreign">a</span> "to" + <span class="foreign">col</span> "neck." The same figure as a <a href="/index.php?term=pentagram&allowed_in_frame=0" class="crossreference">pentagram</a>, except in magical usage, where it has been extended to other symbols of power, including a six-point star. Related: <span class="foreign">Pentacular</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pentad&allowed_in_frame=0">pentad (n.)</a> <a href="http://dictionary.reference.com/search?q=pentad" class="dictionary" title="Look up pentad at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pentad at Dictionary.com" title="Look up pentad at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from Gk. <span class="foreign">pentas</span> (gen. <span class="foreign">pentados</span>) "group of five" (see <a href="/index.php?term=five&allowed_in_frame=0" class="crossreference">five</a>). Meaning "period of five years" is from 1880; meaning "period of five days" is from 1906, originally in meteorology.</dd>
+
+<dt><a href="/index.php?term=pentagon&allowed_in_frame=0">pentagon (n.)</a> <a href="http://dictionary.reference.com/search?q=pentagon" class="dictionary" title="Look up pentagon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pentagon at Dictionary.com" title="Look up pentagon at Dictionary.com" /></a></dt>
+<dd>plane figure with five angles and five sides, 1560s, from M.Fr. <span class="foreign">pentagone</span> or directly from L.L. <span class="foreign">pentagonum</span> "pentagon," from Gk. <span class="foreign">pentagonon</span>, noun use of neuter of adjective <span class="foreign">pentagonos</span> "five-angled," from <span class="foreign">pente</span> "five" (see <a href="/index.php?term=five&allowed_in_frame=0" class="crossreference">five</a>) + <span class="foreign">gonia</span> "angle" (see <a href="/index.php?term=knee&allowed_in_frame=0" class="crossreference">knee</a> (n.)). The U.S. military headquarters <span class="foreign">Pentagon</span> was completed 1942, so called for its shape; used allusively for "U.S. military leadership" from 1945. Related: <span class="foreign">Pentagonal</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pentagram&allowed_in_frame=0">pentagram (n.)</a> <a href="http://dictionary.reference.com/search?q=pentagram" class="dictionary" title="Look up pentagram at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pentagram at Dictionary.com" title="Look up pentagram at Dictionary.com" /></a></dt>
+<dd class="highlight">"five-pointed star," 1820, from Gk. <span class="foreign">pentagrammon</span>, noun use of neuter of adj. <span class="foreign">pentagrammos</span> "having five lines," from <span class="foreign">pente</span> "five" (see <a href="/index.php?term=five&allowed_in_frame=0" class="crossreference">five</a>) + <span class="foreign">gramma</span> "what is written" (see <a href="/index.php?term=grammar&allowed_in_frame=0" class="crossreference">grammar</a>).</dd>
+
+<dt><a href="/index.php?term=pentameter&allowed_in_frame=0">pentameter (adj.)</a> <a href="http://dictionary.reference.com/search?q=pentameter" class="dictionary" title="Look up pentameter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pentameter at Dictionary.com" title="Look up pentameter at Dictionary.com" /></a></dt>
+<dd>1540s, from M.Fr. <span class="foreign">pentametre</span>, from L. <span class="foreign">pentameter</span>, from Gk. <span class="foreign">pentametros</span> (adj.) "having five measures," from <span class="foreign">pente</span> "five" (see <a href="/index.php?term=five&allowed_in_frame=0" class="crossreference">five</a>) + <span class="foreign">metron</span> "meter" (see <a href="/index.php?term=meter&allowed_in_frame=0" class="crossreference">meter</a> (n.2)). As a noun from 1580s.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658592 -->
+<!-- Page was generated in 0.177596 seconds. -->
+ </body>
+</html>
+<!-- -->

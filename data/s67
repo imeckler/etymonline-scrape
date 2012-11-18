@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=strange&allowed_in_frame=0">strange (adj.)</a> <a href="http://dictionary.reference.com/search?q=strange" class="dictionary" title="Look up strange at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strange at Dictionary.com" title="Look up strange at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., "from elsewhere, foreign, unknown, unfamiliar," from O.Fr. <span class="foreign">estrange</span> (Fr. <span class="foreign">&eacute;trange</span>) "foreign, alien," from L. <span class="foreign">extraneus</span> "foreign, external," from <span class="foreign">extra</span> "outside of" (see <a href="/index.php?term=extra&allowed_in_frame=0" class="crossreference">extra</a>). Sense of "queer, surprising" is attested from late 14c. <span class="foreign">Stranger</span>, attested from late 14c., never picked up the secondary sense of the adjective. As a form of address to an unknown person, it is recorded from 1817, American English rural colloquial. Meaning "one who has stopped visiting" is recorded from 1520s.</dd>
+
+<dt><a href="/index.php?term=strangle&allowed_in_frame=0">strangle (v.)</a> <a href="http://dictionary.reference.com/search?q=strangle" class="dictionary" title="Look up strangle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strangle at Dictionary.com" title="Look up strangle at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">estrangler</span>, from L. <span class="foreign">strangulare</span> "to choke, stifle, check, constrain," from Gk. <span class="foreign">strangalan</span> "choke, twist," from <span class="foreign">strangale</span> "a halter, cord, lace," related to <span class="foreign">strangos</span> "twisted," from PIE root <span class="foreign">*strenk-</span> "tight, narrow; pull tight, twist" (see <a href="/index.php?term=strain&allowed_in_frame=0" class="crossreference">strain</a> (v.)). Related: <span class="foreign">Strangled</span>; <span class="foreign">strangling</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stranglehold&allowed_in_frame=0">stranglehold (n.)</a> <a href="http://dictionary.reference.com/search?q=stranglehold" class="dictionary" title="Look up stranglehold at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stranglehold at Dictionary.com" title="Look up stranglehold at Dictionary.com" /></a></dt>
+<dd class="highlight">1893, in wrestling, from <a href="/index.php?term=strangle&allowed_in_frame=0" class="crossreference">strangle</a> (v.) + <a href="/index.php?term=hold&allowed_in_frame=0" class="crossreference">hold</a> (n.). Figurative use by 1901.</dd>
+
+<dt><a href="/index.php?term=strangulation&allowed_in_frame=0">strangulation (n.)</a> <a href="http://dictionary.reference.com/search?q=strangulation" class="dictionary" title="Look up strangulation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strangulation at Dictionary.com" title="Look up strangulation at Dictionary.com" /></a></dt>
+<dd>1540s, from L. <span class="foreign">strangulationem</span> (nom. <span class="foreign">strangulatio</span>), noun of action from pp. stem of <span class="foreign">strangulare</span> (see <a href="/index.php?term=strangle&allowed_in_frame=0" class="crossreference">strangle</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=strap&allowed_in_frame=0">strap (n.)</a> <a href="http://dictionary.reference.com/search?q=strap" class="dictionary" title="Look up strap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strap at Dictionary.com" title="Look up strap at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from Scottish and/or nautical variant of <span class="foreign">strope</span> "loop or strap on a harness" (mid-14c.), probably from O.Fr. <span class="foreign">estrop</span> "strap," from L. <span class="foreign">stroppus</span> "strap, band," perhaps from Etruscan, ultimately from Gk. <span class="foreign">strophos</span> "twisted band," from <span class="foreign">strephein</span> "to turn" (see <a href="/index.php?term=strophe&allowed_in_frame=0" class="crossreference">strophe</a>). O.E. <span class="foreign">stropp</span>, Du. <span class="foreign">strop</span> "halter" also are borrowed from Latin. </dd>
+
+<dt><a href="/index.php?term=strap&allowed_in_frame=0">strap (v.)</a> <a href="http://dictionary.reference.com/search?q=strap" class="dictionary" title="Look up strap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strap at Dictionary.com" title="Look up strap at Dictionary.com" /></a></dt>
+<dd>"to fasten or secure with a strap," 1711, from <a href="/index.php?term=strap&allowed_in_frame=0" class="crossreference">strap</a> (n.). Slang adjective <span class="foreign">strapped</span> "short of money" is from 1857, from <span class="foreign">strap</span> (n.) in a now-obsolete sense of "financial credit" (1828). Related: <span class="foreign">Strapped</span>; <a href="/index.php?term=strapping&allowed_in_frame=0" class="crossreference">strapping</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=straphanger&allowed_in_frame=0">straphanger (n.)</a> <a href="http://dictionary.reference.com/search?q=straphanger" class="dictionary" title="Look up straphanger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up straphanger at Dictionary.com" title="Look up straphanger at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">strap-hanger</span> "bus or subway rider," 1905, from <a href="/index.php?term=strap&allowed_in_frame=0" class="crossreference">strap</a> (n.) + <a href="/index.php?term=hanger&allowed_in_frame=0" class="crossreference">hanger</a>. In reference to the hanging straps in cars meant to be held on to by those without seats.</dd>
+
+<dt><a href="/index.php?term=strapless&allowed_in_frame=0">strapless (adj.)</a> <a href="http://dictionary.reference.com/search?q=strapless" class="dictionary" title="Look up strapless at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strapless at Dictionary.com" title="Look up strapless at Dictionary.com" /></a></dt>
+<dd>1846 of trousers, 1935 of brassieres, from <a href="/index.php?term=strap&allowed_in_frame=0" class="crossreference">strap</a> (n.) + <a href="/index.php?term=-less&allowed_in_frame=0" class="crossreference">-less</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=strapline&allowed_in_frame=0">strapline (n.)</a> <a href="http://dictionary.reference.com/search?q=strapline" class="dictionary" title="Look up strapline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strapline at Dictionary.com" title="Look up strapline at Dictionary.com" /></a></dt>
+<dd class="highlight">1960, in typography, from <a href="/index.php?term=strap&allowed_in_frame=0" class="crossreference">strap</a> (n.) + <a href="/index.php?term=line&allowed_in_frame=0" class="crossreference">line</a> (n.). In reference to a woman's undergarments, by 1973.</dd>
+
+<dt><a href="/index.php?term=strapping&allowed_in_frame=0">strapping (adj.)</a> <a href="http://dictionary.reference.com/search?q=strapping" class="dictionary" title="Look up strapping at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strapping at Dictionary.com" title="Look up strapping at Dictionary.com" /></a></dt>
+<dd>"tall and sturdy," originally applied to women, 1650s, from prp. of <a href="/index.php?term=strap&allowed_in_frame=0" class="crossreference">strap</a> (v.). Cf. similar senses of <span class="foreign">whopping</span>, <span class="foreign">spanking</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=strata&allowed_in_frame=0">strata</a> <a href="http://dictionary.reference.com/search?q=strata" class="dictionary" title="Look up strata at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strata at Dictionary.com" title="Look up strata at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1700, plural of <a href="/index.php?term=stratum&allowed_in_frame=0" class="crossreference">stratum</a>.</dd>
+
+<dt><a href="/index.php?term=stratagem&allowed_in_frame=0">stratagem (n.)</a> <a href="http://dictionary.reference.com/search?q=stratagem" class="dictionary" title="Look up stratagem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratagem at Dictionary.com" title="Look up stratagem at Dictionary.com" /></a></dt>
+<dd>"artifice, trick," late 15c., from M.Fr. <span class="foreign">stratag&egrave;me</span> "trick, especially to outwit an enemy," from It. <span class="foreign">stratagemma,</span> from L. <span class="foreign">strategema</span> "artifice, stratagem," from Gk. <span class="foreign">strategema</span> "the act of a general, military stratagem," from <span class="foreign">strategein</span> "to be a general, command," from <span class="foreign">strategos</span> "general" (see <a href="/index.php?term=strategy&allowed_in_frame=0" class="crossreference">strategy</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=strategic&allowed_in_frame=0">strategic (adj.)</a> <a href="http://dictionary.reference.com/search?q=strategic" class="dictionary" title="Look up strategic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strategic at Dictionary.com" title="Look up strategic at Dictionary.com" /></a></dt>
+<dd class="highlight">"pertaining to strategy," 1825; see <a href="/index.php?term=strategy&allowed_in_frame=0" class="crossreference">strategy</a> + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>. Related: <span class="foreign">Strategical</span>; <span class="foreign">strategically</span>.</dd>
+
+<dt><a href="/index.php?term=strategist&allowed_in_frame=0">strategist (n.)</a> <a href="http://dictionary.reference.com/search?q=strategist" class="dictionary" title="Look up strategist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strategist at Dictionary.com" title="Look up strategist at Dictionary.com" /></a></dt>
+<dd>1838, from Fr. <span class="foreign">strat&eacute;giste</span>, from <span class="foreign">strat&eacute;gie</span> (see <a href="/index.php?term=strategy&allowed_in_frame=0" class="crossreference">strategy</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=strategize&allowed_in_frame=0">strategize (v.)</a> <a href="http://dictionary.reference.com/search?q=strategize" class="dictionary" title="Look up strategize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strategize at Dictionary.com" title="Look up strategize at Dictionary.com" /></a></dt>
+<dd class="highlight">1943, American English, from <a href="/index.php?term=strategy&allowed_in_frame=0" class="crossreference">strategy</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Strategized</span>; <span class="foreign">strategizing</span>.</dd>
+
+<dt><a href="/index.php?term=strategy&allowed_in_frame=0">strategy (n.)</a> <a href="http://dictionary.reference.com/search?q=strategy" class="dictionary" title="Look up strategy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strategy at Dictionary.com" title="Look up strategy at Dictionary.com" /></a></dt>
+<dd>1810, "art of a general," from Fr. <span class="foreign">strat&eacute;gie</span>, from Gk. <span class="foreign">strategia</span> "office or command of a general," from <span class="foreign">strategos</span> "general," from <span class="foreign">stratos</span> "multitude, army, expedition," lit. "that which is spread out" (see <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a>) + <span class="foreign">agos</span> "leader," from <span class="foreign">agein</span> "to lead" (see <a href="/index.php?term=act&allowed_in_frame=0" class="crossreference">act</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=strath&allowed_in_frame=0">strath (n.)</a> <a href="http://dictionary.reference.com/search?q=strath" class="dictionary" title="Look up strath at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strath at Dictionary.com" title="Look up strath at Dictionary.com" /></a></dt>
+<dd class="highlight">"wide river valley between hills," 1530s, from Scottish, from O.Ir. <span class="foreign">srath</span> "wide river valley," from O.Celt. <span class="foreign">*s(t)rato-</span>, from PIE root <span class="foreign">*stere-</span> "to spread, extend, stretch out" (see <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a>). </dd>
+
+<dt><a href="/index.php?term=stratification&allowed_in_frame=0">stratification (n.)</a> <a href="http://dictionary.reference.com/search?q=stratification" class="dictionary" title="Look up stratification at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratification at Dictionary.com" title="Look up stratification at Dictionary.com" /></a></dt>
+<dd>1610s, from Mod.L. <span class="foreign">stratificationem</span> (nom. <span class="foreign">stratificatio</span>), noun of action from pp. stem of <span class="foreign">stratificare</span> "to form strata," from <span class="foreign">stratum</span> "thing spread out" + root of <span class="foreign">facere</span> "to make" (see <a href="/index.php?term=factitious&allowed_in_frame=0" class="crossreference">factitious</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stratify&allowed_in_frame=0">stratify (v.)</a> <a href="http://dictionary.reference.com/search?q=stratify" class="dictionary" title="Look up stratify at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratify at Dictionary.com" title="Look up stratify at Dictionary.com" /></a></dt>
+<dd class="highlight">1660s, from Fr. <span class="foreign">stratifier</span>, from Mod.L.  <span class="foreign">stratificare</span>, from <span class="foreign">stratum</span> (see <a href="/index.php?term=stratum&allowed_in_frame=0" class="crossreference">stratum</a>). Related: <span class="foreign">Stratified</span>; <span class="foreign">stratifying</span>.</dd>
+
+<dt><a href="/index.php?term=stratigraphy&allowed_in_frame=0">stratigraphy (n.)</a> <a href="http://dictionary.reference.com/search?q=stratigraphy" class="dictionary" title="Look up stratigraphy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratigraphy at Dictionary.com" title="Look up stratigraphy at Dictionary.com" /></a></dt>
+<dd>1865, from L. <span class="foreign">strati-</span>, comb. form of <span class="foreign">stratum</span> (see <a href="/index.php?term=stratum&allowed_in_frame=0" class="crossreference">stratum</a>) + <a href="/index.php?term=-graphy&allowed_in_frame=0" class="crossreference">-graphy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stratocracy&allowed_in_frame=0">stratocracy (n.)</a> <a href="http://dictionary.reference.com/search?q=stratocracy" class="dictionary" title="Look up stratocracy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratocracy at Dictionary.com" title="Look up stratocracy at Dictionary.com" /></a></dt>
+<dd class="highlight">"government by the army," 1650s, from Gk. <span class="foreign">stratos</span> "army" (see <a href="/index.php?term=strategy&allowed_in_frame=0" class="crossreference">strategy</a>) + <span class="foreign">-kratia</span> "rule of," from <span class="foreign">kratos</span> "strength, power, rule" (see <a href="/index.php?term=-cracy&allowed_in_frame=0" class="crossreference">-cracy</a>).</dd>
+
+<dt><a href="/index.php?term=stratosphere&allowed_in_frame=0">stratosphere (n.)</a> <a href="http://dictionary.reference.com/search?q=stratosphere" class="dictionary" title="Look up stratosphere at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratosphere at Dictionary.com" title="Look up stratosphere at Dictionary.com" /></a></dt>
+<dd>1909, from Fr. <span class="foreign">stratosph&egrave;re</span>, lit. "sphere of layers," coined by French meteorologist L&eacute;on-Philippe Teisserenc de Bort (1855-1913) from L. <span class="foreign">stratus</span> "a spreading out" (from pp. stem of <span class="foreign">sternere</span> "to spread out;" see <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a>) + Fr. <span class="foreign">-sph&egrave;re</span>, as in <span class="foreign">atmosph&egrave;re</span>. The region where the temperature increases or remains steady as you go higher. [An earlier <span class="foreign">stratosphere</span>, attested in English 1908 and coined in German 1901, was a geological term for part of the Earth's crust. It is now obsolete.]</dd>
+
+<dt class="highlight"><a href="/index.php?term=stratovolcano&allowed_in_frame=0">stratovolcano (n.)</a> <a href="http://dictionary.reference.com/search?q=stratovolcano" class="dictionary" title="Look up stratovolcano at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratovolcano at Dictionary.com" title="Look up stratovolcano at Dictionary.com" /></a></dt>
+<dd class="highlight">coined in German (von Seebach, 1866), from <span class="foreign">strato-</span>, comb. form of <span class="foreign">stratus</span> (see <a href="/index.php?term=stratum&allowed_in_frame=0" class="crossreference">stratum</a>) + <a href="/index.php?term=volcano&allowed_in_frame=0" class="crossreference">volcano</a>. So called for its composite structure.</dd>
+
+<dt><a href="/index.php?term=stratum&allowed_in_frame=0">stratum (n.)</a> <a href="http://dictionary.reference.com/search?q=stratum" class="dictionary" title="Look up stratum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratum at Dictionary.com" title="Look up stratum at Dictionary.com" /></a></dt>
+<dd>"horizontal layer," 1590s, from Mod.L. <span class="foreign">stratum</span>, special use of L. <span class="foreign">stratum</span> "thing spread out, coverlet, pavement," from neuter pp. of <span class="foreign">sternere</span> "to spread out, lay down, stretch out," from PIE <span class="foreign">*stre-to-</span> "to stretch, extend," from root <span class="foreign">*stere-</span> "to spread, extend, stretch out" (see <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a>). </dd>
+
+<dt class="highlight"><a href="/index.php?term=stratus&allowed_in_frame=0">stratus (n.)</a> <a href="http://dictionary.reference.com/search?q=stratus" class="dictionary" title="Look up stratus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stratus at Dictionary.com" title="Look up stratus at Dictionary.com" /></a></dt>
+<dd class="highlight">"a low layer of cloud," 1803, from L. <span class="foreign">stratus</span> "a spreading," from <span class="foreign">stratus</span>, pp. of <span class="foreign">sternere</span> (see <a href="/index.php?term=stratum&allowed_in_frame=0" class="crossreference">stratum</a>).</dd>
+
+<dt><a href="/index.php?term=straw&allowed_in_frame=0">straw (n.)</a> <a href="http://dictionary.reference.com/search?q=straw" class="dictionary" title="Look up straw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up straw at Dictionary.com" title="Look up straw at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">streaw</span> "stems or stalks of certain cereals," lit. "that which is scattered or strewn," related to <span class="foreign">streowian</span> (see <a href="/index.php?term=strew&allowed_in_frame=0" class="crossreference">strew</a>), from P.Gmc. <span class="foreign">*strawam</span> "that which is scattered" (cf. O.N. <span class="foreign">stra</span>, Dan. <span class="foreign">straa</span>, Swed. <span class="foreign">str&#229;</span>, O.Fris. <span class="foreign">stre</span>, O.Du., O.H.G. <span class="foreign">stro</span>, Ger. <span class="foreign">Stroh</span> "straw"), from PIE <span class="foreign">*stere-</span> "to spread" (see <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a>). The notion is of dried grain stalks strewn on a floor as carpeting or bedding. As a type of what is trifling or unimportant, attested from late 13c. Meaning "hollow tube through which a drink is sucked" is recorded from 1851.
+<BR><BR>To <span class="foreign">draw straws</span> as a means of deciding something is recorded from 1832. The <span class="foreign">last straw</span> is from the proverb of the camel. <span class="foreign">Straw poll</span> is from 1932; earlier <span class="foreign">straw vote</span> (1866). <span class="foreign">Straw hat</span> first attested mid-15c. To <span class="foreign">clutch</span> (or <span class="foreign">grasp</span> or <span class="foreign">catch</span>) <span class="foreign">at straws</span> (1748) is what a drowning man proverbially would do.</dd>
+
+<dt class="highlight"><a href="/index.php?term=straw+man&allowed_in_frame=0">straw man</a> <a href="http://dictionary.reference.com/search?q=straw+man" class="dictionary" title="Look up straw man at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up straw man at Dictionary.com" title="Look up straw man at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, doll or scarecrow made of bound straw, from <a href="/index.php?term=straw&allowed_in_frame=0" class="crossreference">straw</a> + <a href="/index.php?term=man&allowed_in_frame=0" class="crossreference">man</a>. Figuratively, in debates, by 1896. <span class="foreign">Man of straw</span> "imaginary opponent" is recorded from 1620s.</dd>
+
+<dt><a href="/index.php?term=strawberry&allowed_in_frame=0">strawberry (n.)</a> <a href="http://dictionary.reference.com/search?q=strawberry" class="dictionary" title="Look up strawberry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strawberry at Dictionary.com" title="Look up strawberry at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">streawberige,</span> from <span class="foreign">streaw</span> "straw" (see <a href="/index.php?term=straw&allowed_in_frame=0" class="crossreference">straw</a>) + <span class="foreign">berige</span> "berry" (see <a href="/index.php?term=berry&allowed_in_frame=0" class="crossreference">berry</a>). There is no corresponding compound in any other Germanic language; the reason for the name is uncertain, but perhaps it is in reference to the tiny chaff-like external seeds which cover the fruit. A cognate Old English name was <span class="foreign">eor&eth;berge</span> "earth-berry" (cf. Mod.Ger. <span class="foreign">erdbeere</span>). <span class="foreign">Strawberry blonde</span> is attested from 1884.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stray&allowed_in_frame=0">stray (v.)</a> <a href="http://dictionary.reference.com/search?q=stray" class="dictionary" title="Look up stray at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stray at Dictionary.com" title="Look up stray at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, aphetic of O.Fr. <span class="foreign">estraier</span> "wander about," lit. "go about the streets," from <span class="foreign">estree</span> "route, highway," from L.L. <span class="foreign">via strata</span> "paved road" (see <a href="/index.php?term=street&allowed_in_frame=0" class="crossreference">street</a>). On another theory, the Old French word is from V.L. <span class="foreign">*estragare</span>, a contraction of <span class="foreign">*estravagare</span>, representing L. <span class="foreign">extra vagari</span> "to wander outside" (see <a href="/index.php?term=extravagant&allowed_in_frame=0" class="crossreference">extravagant</a>). Figurative sense of "to wander from the path of rectitude" is attested from early 14c.</dd>
+
+<dt><a href="/index.php?term=stray&allowed_in_frame=0">stray (n.)</a> <a href="http://dictionary.reference.com/search?q=stray" class="dictionary" title="Look up stray at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stray at Dictionary.com" title="Look up stray at Dictionary.com" /></a></dt>
+<dd>"domestic animal found wandering," early 13c., from O.Fr. <span class="foreign">estrai&eacute;</span> "strayed," pp. of <span class="foreign">estraier</span> (see <a href="/index.php?term=stray&allowed_in_frame=0" class="crossreference">stray</a> (v.)). The adjective is first recorded c.1600.</dd>
+
+<dt class="highlight"><a href="/index.php?term=streak&allowed_in_frame=0">streak (n.)</a> <a href="http://dictionary.reference.com/search?q=streak" class="dictionary" title="Look up streak at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streak at Dictionary.com" title="Look up streak at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">strica</span> "line of motion, stroke of a pen" (related to <span class="foreign">strican</span> "pass over lightly," see <a href="/index.php?term=strike&allowed_in_frame=0" class="crossreference">strike</a>), from P.Gmc. <span class="foreign">*strikon</span> (cf. M.L.G. <span class="foreign">streke</span> "stroke, line," O.H.G., Ger. <span class="foreign">strich</span>, Goth. <span class="foreign">striks</span> "stroke, line"), from PIE root <span class="foreign">*streig-</span>  (see <a href="/index.php?term=strigil&allowed_in_frame=0" class="crossreference">strigil</a>). Sense of "long, thin mark" is first found 1567. Meaning "a temporary run (of luck)" is from 1843.</dd>
+
+<dt><a href="/index.php?term=streak&allowed_in_frame=0">streak (v.)</a> <a href="http://dictionary.reference.com/search?q=streak" class="dictionary" title="Look up streak at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streak at Dictionary.com" title="Look up streak at Dictionary.com" /></a></dt>
+<dd>1768, "to go quickly, to rush, run at full speed," respelling (by association with <a href="/index.php?term=streak&allowed_in_frame=0" class="crossreference">streak</a> (n.)) of <span class="foreign">streek</span> "to go quickly" (late 14c.), originally "to stretch oneself" (mid-13c.), a northern M.E. variant of <a href="/index.php?term=stretch&allowed_in_frame=0" class="crossreference">stretch</a> (v.). <span class="foreign">Streaking</span> "running naked in public" first recorded 1973.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stream&allowed_in_frame=0">stream (v.)</a> <a href="http://dictionary.reference.com/search?q=stream" class="dictionary" title="Look up stream at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stream at Dictionary.com" title="Look up stream at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., from <a href="/index.php?term=stream&allowed_in_frame=0" class="crossreference">stream</a> (n.). Related: <span class="foreign">Streamed</span>; <span class="foreign">streaming</span>.</dd>
+
+<dt><a href="/index.php?term=stream&allowed_in_frame=0">stream (n.)</a> <a href="http://dictionary.reference.com/search?q=stream" class="dictionary" title="Look up stream at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stream at Dictionary.com" title="Look up stream at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">stream</span> "a course of water," from P.Gmc. <span class="foreign">*straumaz</span> (cf. O.S. <span class="foreign">strom</span>, O.N. <span class="foreign">straumr</span>, Dan. <span class="foreign">str&oslash;m</span>, Swed. <span class="foreign">str&ouml;m</span>, Norw. <span class="foreign">straum</span>, O.Fris. <span class="foreign">stram</span>, Du. <span class="foreign">stroom</span>, O.H.G. <span class="foreign">stroum</span>, Ger. <span class="foreign">Strom</span> "current, river"), from PIE root <span class="foreign">*sreu-</span> "flow" (see <a href="/index.php?term=rheum&allowed_in_frame=0" class="crossreference">rheum</a>). Meaning "current in the sea" (e.g. <span class="foreign">Gulf Stream</span>) is recorded from late 14c. <span class="foreign">Stream of consciousness</span> in lit crit first recorded 1931, originally in psychology (1855).</dd>
+
+<dt class="highlight"><a href="/index.php?term=streamer&allowed_in_frame=0">streamer (n.)</a> <a href="http://dictionary.reference.com/search?q=streamer" class="dictionary" title="Look up streamer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streamer at Dictionary.com" title="Look up streamer at Dictionary.com" /></a></dt>
+<dd class="highlight">"flag that streams in the air," late 13c., agent noun from <a href="/index.php?term=stream&allowed_in_frame=0" class="crossreference">stream</a> (v.).</dd>
+
+<dt><a href="/index.php?term=streamline&allowed_in_frame=0">streamline (v.)</a> <a href="http://dictionary.reference.com/search?q=streamline" class="dictionary" title="Look up streamline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streamline at Dictionary.com" title="Look up streamline at Dictionary.com" /></a></dt>
+<dd>1913, "give a streamline form to," from <a href="/index.php?term=streamline&allowed_in_frame=0" class="crossreference">streamline</a> (n.). From 1936 in the extended sense of "simplify and organize." Related: <span class="foreign">Streamlined</span>; <span class="foreign">streamlining</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=streamline&allowed_in_frame=0">streamline (n.)</a> <a href="http://dictionary.reference.com/search?q=streamline" class="dictionary" title="Look up streamline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streamline at Dictionary.com" title="Look up streamline at Dictionary.com" /></a></dt>
+<dd class="highlight">1868, "line drawn from point to point, so that its direction is everywhere that of the motion of the fluid" [Lamb, "Hydrodynamics," 1906], from <a href="/index.php?term=stream&allowed_in_frame=0" class="crossreference">stream</a> (n.) + <a href="/index.php?term=line&allowed_in_frame=0" class="crossreference">line</a> (n.). The adjective is attested from 1898, "free from turbulence," 1907 in sense of "shaped so that the flow around it is smooth."</dd>
+
+<dt><a href="/index.php?term=street&allowed_in_frame=0">street (n.)</a> <a href="http://dictionary.reference.com/search?q=street" class="dictionary" title="Look up street at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up street at Dictionary.com" title="Look up street at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">stret</span> (Mercian, Kentish), <span class="foreign">str&aelig;t</span> (W.Saxon) "street, high road," an early West Germanic borrowing from L.L. <span class="foreign">strata</span>, used elliptically for <span class="foreign">via strata</span> "paved road," from fem. pp. of L. <span class="foreign">sternere</span> "lay down, spread out, pave," from PIE <span class="foreign">*stre-to-</span> "to stretch, extend," from root <span class="foreign">*stere-</span> "to spread, extend, stretch out" (see <a href="/index.php?term=structure&allowed_in_frame=0" class="crossreference">structure</a>). The Latin is also the source of Sp. <span class="foreign">estrada</span>, O.Fr. <span class="foreign">estr&eacute;e</span>, It. <span class="foreign">strada</span>.
+<BR><BR>
+"The normal term in OE for a paved way or Roman road, later extended to other roads, urban streets, and in SE dialects to a street of dwellings, a straggling village or hamlet" [Cambridge Dictionary of English Place-Names]. Originally of Roman roads (e.g. <span class="foreign">Watling Street, Icknield Street</span>). "In the Middle Ages, a <span class="foreign">road</span> or <span class="foreign">way</span> was merely a direction in which people rode or went, the name <span class="foreign">street</span> being reserved for the made road." [Weekley] Used since c.1400 to mean "the people in the street;" modern sense of "the realm of the people as the source of political support" dates from 1931. <span class="foreign">Man in the street</span> "ordinary person, non-expert" is attested from 1831. <span class="foreign">Street-car</span> is attested from 1862. <span class="foreign">Street-walker</span> "common prostitute" first recorded 1590s. <span class="foreign">Street people</span> is from 1967; <span class="foreign">street smarts</span> is from 1972; <span class="foreign">street-credibility</span> is from 1979.</dd>
+
+<dt class="highlight"><a href="/index.php?term=streetwise&allowed_in_frame=0">streetwise (adj.)</a> <a href="http://dictionary.reference.com/search?q=streetwise" class="dictionary" title="Look up streetwise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streetwise at Dictionary.com" title="Look up streetwise at Dictionary.com" /></a></dt>
+<dd class="highlight">1965, from <a href="/index.php?term=street&allowed_in_frame=0" class="crossreference">street</a> + <a href="/index.php?term=wise&allowed_in_frame=0" class="crossreference">wise</a> (adj.) "smart, savvy."</dd>
+
+<dt><a href="/index.php?term=strength&allowed_in_frame=0">strength (n.)</a> <a href="http://dictionary.reference.com/search?q=strength" class="dictionary" title="Look up strength at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strength at Dictionary.com" title="Look up strength at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">streng&thorn;u</span> "power, force, vigor, moral resistance," from P.Gmc. <span class="foreign">*strangitho</span> (cf. O.H.G. <span class="foreign">strengida</span> "strength"), in gradational relationship to the root of <a href="/index.php?term=strong&allowed_in_frame=0" class="crossreference">strong</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=strengthen&allowed_in_frame=0">strengthen (v.)</a> <a href="http://dictionary.reference.com/search?q=strengthen" class="dictionary" title="Look up strengthen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strengthen at Dictionary.com" title="Look up strengthen at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from <a href="/index.php?term=strength&allowed_in_frame=0" class="crossreference">strength</a> + <a href="/index.php?term=-en&allowed_in_frame=0" class="crossreference">-en</a> (1). Related: <span class="foreign">Strengthened</span>; <span class="foreign">strengthening</span>.</dd>
+
+<dt><a href="/index.php?term=strenuous&allowed_in_frame=0">strenuous (adj.)</a> <a href="http://dictionary.reference.com/search?q=strenuous" class="dictionary" title="Look up strenuous at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strenuous at Dictionary.com" title="Look up strenuous at Dictionary.com" /></a></dt>
+<dd>"characterized by great effort," 1590s, from L. <span class="foreign">strenuus</span> "active, vigorous, keen." Probably cognate with Gk. <span class="foreign">strenes, strenos</span> "keen, strong," <span class="foreign">strenos</span> "arrogance, eager desire," O.E. <span class="foreign">stierne</span> "hard, severe, keen" (see <a href="/index.php?term=stern&allowed_in_frame=0" class="crossreference">stern</a> (adj.)). Mocked by Ben Jonson as a pedantic neologism in "Poetaster" (1601). Sense of "requiring much energy" is first recorded 1670s. Related: <span class="foreign">Strenuously</span>; <span class="foreign">strenuousness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=strep&allowed_in_frame=0">strep</a> <a href="http://dictionary.reference.com/search?q=strep" class="dictionary" title="Look up strep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up strep at Dictionary.com" title="Look up strep at Dictionary.com" /></a></dt>
+<dd class="highlight">1927, in <span class="foreign">strep throat,</span> short for <a href="/index.php?term=streptococcus&allowed_in_frame=0" class="crossreference">streptococcus</a>.</dd>
+
+<dt><a href="/index.php?term=Strephon&allowed_in_frame=0">Strephon</a> <a href="http://dictionary.reference.com/search?q=Strephon" class="dictionary" title="Look up Strephon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Strephon at Dictionary.com" title="Look up Strephon at Dictionary.com" /></a></dt>
+<dd>"lover," from name of shepherd lover in Sidney's "Arcadia" (begun 1580).</dd>
+
+<dt class="highlight"><a href="/index.php?term=streptococcus&allowed_in_frame=0">streptococcus (n.)</a> <a href="http://dictionary.reference.com/search?q=streptococcus" class="dictionary" title="Look up streptococcus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streptococcus at Dictionary.com" title="Look up streptococcus at Dictionary.com" /></a></dt>
+<dd class="highlight">bacteria genus, 1877, Modern Latin, coined by Viennese surgeon Albert Theodor Billroth (1829-1894) from Gk. <span class="foreign">streptos</span> "twisted" + Mod.L. <span class="foreign">coccus</span> "spherical bacterium," from Gk. <span class="foreign">kokkos</span> "berry" (see <a href="/index.php?term=cocco-&allowed_in_frame=0" class="crossreference">cocco-</a>). So called because the bacteria usually form chains.</dd>
+
+<dt><a href="/index.php?term=streptomycin&allowed_in_frame=0">streptomycin (n.)</a> <a href="http://dictionary.reference.com/search?q=streptomycin" class="dictionary" title="Look up streptomycin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up streptomycin at Dictionary.com" title="Look up streptomycin at Dictionary.com" /></a></dt>
+<dd>antibiotic drug, 1944, from Mod.L. <span class="foreign">Streptomyces</span>, genus name of the soil bacterium from which the antibiotic was obtained, from Gk. <span class="foreign">streptos</span> "twisted" + <span class="foreign">-mycin</span>, element used in forming names of substances obtained from fungi, from Latinized form of Gk. <span class="foreign">mykes</span> "fungus" (see <a href="/index.php?term=mucus&allowed_in_frame=0" class="crossreference">mucus</a>). First isolated by U.S. microbiologist Selman Abraham Waksman (1888-1973) and others.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stress&allowed_in_frame=0">stress (n.)</a> <a href="http://dictionary.reference.com/search?q=stress" class="dictionary" title="Look up stress at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stress at Dictionary.com" title="Look up stress at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "hardship, adversity, force, pressure," in part a shortening of M.Fr. <span class="foreign">destresse</span> (see <a href="/index.php?term=distress&allowed_in_frame=0" class="crossreference">distress</a>), in part from O.Fr. <span class="foreign">estrece</span> "narrowness, oppression," from V.L. <span class="foreign">*strictia,</span> from L. <span class="foreign">strictus</span> "compressed," pp. of <span class="foreign">stringere</span> "draw tight" (see <a href="/index.php?term=strain&allowed_in_frame=0" class="crossreference">strain</a> (v.)). The purely psychological sense is attested from 1942.</dd>
+
+<dt><a href="/index.php?term=stress&allowed_in_frame=0">stress (v.)</a> <a href="http://dictionary.reference.com/search?q=stress" class="dictionary" title="Look up stress at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stress at Dictionary.com" title="Look up stress at Dictionary.com" /></a></dt>
+<dd>c.1300, "to subject (someone) to force or compulsion," from the source of <a href="/index.php?term=stress&allowed_in_frame=0" class="crossreference">stress</a> (n.). The figurative meaning "put emphasis on" is first recorded 1896, from notion of laying pressure on something by relying on it. Related: <span class="foreign">Stressed</span>; <span class="foreign">stressing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stressful&allowed_in_frame=0">stressful (adj.)</a> <a href="http://dictionary.reference.com/search?q=stressful" class="dictionary" title="Look up stressful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stressful at Dictionary.com" title="Look up stressful at Dictionary.com" /></a></dt>
+<dd class="highlight">1853, from <a href="/index.php?term=stress&allowed_in_frame=0" class="crossreference">stress</a> (n.) + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>. Related: <span class="foreign">Stressfully</span>; <span class="foreign">stressfulness</span>.</dd>
+
+<dt><a href="/index.php?term=stressor&allowed_in_frame=0">stressor (n.)</a> <a href="http://dictionary.reference.com/search?q=stressor" class="dictionary" title="Look up stressor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stressor at Dictionary.com" title="Look up stressor at Dictionary.com" /></a></dt>
+<dd>1950, agent noun in Latin form from <a href="/index.php?term=stress&allowed_in_frame=0" class="crossreference">stress</a> (v.).</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658773 -->
+<!-- Page was generated in 0.196806 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=appall&allowed_in_frame=0">appall (v.)</a> <a href="http://dictionary.reference.com/search?q=appall" class="dictionary" title="Look up appall at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appall at Dictionary.com" title="Look up appall at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">appal</span>, early 14c., "to fade;" c.1400, "to grow pale," from O.Fr. <span class="foreign">apalir</span> "become or make pale," from <span class="foreign">a-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">palir</span> "grow pale," from L. <span class="foreign">pallere</span> (see <a href="/index.php?term=pallor&allowed_in_frame=0" class="crossreference">pallor</a>). Meaning "cause dismay or shock," is 1530s. Related: <a href="/index.php?term=Appalled&allowed_in_frame=0" class="crossreference">Appalled</a>; <a href="/index.php?term=appalling&allowed_in_frame=0" class="crossreference">appalling</a>.</dd>
+
+<dt><a href="/index.php?term=appalled&allowed_in_frame=0">appalled (adj.)</a> <a href="http://dictionary.reference.com/search?q=appalled" class="dictionary" title="Look up appalled at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appalled at Dictionary.com" title="Look up appalled at Dictionary.com" /></a></dt>
+<dd>1570s, "enfeebled;" c.1600, "dismayed;" pp. adjective from <a href="/index.php?term=appall&allowed_in_frame=0" class="crossreference">appall</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appalling&allowed_in_frame=0">appalling (adj.)</a> <a href="http://dictionary.reference.com/search?q=appalling" class="dictionary" title="Look up appalling at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appalling at Dictionary.com" title="Look up appalling at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, prp. adjective from <a href="/index.php?term=appall&allowed_in_frame=0" class="crossreference">appall</a>. Colloquial weakened sense of "distasteful" is attested from 1919.</dd>
+
+<dt><a href="/index.php?term=Appaloosa&allowed_in_frame=0">Appaloosa</a> <a href="http://dictionary.reference.com/search?q=Appaloosa" class="dictionary" title="Look up Appaloosa at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Appaloosa at Dictionary.com" title="Look up Appaloosa at Dictionary.com" /></a></dt>
+<dd>breed of horses favored by Indian tribes in U.S. West, 1849, either from <span class="foreign">Opelousa</span> in Louisiana or from <span class="foreign">Palouse</span> Indians, who lived near the river of that name in Idaho, in which case it probably is a Nez Perc&eacute; word. <span class="foreign">Opelousa</span> is perhaps from Choctaw <span class="foreign">api losa</span> "black body;" while <span class="foreign">Palouse</span> is from Sahaptin <span class="foreign">palou:s</span> "what is standing up in the water."</dd>
+
+<dt class="highlight"><a href="/index.php?term=appanage&allowed_in_frame=0">appanage (n.)</a> <a href="http://dictionary.reference.com/search?q=appanage" class="dictionary" title="Look up appanage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appanage at Dictionary.com" title="Look up appanage at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from Fr. <span class="foreign">apanage</span> (13c.), from <span class="foreign">apaner</span> "to endow with means of subsistence," from M.L. <span class="foreign">appanare</span> "equip with bread," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">panis</span> "bread" (see <a href="/index.php?term=food&allowed_in_frame=0" class="crossreference">food</a>). Originally, provisions made for younger children of royalty. The double <span class="foreign">-p-</span> restored in French 15c.-16c., in English 17c.</dd>
+
+<dt><a href="/index.php?term=apparat&allowed_in_frame=0">apparat (n.)</a> <a href="http://dictionary.reference.com/search?q=apparat" class="dictionary" title="Look up apparat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparat at Dictionary.com" title="Look up apparat at Dictionary.com" /></a></dt>
+<dd>"administrative machinery of the Communist Party in Russia," 1950, from Russian, from Ger. <span class="foreign">apparat</span> "apparatus, instrument," from L. <span class="foreign">apparatus</span> (see <a href="/index.php?term=apparatus&allowed_in_frame=0" class="crossreference">apparatus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apparatchik&allowed_in_frame=0">apparatchik (n.)</a> <a href="http://dictionary.reference.com/search?q=apparatchik" class="dictionary" title="Look up apparatchik at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparatchik at Dictionary.com" title="Look up apparatchik at Dictionary.com" /></a></dt>
+<dd class="highlight">"Communist agent or spy," 1941, originally in writings of Arthur Koestler, from Russian, from <span class="foreign">apparat</span> "political organization" (see <a href="/index.php?term=apparat&allowed_in_frame=0" class="crossreference">apparat</a>). Russian plural is <span class="foreign">apparatchiki</span>.</dd>
+
+<dt><a href="/index.php?term=apparatus&allowed_in_frame=0">apparatus (n.)</a> <a href="http://dictionary.reference.com/search?q=apparatus" class="dictionary" title="Look up apparatus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparatus at Dictionary.com" title="Look up apparatus at Dictionary.com" /></a></dt>
+<dd>1620s, from L. <span class="foreign">apparatus</span> "tools, implements, equipment; preparation, a preparing," noun of state from pp. stem of <span class="foreign">apparare</span> "prepare," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">parare</span> "make ready" (see <a href="/index.php?term=pare&allowed_in_frame=0" class="crossreference">pare</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apparel&allowed_in_frame=0">apparel (v.)</a> <a href="http://dictionary.reference.com/search?q=apparel" class="dictionary" title="Look up apparel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparel at Dictionary.com" title="Look up apparel at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., "to equip (in any way)," from O.Fr. <span class="foreign">apareillier</span> (12c.), from V.L. <span class="foreign">*appariculare</span>. This is either from L. <span class="foreign">apparare</span> "prepare, make ready" (see <a href="/index.php?term=apparatus&allowed_in_frame=0" class="crossreference">apparatus</a>), or from V.L. <span class="foreign">*ad-particulare</span> "to put things together." The meaning "to attire in proper clothing" is from mid-14c. Cognate with It. <span class="foreign">aparecchiare</span>, Sp. <span class="foreign">aparejar</span>, Port. <span class="foreign">aparelhar</span>. Related: <span class="foreign">Appareled</span>; <span class="foreign">apparelled</span>; <span class="foreign">appareling</span>; <span class="foreign">apparelling</span>.</dd>
+
+<dt><a href="/index.php?term=apparel&allowed_in_frame=0">apparel (n.)</a> <a href="http://dictionary.reference.com/search?q=apparel" class="dictionary" title="Look up apparel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparel at Dictionary.com" title="Look up apparel at Dictionary.com" /></a></dt>
+<dd>"personal outfit or attire," early 14c., also "ship's rigging," from O.Fr. <span class="foreign">apareil</span> "preparation," from <span class="foreign">apareillier</span> (see <a href="/index.php?term=apparel&allowed_in_frame=0" class="crossreference">apparel</a> (v.)). Earlier in same sense was <span class="foreign">apparelment</span> (early 14c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=apparent&allowed_in_frame=0">apparent (adj.)</a> <a href="http://dictionary.reference.com/search?q=apparent" class="dictionary" title="Look up apparent at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparent at Dictionary.com" title="Look up apparent at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">aparant</span> "evident, obvious, visible," from L. <span class="foreign">apparentem</span> (nom. <span class="foreign">apparens</span>) "visible, manifest," prp. of <span class="foreign">apparere</span> (see <a href="/index.php?term=appear&allowed_in_frame=0" class="crossreference">appear</a>). First attested in phrase <span class="foreign">heir apparent</span> (see <a href="/index.php?term=heir&allowed_in_frame=0" class="crossreference">heir</a>). Meaning "superficial" is c.1400. <span class="foreign">Apparent magnitude</span> in astronomy (how bright a heavenly body looks from earth, as opposed to <span class="foreign">absolute magnitude</span>, which is how bright it really is) is attested from 1875.</dd>
+
+<dt><a href="/index.php?term=apparently&allowed_in_frame=0">apparently (adv.)</a> <a href="http://dictionary.reference.com/search?q=apparently" class="dictionary" title="Look up apparently at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparently at Dictionary.com" title="Look up apparently at Dictionary.com" /></a></dt>
+<dd>late 14c., "visibly, openly," from <a href="/index.php?term=apparent&allowed_in_frame=0" class="crossreference">apparent</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). Meaning "evidently" is from 1550s; that of "to all appearances" (but not necessarily "really") is from 1560s; meaning "so far as can be judged, seemingly," is from 1846. A gradual retreat from certainty.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apparition&allowed_in_frame=0">apparition (n.)</a> <a href="http://dictionary.reference.com/search?q=apparition" class="dictionary" title="Look up apparition at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apparition at Dictionary.com" title="Look up apparition at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1500, "unclosing" (of Heaven), from Anglo-Fr. <span class="foreign">aparicion</span>, O.Fr. <span class="foreign">apparition</span>, <span class="foreign">aparoison</span> (15c.), used in reference to the Epiphany (revealing of Christ child to the Wise Men), from L.L. <span class="foreign">apparitionem</span> (nom. <span class="foreign">apparitio</span>) "an appearance," also "attendants," in classical Latin "service, servants," noun of action from pp. stem of <span class="foreign">apparere</span> "appear" (see <a href="/index.php?term=appear&allowed_in_frame=0" class="crossreference">appear</a>). Meaning "ghost" first recorded c.1600; the shade of sense differentiation between <span class="foreign">appearance</span> and <span class="foreign">apparition</span> is that the latter tends to be unexpected or startling.</dd>
+
+<dt><a href="/index.php?term=appeal&allowed_in_frame=0">appeal (v.)</a> <a href="http://dictionary.reference.com/search?q=appeal" class="dictionary" title="Look up appeal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appeal at Dictionary.com" title="Look up appeal at Dictionary.com" /></a></dt>
+<dd>early 14c., originally in legal sense of "to call" to a higher judge or court, from Anglo-Fr. <span class="foreign">apeler</span> "to call upon, accuse," O.Fr. <span class="foreign">apeler</span> "make an appeal" (11c., Mod.Fr. <span class="foreign">appeler</span>), from L. <span class="foreign">appellare</span> "to accost, address, appeal to, summon, name," iterative of <span class="foreign">appellere</span> "to prepare," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">pellere</span> "to beat, drive" (see <a href="/index.php?term=pulse&allowed_in_frame=0" class="crossreference">pulse</a> (n.1)). Related: <span class="foreign">Appealed</span>; <span class="foreign">appealing</span>.
+<BR><BR>
+Probably a Roman metaphoric extension of a nautical term for "driving a ship toward a particular landing." Popular modern meaning "to be attractive or pleasing" is quite recent, attested from 1907 (<span class="foreign">appealing</span> in this sense is from 1891), from the notion of "to address oneself in expectation of a sympathetic response."</dd>
+
+<dt class="highlight"><a href="/index.php?term=appeal&allowed_in_frame=0">appeal (n.)</a> <a href="http://dictionary.reference.com/search?q=appeal" class="dictionary" title="Look up appeal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appeal at Dictionary.com" title="Look up appeal at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, in the legal sense, from O.Fr. <span class="foreign">apel</span> (Mod.Fr. <span class="foreign">appel</span>), back formation from <span class="foreign">apeler</span> (see <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a> (v.)). Meaning "call to an authority" is from 1620s; that of "attractive power" attested by 1916.</dd>
+
+<dt><a href="/index.php?term=appealing&allowed_in_frame=0">appealing</a> <a href="http://dictionary.reference.com/search?q=appealing" class="dictionary" title="Look up appealing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appealing at Dictionary.com" title="Look up appealing at Dictionary.com" /></a></dt>
+<dd>mid-15c., as a noun, "action of petitioning a higher court or authority," from prp. of <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a> (v.). Adjectival sense of "attractive" attested by 1892. Related: <span class="foreign">Appealingly</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=appear&allowed_in_frame=0">appear (v.)</a> <a href="http://dictionary.reference.com/search?q=appear" class="dictionary" title="Look up appear at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appear at Dictionary.com" title="Look up appear at Dictionary.com" /></a></dt>
+<dd class="highlight">late 13c., "to come into view," from stem of O.Fr. <span class="foreign">aparoir</span> (12c., Mod.Fr. <span class="foreign">apparoir</span>) "appear, come to light, come forth," from L. <span class="foreign">apparere</span> "to appear, come in sight, make an appearance," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">parere</span> "to come forth, be visible," from PIE root <span class="foreign">*per-</span> "to bring forth" (see <a href="/index.php?term=pare&allowed_in_frame=0" class="crossreference">pare</a>). Of persons, "present oneself," late 14c. Meaning "seem, have a certain appearance" is late 14c. Related: <span class="foreign">Appeared</span>; <span class="foreign">appearing</span>.</dd>
+
+<dt><a href="/index.php?term=appearance&allowed_in_frame=0">appearance (n.)</a> <a href="http://dictionary.reference.com/search?q=appearance" class="dictionary" title="Look up appearance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appearance at Dictionary.com" title="Look up appearance at Dictionary.com" /></a></dt>
+<dd>late 14c., "visible state or form, figure; mere show," from Anglo-Fr. <span class="foreign">apparaunce</span>, O.Fr. <span class="foreign">aparance</span> "appearance, display, pomp" (13c.), from L. <span class="foreign">apparentia</span>, abstract noun from <span class="foreign">aparentem</span>, pp. of <span class="foreign">apparere</span> (see <a href="/index.php?term=appear&allowed_in_frame=0" class="crossreference">appear</a>). Meaning "semblance" is recorded from early 15c.; that of "action of coming into view" is mid-15c. Phrase <span class="foreign">keep up appearances</span> attested from 1760 (<span class="foreign">save appearances</span> in same sense is 1711).</dd>
+
+<dt class="highlight"><a href="/index.php?term=appeasable&allowed_in_frame=0">appeasable (adj.)</a> <a href="http://dictionary.reference.com/search?q=appeasable" class="dictionary" title="Look up appeasable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appeasable at Dictionary.com" title="Look up appeasable at Dictionary.com" /></a></dt>
+<dd class="highlight">1540s; see <a href="/index.php?term=appease&allowed_in_frame=0" class="crossreference">appease</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Appeasably</span>.</dd>
+
+<dt><a href="/index.php?term=appease&allowed_in_frame=0">appease (v.)</a> <a href="http://dictionary.reference.com/search?q=appease" class="dictionary" title="Look up appease at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appease at Dictionary.com" title="Look up appease at Dictionary.com" /></a></dt>
+<dd>c.1300 "to reconcile," from Anglo-Fr. <span class="foreign">apeser</span>, O.Fr. <span class="foreign">apaisier</span> "to pacify, make peace, appease, be reconciled, placate" (12c.), from the phrase <span class="foreign">a paisier</span> "bring to peace," from <span class="foreign">a-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">pais</span>, from L. <span class="foreign">pacem</span> (nom. <span class="foreign">pax</span>) "peace" (see <a href="/index.php?term=peace&allowed_in_frame=0" class="crossreference">peace</a>). Related: <span class="foreign">Appeased</span>; <span class="foreign">appeasing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appeasement&allowed_in_frame=0">appeasement (n.)</a> <a href="http://dictionary.reference.com/search?q=appeasement" class="dictionary" title="Look up appeasement at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appeasement at Dictionary.com" title="Look up appeasement at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "pacification," from M.Fr. <span class="foreign">apeisement</span>, O.Fr. <span class="foreign">apaisement</span> "appeasement, calming," noun of action from <span class="foreign">apaisier</span> (see <a href="/index.php?term=appease&allowed_in_frame=0" class="crossreference">appease</a>). First recorded 1919 in international political sense; not pejorative until failure of Chamberlain's policy toward Germany in 1939 (<span class="foreign">Methods of appeasement</span> was Chamberlain's description of his policy).</dd>
+
+<dt><a href="/index.php?term=appeaser&allowed_in_frame=0">appeaser (n.)</a> <a href="http://dictionary.reference.com/search?q=appeaser" class="dictionary" title="Look up appeaser at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appeaser at Dictionary.com" title="Look up appeaser at Dictionary.com" /></a></dt>
+<dd>mid-15c., agent noun from <a href="/index.php?term=appease&allowed_in_frame=0" class="crossreference">appease</a> (v.). Political sense attested from 1940.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appellant&allowed_in_frame=0">appellant (n.)</a> <a href="http://dictionary.reference.com/search?q=appellant" class="dictionary" title="Look up appellant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appellant at Dictionary.com" title="Look up appellant at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., Anglo-French, from O.Fr. <span class="foreign">apelant</span>, noun from prp. of <span class="foreign">apeler</span>, from L. <span class="foreign">appellare</span> (see <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a>).</dd>
+
+<dt><a href="/index.php?term=appellate&allowed_in_frame=0">appellate (adj.)</a> <a href="http://dictionary.reference.com/search?q=appellate" class="dictionary" title="Look up appellate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appellate at Dictionary.com" title="Look up appellate at Dictionary.com" /></a></dt>
+<dd>"pertaining to appeals," 1726, from L. <span class="foreign">appellatus,</span> pp. of <span class="foreign">appellare</span> (see <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a>). <span class="foreign">Appellate jurisdiction</span> is in Blackstone (1768).</dd>
+
+<dt class="highlight"><a href="/index.php?term=appellation&allowed_in_frame=0">appellation (n.)</a> <a href="http://dictionary.reference.com/search?q=appellation" class="dictionary" title="Look up appellation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appellation at Dictionary.com" title="Look up appellation at Dictionary.com" /></a></dt>
+<dd class="highlight">late 15c., "action of appealing" (to a higher authority), from O.Fr. <span class="foreign">apelacion</span> (13c.), from L. <span class="foreign">appellationem</span> (nom. <span class="foreign">appellatio</span>) "an addressing, accosting; an appeal; a name, title," noun of action from pp. stem of <span class="foreign">appellare</span> (see <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a>). Meaning "designation, name given to a person, thing, or class" is from mid-15c., from a sense also found in M.Fr. <span class="foreign">appeler</span>.
+</dd>
+
+<dt><a href="/index.php?term=appellative&allowed_in_frame=0">appellative (adj.)</a> <a href="http://dictionary.reference.com/search?q=appellative" class="dictionary" title="Look up appellative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appellative at Dictionary.com" title="Look up appellative at Dictionary.com" /></a></dt>
+<dd>mid-15c., from L. <span class="foreign">appellativus</span>, from <span class="foreign">appellat-</span>, pp. stem of <span class="foreign">appellare</span> (see <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a>). As a noun, attested from 1590s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appellee&allowed_in_frame=0">appellee (n.)</a> <a href="http://dictionary.reference.com/search?q=appellee" class="dictionary" title="Look up appellee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appellee at Dictionary.com" title="Look up appellee at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, from Anglo-French (late 14c.), from O.Fr. <span class="foreign">apel&eacute;</span> (Mod.Fr. <span class="foreign">appel&eacute;</span>) "accused, defendant," noun use of pp. of <span class="foreign">appeler</span> "to call, address;" see <a href="/index.php?term=appeal&allowed_in_frame=0" class="crossreference">appeal</a> + <a href="/index.php?term=-ee&allowed_in_frame=0" class="crossreference">-ee</a>.</dd>
+
+<dt><a href="/index.php?term=append&allowed_in_frame=0">append (v.)</a> <a href="http://dictionary.reference.com/search?q=append" class="dictionary" title="Look up append at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up append at Dictionary.com" title="Look up append at Dictionary.com" /></a></dt>
+<dd>late 14c., "to belong to as a possession or right," from O.Fr. <span class="foreign">apendre</span> (13c.) belong, be dependent (on); attach (oneself) to; hang, hang up," and directly from L. <span class="foreign">appendere</span> "to cause to hang (from something), weigh," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">pendere</span> "hang" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>). Meaning "to hang on, attach as a pendant" is 1640s; that of "attach as an appendix" is recorded by 1843. OED says the original word was obsolete by c.1500, and these later transitive senses represent a reborrowing from Latin or French. Related: <span class="foreign">Appended</span>; <span class="foreign">appending</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appendage&allowed_in_frame=0">appendage (n.)</a> <a href="http://dictionary.reference.com/search?q=appendage" class="dictionary" title="Look up appendage at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appendage at Dictionary.com" title="Look up appendage at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from <a href="/index.php?term=append&allowed_in_frame=0" class="crossreference">append</a> + <a href="/index.php?term=-age&allowed_in_frame=0" class="crossreference">-age</a>.</dd>
+
+<dt><a href="/index.php?term=appendectomy&allowed_in_frame=0">appendectomy (n.)</a> <a href="http://dictionary.reference.com/search?q=appendectomy" class="dictionary" title="Look up appendectomy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appendectomy at Dictionary.com" title="Look up appendectomy at Dictionary.com" /></a></dt>
+<dd>1891, a hybrid from from <a href="/index.php?term=appendix&allowed_in_frame=0" class="crossreference">appendix</a> + <a href="/index.php?term=-ectomy&allowed_in_frame=0" class="crossreference">-ectomy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appendices&allowed_in_frame=0">appendices (n.)</a> <a href="http://dictionary.reference.com/search?q=appendices" class="dictionary" title="Look up appendices at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appendices at Dictionary.com" title="Look up appendices at Dictionary.com" /></a></dt>
+<dd class="highlight">proper Latin plural of <a href="/index.php?term=appendix&allowed_in_frame=0" class="crossreference">appendix</a>.</dd>
+
+<dt><a href="/index.php?term=appendicitis&allowed_in_frame=0">appendicitis (n.)</a> <a href="http://dictionary.reference.com/search?q=appendicitis" class="dictionary" title="Look up appendicitis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appendicitis at Dictionary.com" title="Look up appendicitis at Dictionary.com" /></a></dt>
+<dd>1886, from Latin stem of <a href="/index.php?term=appendix&allowed_in_frame=0" class="crossreference">appendix</a> + <a href="/index.php?term=-itis&allowed_in_frame=0" class="crossreference">-itis</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appendicular&allowed_in_frame=0">appendicular (adj.)</a> <a href="http://dictionary.reference.com/search?q=appendicular" class="dictionary" title="Look up appendicular at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appendicular at Dictionary.com" title="Look up appendicular at Dictionary.com" /></a></dt>
+<dd class="highlight">1650s, from L. <span class="foreign">appendicula</span>, dim. of <a href="/index.php?term=appendix&allowed_in_frame=0" class="crossreference">appendix</a>  + <a href="/index.php?term=-ar&allowed_in_frame=0" class="crossreference">-ar</a>.</dd>
+
+<dt><a href="/index.php?term=appendix&allowed_in_frame=0">appendix (n.)</a> <a href="http://dictionary.reference.com/search?q=appendix" class="dictionary" title="Look up appendix at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appendix at Dictionary.com" title="Look up appendix at Dictionary.com" /></a></dt>
+<dd>1540s, "subjoined addition to a document or book," from L. <span class="foreign">appendix</span> "an addition, continuation, something attached," from <span class="foreign">appendere</span> (see <a href="/index.php?term=append&allowed_in_frame=0" class="crossreference">append</a>). Used for "small outgrowth of an internal organ" from 1610s, especially in reference to the <span class="foreign">vermiform appendix</span>. This sense perhaps from or influenced by Fr. <span class="foreign">appendix</span>, where the term was in use from 1540s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apperceive&allowed_in_frame=0">apperceive (v.)</a> <a href="http://dictionary.reference.com/search?q=apperceive" class="dictionary" title="Look up apperceive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apperceive at Dictionary.com" title="Look up apperceive at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, from O.Fr. <span class="foreign">apercevoir</span> (see <a href="/index.php?term=apperception&allowed_in_frame=0" class="crossreference">apperception</a>). In modern psychological use, a back formation from <span class="foreign">apperception</span>. Related: <span class="foreign">Apperceived</span>; <span class="foreign">apperceiving</span>.</dd>
+
+<dt><a href="/index.php?term=apperception&allowed_in_frame=0">apperception (n.)</a> <a href="http://dictionary.reference.com/search?q=apperception" class="dictionary" title="Look up apperception at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apperception at Dictionary.com" title="Look up apperception at Dictionary.com" /></a></dt>
+<dd>1753, from Fr. <span class="foreign">aperception</span> (17c.), from Ger. <span class="foreign">Apperzeption</span> (or L. <span class="foreign">apperceptionem</span>), coined by German mathematician and philosopher Gottfried Wilhelm Leibniz (1646-1716) as noun corresponding to Fr. <span class="foreign">apercevoir</span> "perceive, notice, become aware of" (11c., from L. <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">percipere</span>; see <a href="/index.php?term=perceive&allowed_in_frame=0" class="crossreference">perceive</a>) on analogy of <span class="foreign">Perzeption</span>/<span class="foreign">percevoir</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appertain&allowed_in_frame=0">appertain (v.)</a> <a href="http://dictionary.reference.com/search?q=appertain" class="dictionary" title="Look up appertain at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appertain at Dictionary.com" title="Look up appertain at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from Anglo-Fr. <span class="foreign">apartenir</span>, O.Fr. <span class="foreign">apartenir</span> (12c.) "be related to; be incumbent upon," from L.L. <span class="foreign">appertinere</span> "to pertain to," from <span class="foreign">ad-</span> "to, completely" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">pertinere</span> "to belong to" (see <a href="/index.php?term=pertain&allowed_in_frame=0" class="crossreference">pertain</a>). To belong as parts to the whole, or as members to a family or class. Related: <span class="foreign">Appertained</span>; <span class="foreign">appertaining</span>.</dd>
+
+<dt><a href="/index.php?term=appetence&allowed_in_frame=0">appetence (n.)</a> <a href="http://dictionary.reference.com/search?q=appetence" class="dictionary" title="Look up appetence at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appetence at Dictionary.com" title="Look up appetence at Dictionary.com" /></a></dt>
+<dd>"strong desire," c.1600, from Fr. <span class="foreign">app&eacute;tence</span> "desire," from L. <span class="foreign">appetentia</span> "longing after something," noun of state from <span class="foreign">appetentem</span> (nom. <span class="foreign">appetens</span>), prp. of <span class="foreign">appetere</span>, from <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">petere</span> "to seek, request" (see <a href="/index.php?term=petition&allowed_in_frame=0" class="crossreference">petition</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=appetite&allowed_in_frame=0">appetite (n.)</a> <a href="http://dictionary.reference.com/search?q=appetite" class="dictionary" title="Look up appetite at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appetite at Dictionary.com" title="Look up appetite at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "craving for food," from Anglo-Fr. <span class="foreign">appetit</span>, O.Fr. <span class="foreign">apetit</span> (13c.) "appetite, desire, eagerness," from L. <span class="foreign">appetitus</span> "appetite," lit. "desire toward," from <span class="foreign">appetitus</span>, pp. of <span class="foreign">appetere</span> "to long for, desire; strive for, grasp at," from <span class="foreign">ad-</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">petere</span> "go to, seek out" (see <a href="/index.php?term=petition&allowed_in_frame=0" class="crossreference">petition</a>). Of other desires or cravings, from late 14c. As an adjective form, OED lists <span class="foreign">appetitious</span> (1650s) and <span class="foreign">appetitual</span> (1610s) as "obsolete," but <span class="foreign">appetitive</span> (1570s) continues.</dd>
+
+<dt><a href="/index.php?term=appetize&allowed_in_frame=0">appetize (v.)</a> <a href="http://dictionary.reference.com/search?q=appetize" class="dictionary" title="Look up appetize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appetize at Dictionary.com" title="Look up appetize at Dictionary.com" /></a></dt>
+<dd>"make hungry," 1782 (implied in <span class="foreign">appetized</span>), irregularly formed (on model of verbs in <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>) from <a href="/index.php?term=appetite&allowed_in_frame=0" class="crossreference">appetite</a>, or else a back formation from <a href="/index.php?term=appetizing&allowed_in_frame=0" class="crossreference">appetizing</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=appetizer&allowed_in_frame=0">appetizer (n.)</a> <a href="http://dictionary.reference.com/search?q=appetizer" class="dictionary" title="Look up appetizer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appetizer at Dictionary.com" title="Look up appetizer at Dictionary.com" /></a></dt>
+<dd class="highlight">"something taken to whet the appetite," 1820, agent noun from <a href="/index.php?term=appetize&allowed_in_frame=0" class="crossreference">appetize</a>.</dd>
+
+<dt><a href="/index.php?term=appetizing&allowed_in_frame=0">appetizing (adj.)</a> <a href="http://dictionary.reference.com/search?q=appetizing" class="dictionary" title="Look up appetizing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appetizing at Dictionary.com" title="Look up appetizing at Dictionary.com" /></a></dt>
+<dd>"exciting desire or hunger," 1650s, from <a href="/index.php?term=appetite&allowed_in_frame=0" class="crossreference">appetite</a> on model of prp. adjective forms in <a href="/index.php?term=-ing&allowed_in_frame=0" class="crossreference">-ing</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Appian+Way&allowed_in_frame=0">Appian Way</a> <a href="http://dictionary.reference.com/search?q=Appian+Way" class="dictionary" title="Look up Appian Way at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Appian Way at Dictionary.com" title="Look up Appian Way at Dictionary.com" /></a></dt>
+<dd class="highlight">road between Rome and Capua, so called because it was begun (302 B.C.E.) by the consul Appius Claudius Caecus.</dd>
+
+<dt><a href="/index.php?term=applaud&allowed_in_frame=0">applaud (v.)</a> <a href="http://dictionary.reference.com/search?q=applaud" class="dictionary" title="Look up applaud at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up applaud at Dictionary.com" title="Look up applaud at Dictionary.com" /></a></dt>
+<dd>late 15c. (implied in <span class="foreign">applauding</span>), "to express agreement or approval; to praise," from L. <span class="foreign">applaudere</span> "to clap the hands in approbation, to approve by clapping hands; to strike upon, beat," from <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">plaudere</span> "to clap" (see <a href="/index.php?term=plaudit&allowed_in_frame=0" class="crossreference">plaudit</a>). Sense of "express approval of" is from 1590s; that of "to clap the hands" is from 1590s. Figurative sense arrived in English before literal. Related: <span class="foreign">Applauded</span>; <span class="foreign">applauding</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=applause&allowed_in_frame=0">applause (n.)</a> <a href="http://dictionary.reference.com/search?q=applause" class="dictionary" title="Look up applause at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up applause at Dictionary.com" title="Look up applause at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from L. <span class="foreign">applausus</span>, pp. of <span class="foreign">applaudere</span> "approve by clapping hands" (see <a href="/index.php?term=applaud&allowed_in_frame=0" class="crossreference">applaud</a>).</dd>
+
+<dt><a href="/index.php?term=apple&allowed_in_frame=0">apple (n.)</a> <a href="http://dictionary.reference.com/search?q=apple" class="dictionary" title="Look up apple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apple at Dictionary.com" title="Look up apple at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">&aelig;ppel</span> "apple; any kind of fruit; fruit in general," from P.Gmc. <span class="foreign">*ap(a)laz</span> (cf. O.S., O.Fris., Du. <span class="foreign">appel</span>, O.N. <span class="foreign">eple</span>, O.H.G. <span class="foreign">apful</span>, Ger. <span class="foreign">Apfel</span>), from PIE <span class="foreign">*ab(e)l</span> "apple" (cf. Gaul. <span class="foreign">avallo</span> "fruit;" O.Ir. <span class="foreign">ubull</span>, Lith. <span class="foreign">obuolys</span>, O.C.S. <span class="foreign">jabloko</span> "apple"), but the exact relation and original sense of these is uncertain (cf. <a href="/index.php?term=melon&allowed_in_frame=0" class="crossreference">melon</a>).
+<blockquote>A roted eppel amang &thorn;e holen, make&thorn; rotie &thorn;e yzounde. ["Ayenbite of Inwit," 1340]
+</blockquote>
+In Middle English and as late as 17c., it was a generic term for all fruit other than berries but including nuts (e.g. O.E. <span class="foreign">finger&aelig;ppla</span> "dates," lit. "finger-apples;" M.E. <span class="foreign">appel of paradis</span> "banana," c.1400). Hence its grafting onto the unnamed "fruit of the forbidden tree" in Genesis. Cucumbers, in one Old English work, are <span class="foreign">eor&thorn;&aelig;ppla</span>, lit. "earth-apples" (cf. Fr. <span class="foreign">pomme de terre</span> "potato," lit. "earth-apple;" see also <a href="/index.php?term=melon&allowed_in_frame=0" class="crossreference">melon</a>). Fr. <span class="foreign">pomme</span> is from L. <span class="foreign">pomum</span> "fruit."
+<blockquote>
+As far as the forbidden fruit is concerned, again, the Quran does not mention it explicitly, but according to traditional commentaries it was not an apple, as believed by Christians and Jews, but wheat. ["The Heart of Islam: Enduring Values for Humanity," Seyyed Hossein Nasr, 2002]
+</blockquote>
+<span class="foreign">Apple of Discord</span> (c.1400) was thrown into the wedding of Thetis and Peleus by Eris (goddess of chaos and discord), who had not been invited, and inscribed <span class="foreign">kallisti</span> "To the Prettiest One." Paris, elected to choose which goddess should have it, gave it to Aphrodite, offending Hera and Athene, with consequences of the Trojan War, etc. <span class="foreign">Apple of one's eye</span> (Old English), symbol of what is most cherished, was the pupil, supposed to be a globular solid body. <span class="foreign">Apple-polisher</span> "one who curries favor" first attested 1928 in student slang. The image of something that <span class="foreign">upsets the apple cart</span> is attested from 1788.</dd>
+
+<dt class="highlight"><a href="/index.php?term=apple+pie&allowed_in_frame=0">apple pie</a> <a href="http://dictionary.reference.com/search?q=apple+pie" class="dictionary" title="Look up apple pie at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up apple pie at Dictionary.com" title="Look up apple pie at Dictionary.com" /></a></dt>
+<dd class="highlight">attested from 1580s, from <a href="/index.php?term=apple&allowed_in_frame=0" class="crossreference">apple</a> + <a href="/index.php?term=pie&allowed_in_frame=0" class="crossreference">pie</a>; noted by 1893 as a typical American dish. <span class="foreign">Apple-pie bed</span> as a name for a childish prank is recorded from 1781; supposedly from the way of making apple turnovers, but some think it a folk etymology of Fr. <span class="foreign">nappe pli&eacute;e</span> "folded sheet."</dd>
+
+<dt><a href="/index.php?term=applesauce&allowed_in_frame=0">applesauce (n.)</a> <a href="http://dictionary.reference.com/search?q=applesauce" class="dictionary" title="Look up applesauce at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up applesauce at Dictionary.com" title="Look up applesauce at Dictionary.com" /></a></dt>
+<dd>by 1739, American English, from <a href="/index.php?term=apple&allowed_in_frame=0" class="crossreference">apple</a> + <a href="/index.php?term=sauce&allowed_in_frame=0" class="crossreference">sauce</a>. Slang meaning "nonsense" is attested from 1921 and was noted as a vogue word early 1920s. Mencken credits it to cartoonist T.A. ("Tad") Dorgan. DAS suggests the word was thus used because applesauce was cheap fare served in boardinghouses.</dd>
+
+<dt class="highlight"><a href="/index.php?term=applet&allowed_in_frame=0">applet (n.)</a> <a href="http://dictionary.reference.com/search?q=applet" class="dictionary" title="Look up applet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up applet at Dictionary.com" title="Look up applet at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1995, a diminutive formation from <a href="/index.php?term=application&allowed_in_frame=0" class="crossreference">application</a>.</dd>
+
+<dt><a href="/index.php?term=appliance&allowed_in_frame=0">appliance (n.)</a> <a href="http://dictionary.reference.com/search?q=appliance" class="dictionary" title="Look up appliance at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up appliance at Dictionary.com" title="Look up appliance at Dictionary.com" /></a></dt>
+<dd>1560s, "action of putting into use," from <a href="/index.php?term=apply&allowed_in_frame=0" class="crossreference">apply</a> + <a href="/index.php?term=-ance&allowed_in_frame=0" class="crossreference">-ance</a>. Meaning "instrument, thing applied for a purpose" is from 1590s.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657966 -->
+<!-- Page was generated in 0.226601 seconds. -->
+ </body>
+</html>
+<!-- -->

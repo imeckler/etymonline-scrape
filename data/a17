@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=air+freshener&allowed_in_frame=0">air freshener (n.)</a> <a href="http://dictionary.reference.com/search?q=air+freshener" class="dictionary" title="Look up air freshener at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up air freshener at Dictionary.com" title="Look up air freshener at Dictionary.com" /></a></dt>
+<dd class="highlight">1949, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + agent noun from <a href="/index.php?term=freshen&allowed_in_frame=0" class="crossreference">freshen</a>.</dd>
+
+<dt><a href="/index.php?term=air+mail&allowed_in_frame=0">air mail (n.)</a> <a href="http://dictionary.reference.com/search?q=air+mail" class="dictionary" title="Look up air mail at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up air mail at Dictionary.com" title="Look up air mail at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">air-mail</span>, 1913, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=mail&allowed_in_frame=0" class="crossreference">mail</a> (n.1).</dd>
+
+<dt class="highlight"><a href="/index.php?term=air+raid&allowed_in_frame=0">air raid (n.)</a> <a href="http://dictionary.reference.com/search?q=air+raid" class="dictionary" title="Look up air raid at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up air raid at Dictionary.com" title="Look up air raid at Dictionary.com" /></a></dt>
+<dd class="highlight">1914, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=raid&allowed_in_frame=0" class="crossreference">raid</a> (n.); originally in reference to British attacks Sept. 22, 1914, on Zeppelin bases at Cologne and D&uuml;sseldorf in World War I. The German word is <span class="foreign">Fliegerangriff</span> "aviator-attack," and if Old English had survived into the 20th century our word instead might be <span class="foreign">fleogendeongrype</span>.
+<blockquote>
+One didn't dare to inhale for fear of breathing it in. It was the sound of eighteen hundred airplanes approaching Hamburg from the south at an unimaginable height. We had already experienced two hundred or even more air raids, among them some very heavy ones, but this was something completely new. And yet there was an immediate recognition: this was what everyone had been waiting for, what had hung for months like a shadow over everything we did, making us weary. It was the end. [Hans Erich Nossack, "Der Untergang," 1942]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=airborne&allowed_in_frame=0">airborne (adj.)</a> <a href="http://dictionary.reference.com/search?q=airborne" class="dictionary" title="Look up airborne at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airborne at Dictionary.com" title="Look up airborne at Dictionary.com" /></a></dt>
+<dd>1640s, "carried through the air," from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=borne&allowed_in_frame=0" class="crossreference">borne</a>. Of military units, from 1937.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aircraft&allowed_in_frame=0">aircraft (n.)</a> <a href="http://dictionary.reference.com/search?q=aircraft" class="dictionary" title="Look up aircraft at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aircraft at Dictionary.com" title="Look up aircraft at Dictionary.com" /></a></dt>
+<dd class="highlight">1851, originally in reference to airships and balloons, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=craft&allowed_in_frame=0" class="crossreference">craft</a> (n.); a term from boating, as were many early aviation words. Of airplanes from 1907 and since 1930s exclusively of them. <span class="foreign">Aircraft carrier</span> is attested from 1919 (H.M.S. Hermes, launched September 1919, was the first ship to be built from the hull up as an aircraft carrier).</dd>
+
+<dt><a href="/index.php?term=Airedale&allowed_in_frame=0">Airedale</a> <a href="http://dictionary.reference.com/search?q=Airedale" class="dictionary" title="Look up Airedale at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Airedale at Dictionary.com" title="Look up Airedale at Dictionary.com" /></a></dt>
+<dd>type of terrier, 1880, named for <span class="foreign">Airedale,</span> a district in West Riding, Yorkshire.
+<blockquote>
+Name registered by Kennel Club (1886), for earlier <span class="foreign">Bingley</span> (where first bred), or <span class="foreign">broken-haired</span> terrier. [Weekley]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=airfoil&allowed_in_frame=0">airfoil (n.)</a> <a href="http://dictionary.reference.com/search?q=airfoil" class="dictionary" title="Look up airfoil at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airfoil at Dictionary.com" title="Look up airfoil at Dictionary.com" /></a></dt>
+<dd class="highlight">1922, U.S. form of <a href="/index.php?term=aerofoil&allowed_in_frame=0" class="crossreference">aerofoil</a>.</dd>
+
+<dt><a href="/index.php?term=airhead&allowed_in_frame=0">airhead (n.)</a> <a href="http://dictionary.reference.com/search?q=airhead" class="dictionary" title="Look up airhead at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airhead at Dictionary.com" title="Look up airhead at Dictionary.com" /></a></dt>
+<dd>"empty-headed person," 1972, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=head&allowed_in_frame=0" class="crossreference">head</a> (n.). Earlier as a term in mining (mid-19c.) and as a military term based on <a href="/index.php?term=beachhead&allowed_in_frame=0" class="crossreference">beachhead</a> (1950).</dd>
+
+<dt class="highlight"><a href="/index.php?term=airily&allowed_in_frame=0">airily (adv.)</a> <a href="http://dictionary.reference.com/search?q=airily" class="dictionary" title="Look up airily at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airily at Dictionary.com" title="Look up airily at Dictionary.com" /></a></dt>
+<dd class="highlight">1766, from <span class="foreign">airy</span> "with ostentatious air" (see <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.2)) + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). </dd>
+
+<dt><a href="/index.php?term=airing&allowed_in_frame=0">airing (n.)</a> <a href="http://dictionary.reference.com/search?q=airing" class="dictionary" title="Look up airing at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airing at Dictionary.com" title="Look up airing at Dictionary.com" /></a></dt>
+<dd>"action of exposing to air," c.1600, from prp. of <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (v.). Meaning "display, public exposure is from 1870.</dd>
+
+<dt class="highlight"><a href="/index.php?term=airlift&allowed_in_frame=0">airlift (n.)</a> <a href="http://dictionary.reference.com/search?q=airlift" class="dictionary" title="Look up airlift at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airlift at Dictionary.com" title="Look up airlift at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">air-lift</span>, 1893 as a type of pumping device; 1945 in the sense "transportation of supplies by air," from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=lift&allowed_in_frame=0" class="crossreference">lift</a> (n.). As a verb by 1949; popularized in reference to the response to the West Berlin blockade. Related: <span class="foreign">Air-lifted</span>; <span class="foreign">air-lifting</span>.</dd>
+
+<dt><a href="/index.php?term=airline&allowed_in_frame=0">airline (n.)</a> <a href="http://dictionary.reference.com/search?q=airline" class="dictionary" title="Look up airline at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airline at Dictionary.com" title="Look up airline at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">air-line</span>, 1813, "beeline, straight line from place to place" (as through the air, rather than over terrain; in later 19c. especially in reference to railways that ran directly between big cities in the U.S. instead of meandering from town to town in search of stock subscriptions as early railways typically did), from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=line&allowed_in_frame=0" class="crossreference">line</a> (n.). Meaning "public aircraft transportation company" is from 1914.</dd>
+
+<dt class="highlight"><a href="/index.php?term=airplane&allowed_in_frame=0">airplane (n.)</a> <a href="http://dictionary.reference.com/search?q=airplane" class="dictionary" title="Look up airplane at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airplane at Dictionary.com" title="Look up airplane at Dictionary.com" /></a></dt>
+<dd class="highlight">1907, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=plane&allowed_in_frame=0" class="crossreference">plane</a> (n.1); though the original references are British, the word caught on in American English, where it largely superseded earlier <a href="/index.php?term=aeroplane&allowed_in_frame=0" class="crossreference">aeroplane</a> (1873 in this sense and still common in British English). <a href="/index.php?term=Aircraft&allowed_in_frame=0" class="crossreference">Aircraft</a> "airplane" also is from 1907. Lord Byron, speculatively, used <span class="foreign">air-vessel</span> (1822).</dd>
+
+<dt><a href="/index.php?term=airplay&allowed_in_frame=0">airplay (n.)</a> <a href="http://dictionary.reference.com/search?q=airplay" class="dictionary" title="Look up airplay at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airplay at Dictionary.com" title="Look up airplay at Dictionary.com" /></a></dt>
+<dd>1950 in radio sense, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=play&allowed_in_frame=0" class="crossreference">play</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=airport&allowed_in_frame=0">airport (n.)</a> <a href="http://dictionary.reference.com/search?q=airport" class="dictionary" title="Look up airport at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airport at Dictionary.com" title="Look up airport at Dictionary.com" /></a></dt>
+<dd class="highlight">1919, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=port&allowed_in_frame=0" class="crossreference">port</a> (n.1). First reference is to Bader Field, outside Atlantic City, New Jersey, U.S., which opened in 1910.</dd>
+
+<dt><a href="/index.php?term=airship&allowed_in_frame=0">airship (n.)</a> <a href="http://dictionary.reference.com/search?q=airship" class="dictionary" title="Look up airship at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airship at Dictionary.com" title="Look up airship at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">air-ship</span>, 1888, from Ger. <span class="foreign">Luftschiff</span> "motor-driver dirigible;" see <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=ship&allowed_in_frame=0" class="crossreference">ship</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=airtight&allowed_in_frame=0">airtight (adj.)</a> <a href="http://dictionary.reference.com/search?q=airtight" class="dictionary" title="Look up airtight at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airtight at Dictionary.com" title="Look up airtight at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">air-tight</span>, "impervious to air," 1760, from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=tight&allowed_in_frame=0" class="crossreference">tight</a>. Figurative sense of "incontrovertible" (of arguments, alabis, etc.) is from 1929. </dd>
+
+<dt><a href="/index.php?term=airy&allowed_in_frame=0">airy (adj.)</a> <a href="http://dictionary.reference.com/search?q=airy" class="dictionary" title="Look up airy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up airy at Dictionary.com" title="Look up airy at Dictionary.com" /></a></dt>
+<dd>late 14c., "of the air, made of air," from <a href="/index.php?term=air&allowed_in_frame=0" class="crossreference">air</a> (n.1) + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Meaning "breezy" is attested from 1590s; that of "lively" is from 1640s. Sense of "vain, unsubstantial" is from 1580s. Disparaging <span class="foreign">airy-fairy</span> is attested from 1920 (earlier in a sense of "delicate or light as a fairy," which is how Tennyson used it in 1830).</dd>
+
+<dt class="highlight"><a href="/index.php?term=aisle&allowed_in_frame=0">aisle (n.)</a> <a href="http://dictionary.reference.com/search?q=aisle" class="dictionary" title="Look up aisle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aisle at Dictionary.com" title="Look up aisle at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., <span class="foreign">ele</span>, "lateral division of a church (usually separated by a row of pillars), from O.Fr. <span class="foreign">ele</span> "wing (of a bird or an army), side of a ship" (12c., Mod.Fr. <span class="foreign">aile</span>), from L. <span class="foreign">ala</span>, related to <span class="foreign">axilla</span> "wing, upper arm, armpit; wing of an army," from PIE <span class="foreign">*aks-</span> "axis" (see <a href="/index.php?term=axis&allowed_in_frame=0" class="crossreference">axis</a>), via a suffixed form <span class="foreign">*aks-la-</span>. The root meaning in "turning" connects it with <a href="/index.php?term=axle&allowed_in_frame=0" class="crossreference">axle</a> and <a href="/index.php?term=axis&allowed_in_frame=0" class="crossreference">axis</a>.
+<BR><BR>
+Confused 15c. with unrelated <span class="foreign">ile</span> "island" (perhaps from notion of a "detached" part of a church), and so it took an <span class="foreign">-s-</span> when <span class="foreign">isle</span> did, c.1700; by 1750 it had acquired an <span class="foreign">a-</span>, on the model of French cognate <span class="foreign">aile</span>. The word also was confused with <span class="foreign">alley</span>, which gave it the sense of "passage between rows of pews or seats" (1731), which was thence extended to railway cars, theaters, etc.</dd>
+
+<dt><a href="/index.php?term=ajar&allowed_in_frame=0">ajar</a> <a href="http://dictionary.reference.com/search?q=ajar" class="dictionary" title="Look up ajar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up ajar at Dictionary.com" title="Look up ajar at Dictionary.com" /></a></dt>
+<dd>1718, perhaps from Scottish dialectal <span class="foreign">a char</span> "slightly open," earlier <span class="foreign">on char</span> (early 16c.), from Middle English <span class="foreign">char</span>, from Old English <span class="foreign">cier</span> "a turn."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Ajax&allowed_in_frame=0">Ajax</a> <a href="http://dictionary.reference.com/search?q=Ajax" class="dictionary" title="Look up Ajax at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Ajax at Dictionary.com" title="Look up Ajax at Dictionary.com" /></a></dt>
+<dd class="highlight">name of two Greek heroes in the Trojan War (Great Ajax, son of Telamon, and Little Ajax, son of Oileus), Latin, from Gk. <span class="foreign">Aias,</span> perhaps originally the name of an earth-god, from <span class="foreign">aia</span> "earth." The Elizabethans punned on the name as <span class="foreign">a jakes</span> "a privy."</dd>
+
+<dt><a href="/index.php?term=akimbo&allowed_in_frame=0">akimbo</a> <a href="http://dictionary.reference.com/search?q=akimbo" class="dictionary" title="Look up akimbo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up akimbo at Dictionary.com" title="Look up akimbo at Dictionary.com" /></a></dt>
+<dd>c.1400, <span class="foreign">in kenebowe</span>, of unknown origin, perhaps from Middle English phrase <span class="foreign">in keen bow</span> "at a sharp angle," or from a Scandinavian word akin to Icelandic <span class="foreign">kengboginn</span> "bow-bent," but this seems not to have been used in this exact sense. Many languages use a teapot metaphor for this, such as Fr. <span class="foreign">faire le pot a deux anses</span> "to play the pot with two handles."</dd>
+
+<dt class="highlight"><a href="/index.php?term=akin&allowed_in_frame=0">akin (adj.)</a> <a href="http://dictionary.reference.com/search?q=akin" class="dictionary" title="Look up akin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up akin at Dictionary.com" title="Look up akin at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, from phrase <span class="foreign">of kin</span>; see <a href="/index.php?term=kin&allowed_in_frame=0" class="crossreference">kin</a>.</dd>
+
+<dt><a href="/index.php?term=Akkadian&allowed_in_frame=0">Akkadian</a> <a href="http://dictionary.reference.com/search?q=Akkadian" class="dictionary" title="Look up Akkadian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Akkadian at Dictionary.com" title="Look up Akkadian at Dictionary.com" /></a></dt>
+<dd>1855, from <span class="foreign">Akkad</span> (Sumerian <span class="foreign">Agde</span>, Biblical <span class="foreign">Acca</span>), name of city founded by Sargon I in northern Babylonia, of unknown origin; applied by modern scholars to the east Semitic language spoken there (c.2300-2100 B.C.E.) and preserved in cuneiform inscriptions.</dd>
+
+<dt class="highlight"><a href="/index.php?term=al+dente&allowed_in_frame=0">al dente</a> <a href="http://dictionary.reference.com/search?q=al+dente" class="dictionary" title="Look up al dente at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up al dente at Dictionary.com" title="Look up al dente at Dictionary.com" /></a></dt>
+<dd class="highlight">1935, Italian, lit. "to the tooth," from L. <span class="foreign">dent</span> (see <a href="/index.php?term=tooth&allowed_in_frame=0" class="crossreference">tooth</a>).</dd>
+
+<dt><a href="/index.php?term=al+fresco&allowed_in_frame=0">al fresco</a> <a href="http://dictionary.reference.com/search?q=al+fresco" class="dictionary" title="Look up al fresco at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up al fresco at Dictionary.com" title="Look up al fresco at Dictionary.com" /></a></dt>
+<dd>1753, Italian, lit. "in the fresh (air)." Italian <span class="foreign">al</span> represents a contraction of words from L. <span class="foreign">ad</span> "to" (see <a href="/index.php?term=ad-&allowed_in_frame=0" class="crossreference">ad-</a>) + <span class="foreign">ille</span> "that." <span class="foreign">Alfresco</span> also meant "painted on plaster that was still fresh or moist" (1764; see <a href="/index.php?term=fresco&allowed_in_frame=0" class="crossreference">fresco</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=al+Qaeda&allowed_in_frame=0">al Qaeda</a> <a href="http://dictionary.reference.com/search?q=al+Qaeda" class="dictionary" title="Look up al Qaeda at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up al Qaeda at Dictionary.com" title="Look up al Qaeda at Dictionary.com" /></a></dt>
+<dd class="highlight">alternative Latin alphabet transliteration of Arabic <a href="/index.php?term=al Qaida&allowed_in_frame=0" class="crossreference">al Qaida</a> (q.v.). </dd>
+
+<dt><a href="/index.php?term=al+Qaida&allowed_in_frame=0">al Qaida</a> <a href="http://dictionary.reference.com/search?q=al+Qaida" class="dictionary" title="Look up al Qaida at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up al Qaida at Dictionary.com" title="Look up al Qaida at Dictionary.com" /></a></dt>
+<dd>also <span class="foreign">Al-Qaeda</span>; name of a loosely structured jihadist movement founded c.1989 by Osama bin Laden; from Arabic, lit. "the base." A common Arabic term among Muslim radicals from the wider Islamic world who came to Afghanistan in 1980s and fought alongside local rebels against the Soviets, and who regarded themselves and their struggle not merely in Afghan terms but as the "base" or foundation of a wider jihad and revival in Islam. Used by Bin Laden's mentor, Abdallah Azzam (1941-1989), who referred to the "vanguard" which "constitutes the strong foundation [<span class="foreign">al-qaida al-sulbah</span>] for the expected society." In U.S., the term first turns up in a CIA report in 1996.
+<blockquote>
+Every Muslim, from the moment they realise the distinction in their hearts, hates Americans, hates Jews, and hates Christians. This is a part of our belief and our religion. For as long as I can remember, I have felt tormented and at war, and have felt hatred and animosity for Americans. [Osama bin Laden, interview aired on Al-Jazeera, December 1998]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=Alabama&allowed_in_frame=0">Alabama</a> <a href="http://dictionary.reference.com/search?q=Alabama" class="dictionary" title="Look up Alabama at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alabama at Dictionary.com" title="Look up Alabama at Dictionary.com" /></a></dt>
+<dd class="highlight">created and named as a U.S. territory 1817 by a division of Mississippi Territory; ultimately named for one of the native peoples who lived there, who speak Muskogean. Their name probably is from a Choctaw term meaning "plant-cutters."</dd>
+
+<dt><a href="/index.php?term=alabaster&allowed_in_frame=0">alabaster (n.)</a> <a href="http://dictionary.reference.com/search?q=alabaster" class="dictionary" title="Look up alabaster at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alabaster at Dictionary.com" title="Look up alabaster at Dictionary.com" /></a></dt>
+<dd>translucent whitish kind of gypsum used for vases, ornaments, and busts, late 14c., from O.Fr. <span class="foreign">alabastre</span> (12c., Mod.Fr. <span class="foreign">alb&acirc;tre</span>), from L. <span class="foreign">alabaster</span> "colored rock used to make boxes and vessels for unguents," from Gk. <span class="foreign">alabastros</span> (earlier <span class="foreign">albatos</span>) "vase for perfumes," perhaps from Egyptian <span class="foreign">'a-labaste</span> "vessel of the goddess Bast." Used figuratively for whiteness and smoothness from 1570s. "The spelling in 16-17th c. is almost always <span class="foreign">alablaster</span> ..." [OED].</dd>
+
+<dt class="highlight"><a href="/index.php?term=alabastrine&allowed_in_frame=0">alabastrine (adj.)</a> <a href="http://dictionary.reference.com/search?q=alabastrine" class="dictionary" title="Look up alabastrine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alabastrine at Dictionary.com" title="Look up alabastrine at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from M.L. <span class="foreign">alabastrinus</span>, from <span class="foreign">alabaster</span> (see <a href="/index.php?term=alabaster&allowed_in_frame=0" class="crossreference">alabaster</a>).</dd>
+
+<dt><a href="/index.php?term=alack&allowed_in_frame=0">alack</a> <a href="http://dictionary.reference.com/search?q=alack" class="dictionary" title="Look up alack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alack at Dictionary.com" title="Look up alack at Dictionary.com" /></a></dt>
+<dd>late 15c., from <span class="foreign">ah, lack</span>, from <a href="/index.php?term=lack&allowed_in_frame=0" class="crossreference">lack</a> in Middle English sense of "loss, failure, reproach, shame." Originally an expression of dissatisfaction, later of regret or unpleasant surprise.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alacrity&allowed_in_frame=0">alacrity (n.)</a> <a href="http://dictionary.reference.com/search?q=alacrity" class="dictionary" title="Look up alacrity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alacrity at Dictionary.com" title="Look up alacrity at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., from L. <span class="foreign">alacritatem</span> (nom. <span class="foreign">alacritas</span>) "liveliness, ardor, eagerness," from <span class="foreign">alacer</span> (gen. <span class="foreign">alacris</span>) "cheerful, brisk, lively;" of uncertain origin, perhaps cognate with Goth. <span class="foreign">aljan</span> "zeal," O.E. <span class="foreign">ellen</span> "courage, zeal, strength," O.H.G. <span class="foreign">ellian</span>.</dd>
+
+<dt><a href="/index.php?term=Aladdin&allowed_in_frame=0">Aladdin</a> <a href="http://dictionary.reference.com/search?q=Aladdin" class="dictionary" title="Look up Aladdin at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Aladdin at Dictionary.com" title="Look up Aladdin at Dictionary.com" /></a></dt>
+<dd>name of a hero in stories from the Arabian Nights, from Arabic <span class="foreign">Ala' al Din,</span> lit. "nobility of faith."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alamo&allowed_in_frame=0">Alamo</a> <a href="http://dictionary.reference.com/search?q=Alamo" class="dictionary" title="Look up Alamo at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alamo at Dictionary.com" title="Look up Alamo at Dictionary.com" /></a></dt>
+<dd class="highlight">nickname of Franciscan <span class="foreign">Mission San Antonio de Valeroin</span> (begun 1718, dissolved 1793) in San Antonio, Texas; American Spanish, lit. "poplar" (in New Spain, also "cottonwood"), from <span class="foreign">alno</span> "the black poplar," from L. <span class="foreign">alnus</span> "alder" (cf. <a href="/index.php?term=alder&allowed_in_frame=0" class="crossreference">alder</a>).
+<BR><BR>
+Perhaps so called in reference to trees growing nearby (cf. <span class="foreign">Alamogordo</span>, New Mexico, lit. "big poplar," and Sp. <span class="foreign">alameda</span> "a public walk with a row of trees on each side"); but the popular name seems to date from the period 1803-13, when the old mission was the base for a Spanish cavalry company from the Mexican town of <span class="foreign">Alamo de Parras</span> in Nueva Vizcaya.</dd>
+
+<dt><a href="/index.php?term=Alan&allowed_in_frame=0">Alan</a> <a href="http://dictionary.reference.com/search?q=Alan" class="dictionary" title="Look up Alan at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alan at Dictionary.com" title="Look up Alan at Dictionary.com" /></a></dt>
+<dd>masc. proper name, 1066, from O.Bret. <span class="foreign">Alan</span>, name of a popular Welsh and Breton saint; brought to England by the large contingent of Bretons who fought alongside William the Conqueror.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alar&allowed_in_frame=0">alar (adj.)</a> <a href="http://dictionary.reference.com/search?q=alar" class="dictionary" title="Look up alar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alar at Dictionary.com" title="Look up alar at Dictionary.com" /></a></dt>
+<dd class="highlight">"wing-like," c.1840; "of or pertaining to wings," 1847, from L. <span class="foreign">alaris</span>, from <span class="foreign">ala</span> "wing, armpit, wing of an army" (cf. Sp. <span class="foreign">ala</span>, Fr. <span class="foreign">aile</span>), from <span class="foreign">*axla</span>, originally "joint of the wing or arm;" from PIE <span class="foreign">*aks-</span> (see <a href="/index.php?term=axis&allowed_in_frame=0" class="crossreference">axis</a>).</dd>
+
+<dt><a href="/index.php?term=Alaric&allowed_in_frame=0">Alaric</a> <a href="http://dictionary.reference.com/search?q=Alaric" class="dictionary" title="Look up Alaric at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alaric at Dictionary.com" title="Look up Alaric at Dictionary.com" /></a></dt>
+<dd>Visigothic masc. proper name, lit. "all-ruler," from P.Gmc. <span class="foreign">*ala-</span> "all" + <span class="foreign">*rikja</span> "rule" (see <a href="/index.php?term=rich&allowed_in_frame=0" class="crossreference">rich</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alarm&allowed_in_frame=0">alarm (n.)</a> <a href="http://dictionary.reference.com/search?q=alarm" class="dictionary" title="Look up alarm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alarm at Dictionary.com" title="Look up alarm at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., from O.Fr. <span class="foreign">alarme</span> (14c.), from It. <span class="foreign">all'arme</span> "to arms!" (lit. "to the arms"). An interjection that came to be used as the word for the call or warning (cf. <a href="/index.php?term=alert&allowed_in_frame=0" class="crossreference">alert</a>). Extended 16c. to "any sound to warn of danger or to arouse." Weakened sense of "apprehension, unease" is from 1833. Variant <span class="foreign">alarum</span> is due to the rolling <span class="foreign">-r-</span> in the vocalized form. Sometimes in early years anglicized as <span class="foreign">all-arm</span>. <span class="foreign">Alarm clock</span> is attested from 1690s (as <span class="foreign">A Larum clock</span>).</dd>
+
+<dt><a href="/index.php?term=alarm&allowed_in_frame=0">alarm (v.)</a> <a href="http://dictionary.reference.com/search?q=alarm" class="dictionary" title="Look up alarm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alarm at Dictionary.com" title="Look up alarm at Dictionary.com" /></a></dt>
+<dd>1580s, from <a href="/index.php?term=alarm&allowed_in_frame=0" class="crossreference">alarm</a> (n.). Related: <a href="/index.php?term=Alarmed&allowed_in_frame=0" class="crossreference">Alarmed</a>; <span class="foreign">alarming</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alarmed&allowed_in_frame=0">alarmed (adj.)</a> <a href="http://dictionary.reference.com/search?q=alarmed" class="dictionary" title="Look up alarmed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alarmed at Dictionary.com" title="Look up alarmed at Dictionary.com" /></a></dt>
+<dd class="highlight">"disturbed by prospects of peril," 1640s, pp. adjective from <a href="/index.php?term=alarm&allowed_in_frame=0" class="crossreference">alarm</a> (v.).</dd>
+
+<dt><a href="/index.php?term=alarmingly&allowed_in_frame=0">alarmingly (adv.)</a> <a href="http://dictionary.reference.com/search?q=alarmingly" class="dictionary" title="Look up alarmingly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alarmingly at Dictionary.com" title="Look up alarmingly at Dictionary.com" /></a></dt>
+<dd>1787, from <span class="foreign">alarming</span>, prp. adjective from <a href="/index.php?term=alarm&allowed_in_frame=0" class="crossreference">alarm</a> (v.), + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alarmist&allowed_in_frame=0">alarmist (n.)</a> <a href="http://dictionary.reference.com/search?q=alarmist" class="dictionary" title="Look up alarmist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alarmist at Dictionary.com" title="Look up alarmist at Dictionary.com" /></a></dt>
+<dd class="highlight">"one addicted to sounding alarms," 1793, from <a href="/index.php?term=alarm&allowed_in_frame=0" class="crossreference">alarm</a> (n.) + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=alarum&allowed_in_frame=0">alarum (n.)</a> <a href="http://dictionary.reference.com/search?q=alarum" class="dictionary" title="Look up alarum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alarum at Dictionary.com" title="Look up alarum at Dictionary.com" /></a></dt>
+<dd>obsolete and poetic spelling of <a href="/index.php?term=alarm&allowed_in_frame=0" class="crossreference">alarm</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alas&allowed_in_frame=0">alas</a> <a href="http://dictionary.reference.com/search?q=alas" class="dictionary" title="Look up alas at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alas at Dictionary.com" title="Look up alas at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-13c., from O.Fr. <span class="foreign">ha, las</span> (later Fr. <span class="foreign">h&eacute;las</span>), from <span class="foreign">ha</span> "ah" + <span class="foreign">las</span> "unfortunate," originally "tired, weary," from L. <span class="foreign">lassus</span> "weary" (see <a href="/index.php?term=late&allowed_in_frame=0" class="crossreference">late</a>). At first an expression of weariness rather than woe.</dd>
+
+<dt><a href="/index.php?term=Alaska&allowed_in_frame=0">Alaska</a> <a href="http://dictionary.reference.com/search?q=Alaska" class="dictionary" title="Look up Alaska at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alaska at Dictionary.com" title="Look up Alaska at Dictionary.com" /></a></dt>
+<dd>name first applied 18c. by Russian explorers, from Aleut <span class="foreign">alaxsxaq</span>, lit. "the object toward which the action of the sea is directed" [Bright]. <span class="foreign">Baked Alaska</span> attested by 1896, so called either for its whiteness or from being cold inside.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alastor&allowed_in_frame=0">Alastor</a> <a href="http://dictionary.reference.com/search?q=Alastor" class="dictionary" title="Look up Alastor at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alastor at Dictionary.com" title="Look up Alastor at Dictionary.com" /></a></dt>
+<dd class="highlight">in Greek tradition, son of Neleus, brother of Nestor, slain by Herakles. The name is perhaps lit. "not to forget," from privative prefix <span class="foreign">a-</span> "not" + root of <span class="foreign">lathein</span> "to forget" (see <a href="/index.php?term=Lethe&allowed_in_frame=0" class="crossreference">Lethe</a>), hence its use figuratively in sense of "an avenging spirit." Or else it might be connected with <span class="foreign">alaomai</span> "to wander, roam," figuratively "to be distraught."</dd>
+
+<dt><a href="/index.php?term=alb&allowed_in_frame=0">alb (n.)</a> <a href="http://dictionary.reference.com/search?q=alb" class="dictionary" title="Look up alb at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alb at Dictionary.com" title="Look up alb at Dictionary.com" /></a></dt>
+<dd>late O.E. <span class="foreign">albe</span>, from L.L. <span class="foreign">alba</span> (in <span class="foreign">tunica alba</span> or <span class="foreign">vestis alba</span> "white vestment"), fem. of <span class="foreign">albus</span> "white," from PIE root <span class="foreign">*albho-</span> "white" (cf. Gk. <span class="foreign">alphos</span> "white leprosy," <span class="foreign">alphiton</span> "barley meal;" O.H.G. <span class="foreign">albiz</span>, O.E. <span class="foreign">elfet</span> "swan," lit. "the white bird;" O.C.S., Rus. <span class="foreign">lebedi</span>, Pol. <span class="foreign">&#322;ab&#281;d&#378;</span> "swan;" Hittite <span class="foreign">alpash</span> "cloud").</dd>
+
+<dt class="highlight"><a href="/index.php?term=albacore&allowed_in_frame=0">albacore (n.)</a> <a href="http://dictionary.reference.com/search?q=albacore" class="dictionary" title="Look up albacore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up albacore at Dictionary.com" title="Look up albacore at Dictionary.com" /></a></dt>
+<dd class="highlight">large variety of tuna, 1570s, from Port. <span class="foreign">albacora</span>, from Arabic <span class="foreign">al bakara</span> "milk cow;" the fish so called for its size.</dd>
+
+<dt><a href="/index.php?term=Albania&allowed_in_frame=0">Albania</a> <a href="http://dictionary.reference.com/search?q=Albania" class="dictionary" title="Look up Albania at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Albania at Dictionary.com" title="Look up Albania at Dictionary.com" /></a></dt>
+<dd>Medieval Latin name of the country called by its inhabitants <span class="foreign">Shqipëri</span> (lit. "land of eagles," from <span class="foreign">shqiponje</span> "eagle"), from Medieval Greek <span class="foreign">Albania</span>, possibly from a pre-IE word <span class="foreign">*alb</span> "hill" (also proposed as the source of <span class="foreign">Alps</span>) or from the IE root <span class="foreign">*alb</span> "white." Roman Albania was a land by the Caspian Sea (modern Daghestan); in English <span class="foreign">Albania</span> was occasionally also a name for Scotland.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657935 -->
+<!-- Page was generated in 0.201890 seconds. -->
+ </body>
+</html>
+<!-- -->

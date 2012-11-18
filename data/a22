@@ -1,0 +1,424 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=Altair&allowed_in_frame=0">Altair</a> <a href="http://dictionary.reference.com/search?q=Altair" class="dictionary" title="Look up Altair at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Altair at Dictionary.com" title="Look up Altair at Dictionary.com" /></a></dt>
+<dd class="highlight">bright star in the constellation Aquila, 16c., from Arabic <span class="foreign">Al Nasr al Tair</span> "the Flying Eagle," from <span class="foreign">tair</span>, participle of <span class="foreign">tara</span> "it flew."</dd>
+
+<dt><a href="/index.php?term=altar&allowed_in_frame=0">altar (n.)</a> <a href="http://dictionary.reference.com/search?q=altar" class="dictionary" title="Look up altar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altar at Dictionary.com" title="Look up altar at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">alter</span>, <span class="foreign">altar</span>, from L. <span class="foreign">altare</span> (pl. <span class="foreign">altaria</span>) "high altar, altar for sacrifice to the great gods," perhaps originally meaning "burnt offerings" (cf. L. <span class="foreign">adolere</span> "to worship, to offer sacrifice, to honor by burning sacrifices to"), but influenced by L. <span class="foreign">altus</span> "high." In Middle English, often <span class="foreign">auter</span>, from O.Fr. <span class="foreign">auter</span>. Reintroduced from Latin 1500s. As a symbol of marriage, by 1820.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alter&allowed_in_frame=0">alter (v.)</a> <a href="http://dictionary.reference.com/search?q=alter" class="dictionary" title="Look up alter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alter at Dictionary.com" title="Look up alter at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "to change (something)," from O.Fr. <span class="foreign">alterer</span> "change, alter," from M.L. <span class="foreign">alterare</span> "to change," from L. <span class="foreign">alter</span> "the other (of the two)," from PIE <span class="foreign">*al-</span> "beyond" (see <a href="/index.php?term=alias&allowed_in_frame=0" class="crossreference">alias</a> (adv.)) + comparative suffix <span class="foreign">-ter</span> (cf. <a href="/index.php?term=other&allowed_in_frame=0" class="crossreference">other</a>). Intransitive sense "to become otherwise" first recorded 1580s. Related: <span class="foreign">Altered</span>; <span class="foreign">altering</span>.</dd>
+
+<dt><a href="/index.php?term=alter+ego&allowed_in_frame=0">alter ego</a> <a href="http://dictionary.reference.com/search?q=alter+ego" class="dictionary" title="Look up alter ego at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alter ego at Dictionary.com" title="Look up alter ego at Dictionary.com" /></a></dt>
+<dd>1530s, from Latin phrase (used by Cicero), "a second self, a trusted friend" (cf. Gk. <span class="foreign">allos ego</span>); see <a href="/index.php?term=alter&allowed_in_frame=0" class="crossreference">alter</a> and <a href="/index.php?term=ego&allowed_in_frame=0" class="crossreference">ego</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alterable&allowed_in_frame=0">alterable (adj.)</a> <a href="http://dictionary.reference.com/search?q=alterable" class="dictionary" title="Look up alterable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alterable at Dictionary.com" title="Look up alterable at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, from <a href="/index.php?term=alter&allowed_in_frame=0" class="crossreference">alter</a> + <a href="/index.php?term=-able&allowed_in_frame=0" class="crossreference">-able</a>. Related: <span class="foreign">Alterably</span>; <span class="foreign">alterability</span>.</dd>
+
+<dt><a href="/index.php?term=alteration&allowed_in_frame=0">alteration (n.)</a> <a href="http://dictionary.reference.com/search?q=alteration" class="dictionary" title="Look up alteration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alteration at Dictionary.com" title="Look up alteration at Dictionary.com" /></a></dt>
+<dd>late 14c., "action of altering," from O.Fr. <span class="foreign">alteracion</span> (14c.) "change, alteration," and directly from M.L. <span class="foreign">alterationem</span> (nom. <span class="foreign">alteratio</span>), noun of action from pp. stem of L.L. <span class="foreign">alterare</span> (see <a href="/index.php?term=alter&allowed_in_frame=0" class="crossreference">alter</a>). Meaning "change in character or appearance" is from 1530s; that of "change in ready-made clothes to suit a customer's specifications" is from 1901. Related: <span class="foreign">Alterations</span>.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=altercate&allowed_in_frame=0">altercate (v.)</a> <a href="http://dictionary.reference.com/search?q=altercate" class="dictionary" title="Look up altercate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altercate at Dictionary.com" title="Look up altercate at Dictionary.com" /></a></dt>
+<dd class="highlight">1520s, "to contend with words," from L. <span class="foreign">altercatus</span>, pp. of <span class="foreign">altercari</span> (see <a href="/index.php?term=altercation&allowed_in_frame=0" class="crossreference">altercation</a>).</dd>
+
+<dt><a href="/index.php?term=altercation&allowed_in_frame=0">altercation (n.)</a> <a href="http://dictionary.reference.com/search?q=altercation" class="dictionary" title="Look up altercation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altercation at Dictionary.com" title="Look up altercation at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">altercacion</span> (12c.) and directly from L. <span class="foreign">altercationem</span> (nom. <span class="foreign">altercatio</span>) "a dispute, debate, discussion," noun of action from pp. stem of <span class="foreign">altercari</span> "to dispute (with another)," from <span class="foreign">alter</span> "other" (see <a href="/index.php?term=alter&allowed_in_frame=0" class="crossreference">alter</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alternate&allowed_in_frame=0">alternate (adj.)</a> <a href="http://dictionary.reference.com/search?q=alternate" class="dictionary" title="Look up alternate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternate at Dictionary.com" title="Look up alternate at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, from L. <span class="foreign">alternatus</span> "one after the other," pp. of <span class="foreign">alternare</span> "to do first one thing then the other; exchange parts," from <span class="foreign">alternus</span> "one after the other, alternate, in turns, reciprocal," from <span class="foreign">alter</span> "the other" (see <a href="/index.php?term=alter&allowed_in_frame=0" class="crossreference">alter</a>). <span class="foreign">Alternate</span> means "by turns;" <span class="foreign">alternative</span> means "offering a choice." Both imply two kinds or things.</dd>
+
+<dt><a href="/index.php?term=alternate&allowed_in_frame=0">alternate (v.)</a> <a href="http://dictionary.reference.com/search?q=alternate" class="dictionary" title="Look up alternate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternate at Dictionary.com" title="Look up alternate at Dictionary.com" /></a></dt>
+<dd>1590s, from L. <span class="foreign">alternatus</span>, pp. of <span class="foreign">alternare</span> (see <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (adj.)). Replaced M.E. <span class="foreign">alternen</span> "to vary, alternate" (early 15c.). Related: <span class="foreign">Alternated</span>; <a href="/index.php?term=alternating&allowed_in_frame=0" class="crossreference">alternating</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alternate&allowed_in_frame=0">alternate (n.)</a> <a href="http://dictionary.reference.com/search?q=alternate" class="dictionary" title="Look up alternate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternate at Dictionary.com" title="Look up alternate at Dictionary.com" /></a></dt>
+<dd class="highlight">1718, "that which alternates (with anything else)," from <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (adj.). Meaning "a substitute" is first attested 1848.</dd>
+
+<dt><a href="/index.php?term=alternately&allowed_in_frame=0">alternately (adv.)</a> <a href="http://dictionary.reference.com/search?q=alternately" class="dictionary" title="Look up alternately at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternately at Dictionary.com" title="Look up alternately at Dictionary.com" /></a></dt>
+<dd>early 15c., from <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (adj.) + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alternating&allowed_in_frame=0">alternating (adj.)</a> <a href="http://dictionary.reference.com/search?q=alternating" class="dictionary" title="Look up alternating at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternating at Dictionary.com" title="Look up alternating at Dictionary.com" /></a></dt>
+<dd class="highlight">1550s, prp. adjective from <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (v.). <span class="foreign">Alternating current</span> is recorded from 1839.</dd>
+
+<dt><a href="/index.php?term=alternation&allowed_in_frame=0">alternation (n.)</a> <a href="http://dictionary.reference.com/search?q=alternation" class="dictionary" title="Look up alternation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternation at Dictionary.com" title="Look up alternation at Dictionary.com" /></a></dt>
+<dd>mid-15c., from O.Fr. <span class="foreign">alternacion</span>, from L. <span class="foreign">alternationem</span> (nom. <span class="foreign">alternatio</span>), noun of action from pp. stem of <span class="foreign">alternare</span> (see <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alternative&allowed_in_frame=0">alternative (adj.)</a> <a href="http://dictionary.reference.com/search?q=alternative" class="dictionary" title="Look up alternative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternative at Dictionary.com" title="Look up alternative at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "offering one or the other of two," from M.L. <span class="foreign">alternativus</span>, from L. <span class="foreign">alternatus</span>, pp. of <span class="foreign">alternare</span> (see <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (v.)). Meaning "purporting to be a superior choice to what is in general use" was current by 1970 (earliest reference is to the media); e.g. <span class="foreign">alternative energy</span> (1975). Related: <span class="foreign">Alternatively</span>.</dd>
+
+<dt><a href="/index.php?term=alternative&allowed_in_frame=0">alternative (n.)</a> <a href="http://dictionary.reference.com/search?q=alternative" class="dictionary" title="Look up alternative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternative at Dictionary.com" title="Look up alternative at Dictionary.com" /></a></dt>
+<dd>1620s, in rhetoric, from M.L. <span class="foreign">alternativus</span> (see <a href="/index.php?term=alternative&allowed_in_frame=0" class="crossreference">alternative</a> (adj.)). Of courses of action, from 1814. Of objects, etc., "the other of two which may be chosen," by 1838. </dd>
+
+<dt class="highlight"><a href="/index.php?term=alternator&allowed_in_frame=0">alternator (n.)</a> <a href="http://dictionary.reference.com/search?q=alternator" class="dictionary" title="Look up alternator at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alternator at Dictionary.com" title="Look up alternator at Dictionary.com" /></a></dt>
+<dd class="highlight">1878, agent noun in Latin form from <a href="/index.php?term=alternate&allowed_in_frame=0" class="crossreference">alternate</a> (v.).</dd>
+
+<dt><a href="/index.php?term=although&allowed_in_frame=0">although (conj.)</a> <a href="http://dictionary.reference.com/search?q=although" class="dictionary" title="Look up although at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up although at Dictionary.com" title="Look up although at Dictionary.com" /></a></dt>
+<dd>early 14c., <span class="foreign">althagh</span>, compound of <a href="/index.php?term=all&allowed_in_frame=0" class="crossreference">all</a> + <a href="/index.php?term=though&allowed_in_frame=0" class="crossreference">though</a>, showing once-common emphatic use of <span class="foreign">all</span>. "<span class="foreign">All though</span> was originally more emphatic than <span class="foreign">though</span>, but by 1400 it was practically only a variant of it, and <span class="foreign">all</span> having thus lost its independent force, the phrase was written as one word" [OED].</dd>
+
+<dt class="highlight"><a href="/index.php?term=altimeter&allowed_in_frame=0">altimeter (n.)</a> <a href="http://dictionary.reference.com/search?q=altimeter" class="dictionary" title="Look up altimeter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altimeter at Dictionary.com" title="Look up altimeter at Dictionary.com" /></a></dt>
+<dd class="highlight">1918, from Mod.L. <span class="foreign">altimeter</span>, from <span class="foreign">alti-</span> "high" (from L. <span class="foreign">altus</span>; see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>) + <a href="/index.php?term=-meter&allowed_in_frame=0" class="crossreference">-meter</a>.</dd>
+
+<dt><a href="/index.php?term=altimetry&allowed_in_frame=0">altimetry (n.)</a> <a href="http://dictionary.reference.com/search?q=altimetry" class="dictionary" title="Look up altimetry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altimetry at Dictionary.com" title="Look up altimetry at Dictionary.com" /></a></dt>
+<dd>1690s, from M.L. <span class="foreign">altimetria</span>, from L. <span class="foreign">alti-</span> "high" (see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>) + Gk. <span class="foreign">-metria</span> (see <a href="/index.php?term=-metry&allowed_in_frame=0" class="crossreference">-metry</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=altitude&allowed_in_frame=0">altitude (n.)</a> <a href="http://dictionary.reference.com/search?q=altitude" class="dictionary" title="Look up altitude at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altitude at Dictionary.com" title="Look up altitude at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from L. <span class="foreign">altitudinem</span> (nom. <span class="foreign">altitudo</span>) "height, altitude," from <span class="foreign">altus</span> "high" (see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>).</dd>
+
+<dt><a href="/index.php?term=alto&allowed_in_frame=0">alto (n.)</a> <a href="http://dictionary.reference.com/search?q=alto" class="dictionary" title="Look up alto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alto at Dictionary.com" title="Look up alto at Dictionary.com" /></a></dt>
+<dd>1784, "man with an alto voice," from It. <span class="foreign">alto (canto)</span>, from L. <span class="foreign">altus</span> "high" (see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>). Originally a "high" man's voice, now more commonly applied to the lower range of women's voices (which is more strictly the <a href="/index.php?term=contralto&allowed_in_frame=0" class="crossreference">contralto</a>), an extension first recorded in 1881.
+<blockquote>
+The alto in a man is totally distinct from the contralto in a woman. The tone is utterly different -- the best notes of the one are certainly not the best notes of the other; and although in certain cases a contralto may sing with good effect music written for a male alto (e.g. in some oratorios), yet the converse is scarcely ever true. ["How to Sing," 1890]
+</blockquote>
+As a type of saxophone, from 1869.</dd>
+
+<dt class="highlight"><a href="/index.php?term=altogether&allowed_in_frame=0">altogether</a> <a href="http://dictionary.reference.com/search?q=altogether" class="dictionary" title="Look up altogether at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altogether at Dictionary.com" title="Look up altogether at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., <span class="foreign">altogedere</span>, a strengthened form of <a href="/index.php?term=all&allowed_in_frame=0" class="crossreference">all</a> (also see <a href="/index.php?term=together&allowed_in_frame=0" class="crossreference">together</a>); used in the sense of "a whole" from 1660s. <span class="foreign">The altogether</span> "nude" is from 1894.</dd>
+
+<dt><a href="/index.php?term=altruism&allowed_in_frame=0">altruism (n .)</a> <a href="http://dictionary.reference.com/search?q=altruism" class="dictionary" title="Look up altruism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altruism at Dictionary.com" title="Look up altruism at Dictionary.com" /></a></dt>
+<dd>1853, "unselfishness, opposite of egoism," from Fr. <span class="foreign">altruisme</span>, coined or popularized 1830 by French philosopher Auguste Comte (1798-1857), from <span class="foreign">autrui</span>, from O.Fr. <span class="foreign">altrui</span>, "of or to others," from L. <span class="foreign">alteri</span>, dative of <span class="foreign">alter</span> "other" (see <a href="/index.php?term=alter&allowed_in_frame=0" class="crossreference">alter</a>). Apparently suggested to Comte by French legal phrase <span class="foreign">l'autrui</span>, or in full, <span class="foreign">le bien, le droit d'autrui</span>. The <span class="foreign">-l-</span> is perhaps a reinsertion from the Latin word.
+<blockquote>
+There is a fable that when the badger had been stung all over by bees, a bear consoled him by a rhapsodic account of how he himself had just breakfasted on their honey. The badger replied peevishly, "The stings are in my flesh, and the sweetness is on your muzzle." The bear, it is said, was surprised at the badger's want of altruism. ["George Eliot," "Theophrastus Such," 1879]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=altruist&allowed_in_frame=0">altruist (n.)</a> <a href="http://dictionary.reference.com/search?q=altruist" class="dictionary" title="Look up altruist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altruist at Dictionary.com" title="Look up altruist at Dictionary.com" /></a></dt>
+<dd class="highlight">1842, from French; see <a href="/index.php?term=altruism&allowed_in_frame=0" class="crossreference">altruism</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=altruistic&allowed_in_frame=0">altruistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=altruistic" class="dictionary" title="Look up altruistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up altruistic at Dictionary.com" title="Look up altruistic at Dictionary.com" /></a></dt>
+<dd>1853, from Fr. <span class="foreign">altruiste</span> (adj.), from <span class="foreign">altruisme</span> (see <a href="/index.php?term=altruism&allowed_in_frame=0" class="crossreference">altruism</a>) + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alum&allowed_in_frame=0">alum (n.)</a> <a href="http://dictionary.reference.com/search?q=alum" class="dictionary" title="Look up alum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alum at Dictionary.com" title="Look up alum at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "whitish mineral salt used as an astringent, dye, etc.," from O.Fr. <span class="foreign">alum</span>, from L. <span class="foreign">alumen</span> "alum," lit. "bitter salt," cognate with Gk. <span class="foreign">aludoimos</span> "bitter" and perhaps with English <a href="/index.php?term=ale&allowed_in_frame=0" class="crossreference">ale</a>.</dd>
+
+<dt><a href="/index.php?term=aluminium&allowed_in_frame=0">aluminium</a> <a href="http://dictionary.reference.com/search?q=aluminium" class="dictionary" title="Look up aluminium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aluminium at Dictionary.com" title="Look up aluminium at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=aluminum&allowed_in_frame=0" class="crossreference">aluminum</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=aluminum&allowed_in_frame=0">aluminum (n.)</a> <a href="http://dictionary.reference.com/search?q=aluminum" class="dictionary" title="Look up aluminum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up aluminum at Dictionary.com" title="Look up aluminum at Dictionary.com" /></a></dt>
+<dd class="highlight">1812, coined by English chemist Sir Humphry Davy (1778-1829), from <span class="foreign">alumina</span>, name given 18c. to aluminum oxide, from L. <span class="foreign">alumen</span> "alum" (see <a href="/index.php?term=alum&allowed_in_frame=0" class="crossreference">alum</a>). Davy originally called it <span class="foreign">alumium</span> (1808), then amended this to <span class="foreign">aluminum</span>, which remains the U.S. word, but British editors in 1812 further amended it to <span class="foreign">aluminium</span>, the modern preferred British form, to better harmonize with other metallic element names (<span class="foreign">sodium</span>, <span class="foreign">potassium</span>, etc.).<blockquote>Aluminium, for so we shall take the liberty of writing the word, in preference to aluminum, which has a less classical sound. ["Quarterly Review," 1812]</blockquote>
+</dd>
+
+<dt><a href="/index.php?term=alumna&allowed_in_frame=0">alumna (n.)</a> <a href="http://dictionary.reference.com/search?q=alumna" class="dictionary" title="Look up alumna at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alumna at Dictionary.com" title="Look up alumna at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=alumnus&allowed_in_frame=0" class="crossreference">alumnus</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alumnae&allowed_in_frame=0">alumnae (n.)</a> <a href="http://dictionary.reference.com/search?q=alumnae" class="dictionary" title="Look up alumnae at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alumnae at Dictionary.com" title="Look up alumnae at Dictionary.com" /></a></dt>
+<dd class="highlight">see <a href="/index.php?term=alumnus&allowed_in_frame=0" class="crossreference">alumnus</a>.</dd>
+
+<dt><a href="/index.php?term=alumni&allowed_in_frame=0">alumni (n.)</a> <a href="http://dictionary.reference.com/search?q=alumni" class="dictionary" title="Look up alumni at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alumni at Dictionary.com" title="Look up alumni at Dictionary.com" /></a></dt>
+<dd>see <a href="/index.php?term=alumnus&allowed_in_frame=0" class="crossreference">alumnus</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=alumnus&allowed_in_frame=0">alumnus (n.)</a> <a href="http://dictionary.reference.com/search?q=alumnus" class="dictionary" title="Look up alumnus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alumnus at Dictionary.com" title="Look up alumnus at Dictionary.com" /></a></dt>
+<dd class="highlight">1640s, from L. <span class="foreign">alumnus</span> "a pupil," lit. "foster son," vestigial present passive participle of <span class="foreign">alere</span> "to nourish" (see <a href="/index.php?term=old&allowed_in_frame=0" class="crossreference">old</a>), with ending akin to Gk. <span class="foreign">-omenos</span>. Plural is <span class="foreign">alumni</span>. Fem. is <span class="foreign">alumna</span> (1882), fem. plural <span class="foreign">alumnae</span>.</dd>
+
+<dt><a href="/index.php?term=alveolar&allowed_in_frame=0">alveolar (adj.)</a> <a href="http://dictionary.reference.com/search?q=alveolar" class="dictionary" title="Look up alveolar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alveolar at Dictionary.com" title="Look up alveolar at Dictionary.com" /></a></dt>
+<dd>"pertaining to alveoli," 1799, from Mod.L. <span class="foreign">alveolus</span> "socket of a tooth" (see <a href="/index.php?term=alveolus&allowed_in_frame=0" class="crossreference">alveolus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=alveolus&allowed_in_frame=0">alveolus (n.)</a> <a href="http://dictionary.reference.com/search?q=alveolus" class="dictionary" title="Look up alveolus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up alveolus at Dictionary.com" title="Look up alveolus at Dictionary.com" /></a></dt>
+<dd class="highlight">1706, from L. <span class="foreign">alveolus</span> "a tray, trough, basin; bed of a small river," dim. of <span class="foreign">alvus</span> "belly, stomach, paunch, bowels; hold of a ship," from PIE <span class="foreign">*aulo-</span> "hole, cavity;" cf. Gk. <span class="foreign">aulos</span> "tube, pipe," O.C.S. <span class="foreign">uliji</span>, Lith. <span class="foreign">aulys</span> "beehive" (hollow trunk), Armenian <span class="foreign">yli</span> "pregnant."
+</dd>
+
+<dt><a href="/index.php?term=always&allowed_in_frame=0">always (adv.)</a> <a href="http://dictionary.reference.com/search?q=always" class="dictionary" title="Look up always at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up always at Dictionary.com" title="Look up always at Dictionary.com" /></a></dt>
+<dd>mid-14c., compound of Old English phrase <span class="foreign">ealne weg</span> "always, quite, perpetually," lit. "all the way," with accusative of space or distance, though the oldest recorded usages refer to time. The adverbial genitive <span class="foreign">-s</span> appeared early 13c. and is now the standard, though the variant <span class="foreign">alway</span> survived into 1800s. OED speculates <span class="foreign">allway</span> was originally of space or distance, "but already in the oldest Eng. transferred to an extent of time."</dd>
+
+<dt class="highlight"><a href="/index.php?term=Alyssum&allowed_in_frame=0">Alyssum</a> <a href="http://dictionary.reference.com/search?q=Alyssum" class="dictionary" title="Look up Alyssum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alyssum at Dictionary.com" title="Look up Alyssum at Dictionary.com" /></a></dt>
+<dd class="highlight">genus name for plants of the mustard family, 1550s, from L. <span class="foreign">alysson</span>, from Gk. <span class="foreign">alysson</span>, which is perhaps the neuter of adjective <span class="foreign">alyssos</span> "curing madness," from privative prefix <span class="foreign">a-</span> + <span class="foreign">lyssa</span> "madness, rage, fury."</dd>
+
+<dt><a href="/index.php?term=Alzheimer%27s+disease&allowed_in_frame=0">Alzheimer&#039;s disease</a> <a href="http://dictionary.reference.com/search?q=Alzheimer%27s+disease" class="dictionary" title="Look up Alzheimer&#039;s disease at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Alzheimer&#039;s disease at Dictionary.com" title="Look up Alzheimer&#039;s disease at Dictionary.com" /></a></dt>
+<dd>(<span class="foreign">senium pr&aelig;cox</span>), 1912, title of article by S.C. Fuller published in "Journal of Nervous and Mental Diseases;" named for German neurologist Alois <span class="foreign">Alzheimer</span> (1864-1915). The name was not common before 1970s; shortened form <span class="foreign">Alzheimer's</span> first recorded 1954.</dd>
+
+<dt class="highlight"><a href="/index.php?term=am&allowed_in_frame=0">am (v.)</a> <a href="http://dictionary.reference.com/search?q=am" class="dictionary" title="Look up am at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up am at Dictionary.com" title="Look up am at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">eom</span> "to be, to remain," (Mercian <span class="foreign">eam</span>, Northumbrian <span class="foreign">am</span>), from PIE <span class="foreign">*esmi-</span> (cf. O.N. <span class="foreign">emi</span>, Goth. <span class="foreign">im</span>, Hittite <span class="foreign">esmi</span>, O.C.S. <span class="foreign">jesmi</span>, Lith. <span class="foreign">esmi</span>), from root <span class="foreign">*es-</span>, the S-ROOT, which also yielded Gk. <span class="foreign">esti-</span>, L. <span class="foreign">est</span>, Skt. <span class="foreign">as-</span>, and Ger. <span class="foreign">ist</span>.
+<BR><BR>
+In Old English it existed only in present tense, all other forms being expressed in the W-BASE (see <a href="/index.php?term=were&allowed_in_frame=0" class="crossreference">were</a>, <a href="/index.php?term=was&allowed_in_frame=0" class="crossreference">was</a>). This cooperative verb is sometimes referred to by linguists as <span class="foreign">*es-*wes-</span>. Until the distinction broke down 13c., <span class="foreign">*es-*wes-</span> tended to express "existence," with <span class="foreign">beon</span> meaning something closer to "come to be" (see <a href="/index.php?term=be&allowed_in_frame=0" class="crossreference">be</a>).
+<BR><BR>
+Old English <span class="foreign">am</span> had two plural forms: 1. <span class="foreign">sind/sindon, sie</span> and 2. <span class="foreign">earon/aron</span> The <span class="foreign">s-</span> form (also used in the subjunctive) fell from use in English in the early 13c. (though it continues in Ger. <span class="foreign">sind</span>, the 3rd person plural of "to be") and was replaced by forms of <span class="foreign">be</span>, but <span class="foreign">aron</span> (<span class="foreign">aren, arn, are</span>, from P.Gmc. <span class="foreign">*ar-</span>, probably a variant of PIE root <span class="foreign">*es-</span>) continued, and as <span class="foreign">am</span> and <span class="foreign">be</span> merged it encroached on some uses that previously had belonged to <span class="foreign">be</span>. By the early 1500s it had established its place in standard English. <span class="foreign">Art</span> became archaic in the 1800s.</dd>
+
+<dt><a href="/index.php?term=amable&allowed_in_frame=0">amable (adj.)</a> <a href="http://dictionary.reference.com/search?q=amable" class="dictionary" title="Look up amable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amable at Dictionary.com" title="Look up amable at Dictionary.com" /></a></dt>
+<dd>"friendly, courteous," early 15c., from O.Fr. <span class="foreign">amable</span>, from L. <span class="foreign">amabilem</span> "lovely," from <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>). Related: <span class="foreign">Amably</span>; <span class="foreign">amability</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=amah&allowed_in_frame=0">amah (n.)</a> <a href="http://dictionary.reference.com/search?q=amah" class="dictionary" title="Look up amah at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amah at Dictionary.com" title="Look up amah at Dictionary.com" /></a></dt>
+<dd class="highlight">"wet-nurse," 1839, Anglo-Indian, from Port. <span class="foreign">ama</span> "nurse," from M.L. <span class="foreign">amma</span> "mother," from PIE root <span class="foreign">*am-</span>, forming nursery words.</dd>
+
+<dt><a href="/index.php?term=amain&allowed_in_frame=0">amain (adv.)</a> <a href="http://dictionary.reference.com/search?q=amain" class="dictionary" title="Look up amain at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amain at Dictionary.com" title="Look up amain at Dictionary.com" /></a></dt>
+<dd>1530s, from <a href="/index.php?term=main&allowed_in_frame=0" class="crossreference">main</a> by analogy with other words in <span class="foreign">a-</span> (e.g. <a href="/index.php?term=afoot&allowed_in_frame=0" class="crossreference">afoot</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amalgam&allowed_in_frame=0">amalgam (n.)</a> <a href="http://dictionary.reference.com/search?q=amalgam" class="dictionary" title="Look up amalgam at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amalgam at Dictionary.com" title="Look up amalgam at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, "blend of mercury with another metal; soft mass formed by chemical manipulation," from O.Fr. <span class="foreign">amalgame</span> or directly from M.L. <span class="foreign">amalgama</span>, "alloy of mercury (especially with gold or silver)," an alchemists' word, perhaps an alteration of L. <span class="foreign">malagma</span> "poultice, plaster," probably from Arabic <span class="foreign">al-malgham</span> "an emollient poultice or unguent for sores (especially warm)" [Francis Johnson, "A Dictionary of Persian, Arabic, and English"], perhaps from Gk. <span class="foreign">malagma</span> "softening substance," from <span class="foreign">malassein</span> "to soften," from <span class="foreign">malakos</span> "soft."</dd>
+
+<dt><a href="/index.php?term=amalgamate&allowed_in_frame=0">amalgamate (v.)</a> <a href="http://dictionary.reference.com/search?q=amalgamate" class="dictionary" title="Look up amalgamate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amalgamate at Dictionary.com" title="Look up amalgamate at Dictionary.com" /></a></dt>
+<dd>1650s, back formation from <span class="foreign">amalgamation</span>, or from adjective <span class="foreign">amalgamate</span> (1640s) from <a href="/index.php?term=amalgam&allowed_in_frame=0" class="crossreference">amalgam</a>. Originally in metallurgy; figurative sense of "to unite" (races, etc.) is attested from 1802. Related: <span class="foreign">Amalgamated</span>; <span class="foreign">amalgamating</span>. Earlier verb was <span class="foreign">amalgamen</span> (1540s).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amalgamation&allowed_in_frame=0">amalgamation (n.)</a> <a href="http://dictionary.reference.com/search?q=amalgamation" class="dictionary" title="Look up amalgamation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amalgamation at Dictionary.com" title="Look up amalgamation at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, noun of action from archaic <span class="foreign">amalgam</span> (v.) "to alloy with mercury" (see <a href="/index.php?term=amalgamate&allowed_in_frame=0" class="crossreference">amalgamate</a>). Figurative, non-chemical sense of "a combining into one uniform whole" is attested from 1775.</dd>
+
+<dt><a href="/index.php?term=amalgamize&allowed_in_frame=0">amalgamize (v.)</a> <a href="http://dictionary.reference.com/search?q=amalgamize" class="dictionary" title="Look up amalgamize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amalgamize at Dictionary.com" title="Look up amalgamize at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=amalgam&allowed_in_frame=0" class="crossreference">amalgam</a> + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Amalgamized</span>; <span class="foreign">amalgamizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Amanda&allowed_in_frame=0">Amanda</a> <a href="http://dictionary.reference.com/search?q=Amanda" class="dictionary" title="Look up Amanda at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Amanda at Dictionary.com" title="Look up Amanda at Dictionary.com" /></a></dt>
+<dd class="highlight">fem. proper name, lit. "worthy to be loved," fem. of L. <span class="foreign">amandus</span> "pleasing," gerundive of <span class="foreign">amare</span> "to love" (see <a href="/index.php?term=Amy&allowed_in_frame=0" class="crossreference">Amy</a>). A top 10 list name for girls born in U.S. between 1976 and 1995.</dd>
+
+<dt><a href="/index.php?term=amanuensis&allowed_in_frame=0">amanuensis (n.)</a> <a href="http://dictionary.reference.com/search?q=amanuensis" class="dictionary" title="Look up amanuensis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amanuensis at Dictionary.com" title="Look up amanuensis at Dictionary.com" /></a></dt>
+<dd>"one who takes dictation," 1610s, from L. <span class="foreign">amanuensis</span> "adjective used as a noun," from <span class="foreign">servus a manu</span> "secretary," lit. "servant from the hand," from <span class="foreign">a</span> "from" + <span class="foreign">manu</span>, ablative of <span class="foreign">manus</span> "hand" (see <a href="/index.php?term=manual&allowed_in_frame=0" class="crossreference">manual</a> (adj.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=amaranth&allowed_in_frame=0">amaranth (n.)</a> <a href="http://dictionary.reference.com/search?q=amaranth" class="dictionary" title="Look up amaranth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amaranth at Dictionary.com" title="Look up amaranth at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from Fr. <span class="foreign">amarante</span>, from L. <span class="foreign">amarantus</span>, from Gk. <span class="foreign">amarantos</span>, name of an unfading flower, lit. "everlasting," from <span class="foreign">a-</span> "not" + stem of <span class="foreign">marainein</span> "die away, waste away, quench, extinguish," from PIE <span class="foreign">*mer-</span> "to rub away, harm" (see <a href="/index.php?term=nightmare&allowed_in_frame=0" class="crossreference">nightmare</a>). In classical use, a poet's word for an imaginary flower that never fades. It was applied to a genus of ornamental plants 1550s. Ending influenced by plant names with Greek <span class="foreign">-anthos</span> "flower."</dd>
+
+<dt><a href="/index.php?term=amaranthine&allowed_in_frame=0">amaranthine (adj.)</a> <a href="http://dictionary.reference.com/search?q=amaranthine" class="dictionary" title="Look up amaranthine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up amaranthine at Dictionary.com" title="Look up amaranthine at Dictionary.com" /></a></dt>
+<dd>1660s, "unfading, undying," poetic (apparently coined by Milton), also <span class="foreign">amarantine</span>; see <a href="/index.php?term=amaranth&allowed_in_frame=0" class="crossreference">amaranth</a>. Later used of a purple color.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=a&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=a&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=a&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=a&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=a&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=a&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=a&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=a&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=a&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=a&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=a&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=a&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=a&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=a&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=a&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=a&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=a&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=a&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=a&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=a&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=a&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=a&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a class="current" href="/index.php?l=a&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=a&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=a&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=a&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=a&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=a&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=a&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=a&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=a&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=a&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=a&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=a&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=a&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=a&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=a&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=a&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=a&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=a&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=a&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=a&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=a&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=a&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=a&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=a&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=a&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=a&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=a&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=a&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=a&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=a&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=a&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=a&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=a&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=a&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=a&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=a&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=a&amp;p=58&allowed_in_frame=0">59</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447657940 -->
+<!-- Page was generated in 0.184260 seconds. -->
+ </body>
+</html>
+<!-- -->

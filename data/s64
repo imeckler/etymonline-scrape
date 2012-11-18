@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=sticky&allowed_in_frame=0">sticky (adj.)</a> <a href="http://dictionary.reference.com/search?q=sticky" class="dictionary" title="Look up sticky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sticky at Dictionary.com" title="Look up sticky at Dictionary.com" /></a></dt>
+<dd class="highlight">1727, "adhesive," from <a href="/index.php?term=stick&allowed_in_frame=0" class="crossreference">stick</a> (v.). An O.E. word for this was <span class="foreign">clibbor</span>.
+First recorded 1864 in the sense of "sentimental;" 1915 with the meaning "difficult." Of weather, "hot and humid," from 1895. <span class="foreign">Sticky wicket</span> is 1952, from British slang, in reference to cricket. </dd>
+
+<dt><a href="/index.php?term=stiff&allowed_in_frame=0">stiff (adj.)</a> <a href="http://dictionary.reference.com/search?q=stiff" class="dictionary" title="Look up stiff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stiff at Dictionary.com" title="Look up stiff at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">stif</span> "rigid, inflexible," from P.Gmc. <span class="foreign">*stifaz</span> "inflexible" (cf. Du. <span class="foreign">stijf</span>, O.H.G. <span class="foreign">stif</span>, Ger. <span class="foreign">steif</span> "stiff;" O.N. <span class="foreign">stifla</span> "choke"), from PIE <span class="foreign">*stipos-</span>, from root <span class="foreign">*steip-</span> "press together, pack, cram" (cf. Skt. <span class="foreign">styayate</span> "coagulates," <span class="foreign">stima</span> "slow;" Gk. <span class="foreign">stia, stion</span> "small stone," <span class="foreign">steibo</span> "press together;" L. <span class="foreign">stipare</span> "pack down, press," <span class="foreign">stipes</span> "post, tree trunk;" Lith. <span class="foreign">stipti</span> "stiffen," <span class="foreign">stiprus</span> "strong;" O.C.S. <span class="foreign">stena</span> "wall"). Of battles and competitions, from mid-13c.; of liquor, from 1813. To <span class="foreign">keep a stiff upper lip</span> is attested from 1815.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stiff&allowed_in_frame=0">stiff (v.)</a> <a href="http://dictionary.reference.com/search?q=stiff" class="dictionary" title="Look up stiff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stiff at Dictionary.com" title="Look up stiff at Dictionary.com" /></a></dt>
+<dd class="highlight">"fail to tip," 1939, originally among restaurant and hotel workers, probably from <a href="/index.php?term=stiff&allowed_in_frame=0" class="crossreference">stiff</a> (n.) in slang sense of "corpse" (corpses don't tip well, either). Extended by 1950 to "cheat."</dd>
+
+<dt><a href="/index.php?term=stiff&allowed_in_frame=0">stiff (n.)</a> <a href="http://dictionary.reference.com/search?q=stiff" class="dictionary" title="Look up stiff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stiff at Dictionary.com" title="Look up stiff at Dictionary.com" /></a></dt>
+<dd>"corpse," 1859, slang, from <a href="/index.php?term=stiff&allowed_in_frame=0" class="crossreference">stiff</a> (adj.) which had been associated with notion of rigor mortis since c.1200. Meaning "working man" first recorded 1930, from earlier gen. sense of "contemptible person" (1882). Slang meaning "something or someone bound to lose" is 1890 (originally of racehorses), from notion of "corpse." </dd>
+
+<dt class="highlight"><a href="/index.php?term=stiffen&allowed_in_frame=0">stiffen</a> <a href="http://dictionary.reference.com/search?q=stiffen" class="dictionary" title="Look up stiffen at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stiffen at Dictionary.com" title="Look up stiffen at Dictionary.com" /></a></dt>
+<dd class="highlight">1590s, from <a href="/index.php?term=stiff&allowed_in_frame=0" class="crossreference">stiff</a> (adj.) + <a href="/index.php?term=-en&allowed_in_frame=0" class="crossreference">-en</a> (1). Related: <span class="foreign">Stiffened</span>; <span class="foreign">stiffening</span>.</dd>
+
+<dt><a href="/index.php?term=stiffnecked&allowed_in_frame=0">stiffnecked</a> <a href="http://dictionary.reference.com/search?q=stiffnecked" class="dictionary" title="Look up stiffnecked at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stiffnecked at Dictionary.com" title="Look up stiffnecked at Dictionary.com" /></a></dt>
+<dd>1520s, from <a href="/index.php?term=stiff&allowed_in_frame=0" class="crossreference">stiff</a> (adj.), translating L. <span class="foreign">dura cervice</span> in Vulgate, from Gk. <span class="foreign">sklero trachelos</span>, a literal translation from Heb. <span class="foreign">qesheh 'oref</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=stifle&allowed_in_frame=0">stifle (v.)</a> <a href="http://dictionary.reference.com/search?q=stifle" class="dictionary" title="Look up stifle at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stifle at Dictionary.com" title="Look up stifle at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "to choke, suffocate, drown," of uncertain origin, possibly an alteration of O.Fr. <span class="foreign">estouffer</span> "to stifle, smother," which may be from a Germanic source (cf. O.H.G. <span class="foreign">stopfon</span> "to plug up, stuff"). Metaphoric sense is from 1570s. Related: <span class="foreign">Stifled</span>; <span class="foreign">stifling</span>.</dd>
+
+<dt><a href="/index.php?term=stigma&allowed_in_frame=0">stigma (n.)</a> <a href="http://dictionary.reference.com/search?q=stigma" class="dictionary" title="Look up stigma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stigma at Dictionary.com" title="Look up stigma at Dictionary.com" /></a></dt>
+<dd>1590s, "mark made on skin by burning with a hot iron," from L. <span class="foreign">stigma</span> (pl. <span class="foreign">stigmata</span>), from Gk. <span class="foreign">stigma</span> (gen. <span class="foreign">stigmatos</span>) "mark, puncture," especially one made by a pointed instrument, from root of <span class="foreign">stizein</span> "to mark, tattoo," from PIE <span class="foreign">*st(e)ig-</span> (see <a href="/index.php?term=stick&allowed_in_frame=0" class="crossreference">stick</a> (v.)). Figurative meaning "a mark of disgrace" is from 1610s. <span class="foreign">Stigmas</span> "marks resembling the wounds on the body of Christ, appearing supernaturally on the bodies of the devout" is from 1630s; earlier <span class="foreign">stigmate</span> (late 14c.), from L. <span class="foreign">stigmata</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stigmatic&allowed_in_frame=0">stigmatic</a> <a href="http://dictionary.reference.com/search?q=stigmatic" class="dictionary" title="Look up stigmatic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stigmatic at Dictionary.com" title="Look up stigmatic at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1600, from M.L. <span class="foreign">stigmaticus</span>, from Gk. <span class="foreign">stigmat-</span> (see <a href="/index.php?term=stigma&allowed_in_frame=0" class="crossreference">stigma</a>).</dd>
+
+<dt><a href="/index.php?term=stigmatism&allowed_in_frame=0">stigmatism (n.)</a> <a href="http://dictionary.reference.com/search?q=stigmatism" class="dictionary" title="Look up stigmatism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stigmatism at Dictionary.com" title="Look up stigmatism at Dictionary.com" /></a></dt>
+<dd>1660s, "a branding," from Gk. <span class="foreign">stigmatizein</span>, from <span class="foreign">stigmat-</span> (see <a href="/index.php?term=stigma&allowed_in_frame=0" class="crossreference">stigma</a>). Meaning "condition of being affected with stigmata" is from 1900.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stigmatization&allowed_in_frame=0">stigmatization (n.)</a> <a href="http://dictionary.reference.com/search?q=stigmatization" class="dictionary" title="Look up stigmatization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stigmatization at Dictionary.com" title="Look up stigmatization at Dictionary.com" /></a></dt>
+<dd class="highlight">1822, noun of action from <a href="/index.php?term=stigmatize&allowed_in_frame=0" class="crossreference">stigmatize</a>.</dd>
+
+<dt><a href="/index.php?term=stigmatize&allowed_in_frame=0">stigmatize (v.)</a> <a href="http://dictionary.reference.com/search?q=stigmatize" class="dictionary" title="Look up stigmatize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stigmatize at Dictionary.com" title="Look up stigmatize at Dictionary.com" /></a></dt>
+<dd>1580s, "to brand or tattoo," from M.L. <span class="foreign">stigmatizare</span>, from Gk. <span class="foreign">stigmatizein</span>, from <span class="foreign">stigmat-</span> (see <a href="/index.php?term=stigma&allowed_in_frame=0" class="crossreference">stigma</a>). Meaning "to blemish" is from 1610s (figurative), 1630s (literal). Related: <span class="foreign">Stigmatized</span>; <span class="foreign">stigmatizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stile&allowed_in_frame=0">stile (n.)</a> <a href="http://dictionary.reference.com/search?q=stile" class="dictionary" title="Look up stile at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stile at Dictionary.com" title="Look up stile at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">stigel</span> "device for climbing, ladder," related to <span class="foreign">stigen</span> "to climb," from P.Gmc. <span class="foreign">*stig-</span> "to climb," (see <a href="/index.php?term=stair&allowed_in_frame=0" class="crossreference">stair</a>). An arrangement to allow persons to pass but not sheep and cattle.</dd>
+
+<dt><a href="/index.php?term=stiletto&allowed_in_frame=0">stiletto (n.)</a> <a href="http://dictionary.reference.com/search?q=stiletto" class="dictionary" title="Look up stiletto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stiletto at Dictionary.com" title="Look up stiletto at Dictionary.com" /></a></dt>
+<dd>1610s, "short dagger with a thick blade," from It. <span class="foreign">stiletto</span>, dim. of <span class="foreign">stilo</span> "dagger," from L. <span class="foreign">stilus</span> "pointed writing instrument" (see <a href="/index.php?term=style&allowed_in_frame=0" class="crossreference">style</a> (n.)). <span class="foreign">Stiletto heel</span> first attested 1953.</dd>
+
+<dt class="highlight"><a href="/index.php?term=still&allowed_in_frame=0">still (adj.)</a> <a href="http://dictionary.reference.com/search?q=still" class="dictionary" title="Look up still at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up still at Dictionary.com" title="Look up still at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">stille</span> "motionless, stationary," from W.Gmc. <span class="foreign">*steljaz</span> (cf. O.Fris., M.L.G., M.Du. <span class="foreign">stille</span>, Du. <span class="foreign">stil</span>, O.H.G. <span class="foreign">stilli</span>, Ger. <span class="foreign">still</span>), from root <span class="foreign">*stel-</span> "fixed, not moving, standing" (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). Meaning "quiet, silent" emerged in later Old English. Euphemistic for "dead" in <span class="foreign">stillborn</span>, etc. <span class="foreign">Still small voice</span> is from KJV:
+<blockquote>
+And he said, Go forth, and stand upon the mount before the LORD. And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake: and after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice. [1 Kings 19:11-13]
+</blockquote>
+
+</dd>
+
+<dt><a href="/index.php?term=still&allowed_in_frame=0">still (n.1)</a> <a href="http://dictionary.reference.com/search?q=still" class="dictionary" title="Look up still at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up still at Dictionary.com" title="Look up still at Dictionary.com" /></a></dt>
+<dd>"distilling apparatus," 1530s, from Middle English <span class="foreign">stillen</span> "to distill" (c.1300), a variant of <span class="foreign">distillen</span> (see <a href="/index.php?term=distill&allowed_in_frame=0" class="crossreference">distill</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=still&allowed_in_frame=0">still (v.)</a> <a href="http://dictionary.reference.com/search?q=still" class="dictionary" title="Look up still at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up still at Dictionary.com" title="Look up still at Dictionary.com" /></a></dt>
+<dd class="highlight">"to calm," O.E. <span class="foreign">stillan</span>, from <span class="foreign">stille</span> "at rest" (see <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.)). Cognate with O.S. <span class="foreign">stillian</span>, O.N. <span class="foreign">stilla</span>, Du., O.H.G., Ger. <span class="foreign">stillen</span>. Related: <span class="foreign">Stilled</span>; <span class="foreign">stilling</span>.</dd>
+
+<dt><a href="/index.php?term=still&allowed_in_frame=0">still (n.2)</a> <a href="http://dictionary.reference.com/search?q=still" class="dictionary" title="Look up still at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up still at Dictionary.com" title="Look up still at Dictionary.com" /></a></dt>
+<dd>"quietness, the silent part," c.1600 (in <span class="foreign">still of the night</span>), from <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.). Meaning "ordinary photo" (as distinguished from a motion picture) is attested from 1916.</dd>
+
+<dt class="highlight"><a href="/index.php?term=still&allowed_in_frame=0">still (adv.)</a> <a href="http://dictionary.reference.com/search?q=still" class="dictionary" title="Look up still at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up still at Dictionary.com" title="Look up still at Dictionary.com" /></a></dt>
+<dd class="highlight">"even now, even then, yet" (e.g. <span class="foreign">still standing there</span>), 1530s, from <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.) in the sense "without change or cessation, continual" (c.1300); the sense of "even, yet" (e.g. <span class="foreign">still more</span>) is from 1730. Used as a conjunction from 1722.</dd>
+
+<dt><a href="/index.php?term=still+life&allowed_in_frame=0">still life</a> <a href="http://dictionary.reference.com/search?q=still+life" class="dictionary" title="Look up still life at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up still life at Dictionary.com" title="Look up still life at Dictionary.com" /></a></dt>
+<dd>1690s, translating Du. <span class="foreign">stilleven</span> (17c); see <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.) + <a href="/index.php?term=life&allowed_in_frame=0" class="crossreference">life</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stillbirth&allowed_in_frame=0">stillbirth (n.)</a> <a href="http://dictionary.reference.com/search?q=stillbirth" class="dictionary" title="Look up stillbirth at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stillbirth at Dictionary.com" title="Look up stillbirth at Dictionary.com" /></a></dt>
+<dd class="highlight">1785, from <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.) + <a href="/index.php?term=birth&allowed_in_frame=0" class="crossreference">birth</a> (n.).</dd>
+
+<dt><a href="/index.php?term=stillborn&allowed_in_frame=0">stillborn</a> <a href="http://dictionary.reference.com/search?q=stillborn" class="dictionary" title="Look up stillborn at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stillborn at Dictionary.com" title="Look up stillborn at Dictionary.com" /></a></dt>
+<dd>1590s, from <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.) + <a href="/index.php?term=born&allowed_in_frame=0" class="crossreference">born</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stillness&allowed_in_frame=0">stillness (n.)</a> <a href="http://dictionary.reference.com/search?q=stillness" class="dictionary" title="Look up stillness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stillness at Dictionary.com" title="Look up stillness at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">stilnes</span>; see <a href="/index.php?term=still&allowed_in_frame=0" class="crossreference">still</a> (adj.) + <a href="/index.php?term=-ness&allowed_in_frame=0" class="crossreference">-ness</a>.</dd>
+
+<dt><a href="/index.php?term=stilt&allowed_in_frame=0">stilt</a> <a href="http://dictionary.reference.com/search?q=stilt" class="dictionary" title="Look up stilt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stilt at Dictionary.com" title="Look up stilt at Dictionary.com" /></a></dt>
+<dd>early 14c., "a crutch," from P.Gmc. <span class="foreign">*steltijon</span> (cf. M.L.G., M.Du. <span class="foreign">stelte</span> "stilt," O.H.G. <span class="foreign">stelza</span> "plow handle, crutch"), from PIE root <span class="foreign">*stel-</span> "to put, stand" (see <a href="/index.php?term=stall&allowed_in_frame=0" class="crossreference">stall</a> (n.1)). Application to "wooden poles for walking across marshy ground, etc." is from mid-15c. Meaning "one of the posts on which a building is raised from the ground" is first attested 1690s. <span class="foreign">Stilted</span> in the fig. sense of "pompous, stuffy" is first recorded 1820.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Stilton&allowed_in_frame=0">Stilton</a> <a href="http://dictionary.reference.com/search?q=Stilton" class="dictionary" title="Look up Stilton at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Stilton at Dictionary.com" title="Look up Stilton at Dictionary.com" /></a></dt>
+<dd class="highlight">1736, cheese made famous by a coaching inn at <span class="foreign">Stilton</span> (then Hunts., now Cambs.) on the Great North Road from London, the owner being from Belvoir, Leicestershire, where it was made. Since 1969 restricted to cheese made in Leicester, Derby, and Nottingham counties by members of the Stilton Cheese Makers Association. The place name is in Domesday Book as <span class="foreign">Stichiltone</span> and probably means lit. "farmstead or village at a stile or steep ascent."</dd>
+
+<dt><a href="/index.php?term=stimulant&allowed_in_frame=0">stimulant</a> <a href="http://dictionary.reference.com/search?q=stimulant" class="dictionary" title="Look up stimulant at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stimulant at Dictionary.com" title="Look up stimulant at Dictionary.com" /></a></dt>
+<dd>1772 (adj.); 1794 (n.), from L. <span class="foreign">stimulantem</span> (nom. <span class="foreign">stimulans</span>), prp. of <span class="foreign">stimulare</span> (see <a href="/index.php?term=stimulation&allowed_in_frame=0" class="crossreference">stimulation</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stimulate&allowed_in_frame=0">stimulate</a> <a href="http://dictionary.reference.com/search?q=stimulate" class="dictionary" title="Look up stimulate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stimulate at Dictionary.com" title="Look up stimulate at Dictionary.com" /></a></dt>
+<dd class="highlight">1610s, from L. <span class="foreign">stimulatus</span>, pp. of <span class="foreign">stimulare</span> (see <a href="/index.php?term=stimulation&allowed_in_frame=0" class="crossreference">stimulation</a>). Related: <span class="foreign">Stimulated</span>; <span class="foreign">stimulating</span>.</dd>
+
+<dt><a href="/index.php?term=stimulation&allowed_in_frame=0">stimulation</a> <a href="http://dictionary.reference.com/search?q=stimulation" class="dictionary" title="Look up stimulation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stimulation at Dictionary.com" title="Look up stimulation at Dictionary.com" /></a></dt>
+<dd>1520s, "act of pricking or stirring to action," from L. <span class="foreign">stimulationem</span> (nom. <span class="foreign">stimulatio</span>), from <span class="foreign">stimulare</span> "prick, goad, urge," from <span class="foreign">stimulus</span> "spur, goad," from PIE <span class="foreign">*sti-</span> "point, prick, pierce" (see <a href="/index.php?term=stick&allowed_in_frame=0" class="crossreference">stick</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stimuli&allowed_in_frame=0">stimuli</a> <a href="http://dictionary.reference.com/search?q=stimuli" class="dictionary" title="Look up stimuli at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stimuli at Dictionary.com" title="Look up stimuli at Dictionary.com" /></a></dt>
+<dd class="highlight">Latinate plural of <a href="/index.php?term=stimulus&allowed_in_frame=0" class="crossreference">stimulus</a>.</dd>
+
+<dt><a href="/index.php?term=stimulus&allowed_in_frame=0">stimulus</a> <a href="http://dictionary.reference.com/search?q=stimulus" class="dictionary" title="Look up stimulus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stimulus at Dictionary.com" title="Look up stimulus at Dictionary.com" /></a></dt>
+<dd>plural <span class="foreign">stimuli</span>, 1680s, originally as a medical term, "something that goads a lazy organ" (often the male member), from Mod.L. <span class="foreign">stimulus</span> "goad" (see <a href="/index.php?term=stimulation&allowed_in_frame=0" class="crossreference">stimulation</a>). General sense is from 1791. Psychological sense is first recorded 1894.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sting&allowed_in_frame=0">sting (v.)</a> <a href="http://dictionary.reference.com/search?q=sting" class="dictionary" title="Look up sting at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sting at Dictionary.com" title="Look up sting at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">stingan</span> "to prick with a small point" (of weapons, insects, plants, etc.), from P.Gmc. <span class="foreign">*stenganan</span> (cf. O.N. <span class="foreign">stinga</span>, O.H.G. <span class="foreign">stungen</span> "to prick," Goth. <span class="foreign">us-stagg</span> "to prick out," O.H.G. <span class="foreign">stanga</span>, Ger. <span class="foreign">stange</span> "pole, perch," Ger. <span class="foreign">stengel</span> "stalk, stem"), from PIE <span class="foreign">*stengh-</span>, nasalized form of root <span class="foreign">*stegh-</span> "to prick, sting" (cf. O.E. <span class="foreign">stagga</span> "stag," Gk. <span class="foreign">stokhos</span> "pointed stake"). Specialized to insects late 15c. Slang meaning "to cheat, swindle" is from 1812. The noun is O.E. <span class="foreign">stincg, steng</span> "act of stinging, stinging pain;" meaning "carefully planned theft or robbery" is attested from 1930; sense of "police undercover entrapment" first attested 1975.</dd>
+
+<dt><a href="/index.php?term=stinger&allowed_in_frame=0">stinger</a> <a href="http://dictionary.reference.com/search?q=stinger" class="dictionary" title="Look up stinger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stinger at Dictionary.com" title="Look up stinger at Dictionary.com" /></a></dt>
+<dd>1550s, agent noun from <a href="/index.php?term=sting&allowed_in_frame=0" class="crossreference">sting</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stingray&allowed_in_frame=0">stingray (n.)</a> <a href="http://dictionary.reference.com/search?q=stingray" class="dictionary" title="Look up stingray at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stingray at Dictionary.com" title="Look up stingray at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from <a href="/index.php?term=sting&allowed_in_frame=0" class="crossreference">sting</a> + <a href="/index.php?term=ray&allowed_in_frame=0" class="crossreference">ray</a> (n.2).</dd>
+
+<dt><a href="/index.php?term=stingy&allowed_in_frame=0">stingy (adj.)</a> <a href="http://dictionary.reference.com/search?q=stingy" class="dictionary" title="Look up stingy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stingy at Dictionary.com" title="Look up stingy at Dictionary.com" /></a></dt>
+<dd>"niggardly, penurious, tight-fisted," 1650s, possibly a dialectal alteration of earlier <span class="foreign">stingy</span> "biting, sharp, stinging" (1610s), from <a href="/index.php?term=sting&allowed_in_frame=0" class="crossreference">sting</a> (v.). Back-formation <span class="foreign">stinge</span> "a stingy person" is recorded from 1914.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stink&allowed_in_frame=0">stink (v.)</a> <a href="http://dictionary.reference.com/search?q=stink" class="dictionary" title="Look up stink at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stink at Dictionary.com" title="Look up stink at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">stincan</span> "emit a smell of any kind" (class III strong verb; past tense <span class="foreign">stonc</span>), from W.Gmc. <span class="foreign">*stenkwanan</span> (cf. O.S. <span class="foreign">stincan</span>, O.H.G. <span class="foreign">stinkan</span>, Du. <span class="foreign">stinken</span>), from the root of <a href="/index.php?term=stench&allowed_in_frame=0" class="crossreference">stench</a>. O.E. <span class="foreign">swote stincan</span> "to smell sweet," but offensive sense began in Old English and was primary by mid-13c.; <span class="foreign">smell</span> now tends the same way. Figurative meaning "be offensive" is from early 13c.; meaning "be inept" is recorded from 1924. To <span class="foreign">stink to high heaven</span> first recorded 1963.</dd>
+
+<dt><a href="/index.php?term=stink&allowed_in_frame=0">stink (n.)</a> <a href="http://dictionary.reference.com/search?q=stink" class="dictionary" title="Look up stink at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stink at Dictionary.com" title="Look up stink at Dictionary.com" /></a></dt>
+<dd>c.1300, from <a href="/index.php?term=stink&allowed_in_frame=0" class="crossreference">stink</a> (v.). Sense of "extensive fuss" first recorded 1812. </dd>
+
+<dt class="highlight"><a href="/index.php?term=stink+eye&allowed_in_frame=0">stink eye (n.)</a> <a href="http://dictionary.reference.com/search?q=stink+eye" class="dictionary" title="Look up stink eye at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stink eye at Dictionary.com" title="Look up stink eye at Dictionary.com" /></a></dt>
+<dd class="highlight">"dirty look," by 1972, perhaps from Hawaiian slang.</dd>
+
+<dt><a href="/index.php?term=stinker&allowed_in_frame=0">stinker (n.)</a> <a href="http://dictionary.reference.com/search?q=stinker" class="dictionary" title="Look up stinker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stinker at Dictionary.com" title="Look up stinker at Dictionary.com" /></a></dt>
+<dd>as a term of abuse (often banteringly), c.1600, agent noun from <a href="/index.php?term=stink&allowed_in_frame=0" class="crossreference">stink</a> (v.); also in the same sense was <span class="foreign">stinkard</span> (c.1600).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stinking&allowed_in_frame=0">stinking (adj.)</a> <a href="http://dictionary.reference.com/search?q=stinking" class="dictionary" title="Look up stinking at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stinking at Dictionary.com" title="Look up stinking at Dictionary.com" /></a></dt>
+<dd class="highlight">prp. adjective from <a href="/index.php?term=stink&allowed_in_frame=0" class="crossreference">stink</a> (v.). Modifying <span class="foreign">drunk</span>, first attested 1887; <span class="foreign">stinking rich</span> dates from 1956. </dd>
+
+<dt><a href="/index.php?term=stinky&allowed_in_frame=0">stinky (adj.)</a> <a href="http://dictionary.reference.com/search?q=stinky" class="dictionary" title="Look up stinky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stinky at Dictionary.com" title="Look up stinky at Dictionary.com" /></a></dt>
+<dd>1888, from <a href="/index.php?term=stink&allowed_in_frame=0" class="crossreference">stink</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Stinkiness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stint&allowed_in_frame=0">stint (v.)</a> <a href="http://dictionary.reference.com/search?q=stint" class="dictionary" title="Look up stint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stint at Dictionary.com" title="Look up stint at Dictionary.com" /></a></dt>
+<dd class="highlight">"to limit, restrain, to be sparing or frugal," O.E. <span class="foreign">styntan</span> "to blunt, make dull," from P.Gmc. <span class="foreign">*stuntijanan</span> (cf. O.N. <span class="foreign">stuttr</span> "short, scant," M.H.G. <span class="foreign">stunz</span> "blunt, short," Ger. <span class="foreign">stutzen</span> "to cut short, curtail, stop, hesitate"), from PIE root <span class="foreign">*(s)teu-</span> "to beat, strike, push, thrust" (see <a href="/index.php?term=steep&allowed_in_frame=0" class="crossreference">steep</a> (adj.)). Related: <span class="foreign">Stinted</span>; <span class="foreign">stinting</span>. The noun is attested from c.1300.</dd>
+
+<dt><a href="/index.php?term=stipe&allowed_in_frame=0">stipe</a> <a href="http://dictionary.reference.com/search?q=stipe" class="dictionary" title="Look up stipe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stipe at Dictionary.com" title="Look up stipe at Dictionary.com" /></a></dt>
+<dd>1785, from Fr. <span class="foreign">stipe</span>, from L. <span class="foreign">stipes</span> "log, post, tree trunk" (see <a href="/index.php?term=stiff&allowed_in_frame=0" class="crossreference">stiff</a> (adj.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stipend&allowed_in_frame=0">stipend (n.)</a> <a href="http://dictionary.reference.com/search?q=stipend" class="dictionary" title="Look up stipend at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stipend at Dictionary.com" title="Look up stipend at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., from L. <span class="foreign">stipendium</span> "tax, pay, gift," from <span class="foreign">stips</span> "alms, small payment" + <span class="foreign">pendere</span> "weigh" (see <a href="/index.php?term=pendant&allowed_in_frame=0" class="crossreference">pendant</a>).
+</dd>
+
+<dt><a href="/index.php?term=stipple&allowed_in_frame=0">stipple (v.)</a> <a href="http://dictionary.reference.com/search?q=stipple" class="dictionary" title="Look up stipple at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stipple at Dictionary.com" title="Look up stipple at Dictionary.com" /></a></dt>
+<dd>1670s, from Du. <span class="foreign">stippelen</span> "to make points," frequentative of <span class="foreign">stippen</span> "to prick, speckle," from <span class="foreign">stip</span> "a point," probably ultimately from PIE root <span class="foreign">*st(e)ig-</span> "pointed" (see <a href="/index.php?term=stick&allowed_in_frame=0" class="crossreference">stick</a> (v.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=stipulate&allowed_in_frame=0">stipulate (v.)</a> <a href="http://dictionary.reference.com/search?q=stipulate" class="dictionary" title="Look up stipulate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stipulate at Dictionary.com" title="Look up stipulate at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, from L. <span class="foreign">stipulatus</span>, pp. of <span class="foreign">stipulari</span> (see <a href="/index.php?term=stipulation&allowed_in_frame=0" class="crossreference">stipulation</a>). Related: <span class="foreign">Stipulated</span>; <span class="foreign">stipulating</span>.</dd>
+
+<dt><a href="/index.php?term=stipulation&allowed_in_frame=0">stipulation (n.)</a> <a href="http://dictionary.reference.com/search?q=stipulation" class="dictionary" title="Look up stipulation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stipulation at Dictionary.com" title="Look up stipulation at Dictionary.com" /></a></dt>
+<dd>1550s, "engagement or undertaking to do something," from L. <span class="foreign">stipulationem</span> (nom. <span class="foreign">stipulatio</span>), from pp. stem of <span class="foreign">stipulari</span> "exact a promise." Traditionally said to be from L. <span class="foreign">stipula</span> "straw," in reference to some obscure symbolic act; this is rejected by most authorities, who, however, have not come up with a better guess. Meaning "act of specifying one of the terms of a contract or agreement" is recorded from 1750.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stipule&allowed_in_frame=0">stipule (n.)</a> <a href="http://dictionary.reference.com/search?q=stipule" class="dictionary" title="Look up stipule at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stipule at Dictionary.com" title="Look up stipule at Dictionary.com" /></a></dt>
+<dd class="highlight">"small appendage at the base of the petiole of a leaf," 1793, from Fr. <span class="foreign">stipule,</span> from L. <span class="foreign">stipula</span> "stalk (of hay), straw."</dd>
+
+<dt><a href="/index.php?term=stir&allowed_in_frame=0">stir (v.)</a> <a href="http://dictionary.reference.com/search?q=stir" class="dictionary" title="Look up stir at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stir at Dictionary.com" title="Look up stir at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">styrian</span>, from P.Gmc. <span class="foreign">*sturjanan</span> (cf. M.Du. <span class="foreign">stoeren</span>, Du. <span class="foreign">storen</span> "to disturb," O.H.G.  <span class="foreign">storan</span> "to scatter, destroy," Ger. <span class="foreign">st&ouml;ren</span> "to disturb"), probably from the root of <a href="/index.php?term=storm&allowed_in_frame=0" class="crossreference">storm</a> (q.v.). The noun sense of "commotion, disturbance, tumult" (late 14c., in phrase <span class="foreign">on steir</span>) is probably from O.N. <span class="foreign">styrr</span> "disturbance, tumult" (see <a href="/index.php?term=storm&allowed_in_frame=0" class="crossreference">storm</a>), from the same P.Gmc. root; the sense of "movement, bustle" is probably from the English verb. <span class="foreign">Stir-fry</span> (v.) is attested from 1959.</dd>
+
+<dt class="highlight"><a href="/index.php?term=stir-crazy&allowed_in_frame=0">stir-crazy (adj.)</a> <a href="http://dictionary.reference.com/search?q=stir-crazy" class="dictionary" title="Look up stir-crazy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stir-crazy at Dictionary.com" title="Look up stir-crazy at Dictionary.com" /></a></dt>
+<dd class="highlight">1908, from <a href="/index.php?term=crazy&allowed_in_frame=0" class="crossreference">crazy</a> + <span class="foreign">stir</span> "prison" (1851), probably from <span class="foreign">Start Newgate</span> (1757), prison in London, later any prison (1823), probably from Romany <span class="foreign">stardo</span> "imprisoned," related to <span class="foreign">staripen</span> "a prison." Mid-19c. <span class="foreign">sturaban, sturbin</span> "state prison" seem to be transitional forms.</dd>
+
+<dt><a href="/index.php?term=stirpes&allowed_in_frame=0">stirpes</a> <a href="http://dictionary.reference.com/search?q=stirpes" class="dictionary" title="Look up stirpes at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up stirpes at Dictionary.com" title="Look up stirpes at Dictionary.com" /></a></dt>
+<dd>plural of <span class="foreign">stirps</span>, Latin, lit. "stem, stalk."</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658769 -->
+<!-- Page was generated in 0.209235 seconds. -->
+ </body>
+</html>
+<!-- -->

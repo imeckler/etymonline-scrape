@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=Priscian&allowed_in_frame=0">Priscian</a> <a href="http://dictionary.reference.com/search?q=Priscian" class="dictionary" title="Look up Priscian at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Priscian at Dictionary.com" title="Look up Priscian at Dictionary.com" /></a></dt>
+<dd class="highlight">from L. <span class="foreign">Priscianus,</span> name of a celebrated Roman grammarian (c.500-530); hence <span class="foreign">to break Priscian's head</span> (1520s) "to violate rules of grammar" (L. <span class="foreign">diminuere Prisciani caput</span>).</dd>
+
+<dt><a href="/index.php?term=Priscilla&allowed_in_frame=0">Priscilla</a> <a href="http://dictionary.reference.com/search?q=Priscilla" class="dictionary" title="Look up Priscilla at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Priscilla at Dictionary.com" title="Look up Priscilla at Dictionary.com" /></a></dt>
+<dd>fem. proper name, from Latin, fem. of <span class="foreign">Priscillus,</span> dim. of <span class="foreign">Priscus</span>, from <span class="foreign">priscus</span> "old, ancient, primitive;" related to <a href="/index.php?term=prior&allowed_in_frame=0" class="crossreference">prior</a> (adj.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=prism&allowed_in_frame=0">prism (n.)</a> <a href="http://dictionary.reference.com/search?q=prism" class="dictionary" title="Look up prism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prism at Dictionary.com" title="Look up prism at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, a type of solid figure, from L.L. <span class="foreign">prisma</span> (Martianus Capella), from Gk. <span class="foreign">prisma</span> (Euclid), lit. "something sawed," from <span class="foreign">prizein</span> "to saw." Meaning in optics is first attested 1610s.</dd>
+
+<dt><a href="/index.php?term=prismatic&allowed_in_frame=0">prismatic (adj.)</a> <a href="http://dictionary.reference.com/search?q=prismatic" class="dictionary" title="Look up prismatic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prismatic at Dictionary.com" title="Look up prismatic at Dictionary.com" /></a></dt>
+<dd>1709, from Gk. <span class="foreign">prismat-</span>, stem of <span class="foreign">prisma</span> (see <a href="/index.php?term=prism&allowed_in_frame=0" class="crossreference">prism</a>) + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=prison&allowed_in_frame=0">prison (n.)</a> <a href="http://dictionary.reference.com/search?q=prison" class="dictionary" title="Look up prison at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prison at Dictionary.com" title="Look up prison at Dictionary.com" /></a></dt>
+<dd class="highlight">early 12c., from O.Fr. <span class="foreign">prisoun</span> "prison, imprisonment" (11c.), altered (by influence of <span class="foreign">pris</span> "taken;" see <a href="/index.php?term=prize&allowed_in_frame=0" class="crossreference">prize</a> (n.2)) from earlier <span class="foreign">preson</span>, from L. <span class="foreign">prensionem</span> (nom. <span class="foreign">prensio</span>), shortening of <span class="foreign">prehensionem</span> (nom. <span class="foreign">*prehensio</span>) "a taking," noun of action from pp. stem of <span class="foreign">prehendere</span> "to take" (see <a href="/index.php?term=prehensile&allowed_in_frame=0" class="crossreference">prehensile</a>).</dd>
+
+<dt><a href="/index.php?term=prisoner&allowed_in_frame=0">prisoner (n.)</a> <a href="http://dictionary.reference.com/search?q=prisoner" class="dictionary" title="Look up prisoner at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prisoner at Dictionary.com" title="Look up prisoner at Dictionary.com" /></a></dt>
+<dd>14c., from Fr. <span class="foreign">prisonnier</span> (12c.), from <span class="foreign">prisoun</span> (see <a href="/index.php?term=prison&allowed_in_frame=0" class="crossreference">prison</a>).  Captives taken in war were called <span class="foreign">prisoners</span> since mid-14c.; phrase <span class="foreign">prisoner of war</span> dates from 1670s (see also <a href="/index.php?term=POW&allowed_in_frame=0" class="crossreference">POW</a>). <span class="foreign">Prisoner's dilemma</span> attested from 1957.
+</dd>
+
+<dt class="highlight"><a href="/index.php?term=priss&allowed_in_frame=0">priss (n.)</a> <a href="http://dictionary.reference.com/search?q=priss" class="dictionary" title="Look up priss at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up priss at Dictionary.com" title="Look up priss at Dictionary.com" /></a></dt>
+<dd class="highlight">1923, back formation from <a href="/index.php?term=prissy&allowed_in_frame=0" class="crossreference">prissy</a>.</dd>
+
+<dt><a href="/index.php?term=prissy&allowed_in_frame=0">prissy (adj.)</a> <a href="http://dictionary.reference.com/search?q=prissy" class="dictionary" title="Look up prissy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prissy at Dictionary.com" title="Look up prissy at Dictionary.com" /></a></dt>
+<dd>1895, first attested in Joel Chandler Harris, probably an alteration of <a href="/index.php?term=precise&allowed_in_frame=0" class="crossreference">precise</a> (q.v.), or a merger of <span class="foreign">prim</span> and <span class="foreign">sissy</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pristine&allowed_in_frame=0">pristine (adj.)</a> <a href="http://dictionary.reference.com/search?q=pristine" class="dictionary" title="Look up pristine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pristine at Dictionary.com" title="Look up pristine at Dictionary.com" /></a></dt>
+<dd class="highlight">1530s, "pertaining to the earliest period, primitive, ancient," from M.Fr. <span class="foreign">pristin</span> (fem. <span class="foreign">pristine</span>), from L. <span class="foreign">pristinus</span> "former," from Old L. <span class="foreign">pri</span> "before" (see <a href="/index.php?term=prime&allowed_in_frame=0" class="crossreference">prime</a> (adj.)). Meaning "unspoiled, untouched, pure" is from 1899 (implied in <span class="foreign">pristinely</span>) but still regarded as ignorant in some circles.</dd>
+
+<dt><a href="/index.php?term=prithee&allowed_in_frame=0">prithee</a> <a href="http://dictionary.reference.com/search?q=prithee" class="dictionary" title="Look up prithee at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prithee at Dictionary.com" title="Look up prithee at Dictionary.com" /></a></dt>
+<dd>1520s, altered from phrase <span class="foreign">(I) pray thee</span> (see <a href="/index.php?term=pray&allowed_in_frame=0" class="crossreference">pray</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=prius&allowed_in_frame=0">prius</a> <a href="http://dictionary.reference.com/search?q=prius" class="dictionary" title="Look up prius at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prius at Dictionary.com" title="Look up prius at Dictionary.com" /></a></dt>
+<dd class="highlight">Latin neuter of <span class="foreign">prior</span> "former, earlier" (see <a href="/index.php?term=prior&allowed_in_frame=0" class="crossreference">prior</a> (adj.)). The hybrid car debuted in 1997 in Japan, 2001 in U.S. and Europe. Name supposedly chosen because the car is a predecessor of new types. Proper plural is said to be <span class="foreign">Priora</span>, but that is for the adjective.</dd>
+
+<dt><a href="/index.php?term=privacy&allowed_in_frame=0">privacy (n.)</a> <a href="http://dictionary.reference.com/search?q=privacy" class="dictionary" title="Look up privacy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privacy at Dictionary.com" title="Look up privacy at Dictionary.com" /></a></dt>
+<dd>mid-15c.; see <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a> + <a href="/index.php?term=-cy&allowed_in_frame=0" class="crossreference">-cy</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=private&allowed_in_frame=0">private (adj.)</a> <a href="http://dictionary.reference.com/search?q=private" class="dictionary" title="Look up private at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up private at Dictionary.com" title="Look up private at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from L. <span class="foreign">privatus</span> "set apart, belonging to oneself" (not to the state), used in contrast to <span class="foreign">publicus, communis</span>; originally pp. stem of <span class="foreign">privare</span> "to separate, deprive," from <span class="foreign">privus</span> "one's own, individual," from Old L. <span class="foreign">pri</span> "before." Replaced O.E. <span class="foreign">syndrig</span>. Grew popular 17c. as a preferred alternative to the snobbish overtones in <span class="foreign">common</span>. Meaning "not open to the public" is from late 14c. Of persons, "not holding public office" it is recorded from early 15c. <span class="foreign">Private soldier</span> "one below the rank of a non-commissioned officer" is from 1570s. <span class="foreign">Private parts</span> "the pudenda" is from 1785. <span class="foreign">Private enterprise</span> first recorded 1844. <span class="foreign">Private sector</span> is from 1952.</dd>
+
+<dt><a href="/index.php?term=privateer&allowed_in_frame=0">privateer (n.)</a> <a href="http://dictionary.reference.com/search?q=privateer" class="dictionary" title="Look up privateer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privateer at Dictionary.com" title="Look up privateer at Dictionary.com" /></a></dt>
+<dd>1660s, originally <span class="foreign">private man of war</span> (1640s), from <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a>, probably modeled on <span class="foreign">volunteer</span>, <span class="foreign">buccaneer</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=privation&allowed_in_frame=0">privation (n.)</a> <a href="http://dictionary.reference.com/search?q=privation" class="dictionary" title="Look up privation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privation at Dictionary.com" title="Look up privation at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., "action of depriving," from O.Fr. <span class="foreign">privacion</span>, from L. <span class="foreign">privationem</span> (nom. <span class="foreign">privatio</span>) "a taking away," noun of action from pp. stem of <span class="foreign">privare</span> "deprive" (see <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a>). Meaning "want of life's comforts or of some necessity" is attested from 1790.</dd>
+
+<dt><a href="/index.php?term=privatisation&allowed_in_frame=0">privatisation (n.)</a> <a href="http://dictionary.reference.com/search?q=privatisation" class="dictionary" title="Look up privatisation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privatisation at Dictionary.com" title="Look up privatisation at Dictionary.com" /></a></dt>
+<dd>chiefly British English spelling of <a href="/index.php?term=privatization&allowed_in_frame=0" class="crossreference">privatization</a>. For spelling, see <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=privative&allowed_in_frame=0">privative (adj.)</a> <a href="http://dictionary.reference.com/search?q=privative" class="dictionary" title="Look up privative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privative at Dictionary.com" title="Look up privative at Dictionary.com" /></a></dt>
+<dd class="highlight">1580s, "expressing negation" (as the prefixes <span class="foreign">un-, a-</span>, etc.), from L. <span class="foreign">privativus</span> "denoting privation, negative," from <span class="foreign">privatus,</span> pp. of <span class="foreign">privare</span> (see <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a>).</dd>
+
+<dt><a href="/index.php?term=privatization&allowed_in_frame=0">privatization (n.)</a> <a href="http://dictionary.reference.com/search?q=privatization" class="dictionary" title="Look up privatization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privatization at Dictionary.com" title="Look up privatization at Dictionary.com" /></a></dt>
+<dd>1959, from <a href="/index.php?term=privatize&allowed_in_frame=0" class="crossreference">privatize</a> + <a href="/index.php?term=-ation&allowed_in_frame=0" class="crossreference">-ation</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=privatize&allowed_in_frame=0">privatize (v.)</a> <a href="http://dictionary.reference.com/search?q=privatize" class="dictionary" title="Look up privatize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privatize at Dictionary.com" title="Look up privatize at Dictionary.com" /></a></dt>
+<dd class="highlight">1968, from <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a> (adj.) + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Privatized</span>; <span class="foreign">privatizing</span>.</dd>
+
+<dt><a href="/index.php?term=privet&allowed_in_frame=0">privet (n.)</a> <a href="http://dictionary.reference.com/search?q=privet" class="dictionary" title="Look up privet at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privet at Dictionary.com" title="Look up privet at Dictionary.com" /></a></dt>
+<dd>type of evergreen shrub, 1540s, of unknown origin. Early forms <span class="foreign">primet</span>, <span class="foreign">primprint</span> perhaps suggest some connection with <span class="foreign">prime</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=privilege&allowed_in_frame=0">privilege (n.)</a> <a href="http://dictionary.reference.com/search?q=privilege" class="dictionary" title="Look up privilege at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privilege at Dictionary.com" title="Look up privilege at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-12c. (recorded earlier in Old English, but as a Latin word), from O.Fr. <span class="foreign">privilege</span> (12c.), from L. <span class="foreign">privilegium</span> "law applying to one person," later "privilege," from <span class="foreign">privus</span> "individual" (see <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a>) + <span class="foreign">lex</span> (gen. <span class="foreign">legis</span>) "law" (see <a href="/index.php?term=legal&allowed_in_frame=0" class="crossreference">legal</a> (adj.)).</dd>
+
+<dt><a href="/index.php?term=privity&allowed_in_frame=0">privity (n.)</a> <a href="http://dictionary.reference.com/search?q=privity" class="dictionary" title="Look up privity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privity at Dictionary.com" title="Look up privity at Dictionary.com" /></a></dt>
+<dd>early 13c., from O.Fr. <span class="foreign">privit&eacute;</span> (c.1200) "privacy, a secret," from L. <span class="foreign">privus</span> (see <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=privy&allowed_in_frame=0">privy (adj.)</a> <a href="http://dictionary.reference.com/search?q=privy" class="dictionary" title="Look up privy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privy at Dictionary.com" title="Look up privy at Dictionary.com" /></a></dt>
+<dd class="highlight">"private," early 13c., from O.Fr. <span class="foreign">priv&eacute;</span>, from L. <span class="foreign">privatus</span> (see <a href="/index.php?term=private&allowed_in_frame=0" class="crossreference">private</a>). Meaning "participating in a secret" (usually with <span class="foreign">to</span>) is attested from late 14c. <span class="foreign">Privy Council</span> is from c.1300 in a general sense; specifically of the British government, first attested late 14c., as <span class="foreign">consaile priue</span>.</dd>
+
+<dt><a href="/index.php?term=privy&allowed_in_frame=0">privy (n.)</a> <a href="http://dictionary.reference.com/search?q=privy" class="dictionary" title="Look up privy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up privy at Dictionary.com" title="Look up privy at Dictionary.com" /></a></dt>
+<dd>"toilet," early 13c., from O.Fr. <span class="foreign">priv&eacute;</span>, from <a href="/index.php?term=privy&allowed_in_frame=0" class="crossreference">privy</a> (adj.). </dd>
+
+<dt class="highlight"><a href="/index.php?term=prix+fixe&allowed_in_frame=0">prix fixe</a> <a href="http://dictionary.reference.com/search?q=prix+fixe" class="dictionary" title="Look up prix fixe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prix fixe at Dictionary.com" title="Look up prix fixe at Dictionary.com" /></a></dt>
+<dd class="highlight">meal served at a fixed price, 1883, French, lit. "fixed price" (see <a href="/index.php?term=price&allowed_in_frame=0" class="crossreference">price</a> (n.) and <a href="/index.php?term=fix&allowed_in_frame=0" class="crossreference">fix</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=prize&allowed_in_frame=0">prize (n.1)</a> <a href="http://dictionary.reference.com/search?q=prize" class="dictionary" title="Look up prize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prize at Dictionary.com" title="Look up prize at Dictionary.com" /></a></dt>
+<dd>"reward," 1590s, alteration of Middle English <span class="foreign">prise</span> (c.1300 in this sense; see <a href="/index.php?term=price&allowed_in_frame=0" class="crossreference">price</a> (n.)). <span class="foreign">Prize-fighter</span> is from 1703; <span class="foreign">prize-fight</span> from 1824. <span class="foreign">Prized</span> "highly esteemed" is from 1530s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=prize&allowed_in_frame=0">prize (n.2)</a> <a href="http://dictionary.reference.com/search?q=prize" class="dictionary" title="Look up prize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prize at Dictionary.com" title="Look up prize at Dictionary.com" /></a></dt>
+<dd class="highlight">"something taken by force," late 14c., from O.Fr. <span class="foreign">prise</span> "a taking, seizing, holding," properly fem. pp. of <span class="foreign">prendre</span> "to take, seize," from L. <span class="foreign">prendere</span>, contraction of <span class="foreign">prehendere</span> (see <a href="/index.php?term=prehensile&allowed_in_frame=0" class="crossreference">prehensile</a>). Especially of ships captured at sea (1510s).</dd>
+
+<dt><a href="/index.php?term=prize&allowed_in_frame=0">prize (v.)</a> <a href="http://dictionary.reference.com/search?q=prize" class="dictionary" title="Look up prize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up prize at Dictionary.com" title="Look up prize at Dictionary.com" /></a></dt>
+<dd>"to estimate," 1580s, alteration of Middle English <span class="foreign">prisen</span> "to prize, value," from stem of O.Fr. <span class="foreign">preisier</span> (see <a href="/index.php?term=praise&allowed_in_frame=0" class="crossreference">praise</a>). Related: <span class="foreign">Prized</span>; <span class="foreign">prizing</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pro&allowed_in_frame=0">pro (n.)</a> <a href="http://dictionary.reference.com/search?q=pro" class="dictionary" title="Look up pro at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro at Dictionary.com" title="Look up pro at Dictionary.com" /></a></dt>
+<dd class="highlight">1866, shortening of <a href="/index.php?term=professional&allowed_in_frame=0" class="crossreference">professional</a>. The adjective is first recorded 1932. <span class="foreign">Pro-am</span> "including professionals and amateurs" is from 1949.</dd>
+
+<dt><a href="/index.php?term=pro+bono&allowed_in_frame=0">pro bono</a> <a href="http://dictionary.reference.com/search?q=pro+bono" class="dictionary" title="Look up pro bono at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro bono at Dictionary.com" title="Look up pro bono at Dictionary.com" /></a></dt>
+<dd>short for M.L. <span class="foreign">pro bono publico</span> "for the public good" (1726).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pro+forma&allowed_in_frame=0">pro forma</a> <a href="http://dictionary.reference.com/search?q=pro+forma" class="dictionary" title="Look up pro forma at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro forma at Dictionary.com" title="Look up pro forma at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">proforma</span>, Latin, lit. "for form's sake, by way of formality."</dd>
+
+<dt><a href="/index.php?term=pro+rata&allowed_in_frame=0">pro rata</a> <a href="http://dictionary.reference.com/search?q=pro+rata" class="dictionary" title="Look up pro rata at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro rata at Dictionary.com" title="Look up pro rata at Dictionary.com" /></a></dt>
+<dd>1570s, from L. <span class="foreign">pro rata (parte)</span> "according to the calculated (share)," from <span class="foreign">pro</span> "for" + <span class="foreign">rata</span>, ablative singular of <span class="foreign">ratus</span>, pp. of <span class="foreign">reri</span> "to count, reckon" (see <a href="/index.php?term=rate&allowed_in_frame=0" class="crossreference">rate</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pro+tanto&allowed_in_frame=0">pro tanto</a> <a href="http://dictionary.reference.com/search?q=pro+tanto" class="dictionary" title="Look up pro tanto at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro tanto at Dictionary.com" title="Look up pro tanto at Dictionary.com" /></a></dt>
+<dd class="highlight">Latin, lit. "for so much; to such an extent."</dd>
+
+<dt><a href="/index.php?term=pro+tem&allowed_in_frame=0">pro tem</a> <a href="http://dictionary.reference.com/search?q=pro+tem" class="dictionary" title="Look up pro tem at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro tem at Dictionary.com" title="Look up pro tem at Dictionary.com" /></a></dt>
+<dd>1828, short for <a href="/index.php?term=pro tempore&allowed_in_frame=0" class="crossreference">pro tempore</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=pro+tempore&allowed_in_frame=0">pro tempore</a> <a href="http://dictionary.reference.com/search?q=pro+tempore" class="dictionary" title="Look up pro tempore at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro tempore at Dictionary.com" title="Look up pro tempore at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., Latin, lit. "for the time (being)." Abbreviated form <span class="foreign">pro tem</span> is attested by 1828.</dd>
+
+<dt><a href="/index.php?term=pro-&allowed_in_frame=0">pro-</a> <a href="http://dictionary.reference.com/search?q=pro-" class="dictionary" title="Look up pro- at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro- at Dictionary.com" title="Look up pro- at Dictionary.com" /></a></dt>
+<dd>prefix meaning "before, forward, in favor of, in place of," from L. <span class="foreign">pro</span> "on behalf of, in place of, before, for," also in some cases from cognate Gk. <span class="foreign">pro</span> "before, in front of," both from PIE <span class="foreign">*pro-</span>, extended form of root <span class="foreign">*por-</span> "forward, through" (cf. Skt. <span class="foreign">para</span> "beyond," <span class="foreign">pra-</span> "before, forward, forth;" Gk. <span class="foreign">paros</span> "before," <span class="foreign">para-</span> "from beside, against, beyond;" Goth. <span class="foreign">faura</span> "before," O.E. <span class="foreign">fore</span> "before, for, on account of," <span class="foreign">fram</span> "forward, from"). <span class="foreign">Pro and con</span> is attested from c.1400, short for <span class="foreign">pro and contra</span> "for and against" (L. <span class="foreign">pro et contra</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=pro-choice&allowed_in_frame=0">pro-choice (adj.)</a> <a href="http://dictionary.reference.com/search?q=pro-choice" class="dictionary" title="Look up pro-choice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro-choice at Dictionary.com" title="Look up pro-choice at Dictionary.com" /></a></dt>
+<dd class="highlight">"favoring a right to abortion," 1975, from <a href="/index.php?term=pro-&allowed_in_frame=0" class="crossreference">pro-</a> + <a href="/index.php?term=choice&allowed_in_frame=0" class="crossreference">choice</a>.</dd>
+
+<dt><a href="/index.php?term=pro-life&allowed_in_frame=0">pro-life (adj.)</a> <a href="http://dictionary.reference.com/search?q=pro-life" class="dictionary" title="Look up pro-life at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up pro-life at Dictionary.com" title="Look up pro-life at Dictionary.com" /></a></dt>
+<dd>"opposed to abortion," first attested 1976, from <a href="/index.php?term=pro-&allowed_in_frame=0" class="crossreference">pro-</a> + <a href="/index.php?term=life&allowed_in_frame=0" class="crossreference">life</a>. Hostile alternative <span class="foreign">anti-choice</span> attested 1978 in <span class="foreign">Ms.</span> magazine (see <a href="/index.php?term=pro-choice&allowed_in_frame=0" class="crossreference">pro-choice</a>).
+<blockquote>
+What hypocrisy to call such anti-humanitarian people 'pro-life.' Call them what they are -- antichoice. ["Ms.," Oct. 8, 1978]
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=proactive&allowed_in_frame=0">proactive (adj.)</a> <a href="http://dictionary.reference.com/search?q=proactive" class="dictionary" title="Look up proactive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up proactive at Dictionary.com" title="Look up proactive at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">pro-active</span>, 1933, in psychology (learning theory), from <a href="/index.php?term=pro-&allowed_in_frame=0" class="crossreference">pro-</a> + <a href="/index.php?term=active&allowed_in_frame=0" class="crossreference">active</a>. Of persons or policies, as an opposition to <a href="/index.php?term=reactive&allowed_in_frame=0" class="crossreference">reactive</a>, attested from 1971. Related: <span class="foreign">Proactively</span>; <span class="foreign">proactiveness</span>; <span class="foreign">proactivity</span>.</dd>
+
+<dt><a href="/index.php?term=probabilistic&allowed_in_frame=0">probabilistic (adj.)</a> <a href="http://dictionary.reference.com/search?q=probabilistic" class="dictionary" title="Look up probabilistic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probabilistic at Dictionary.com" title="Look up probabilistic at Dictionary.com" /></a></dt>
+<dd>1864, from <span class="foreign">probabilist</span> (1650s, from L. <span class="foreign">probabilis</span>, see <a href="/index.php?term=probable&allowed_in_frame=0" class="crossreference">probable</a>) + <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=probability&allowed_in_frame=0">probability (n.)</a> <a href="http://dictionary.reference.com/search?q=probability" class="dictionary" title="Look up probability at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probability at Dictionary.com" title="Look up probability at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "quality of being probable," from O.Fr. <span class="foreign">probabilite</span> (14c.) and directly from L. <span class="foreign">probabilitatem</span> (nom. <span class="foreign">probabilitas</span>), from <span class="foreign">probabilis</span> (see <a href="/index.php?term=probable&allowed_in_frame=0" class="crossreference">probable</a>). Meaning “something likely to be true” is from 1570s; mathematical sense is from 1718.</dd>
+
+<dt><a href="/index.php?term=probable&allowed_in_frame=0">probable (adj.)</a> <a href="http://dictionary.reference.com/search?q=probable" class="dictionary" title="Look up probable at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probable at Dictionary.com" title="Look up probable at Dictionary.com" /></a></dt>
+<dd>late 14c., from O.Fr. <span class="foreign">probable</span> (14c.), from L. <span class="foreign">probabilis</span> "provable," from <span class="foreign">probare</span> "to try, to test" (see <a href="/index.php?term=prove&allowed_in_frame=0" class="crossreference">prove</a>). <span class="foreign">Probable cause</span> as a legal term is attested from 1670s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=probably&allowed_in_frame=0">probably (adv.)</a> <a href="http://dictionary.reference.com/search?q=probably" class="dictionary" title="Look up probably at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probably at Dictionary.com" title="Look up probably at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "plausibly," from <a href="/index.php?term=probable&allowed_in_frame=0" class="crossreference">probable</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (2). As a general purpose qualifier, 1610s.</dd>
+
+<dt><a href="/index.php?term=proband&allowed_in_frame=0">proband</a> <a href="http://dictionary.reference.com/search?q=proband" class="dictionary" title="Look up proband at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up proband at Dictionary.com" title="Look up proband at Dictionary.com" /></a></dt>
+<dd>1929, from L. <span class="foreign">probandus</span>, gerundive of <span class="foreign">probare</span> (see <a href="/index.php?term=prove&allowed_in_frame=0" class="crossreference">prove</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=probate&allowed_in_frame=0">probate (n.)</a> <a href="http://dictionary.reference.com/search?q=probate" class="dictionary" title="Look up probate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probate at Dictionary.com" title="Look up probate at Dictionary.com" /></a></dt>
+<dd class="highlight">"official proving of a will," c.1400, from L. <span class="foreign">probatum</span> "a thing proved," neuter of <span class="foreign">probatus</span>, pp. of <span class="foreign">probare</span> "to try, test, prove" (see <a href="/index.php?term=prove&allowed_in_frame=0" class="crossreference">prove</a>).</dd>
+
+<dt><a href="/index.php?term=probate&allowed_in_frame=0">probate (v.)</a> <a href="http://dictionary.reference.com/search?q=probate" class="dictionary" title="Look up probate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probate at Dictionary.com" title="Look up probate at Dictionary.com" /></a></dt>
+<dd>1792, from <a href="/index.php?term=probate&allowed_in_frame=0" class="crossreference">probate</a> (n.). Related: <span class="foreign">Probated</span>; <span class="foreign">probating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=probation&allowed_in_frame=0">probation (n.)</a> <a href="http://dictionary.reference.com/search?q=probation" class="dictionary" title="Look up probation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probation at Dictionary.com" title="Look up probation at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "trial, experiment, test," from O.Fr. <span class="foreign">probacion</span> (14c.), from L. <span class="foreign">probationem</span> (nom. <span class="foreign">probatio</span>) "inspection, examination," noun of action from pp. stem of <span class="foreign">probare</span> "to test" (see <a href="/index.php?term=prove&allowed_in_frame=0" class="crossreference">prove</a>). Meaning "testing of a person's conduct" is from early 15c.; theological sense first recorded 1520s; criminal justice sense is first recorded in U.S. c.1878.</dd>
+
+<dt><a href="/index.php?term=probative&allowed_in_frame=0">probative</a> <a href="http://dictionary.reference.com/search?q=probative" class="dictionary" title="Look up probative at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probative at Dictionary.com" title="Look up probative at Dictionary.com" /></a></dt>
+<dd>mid-15c., from L. <span class="foreign">probativus</span> "belonging to proof," from <span class="foreign">probatus</span> (see <a href="/index.php?term=probate&allowed_in_frame=0" class="crossreference">probate</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=probe&allowed_in_frame=0">probe (n.)</a> <a href="http://dictionary.reference.com/search?q=probe" class="dictionary" title="Look up probe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probe at Dictionary.com" title="Look up probe at Dictionary.com" /></a></dt>
+<dd class="highlight">early 15c., "instrument for exploring wounds, etc.," also "an examination," from M.L. <span class="foreign">proba</span> "examination," in L.L. "test, proof," from L. <span class="foreign">probare</span> (see <a href="/index.php?term=prove&allowed_in_frame=0" class="crossreference">prove</a>). Meaning "act of probing" is 1890, from the verb; figurative sense of "penetrating investigation" is from 1903. Meaning "small, unmanned exploratory craft" is attested from 1953. </dd>
+
+<dt><a href="/index.php?term=probe&allowed_in_frame=0">probe (v.)</a> <a href="http://dictionary.reference.com/search?q=probe" class="dictionary" title="Look up probe at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up probe at Dictionary.com" title="Look up probe at Dictionary.com" /></a></dt>
+<dd>1640s, originally figurative; "to search thoroughly, interrogate;" from <a href="/index.php?term=probe&allowed_in_frame=0" class="crossreference">probe</a> (n.). Related: <span class="foreign">Probed</span>; <span class="foreign">probing</span>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=p&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=p&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=p&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=p&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=p&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=p&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=p&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=p&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=p&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=p&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=p&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=p&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=p&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=p&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=p&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=p&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=p&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=p&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=p&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=p&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=p&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=p&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=p&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=p&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=p&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=p&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=p&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=p&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=p&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=p&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=p&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=p&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=p&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=p&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=p&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=p&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=p&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=p&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=p&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=p&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=p&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=p&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=p&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=p&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=p&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=p&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=p&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=p&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=p&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=p&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=p&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=p&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=p&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=p&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=p&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=p&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a class="current" href="/index.php?l=p&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=p&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=p&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=p&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=p&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=p&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=p&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=p&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=p&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=p&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=p&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=p&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=p&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=p&amp;p=69&allowed_in_frame=0">70</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658637 -->
+<!-- Page was generated in 0.243105 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=slothful&allowed_in_frame=0">slothful (adj.)</a> <a href="http://dictionary.reference.com/search?q=slothful" class="dictionary" title="Look up slothful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slothful at Dictionary.com" title="Look up slothful at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, from <a href="/index.php?term=sloth&allowed_in_frame=0" class="crossreference">sloth</a> + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>. Related: <span class="foreign">Slothfully</span>; <span class="foreign">slothfulness</span>.</dd>
+
+<dt><a href="/index.php?term=slouch&allowed_in_frame=0">slouch (v.)</a> <a href="http://dictionary.reference.com/search?q=slouch" class="dictionary" title="Look up slouch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slouch at Dictionary.com" title="Look up slouch at Dictionary.com" /></a></dt>
+<dd>"walk with a slouch," 1754, from <a href="/index.php?term=slouch&allowed_in_frame=0" class="crossreference">slouch</a> (n.). Related: <span class="foreign">Slouched</span>; <span class="foreign">slouching</span>. </dd>
+
+<dt class="highlight"><a href="/index.php?term=slouch&allowed_in_frame=0">slouch (n.)</a> <a href="http://dictionary.reference.com/search?q=slouch" class="dictionary" title="Look up slouch at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slouch at Dictionary.com" title="Look up slouch at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, "lazy man," variant of <span class="foreign">slouk</span> (1570), perhaps from O.N. <span class="foreign">slokr</span> "lazy fellow," and related to <a href="/index.php?term=slack&allowed_in_frame=0" class="crossreference">slack</a> on the notion of "sagging, drooping." Meaning "stooping of the head and shoulders" first recorded 1725. <span class="foreign">Slouch hat</span> first attested 1837.</dd>
+
+<dt><a href="/index.php?term=slough&allowed_in_frame=0">slough (n.)</a> <a href="http://dictionary.reference.com/search?q=slough" class="dictionary" title="Look up slough at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slough at Dictionary.com" title="Look up slough at Dictionary.com" /></a></dt>
+<dd>"muddy place," O.E. <span class="foreign">sloh</span> "soft, muddy ground," of uncertain origin, perhaps from P.Gmc. <span class="foreign">*slokhaz</span>. Figurative use, e.g. of moral sunkenness or Bunyan's "Slough of Despond," attested from mid-13c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slough&allowed_in_frame=0">slough (v.)</a> <a href="http://dictionary.reference.com/search?q=slough" class="dictionary" title="Look up slough at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slough at Dictionary.com" title="Look up slough at Dictionary.com" /></a></dt>
+<dd class="highlight">"to cast off" (as the skin of a snake or other animal), 1720, originally of diseased tissue, from M.E. noun <span class="foreign">slughe</span>, <span class="foreign">slouh</span> "shed skin of a snake" (c.1300), probably related to O.S. <span class="foreign">sluk</span> "skin of a snake," M.H.G. <span class="foreign">sluch</span> "snakeskin, wineskin," M.L.G. <span class="foreign">slu</span> "husk, peel, skin," Ger. <span class="foreign">Schlauch</span> "wineskin;" from P.Gmc. <span class="foreign">*sluk-</span>, of uncertain origin, perhaps from PIE root <span class="foreign">*sleug-</span> "to glide." Related: <span class="foreign">Sloughed</span>; <span class="foreign">sloughing</span>.</dd>
+
+<dt><a href="/index.php?term=Slovak&allowed_in_frame=0">Slovak</a> <a href="http://dictionary.reference.com/search?q=Slovak" class="dictionary" title="Look up Slovak at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Slovak at Dictionary.com" title="Look up Slovak at Dictionary.com" /></a></dt>
+<dd>1829, from Fr. <span class="foreign">Slovak</span>, from the people's own name (cf. Slovak, Czech <span class="foreign">Slovak</span>, pl. <span class="foreign">Slovaci</span>; Pol. <span class="foreign">S&#322;owak</span>; Rus. <span class="foreign">Slovak</span>; Ger. <span class="foreign">Slowake</span>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sloven&allowed_in_frame=0">sloven (n.)</a> <a href="http://dictionary.reference.com/search?q=sloven" class="dictionary" title="Look up sloven at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sloven at Dictionary.com" title="Look up sloven at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "immoral woman," later also "rascal, knave" (regardless of gender); probably from M.Flem. <span class="foreign">sloovin</span> "a scold," related to <span class="foreign">sloef</span> "untidy, shabby," from P.Gmc. <span class="foreign">*slup-</span> (cf. Du. <span class="foreign">slof</span> "careless, negligent") + O.Fr. suffix <span class="foreign">-ain</span>, from L. <span class="foreign">-anus</span>.</dd>
+
+<dt><a href="/index.php?term=Slovene&allowed_in_frame=0">Slovene</a> <a href="http://dictionary.reference.com/search?q=Slovene" class="dictionary" title="Look up Slovene at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Slovene at Dictionary.com" title="Look up Slovene at Dictionary.com" /></a></dt>
+<dd>1883, from Ger. <span class="foreign">Slowene</span>, from <span class="foreign">Slovenec</span>, the people's own name, originally lit. "Slav." A survival of the old native designation of the Slavic people, cf. O.C.S. <span class="foreign">Slovene</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slovenly&allowed_in_frame=0">slovenly (adj.)</a> <a href="http://dictionary.reference.com/search?q=slovenly" class="dictionary" title="Look up slovenly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slovenly at Dictionary.com" title="Look up slovenly at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, "low, base, lewd," later "untidy, dirty" (1560s), from <a href="/index.php?term=sloven&allowed_in_frame=0" class="crossreference">sloven</a> + <a href="/index.php?term=-ly&allowed_in_frame=0" class="crossreference">-ly</a> (1).</dd>
+
+<dt><a href="/index.php?term=slow&allowed_in_frame=0">slow (adj.)</a> <a href="http://dictionary.reference.com/search?q=slow" class="dictionary" title="Look up slow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slow at Dictionary.com" title="Look up slow at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">slaw</span> "inactive, sluggish," also "not clever," from P.Gmc. <span class="foreign">*sl&aelig;waz</span> (cf. O.S. <span class="foreign">sleu</span> "blunt, dull," M.Du. <span class="foreign">slee</span>, Du. <span class="foreign">sleeuw</span> "sour, tart, blunt," O.H.G. <span class="foreign">sleo</span> "blunt, dull," O.N. <span class="foreign">sljor</span>, Dan. <span class="foreign">sl&oslash;v</span>, Swed. <span class="foreign">sl&ouml;</span> "blunt, dull"). Meaning "taking a long time" is attested from early 13c. Meaning "dull, tedious" is from 1841. <span class="foreign">Slowpoke</span> is first recorded 1848.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slow&allowed_in_frame=0">slow (v.)</a> <a href="http://dictionary.reference.com/search?q=slow" class="dictionary" title="Look up slow at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slow at Dictionary.com" title="Look up slow at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">slawian</span>, from the source of <a href="/index.php?term=slow&allowed_in_frame=0" class="crossreference">slow</a> (adj.); modern use may be a 16c. re-formation. Related: <span class="foreign">Slowed</span>; <span class="foreign">slowing</span>.</dd>
+
+<dt><a href="/index.php?term=slowdown&allowed_in_frame=0">slowdown</a> <a href="http://dictionary.reference.com/search?q=slowdown" class="dictionary" title="Look up slowdown at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slowdown at Dictionary.com" title="Look up slowdown at Dictionary.com" /></a></dt>
+<dd>1897, from <a href="/index.php?term=slow&allowed_in_frame=0" class="crossreference">slow</a> + <a href="/index.php?term=down&allowed_in_frame=0" class="crossreference">down</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slubberdegullion&allowed_in_frame=0">slubberdegullion (n.)</a> <a href="http://dictionary.reference.com/search?q=slubberdegullion" class="dictionary" title="Look up slubberdegullion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slubberdegullion at Dictionary.com" title="Look up slubberdegullion at Dictionary.com" /></a></dt>
+<dd class="highlight">"a slobbering or dirty fellow, a worthless sloven," 1610s, from <span class="foreign">slubber</span> "to daub, smear" (1520s), probably from Dutch or Low German. Second element appears to be an attempt to imitate French; perhaps related to O.Fr. <span class="foreign">goalon</span> "a sloven."</dd>
+
+<dt><a href="/index.php?term=sludge&allowed_in_frame=0">sludge (n.)</a> <a href="http://dictionary.reference.com/search?q=sludge" class="dictionary" title="Look up sludge at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sludge at Dictionary.com" title="Look up sludge at Dictionary.com" /></a></dt>
+<dd>1640s, possibly from M.E. <span class="foreign">slutch</span> "mud, mire," or a variant of <a href="/index.php?term=slush&allowed_in_frame=0" class="crossreference">slush</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=sluff&allowed_in_frame=0">sluff (v.)</a> <a href="http://dictionary.reference.com/search?q=sluff" class="dictionary" title="Look up sluff at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sluff at Dictionary.com" title="Look up sluff at Dictionary.com" /></a></dt>
+<dd class="highlight">"avoid work," 1951 slang variant of <a href="/index.php?term=slough&allowed_in_frame=0" class="crossreference">slough</a> (v.).</dd>
+
+<dt><a href="/index.php?term=slug&allowed_in_frame=0">slug (n.1)</a> <a href="http://dictionary.reference.com/search?q=slug" class="dictionary" title="Look up slug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slug at Dictionary.com" title="Look up slug at Dictionary.com" /></a></dt>
+<dd>"shell-less land snail," 1704, originally "lazy person" (early 15c.); related to <a href="/index.php?term=sluggard&allowed_in_frame=0" class="crossreference">sluggard</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slug&allowed_in_frame=0">slug (n.2)</a> <a href="http://dictionary.reference.com/search?q=slug" class="dictionary" title="Look up slug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slug at Dictionary.com" title="Look up slug at Dictionary.com" /></a></dt>
+<dd class="highlight">"lead bit," 1620s, perhaps a special use of <a href="/index.php?term=slug&allowed_in_frame=0" class="crossreference">slug</a> (n.1) with reference to its shape. Meaning "token or counterfeit coin" first recorded 1881; meaning "strong drink" first recorded 1756, perhaps from slang <span class="foreign">fire a slug</span> "take a drink," though it also may be related to Ir. <span class="foreign">slog</span> "swallow."</dd>
+
+<dt><a href="/index.php?term=slug&allowed_in_frame=0">slug (n.3)</a> <a href="http://dictionary.reference.com/search?q=slug" class="dictionary" title="Look up slug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slug at Dictionary.com" title="Look up slug at Dictionary.com" /></a></dt>
+<dd>"a hard blow," 1830, dialectal, perhaps related to <a href="/index.php?term=slaughter&allowed_in_frame=0" class="crossreference">slaughter</a>, <a href="/index.php?term=slay&allowed_in_frame=0" class="crossreference">slay</a>, etc.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slug&allowed_in_frame=0">slug (v.)</a> <a href="http://dictionary.reference.com/search?q=slug" class="dictionary" title="Look up slug at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slug at Dictionary.com" title="Look up slug at Dictionary.com" /></a></dt>
+<dd class="highlight">"deliver a hard blow with the fist," 1862, from <a href="/index.php?term=slug&allowed_in_frame=0" class="crossreference">slug</a> (n.3). Related: <span class="foreign">Slugged</span>; <span class="foreign">slugging</span>.</dd>
+
+<dt><a href="/index.php?term=slugabed&allowed_in_frame=0">slugabed (n.)</a> <a href="http://dictionary.reference.com/search?q=slugabed" class="dictionary" title="Look up slugabed at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slugabed at Dictionary.com" title="Look up slugabed at Dictionary.com" /></a></dt>
+<dd>1590s, from obsolete verb <span class="foreign">slug</span> "be lazy, intert" (early 15c.), which is perhaps from Scandinavian (cf. Swed. dial. <span class="foreign">slogga</span> "to be slow or sluggish"); adj. <span class="foreign">sluggy</span> is from early 13c. With <a href="/index.php?term=bed&allowed_in_frame=0" class="crossreference">bed</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=slugfest&allowed_in_frame=0">slugfest (n.)</a> <a href="http://dictionary.reference.com/search?q=slugfest" class="dictionary" title="Look up slugfest at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slugfest at Dictionary.com" title="Look up slugfest at Dictionary.com" /></a></dt>
+<dd class="highlight">1916, from <a href="/index.php?term=slug&allowed_in_frame=0" class="crossreference">slug</a> (n.3) + <a href="/index.php?term=-fest&allowed_in_frame=0" class="crossreference">-fest</a>.</dd>
+
+<dt><a href="/index.php?term=sluggard&allowed_in_frame=0">sluggard (n.)</a> <a href="http://dictionary.reference.com/search?q=sluggard" class="dictionary" title="Look up sluggard at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sluggard at Dictionary.com" title="Look up sluggard at Dictionary.com" /></a></dt>
+<dd>late 14c. (implied in <span class="foreign">sluggardly</span>), from M.E. <span class="foreign">sluggi</span> "sluggish, indolent," probably from a Scandinavian word, cf. dialectal Norw. and Swed. <span class="foreign">slugga</span> "be sluggish," dialectal Norw. <span class="foreign">sluggje</span> "heavy, slow person."
+<blockquote>
+'Tis the voice of a sluggard -- I heard him complain:
+<BR>"You have wak'd me too soon, I must slumber again."
+<BR>[Isaac Watts, 1674-1748]
+<BR><BR>
+<hr>
+<BR>
+'Tis the voice of the Lobster: I heard him declare
+<BR>"You have baked me too brown, I must sugar my hair."
+<BR>["Lewis Carroll" (Charles L. Dodgson), 1832-1898] 
+</blockquote></dd>
+
+<dt class="highlight"><a href="/index.php?term=slugger&allowed_in_frame=0">slugger (n.)</a> <a href="http://dictionary.reference.com/search?q=slugger" class="dictionary" title="Look up slugger at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slugger at Dictionary.com" title="Look up slugger at Dictionary.com" /></a></dt>
+<dd class="highlight">1877, originally in baseball, agent noun from <a href="/index.php?term=slug&allowed_in_frame=0" class="crossreference">slug</a> (v.).</dd>
+
+<dt><a href="/index.php?term=sluggish&allowed_in_frame=0">sluggish (adj.)</a> <a href="http://dictionary.reference.com/search?q=sluggish" class="dictionary" title="Look up sluggish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sluggish at Dictionary.com" title="Look up sluggish at Dictionary.com" /></a></dt>
+<dd>mid-15c., from M.E. <span class="foreign">slugge</span> "lazy person" (see <a href="/index.php?term=sluggard&allowed_in_frame=0" class="crossreference">sluggard</a>). Earlier adjective was <span class="foreign">sluggi</span> (early 13c.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=sluice&allowed_in_frame=0">sluice</a> <a href="http://dictionary.reference.com/search?q=sluice" class="dictionary" title="Look up sluice at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sluice at Dictionary.com" title="Look up sluice at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., aphetic of O.Fr. <span class="foreign">escluse</span> "sluice, floodgate," from L.L. <span class="foreign">exclusa</span> "barrier to shut out water" (in <span class="foreign">aqua exclusa</span> "water shut out"), from fem. sing. of L. <span class="foreign">exclusus</span>, pp. of <span class="foreign">excludere</span> "shut out" (see <a href="/index.php?term=exclude&allowed_in_frame=0" class="crossreference">exclude</a>).</dd>
+
+<dt><a href="/index.php?term=slum&allowed_in_frame=0">slum</a> <a href="http://dictionary.reference.com/search?q=slum" class="dictionary" title="Look up slum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slum at Dictionary.com" title="Look up slum at Dictionary.com" /></a></dt>
+<dd>1845, from <span class="foreign">back slum</span> "back alley, street of poor people" (1825), originally a slang word meaning "room," especially "back room" (1812), of unknown origin. <span class="foreign">Go slumming</span> is from 1884, pastime popularized by East End novels. <span class="foreign">Slumlord</span> first attested 1953, from <span class="foreign">slum landlord</span> (1893).</dd>
+
+<dt class="highlight"><a href="/index.php?term=slumber&allowed_in_frame=0">slumber (v.)</a> <a href="http://dictionary.reference.com/search?q=slumber" class="dictionary" title="Look up slumber at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slumber at Dictionary.com" title="Look up slumber at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., alteration of <span class="foreign">slumeren</span> (early 13c.), frequentative form of <span class="foreign">slumen</span> "to doze," probably from O.E. <span class="foreign">sluma</span> "light sleep" (cf. M.Du. <span class="foreign">slumen</span>, Du. <span class="foreign">sluimeren</span>, Ger. <span class="foreign">schlummern</span> "to slumber"). Frequentative on the notion of "intermittent light sleep." The noun is attested from late 14c. <span class="foreign">Slumber party</span> first recorded 1942.</dd>
+
+<dt><a href="/index.php?term=slump&allowed_in_frame=0">slump (v.)</a> <a href="http://dictionary.reference.com/search?q=slump" class="dictionary" title="Look up slump at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slump at Dictionary.com" title="Look up slump at Dictionary.com" /></a></dt>
+<dd>1670s, "fall or sink into a muddy place," probably from a Scandinavian source, cf. Norw. and Dan. <span class="foreign">slumpe</span> "fall upon," Swed. <span class="foreign">slumpa</span>; perhaps ultimately of imitative origin. Related: <span class="foreign">Slumped</span>; <span class="foreign">slumping</span>. The noun meaning "heavy decline in prices on the stock exchange" is from 1888; generalized to "sharp decline in trade or business" 1922.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slur&allowed_in_frame=0">slur (n.)</a> <a href="http://dictionary.reference.com/search?q=slur" class="dictionary" title="Look up slur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slur at Dictionary.com" title="Look up slur at Dictionary.com" /></a></dt>
+<dd class="highlight">"deliberate slight," c.1600, from dialectal <span class="foreign">slur</span> "thin or fluid mud," from M.E. <span class="foreign">slore</span> (mid-15c.), cognate with M.L.G. <span class="foreign">sluren</span>, M.Du. <span class="foreign">sloren</span> "to trail in mud." Related to E.Fris. <span class="foreign">sluren</span> "to go about carelessly," Norw. <span class="foreign">slora</span> "to be careless." The musical sense (1746) is from the notion of "sliding."</dd>
+
+<dt><a href="/index.php?term=slurp&allowed_in_frame=0">slurp</a> <a href="http://dictionary.reference.com/search?q=slurp" class="dictionary" title="Look up slurp at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slurp at Dictionary.com" title="Look up slurp at Dictionary.com" /></a></dt>
+<dd>1640s, from Du. <span class="foreign">slurpen</span>, perhaps of imitative origin (cf. Ger. <span class="foreign">schlurfen</span>). Related: <span class="foreign">Slurped</span>; <span class="foreign">slurping</span>. The noun is first recorded 1949.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slurry&allowed_in_frame=0">slurry</a> <a href="http://dictionary.reference.com/search?q=slurry" class="dictionary" title="Look up slurry at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slurry at Dictionary.com" title="Look up slurry at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., "mud, slime," probably related to M.E. <span class="foreign">sloor</span> "thin or fluid mud" (see <a href="/index.php?term=slur&allowed_in_frame=0" class="crossreference">slur</a>).</dd>
+
+<dt><a href="/index.php?term=slush&allowed_in_frame=0">slush</a> <a href="http://dictionary.reference.com/search?q=slush" class="dictionary" title="Look up slush at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slush at Dictionary.com" title="Look up slush at Dictionary.com" /></a></dt>
+<dd>1640s, perhaps from a Scandinavian source (cf. Norw. and Swed. <span class="foreign">slask</span> "slushy ground;" obsolete Dan. <span class="foreign">slus</span> "sleet"), all probably imitative of the sound of sloshing. <span class="foreign">Slush fund</span> is first attested 1839, from an earlier sense of <span class="foreign">slush</span> "refuse fat" (1756); the money from the sale of a ship's slush was distributed among the officers, which was the original sense of the phrase. The extended meaning "money collected for bribes and to buy influence" is first recorded 1874, no doubt with suggestions of "greasing" palms.</dd>
+
+<dt class="highlight"><a href="/index.php?term=slushy&allowed_in_frame=0">slushy</a> <a href="http://dictionary.reference.com/search?q=slushy" class="dictionary" title="Look up slushy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slushy at Dictionary.com" title="Look up slushy at Dictionary.com" /></a></dt>
+<dd class="highlight">1791, “covered with slush,” from <a href="/index.php?term=slush&allowed_in_frame=0" class="crossreference">slush</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). As slang for “ship’s cook,” 1859. Related: <span class="foreign">Slushiness</span>.</dd>
+
+<dt><a href="/index.php?term=slut&allowed_in_frame=0">slut</a> <a href="http://dictionary.reference.com/search?q=slut" class="dictionary" title="Look up slut at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slut at Dictionary.com" title="Look up slut at Dictionary.com" /></a></dt>
+<dd>c.1400, "a dirty, slovenly, or untidy woman," probably cognate with dialectal Ger. <span class="foreign">Schlutt</span> "slovenly woman," dialectal Swed. <span class="foreign">slata</span> "idle woman, slut," and Du. <span class="foreign">slodder</span> "slut," but the ultimate origin is doubtful. Chaucer uses <span class="foreign">sluttish</span> (late 14c.) in reference to the appearance of an untidy man. Also "a kitchen maid, a drudge" (mid-15c.; hard pieces in a bread loaf from imperfect kneading were called <a href="/index.php?term=slut's pennies&allowed_in_frame=0" class="crossreference">slut's pennies</a>, 18c.). Meaning "woman of loose character, bold hussy" is attested from mid-15c.; playful use of the word, without implication of loose morals, is attested from 1660s.
+<blockquote>
+Our little girl Susan is a most admirable slut, and pleases us mightily. [Pepys, diary, Feb. 21, 1664]
+</blockquote>
+Sometimes used 19c. as a euphemism for <span class="foreign">bitch</span> to describe a female dog. There is a group of North Sea Germanic words in <span class="foreign">sl-</span> that mean "sloppy," and also "slovenly woman," and that tend to evolve toward "woman of loose morals" (cf. <a href="/index.php?term=slattern&allowed_in_frame=0" class="crossreference">slattern</a>, also English dial. <span class="foreign">slummock</span> "a dirty, untidy, or slovenly person," 1861; M.Du. <span class="foreign">slore</span> "a sluttish woman").</dd>
+
+<dt class="highlight"><a href="/index.php?term=slutty&allowed_in_frame=0">slutty</a> <a href="http://dictionary.reference.com/search?q=slutty" class="dictionary" title="Look up slutty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up slutty at Dictionary.com" title="Look up slutty at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1400, “slovenly,” from <a href="/index.php?term=slut&allowed_in_frame=0" class="crossreference">slut</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. <span class="foreign">Sluttish</span> is from late 14c.</dd>
+
+<dt><a href="/index.php?term=sly&allowed_in_frame=0">sly</a> <a href="http://dictionary.reference.com/search?q=sly" class="dictionary" title="Look up sly at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up sly at Dictionary.com" title="Look up sly at Dictionary.com" /></a></dt>
+<dd>c.1200, from O.N. <span class="foreign">sloegr</span> "cunning, crafty, sly," from P.Gmc. <span class="foreign">*slogis</span> (cf. Low Ger. <span class="foreign">slu</span> "cunning, sly"), probably from base <span class="foreign">*slog-</span> "hit" (see <a href="/index.php?term=slay&allowed_in_frame=0" class="crossreference">slay</a>), with an original notion of "able to hit." Cf. Ger. <span class="foreign">verschlagen</span> "cunning, crafty, sly," <span class="foreign">schlagfertig</span> "quick-witted," lit. "ready to strike," from <span class="foreign">schlagen</span> "to strike." A non-pejorative use of the word lingered in northern English dialect until 20c. <span class="foreign">On the sly</span> "in secret" is recorded from 1812. <span class="foreign">Sly-boots</span> "a seeming Silly, but subtil Fellow" is in the 1700 "Dictionary of the Canting Crew."</dd>
+
+<dt class="highlight"><a href="/index.php?term=smack&allowed_in_frame=0">smack (n.1)</a> <a href="http://dictionary.reference.com/search?q=smack" class="dictionary" title="Look up smack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smack at Dictionary.com" title="Look up smack at Dictionary.com" /></a></dt>
+<dd class="highlight">"taste, flavor," now mainly in verbal figurative use <span class="foreign">smacks of ...</span> (first attested 1590s; <span class="foreign">smack</span> as a verb in this sense is from late 14c.), from O.E. <span class="foreign">sm&aelig;c</span>, from P.Gmc. <span class="foreign">*smak-</span> (cf. O.Fris. <span class="foreign">smek</span>, Du. <span class="foreign">smaak</span>, O.H.G. <span class="foreign">smac</span>, Ger. <span class="foreign">Geschmack</span>); probably related to Lith. <span class="foreign">smaguriai</span> "dainties," <span class="foreign">smagus</span> "pleasing." Meaning "a trace (of something)" is attested from 1530s.</dd>
+
+<dt><a href="/index.php?term=smack&allowed_in_frame=0">smack (n.3)</a> <a href="http://dictionary.reference.com/search?q=smack" class="dictionary" title="Look up smack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smack at Dictionary.com" title="Look up smack at Dictionary.com" /></a></dt>
+<dd>"heroin," 1942, Amer.Eng. slang, probably an alteration of <span class="foreign">schmeck</span> "a drug," especially heroin (1932), from Yiddish <span class="foreign">schmeck</span> "a sniff."</dd>
+
+<dt class="highlight"><a href="/index.php?term=smack&allowed_in_frame=0">smack (v.1)</a> <a href="http://dictionary.reference.com/search?q=smack" class="dictionary" title="Look up smack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smack at Dictionary.com" title="Look up smack at Dictionary.com" /></a></dt>
+<dd class="highlight">"make a sharp noise with the lips," 1550s, probably of imitative origin (see <a href="/index.php?term=smack&allowed_in_frame=0" class="crossreference">smack</a> (v.2)). Meaning "a loud kiss" is recorded from c.1600. With adverbial force, attested from 1782; extended form <span class="foreign">smack-dab</span> is attested from 1892, Amer.Eng. colloquial.</dd>
+
+<dt><a href="/index.php?term=smack&allowed_in_frame=0">smack (n.2)</a> <a href="http://dictionary.reference.com/search?q=smack" class="dictionary" title="Look up smack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smack at Dictionary.com" title="Look up smack at Dictionary.com" /></a></dt>
+<dd>"single-masted sailboat," 1610s, probably from Du. or Low Ger. <span class="foreign">smak</span> "sailboat," from <span class="foreign">smakken</span> "to fling, dash" (see <a href="/index.php?term=smack&allowed_in_frame=0" class="crossreference">smack</a> (v.2)), perhaps so-called from the sound made by its sails. Fr. <span class="foreign">semaque</span>, Sp. <span class="foreign">zumaca</span>, It. <span class="foreign">semacca</span> probably are Germanic borrowings.</dd>
+
+<dt class="highlight"><a href="/index.php?term=smack&allowed_in_frame=0">smack (v.2)</a> <a href="http://dictionary.reference.com/search?q=smack" class="dictionary" title="Look up smack at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smack at Dictionary.com" title="Look up smack at Dictionary.com" /></a></dt>
+<dd class="highlight">"to slap with the hand," 1835, from noun in this sense (c.1746), perhaps influenced by Low Ger. <span class="foreign">smacken</span> "to strike, throw," which is likely of imitative origin (cf. Swed. <span class="foreign">smak</span> "slap," M.L.G. <span class="foreign">smacken</span>, Fris. <span class="foreign">smakke</span>, Du. <span class="foreign">smakken</span> "to fling down," Lith. <span class="foreign">smagiu</span> "to strike, knock down, whip").</dd>
+
+<dt><a href="/index.php?term=smacker&allowed_in_frame=0">smacker (n.)</a> <a href="http://dictionary.reference.com/search?q=smacker" class="dictionary" title="Look up smacker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smacker at Dictionary.com" title="Look up smacker at Dictionary.com" /></a></dt>
+<dd>"money," c.1918, American English slang, perhaps from <a href="/index.php?term=smack&allowed_in_frame=0" class="crossreference">smack</a> (v.1) on notion of something "smacked" into the palm of the hand. Extended form <span class="foreign">smackeroo</span> is attested from 1940.</dd>
+
+<dt class="highlight"><a href="/index.php?term=smaik&allowed_in_frame=0">smaik (n.)</a> <a href="http://dictionary.reference.com/search?q=smaik" class="dictionary" title="Look up smaik at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smaik at Dictionary.com" title="Look up smaik at Dictionary.com" /></a></dt>
+<dd class="highlight">"mean or contemptible fellow," Scottish, now archaic, current c.1450-c.1900, perhaps cognate with O.H.G. <span class="foreign">smeichari</span>, from <span class="foreign">smeken</span> "to flatter."</dd>
+
+<dt><a href="/index.php?term=small&allowed_in_frame=0">small</a> <a href="http://dictionary.reference.com/search?q=small" class="dictionary" title="Look up small at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up small at Dictionary.com" title="Look up small at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">sm&aelig;l</span> "slender, narrow, small," from P.Gmc. <span class="foreign">*smalaz</span> (cf. O.S., Dan., Swed., M.Du., Du., O.H.G. <span class="foreign">smal</span>, O.Fris. <span class="foreign">smel</span>, Ger. <span class="foreign">schmal</span> "narrow," Goth. <span class="foreign">smalista</span> "smallest," O.N. <span class="foreign">smali</span> "small cattle, sheep"), perhaps from a PIE root <span class="foreign">*(s)melo-</span> "smaller animal" (cf. Gk. <span class="foreign">melon</span>, O.Ir. <span class="foreign">mil</span> "a small animal;" O.C.S. <span class="foreign">malu</span> "bad"). Original sense of "narrow" now almost obsolete, except in reference to waistline and intestines.
+<blockquote>
+My sister ... is as white as a lilly, and as small as a wand. [Shakespeare, "Two Gentlemen of Verona," 1591]
+</blockquote>
+Sense of "not large, of little size" developed in O.E. With many extended senses, e.g. <span class="foreign">small fry</span>, first recorded 1690s of little fish, 1885 of insignificant people. <span class="foreign">Small potatoes</span> first attested 1940; <span class="foreign">small change</span> "something of little value" is from 1902; <span class="foreign">small talk</span> "chit-chat" (1751) first recorded in Chesterfield's "Letters." <span class="foreign">Small world</span> as a comment upon an unexpected meeting of acquaintances is recorded from 1895. <span class="foreign">Small-town</span> (adj.) "unsophisticated, provincial" is recorded from 1824. <span class="foreign">Small arms</span>, indicating those capable of being carried in the hand (contrasted to <span class="foreign">ordnance</span>) is recorded from 1710.</dd>
+
+<dt class="highlight"><a href="/index.php?term=small+beer&allowed_in_frame=0">small beer (n.)</a> <a href="http://dictionary.reference.com/search?q=small+beer" class="dictionary" title="Look up small beer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up small beer at Dictionary.com" title="Look up small beer at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, originally "weak beer;" used figuratively of small things or trifling matters. <a href="/index.php?term=Small&allowed_in_frame=0" class="crossreference">Small</a> with the meaning "of low alcoholic content" is attested from mid-15c.</dd>
+
+<dt><a href="/index.php?term=small-time&allowed_in_frame=0">small-time (adj.)</a> <a href="http://dictionary.reference.com/search?q=small-time" class="dictionary" title="Look up small-time at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up small-time at Dictionary.com" title="Look up small-time at Dictionary.com" /></a></dt>
+<dd>1910, originally theater slang for lower-salaried circuits, or ones requiring more daily performances.</dd>
+
+<dt class="highlight"><a href="/index.php?term=smallpox&allowed_in_frame=0">smallpox (n.)</a> <a href="http://dictionary.reference.com/search?q=smallpox" class="dictionary" title="Look up smallpox at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smallpox at Dictionary.com" title="Look up smallpox at Dictionary.com" /></a></dt>
+<dd class="highlight">1510s, <span class="foreign">small pokkes</span>, as distinguished from <span class="foreign">great pox</span> "syphillis" (see <a href="/index.php?term=pox&allowed_in_frame=0" class="crossreference">pox</a>). Cf. Fr. <span class="foreign">petite v&eacute;role</span>.</dd>
+
+<dt><a href="/index.php?term=smarm&allowed_in_frame=0">smarm (n.)</a> <a href="http://dictionary.reference.com/search?q=smarm" class="dictionary" title="Look up smarm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smarm at Dictionary.com" title="Look up smarm at Dictionary.com" /></a></dt>
+<dd>1914, from colloquial verb <span class="foreign">smalm</span>, <span class="foreign">smarm</span> "to smear, bedaub" (the hair, with pomade), 1847, of unknown origin. Verbal meaning "to smear with flattery" is from 1902.</dd>
+
+<dt class="highlight"><a href="/index.php?term=smarmy&allowed_in_frame=0">smarmy</a> <a href="http://dictionary.reference.com/search?q=smarmy" class="dictionary" title="Look up smarmy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smarmy at Dictionary.com" title="Look up smarmy at Dictionary.com" /></a></dt>
+<dd class="highlight">"ingratiating, unctuous," 1924, from <a href="/index.php?term=smarm&allowed_in_frame=0" class="crossreference">smarm</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=smart&allowed_in_frame=0">smart (v.)</a> <a href="http://dictionary.reference.com/search?q=smart" class="dictionary" title="Look up smart at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up smart at Dictionary.com" title="Look up smart at Dictionary.com" /></a></dt>
+<dd>O.E. <span class="foreign">smeortan</span> "be painful," from W.Gmc. <span class="foreign">*smert-</span> (cf. M.Du. <span class="foreign">smerten</span>, Du. <span class="foreign">smarten</span>, O.H.G. <span class="foreign">smerzan</span>, Ger. <span class="foreign">schmerzen</span> "to pain," originally "to bite"), from PIE <span class="foreign">*(s)merd-</span>, from root <span class="foreign">*(s)mer-</span> "to rub, pound" (cf. Gk. <span class="foreign">smerdnos</span> "terrible, dreadful," Skt. <span class="foreign">mardayati</span> "grinds, rubs, crushes," L. <span class="foreign">mordere</span> "to bite").</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=s&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=s&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=s&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=s&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=s&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=s&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=s&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=s&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=s&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=s&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=s&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=s&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=s&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=s&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=s&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=s&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=s&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=s&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=s&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=s&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=s&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=s&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=s&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=s&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=s&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=s&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=s&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=s&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=s&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=s&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=s&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=s&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=s&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=s&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=s&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=s&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=s&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=s&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=s&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=s&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=s&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a class="current" href="/index.php?l=s&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=s&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=s&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=s&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=s&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=s&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=s&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=s&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=s&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=s&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=s&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=s&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=s&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=s&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=s&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=s&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=s&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=s&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=s&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=s&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=s&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=s&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=s&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=s&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=s&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=s&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=s&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=s&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=s&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=s&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=s&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=s&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=s&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=s&amp;p=74&allowed_in_frame=0">75</a></li>
+ <li><a href="/index.php?l=s&amp;p=75&allowed_in_frame=0">76</a></li>
+ <li><a href="/index.php?l=s&amp;p=76&allowed_in_frame=0">77</a></li>
+ <li><a href="/index.php?l=s&amp;p=77&allowed_in_frame=0">78</a></li>
+ <li><a href="/index.php?l=s&amp;p=78&allowed_in_frame=0">79</a></li>
+ <li><a href="/index.php?l=s&amp;p=79&allowed_in_frame=0">80</a></li>
+ <li><a href="/index.php?l=s&amp;p=80&allowed_in_frame=0">81</a></li>
+ <li><a href="/index.php?l=s&amp;p=81&allowed_in_frame=0">82</a></li>
+ <li><a href="/index.php?l=s&amp;p=82&allowed_in_frame=0">83</a></li>
+ <li><a href="/index.php?l=s&amp;p=83&allowed_in_frame=0">84</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658743 -->
+<!-- Page was generated in 0.206748 seconds. -->
+ </body>
+</html>
+<!-- -->

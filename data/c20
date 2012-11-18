@@ -1,0 +1,455 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=chaser&allowed_in_frame=0">chaser (n.)</a> <a href="http://dictionary.reference.com/search?q=chaser" class="dictionary" title="Look up chaser at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chaser at Dictionary.com" title="Look up chaser at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, "horse trained for chasing," agent noun from <a href="/index.php?term=chase&allowed_in_frame=0" class="crossreference">chase</a> (v.), probably in some cases from O.Fr. <span class="foreign">chaceor</span> "huntsman, hunter." Meaning "water or mild beverage taken after a strong drink" is 1897, U.S. colloquial. French had <span class="foreign">chasse</span> (from <span class="foreign">chasser</span> "to chase") "a drink of liquor taken (or said to be taken) to kill the aftertaste of coffee or tobacco," used in English from c.1800.</dd>
+
+<dt><a href="/index.php?term=chasm&allowed_in_frame=0">chasm (n.)</a> <a href="http://dictionary.reference.com/search?q=chasm" class="dictionary" title="Look up chasm at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chasm at Dictionary.com" title="Look up chasm at Dictionary.com" /></a></dt>
+<dd>1590s, "deep crack in the earth," from L. <span class="foreign">chasma</span>, from Gk. <span class="foreign">khasma</span> "yawning hollow, gulf," related to <span class="foreign">khaskein</span> "to yawn," and thus to <a href="/index.php?term=chaos&allowed_in_frame=0" class="crossreference">chaos</a>. In English in 17c. often spelled <span class="foreign">chasma</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chasse&allowed_in_frame=0">chasse (n.)</a> <a href="http://dictionary.reference.com/search?q=chasse" class="dictionary" title="Look up chasse at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chasse at Dictionary.com" title="Look up chasse at Dictionary.com" /></a></dt>
+<dd class="highlight">from Fr. <span class="foreign">chass&eacute;</span> "chase, chasing," pp. of <span class="foreign">chasser</span> "to chase, hunt" (see <a href="/index.php?term=chase&allowed_in_frame=0" class="crossreference">chase</a> (v.)); borrowed 19c. in a variety of senses and expressions, especially as a dance step.</dd>
+
+<dt><a href="/index.php?term=Chassepot&allowed_in_frame=0">Chassepot</a> <a href="http://dictionary.reference.com/search?q=Chassepot" class="dictionary" title="Look up Chassepot at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Chassepot at Dictionary.com" title="Look up Chassepot at Dictionary.com" /></a></dt>
+<dd>"bolt-action breechloading rifle used by French forces in the Franco-Prussian War," 1870, named for French inventor Antonine-Alphonse <span class="foreign">Chassepot</span> (1833-1905).</dd>
+
+<dt class="highlight"><a href="/index.php?term=chasseur&allowed_in_frame=0">chasseur (n.)</a> <a href="http://dictionary.reference.com/search?q=chasseur" class="dictionary" title="Look up chasseur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chasseur at Dictionary.com" title="Look up chasseur at Dictionary.com" /></a></dt>
+<dd class="highlight">1796, French, lit. "huntsman," from O.Fr. <span class="foreign">chaceor</span> "huntsman, hunter," from <span class="foreign">chacier</span> "to chase" (see <a href="/index.php?term=chase&allowed_in_frame=0" class="crossreference">chase</a> (v.)).</dd>
+
+<dt><a href="/index.php?term=chassis&allowed_in_frame=0">chassis (n.)</a> <a href="http://dictionary.reference.com/search?q=chassis" class="dictionary" title="Look up chassis at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chassis at Dictionary.com" title="Look up chassis at Dictionary.com" /></a></dt>
+<dd>"base frame of an automobile," 1903, American English; earlier "window frame" (1660s), from Fr. <span class="foreign">ch&acirc;ssis</span> "frame," O.Fr. <span class="foreign">chassiz</span> (13c.) "frame, framework, setting," from <span class="foreign">chasse</span> "case, box, eye socket, snail's shell, setting (of a jewel)," from L. <span class="foreign">capsa</span> "box, case;" see <a href="/index.php?term=case&allowed_in_frame=0" class="crossreference">case</a> (n.2) + Fr. <span class="foreign">-is</span>, collective suffix for a number of parts taken together.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chaste&allowed_in_frame=0">chaste (adj.)</a> <a href="http://dictionary.reference.com/search?q=chaste" class="dictionary" title="Look up chaste at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chaste at Dictionary.com" title="Look up chaste at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., "virtuous, pure from unlawful sexual intercourse," from O.Fr. <span class="foreign">chaste</span> (12c.) "morally pure," from L. <span class="foreign">castus</span> "clean, pure, morally pure" (see <a href="/index.php?term=caste&allowed_in_frame=0" class="crossreference">caste</a>). Transferred sense of "sexually pure" is first attested 1560s, probably by influence of <a href="/index.php?term=chastity&allowed_in_frame=0" class="crossreference">chastity</a>.</dd>
+
+<dt><a href="/index.php?term=chasten&allowed_in_frame=0">chasten (v.)</a> <a href="http://dictionary.reference.com/search?q=chasten" class="dictionary" title="Look up chasten at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chasten at Dictionary.com" title="Look up chasten at Dictionary.com" /></a></dt>
+<dd>1520s, from obsolete verb <span class="foreign">chaste</span> "to correct (someone's) behavior" (M.E. <span class="foreign">chastien</span>, c.1200), from O.Fr. <span class="foreign">chastiier</span> "to punish" (see <a href="/index.php?term=chastize&allowed_in_frame=0" class="crossreference">chastize</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=chastise&allowed_in_frame=0">chastise (v.)</a> <a href="http://dictionary.reference.com/search?q=chastise" class="dictionary" title="Look up chastise at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chastise at Dictionary.com" title="Look up chastise at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, <span class="foreign">chastisen</span>, from O.Fr. <span class="foreign">chastiier</span> (12c.) "to warn, advise, instruct; chastize, admonish; punish; dominate, tame" (Mod.Fr. <span class="foreign">ch&acirc;tier</span>), from L. <span class="foreign">castigare</span> "to set or keep right, to reprove, chasten, to punish," lit. "to make pure" (see <a href="/index.php?term=castigate&allowed_in_frame=0" class="crossreference">castigate</a>). Or perhaps from M.E. <span class="foreign">chastien</span> (see <a href="/index.php?term=chasten&allowed_in_frame=0" class="crossreference">chasten</a>) + <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>. Related: <span class="foreign">Chastised</span>; <span class="foreign">chastising</span>.
+<blockquote>He alone may chastise who loves. [Rabindranath Tagore, "The Crescent Moon," 1913]</blockquote></dd>
+
+<dt><a href="/index.php?term=chastity&allowed_in_frame=0">chastity (n.)</a> <a href="http://dictionary.reference.com/search?q=chastity" class="dictionary" title="Look up chastity at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chastity at Dictionary.com" title="Look up chastity at Dictionary.com" /></a></dt>
+<dd>early 13c., <span class="foreign">chastete</span>, "virginity, celibacy," from O.Fr. <span class="foreign">chastete</span> (12c., Mod.Fr. <span class="foreign">chastet&eacute;</span>), from L. <span class="foreign">castitatem</span> (nom. <span class="foreign">castitas</span>) "purity, chastity" from <span class="foreign">castus</span> (see <a href="/index.php?term=caste&allowed_in_frame=0" class="crossreference">caste</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=chasuble&allowed_in_frame=0">chasuble (n.)</a> <a href="http://dictionary.reference.com/search?q=chasuble" class="dictionary" title="Look up chasuble at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chasuble at Dictionary.com" title="Look up chasuble at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1300, <span class="foreign">cheisible</span>, from O.Fr. <span class="foreign">chesible</span> (12c., Mod.Fr. <span class="foreign">chasuble</span>), from M.L. <span class="foreign">casubla</span>, from L.L. <span class="foreign">*casubula</span>, unexplained alteration of L. <span class="foreign">casula</span> "a little hut," dim. of <span class="foreign">casa</span> "cottage, house" (see <a href="/index.php?term=casino&allowed_in_frame=0" class="crossreference">casino</a>), used by c.400 in transferred sense of "outer garment." From the notion that hooded garments resembled or suggested little houses.</dd>
+
+<dt><a href="/index.php?term=chat&allowed_in_frame=0">chat (v.)</a> <a href="http://dictionary.reference.com/search?q=chat" class="dictionary" title="Look up chat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chat at Dictionary.com" title="Look up chat at Dictionary.com" /></a></dt>
+<dd>mid-15c., short for <a href="/index.php?term=chatter&allowed_in_frame=0" class="crossreference">chatter</a> (q.v.). Related: <span class="foreign">Chatted</span>; <span class="foreign">chatting</span>. As a noun, from 1520s. <span class="foreign">Chat room</span> in the online sense is attested by 1994, from the days when AOL ruled the Internet.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chateau&allowed_in_frame=0">chateau (n.)</a> <a href="http://dictionary.reference.com/search?q=chateau" class="dictionary" title="Look up chateau at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chateau at Dictionary.com" title="Look up chateau at Dictionary.com" /></a></dt>
+<dd class="highlight">c.1739, from Fr. <span class="foreign">ch&acirc;teau</span>, from O.Fr. <span class="foreign">chastel</span> (12c.), from L. <span class="foreign">castellum</span> "castle" (see <a href="/index.php?term=castle&allowed_in_frame=0" class="crossreference">castle</a>).</dd>
+
+<dt><a href="/index.php?term=chateaubriand&allowed_in_frame=0">chateaubriand (n.)</a> <a href="http://dictionary.reference.com/search?q=chateaubriand" class="dictionary" title="Look up chateaubriand at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chateaubriand at Dictionary.com" title="Look up chateaubriand at Dictionary.com" /></a></dt>
+<dd>"grilled beef steak, garnished with herbs," 1877, named, for some reason, for French writer Fran&ccedil;ois Ren&eacute;, Vicomte de <span class="foreign">Chateaubriand</span> (1768-1848).</dd>
+
+<dt class="highlight"><a href="/index.php?term=chatelaine&allowed_in_frame=0">chatelaine (n.)</a> <a href="http://dictionary.reference.com/search?q=chatelaine" class="dictionary" title="Look up chatelaine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chatelaine at Dictionary.com" title="Look up chatelaine at Dictionary.com" /></a></dt>
+<dd class="highlight">1845, from Fr. <span class="foreign">ch&acirc;telaine</span> "a female castellan; wife of a castellan; mistress of a castle or country house;" fem. of <span class="foreign">ch&acirc;telain</span>, from O.Fr. <span class="foreign">chastelain</span> "owner and lord of a castle, castellan, nobleman," from <span class="foreign">chastel</span> (see <a href="/index.php?term=chateau&allowed_in_frame=0" class="crossreference">chateau</a>).</dd>
+
+<dt><a href="/index.php?term=chattel&allowed_in_frame=0">chattel (n.)</a> <a href="http://dictionary.reference.com/search?q=chattel" class="dictionary" title="Look up chattel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chattel at Dictionary.com" title="Look up chattel at Dictionary.com" /></a></dt>
+<dd>early 13c., <span class="foreign">chatel</span> "property, goods," from O.Fr. <span class="foreign">chatel</span> "chattels, goods, wealth, possessions, property; profit; cattle," from L.L. <span class="foreign">capitale</span> "property" (see <a href="/index.php?term=cattle&allowed_in_frame=0" class="crossreference">cattle</a>, which is the Old North French form of the same word). Application to slaves (1640s) is a rhetorical figure of abolitionists, etc.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chatter&allowed_in_frame=0">chatter (v.)</a> <a href="http://dictionary.reference.com/search?q=chatter" class="dictionary" title="Look up chatter at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chatter at Dictionary.com" title="Look up chatter at Dictionary.com" /></a></dt>
+<dd class="highlight">early 13c., <span class="foreign">chateren</span> "to twitter, gossip," earlier <span class="foreign">cheateren, chiteren</span>, of echoic origin. Cf. Du. <span class="foreign">koeteren</span> "jabber," Dan. <span class="foreign">kvidre</span> "twitter, chirp." Related: <span class="foreign">Chattered</span>; <span class="foreign">chattering</span>. Phrase <span class="foreign">chattering class</span> in use by 1893, with a reference perhaps from 1843.
+<blockquote>
+While therefore Mrs. Hamlyn and her daughters were seated in breathless anxiety in the drawing room in Cavendish Square listening every time the slightest movement in the chamber overhead gave indication that the factitious slumbers of the wounded man were broken ... the clubs of the West End were deciding who was to fill the vacant seat for Barsthorpe and whether the Honourable Member for Alverstoke and Alberic Vernon would have to surrender, in order to stand their trial, thus producing the loss of a couple of votes to the opposition. Such was the most interesting side of the fatal event to that idle chattering class of London life to whom the collision of heaven and earth were important only as affording matter for "news!" [Catherine Grace F. Gore ("Mrs. Gore"), "The Banker's Wife," 1843]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=chatterbox&allowed_in_frame=0">chatterbox (n.)</a> <a href="http://dictionary.reference.com/search?q=chatterbox" class="dictionary" title="Look up chatterbox at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chatterbox at Dictionary.com" title="Look up chatterbox at Dictionary.com" /></a></dt>
+<dd>1774, from <a href="/index.php?term=chatter&allowed_in_frame=0" class="crossreference">chatter</a> + <a href="/index.php?term=box&allowed_in_frame=0" class="crossreference">box</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=chatty&allowed_in_frame=0">chatty (adj.)</a> <a href="http://dictionary.reference.com/search?q=chatty" class="dictionary" title="Look up chatty at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chatty at Dictionary.com" title="Look up chatty at Dictionary.com" /></a></dt>
+<dd class="highlight">"fond of chatting," c.1762, from <a href="/index.php?term=chat&allowed_in_frame=0" class="crossreference">chat</a> + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2).</dd>
+
+<dt><a href="/index.php?term=Chaucer&allowed_in_frame=0">Chaucer</a> <a href="http://dictionary.reference.com/search?q=Chaucer" class="dictionary" title="Look up Chaucer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Chaucer at Dictionary.com" title="Look up Chaucer at Dictionary.com" /></a></dt>
+<dd>family name, from O.Fr. <span class="foreign">chaucier</span> "maker of chausses," from O.Fr. <span class="foreign">chauces</span> "clothing for the legs, breeches, pantaloons, hose" (related to <a href="/index.php?term=case&allowed_in_frame=0" class="crossreference">case</a> (n.2)). Middle English <span class="foreign">chawce</span> was a general term for anything worn on the feet.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chauffer&allowed_in_frame=0">chauffer (n.)</a> <a href="http://dictionary.reference.com/search?q=chauffer" class="dictionary" title="Look up chauffer at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chauffer at Dictionary.com" title="Look up chauffer at Dictionary.com" /></a></dt>
+<dd class="highlight">"small portable stove," 1825, variant of <span class="foreign">chafer</span> "a vessel for heating," agent noun from <a href="/index.php?term=chafe&allowed_in_frame=0" class="crossreference">chafe</a>; form influenced by Fr. <span class="foreign">chauffoir</span> "a heater," from <span class="foreign">chauffer</span> "to heat," which also is ultimately from <span class="foreign">chafe</span> (see <a href="/index.php?term=chauffeur&allowed_in_frame=0" class="crossreference">chauffeur</a>).</dd>
+
+<dt><a href="/index.php?term=chauffeur&allowed_in_frame=0">chauffeur (n.)</a> <a href="http://dictionary.reference.com/search?q=chauffeur" class="dictionary" title="Look up chauffeur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chauffeur at Dictionary.com" title="Look up chauffeur at Dictionary.com" /></a></dt>
+<dd>1899, originally "a motorist," from Fr. <span class="foreign">chauffeur</span>, lit. "stoker," operator of a steam engine, French nickname for early motorists, from <span class="foreign">chauffer</span> "to heat," from O.Fr. <span class="foreign">chaufer</span> "to heat, warm up; to become hot" (see <a href="/index.php?term=chafe&allowed_in_frame=0" class="crossreference">chafe</a>). The first motor-cars were steam-driven. Sense of "professional or paid driver of a private motor car" is from 1902.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chauffeur&allowed_in_frame=0">chauffeur (v.)</a> <a href="http://dictionary.reference.com/search?q=chauffeur" class="dictionary" title="Look up chauffeur at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chauffeur at Dictionary.com" title="Look up chauffeur at Dictionary.com" /></a></dt>
+<dd class="highlight">1917, from <a href="/index.php?term=chauffeur&allowed_in_frame=0" class="crossreference">chauffeur</a> (n.). Related: <span class="foreign">Chauffeured</span>; <span class="foreign">chauffeuring</span>.</dd>
+
+<dt><a href="/index.php?term=Chautauqua&allowed_in_frame=0">Chautauqua</a> <a href="http://dictionary.reference.com/search?q=Chautauqua" class="dictionary" title="Look up Chautauqua at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Chautauqua at Dictionary.com" title="Look up Chautauqua at Dictionary.com" /></a></dt>
+<dd>"assembly for popular education," 1873, from town in New York, U.S., where an annual Methodist summer colony featured lectures. The name is from <span class="foreign">ja'dahgweh</span>, a Seneca (Iroquoian) name, possibly "one has taken out fish there," but an alternative suggested meaning is "raised body."</dd>
+
+<dt class="highlight"><a href="/index.php?term=chauvinism&allowed_in_frame=0">chauvinism (n.)</a> <a href="http://dictionary.reference.com/search?q=chauvinism" class="dictionary" title="Look up chauvinism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chauvinism at Dictionary.com" title="Look up chauvinism at Dictionary.com" /></a></dt>
+<dd class="highlight">1870, "exaggerated, blind patriotism," from Fr. <span class="foreign">chauvinisme</span> (1843), from Nicholas <span class="foreign">Chauvin</span>, soldier, possibly legendary, of Napoleon's Grand Armee, notoriously attached to the Empire long after it was history. Popularized in France 1831 through Cogniard's vaudeville <span class="foreign">"La Cocarde Tricolore."</span> Meaning extended to "sexism" via <span class="foreign">male chauvinism</span> (1969). The name is a French form of L. <span class="foreign">Calvinus</span> and thus <span class="foreign">Calvinism</span> and <span class="foreign">chauvinism</span> are, etymologically, twins.</dd>
+
+<dt><a href="/index.php?term=chauvinist&allowed_in_frame=0">chauvinist (n.)</a> <a href="http://dictionary.reference.com/search?q=chauvinist" class="dictionary" title="Look up chauvinist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chauvinist at Dictionary.com" title="Look up chauvinist at Dictionary.com" /></a></dt>
+<dd>1877, from Fr. <span class="foreign">chauviniste</span>, from <span class="foreign">Chauvin</span> (see <a href="/index.php?term=chauvinism&allowed_in_frame=0" class="crossreference">chauvinism</a>). Related: <span class="foreign">Chauvinistic</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=chav&allowed_in_frame=0">chav (n.)</a> <a href="http://dictionary.reference.com/search?q=chav" class="dictionary" title="Look up chav at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chav at Dictionary.com" title="Look up chav at Dictionary.com" /></a></dt>
+<dd class="highlight">British slang, "antisocial youth," by 2004, of unknown origin.</dd>
+
+<dt><a href="/index.php?term=chaw&allowed_in_frame=0">chaw (v.)</a> <a href="http://dictionary.reference.com/search?q=chaw" class="dictionary" title="Look up chaw at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chaw at Dictionary.com" title="Look up chaw at Dictionary.com" /></a></dt>
+<dd>1520s, unexplained phonetic variant of <a href="/index.php?term=chew&allowed_in_frame=0" class="crossreference">chew</a>; the noun meaning "that which is chewed" (especially a quid of tobacco) first recorded 1709.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Che&allowed_in_frame=0">Che</a> <a href="http://dictionary.reference.com/search?q=Che" class="dictionary" title="Look up Che at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Che at Dictionary.com" title="Look up Che at Dictionary.com" /></a></dt>
+<dd class="highlight">nickname of Argentine Marxist revolutionary Ernesto Guevara (1928-1967), acquired when he was working with Cuban exiles in Guatemala in mid-1950s, from his dialectal use of Argentine <span class="foreign">che</span>, a slang filler word in speech.</dd>
+
+<dt><a href="/index.php?term=cheap&allowed_in_frame=0">cheap (adj.)</a> <a href="http://dictionary.reference.com/search?q=cheap" class="dictionary" title="Look up cheap at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheap at Dictionary.com" title="Look up cheap at Dictionary.com" /></a></dt>
+<dd>"low in price, that may be bought at small cost," c.1500, from <span class="foreign">god chep</span> "favorable bargain" (12c., a translation of Fr. <span class="foreign">a bon march&eacute;</span>), from O.E. <span class="foreign">ceap</span> (n.) "traffic, bargain, a purchase," from <span class="foreign">ceapian</span> (v.) "trade," probably an early Germanic borrowing from L. <span class="foreign">caupo</span> (gen. <span class="foreign">cauponis</span>) "petty tradesman, huckster" (cf. O.Fris. <span class="foreign">kap</span> "trade, purchase," Du. <span class="foreign">koop</span> "trade, market, bargain," O.H.G. <span class="foreign">kauf</span> "trader," Ger. <span class="foreign">Kauf</span>, Dan. <span class="foreign">kj&oslash;b</span> "purchase, bargain," O.N. <span class="foreign">kaup</span> "bargain, pay." Cf. also O.C.S. <span class="foreign">kupiti</span> "to buy," a Germanic loan-word. 
+<BR><BR>The meaning "low in price" was represented in Old English by <span class="foreign">undeor</span>, lit. "un-dear" (opposed to <span class="foreign">deop ceap</span> "high price," lit. "deep cheap"). Sense of "lightly esteemed, common" is from 1590s (cf. similar evolution of L. <span class="foreign">vilis</span>). The word also was used in Old English for "market" (cf. <span class="foreign">ceapd&aelig;g</span> "market day"), a sense surviving in place names <span class="foreign">Cheapside</span>, <span class="foreign">East Cheap</span>, etc. Related: <span class="foreign">Cheaply</span>. Expression <span class="foreign">on the cheap</span> is first attested 1888. German <span class="foreign">billig</span> "cheap" is from M.L.G. <span class="foreign">billik</span>, originally "fair, just," with a sense evolution via <span class="foreign">billiger preis</span> "fair price," etc.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cheapskate&allowed_in_frame=0">cheapskate (n.)</a> <a href="http://dictionary.reference.com/search?q=cheapskate" class="dictionary" title="Look up cheapskate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheapskate at Dictionary.com" title="Look up cheapskate at Dictionary.com" /></a></dt>
+<dd class="highlight">also <span class="foreign">cheap skate</span>, "miserly person," 1896, from <a href="/index.php?term=cheap&allowed_in_frame=0" class="crossreference">cheap</a> (adj.), second element perhaps from American English slang <span class="foreign">skate</span> "worn-out horse" (1894), of uncertain origin.</dd>
+
+<dt><a href="/index.php?term=chear&allowed_in_frame=0">chear</a> <a href="http://dictionary.reference.com/search?q=chear" class="dictionary" title="Look up chear at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up chear at Dictionary.com" title="Look up chear at Dictionary.com" /></a></dt>
+<dd>obsolete spelling of <a href="/index.php?term=cheer&allowed_in_frame=0" class="crossreference">cheer</a> (n.).</dd>
+
+<dt class="highlight"><a href="/index.php?term=cheat&allowed_in_frame=0">cheat (v.)</a> <a href="http://dictionary.reference.com/search?q=cheat" class="dictionary" title="Look up cheat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheat at Dictionary.com" title="Look up cheat at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-15c., aphetic of O.Fr. <span class="foreign">escheat</span>, legal term for revision of property to the state when the owner dies without heirs, lit. "that which falls to one," pp. of <span class="foreign">escheoir</span> "befall by chance, happen, devolve," from V.L. <span class="foreign">*excadere</span> "to fall away," from L. <span class="foreign">ex-</span> "out" + <span class="foreign">cadere</span> "to fall" (see <a href="/index.php?term=case&allowed_in_frame=0" class="crossreference">case</a> (n.1)). Also cf. <a href="/index.php?term=escheat&allowed_in_frame=0" class="crossreference">escheat</a>. The royal officers evidently had a low reputation. Meaning evolved through "confiscate" (mid-15c.) to "deprive unfairly" (1580s). To <span class="foreign">cheat on</span> (someone) "be sexually unfaithful" first recorded 1934. Related: <span class="foreign">Cheated</span>; <span class="foreign">cheating</span>.</dd>
+
+<dt><a href="/index.php?term=cheat&allowed_in_frame=0">cheat (n.)</a> <a href="http://dictionary.reference.com/search?q=cheat" class="dictionary" title="Look up cheat at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheat at Dictionary.com" title="Look up cheat at Dictionary.com" /></a></dt>
+<dd>late 14c., "forfeited property," from <a href="/index.php?term=cheat&allowed_in_frame=0" class="crossreference">cheat</a> (v.). Meaning "a deceptive act" is from 1640s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cheater&allowed_in_frame=0">cheater (n.)</a> <a href="http://dictionary.reference.com/search?q=cheater" class="dictionary" title="Look up cheater at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheater at Dictionary.com" title="Look up cheater at Dictionary.com" /></a></dt>
+<dd class="highlight">early 14c., "royal officer in charge of the king's escheats," agent noun from <a href="/index.php?term=cheat&allowed_in_frame=0" class="crossreference">cheat</a> (v.). Meaning "dishonest player" is recorded from 1530s.</dd>
+
+<dt><a href="/index.php?term=check&allowed_in_frame=0">check (n.)</a> <a href="http://dictionary.reference.com/search?q=check" class="dictionary" title="Look up check at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up check at Dictionary.com" title="Look up check at Dictionary.com" /></a></dt>
+<dd>early 14c., "a call in chess noting one's move has placed his opponent's king in immediate peril," from O.Fr. <span class="foreign">eschequier</span> "a check at chess" (also "chess board, chess set"), from <span class="foreign">eschec</span>, from V.L. <span class="foreign">*scaccus</span>, from Arabic <span class="foreign">shah</span>, from Pers. <span class="foreign">shah</span> "king," the principal piece in a chess game (see <a href="/index.php?term=shah&allowed_in_frame=0" class="crossreference">shah</a>; also cf. <a href="/index.php?term=checkmate&allowed_in_frame=0" class="crossreference">checkmate</a>).
+<BR><BR>
+When the king is in check a player's choices are limited. Meaning widened from chess to general sense of "adverse event" (c.1300), "sudden stoppage" (early 14c.), and by c.1700 to "a token used to check against loss or theft" (surviving in <span class="foreign">hat check</span>) and "a check against forgery or alteration," which gave the modern financial use of "bank check, money draft" (first recorded 1798 and often spelled <span class="foreign">cheque</span>), probably influenced by <span class="foreign">exchequeur</span>. Meaning "pattern of squares" (c.1400) is short for <a href="/index.php?term=checker&allowed_in_frame=0" class="crossreference">checker</a>. <span class="foreign">Checking account</span> is attested from 1923, American English.</dd>
+
+<dt class="highlight"><a href="/index.php?term=check&allowed_in_frame=0">check (v.)</a> <a href="http://dictionary.reference.com/search?q=check" class="dictionary" title="Look up check at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up check at Dictionary.com" title="Look up check at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., in chess; see <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> (n.). All the other senses seem to have developed from this one: "To arrest, stop," late 14c.; "to hold in restraint" (1620s); "to hold up or control" (an assertion, a person, etc.) by comparison with some authority or record, 1690s (as a player in chess limits his opponent's ability to move when he places his opponent's king in check). Hence, to <span class="foreign">check off</span> (1839); to <span class="foreign">check up</span> (1889); to <span class="foreign">check in</span> or <span class="foreign">out</span> (in a hotel, of a library book, etc.). Related: <span class="foreign">Checked</span>; <span class="foreign">checking</span>.</dd>
+
+<dt><a href="/index.php?term=checker&allowed_in_frame=0">checker (n.)</a> <a href="http://dictionary.reference.com/search?q=checker" class="dictionary" title="Look up checker at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checker at Dictionary.com" title="Look up checker at Dictionary.com" /></a></dt>
+<dd>early 14c., "a chessboard," aphetic of O.Fr. <span class="foreign">eschequier</span> "chessboard," from M.L. <span class="foreign">scaccarium</span> (see <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> (n.)). Meaning "pattern of squares" is late 14c. British prefers <span class="foreign">chequer</span>, but the U.S. form is more authentic. The word had earlier senses of "a game of chess or checkers" (mid-13c.) and "table covered with checked cloth for counting" (late 12c. in Anglo-Latin); both senses also were in Old French. The verb is recorded from c.1400 (implied in <span class="foreign">checkered</span> "marked like a chessboard").</dd>
+
+<dt class="highlight"><a href="/index.php?term=checkers&allowed_in_frame=0">checkers (n.)</a> <a href="http://dictionary.reference.com/search?q=checkers" class="dictionary" title="Look up checkers at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checkers at Dictionary.com" title="Look up checkers at Dictionary.com" /></a></dt>
+<dd class="highlight">U.S. name for the game known in Britain as <a href="/index.php?term=draughts&allowed_in_frame=0" class="crossreference">draughts</a>, 1712, from plural of <a href="/index.php?term=checker&allowed_in_frame=0" class="crossreference">checker</a> (q.v.). So called for the board on which the game is played. </dd>
+
+<dt><a href="/index.php?term=checklist&allowed_in_frame=0">checklist (n.)</a> <a href="http://dictionary.reference.com/search?q=checklist" class="dictionary" title="Look up checklist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checklist at Dictionary.com" title="Look up checklist at Dictionary.com" /></a></dt>
+<dd>1853, American Engliah, from <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> + <a href="/index.php?term=list&allowed_in_frame=0" class="crossreference">list</a> (n.). Two words until c.1880; hyphenated until late 20c.</dd>
+
+<dt class="highlight"><a href="/index.php?term=checkmate&allowed_in_frame=0">checkmate (n.)</a> <a href="http://dictionary.reference.com/search?q=checkmate" class="dictionary" title="Look up checkmate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checkmate at Dictionary.com" title="Look up checkmate at Dictionary.com" /></a></dt>
+<dd class="highlight">mid-14c., from O.Fr. <span class="foreign">eschec mat</span>, from Arabic <span class="foreign">shah mat</span> "the king died" (see <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> (n.)), which according to Barnhart is a misinterpretation of Persian <span class="foreign">mat</span> "be astonished" as <span class="foreign">mata</span> "to die," <span class="foreign">mat</span> "he is dead." Hence Persian <span class="foreign">shah mat</span>, the ultimate source of the word, would be literally "the king is left helpless, the king is stumped."</dd>
+
+<dt><a href="/index.php?term=checkmate&allowed_in_frame=0">checkmate (v.)</a> <a href="http://dictionary.reference.com/search?q=checkmate" class="dictionary" title="Look up checkmate at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checkmate at Dictionary.com" title="Look up checkmate at Dictionary.com" /></a></dt>
+<dd>late 14c.; see <a href="/index.php?term=checkmate&allowed_in_frame=0" class="crossreference">checkmate</a> (n.). Related: <span class="foreign">Checkmated</span>; <span class="foreign">checkmating</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=checkout&allowed_in_frame=0">checkout (n.)</a> <a href="http://dictionary.reference.com/search?q=checkout" class="dictionary" title="Look up checkout at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checkout at Dictionary.com" title="Look up checkout at Dictionary.com" /></a></dt>
+<dd class="highlight">1944, from <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> (v.) + <a href="/index.php?term=out&allowed_in_frame=0" class="crossreference">out</a>. Originally "training given to a pilot for using a specific aircraft;" hotel sense is from 1958.</dd>
+
+<dt><a href="/index.php?term=checkpoint&allowed_in_frame=0">checkpoint (n.)</a> <a href="http://dictionary.reference.com/search?q=checkpoint" class="dictionary" title="Look up checkpoint at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checkpoint at Dictionary.com" title="Look up checkpoint at Dictionary.com" /></a></dt>
+<dd>1940, from <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> (v.) + <a href="/index.php?term=point&allowed_in_frame=0" class="crossreference">point</a> (n.). Originally an aviator's term for landforms or structures of known height against which the craft's altitude could be visually checked. The "vehicle stop" sense is recorded from 1950.</dd>
+
+<dt class="highlight"><a href="/index.php?term=checkup&allowed_in_frame=0">checkup (n.)</a> <a href="http://dictionary.reference.com/search?q=checkup" class="dictionary" title="Look up checkup at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up checkup at Dictionary.com" title="Look up checkup at Dictionary.com" /></a></dt>
+<dd class="highlight">"careful examination," 1921, Amer.Eng., from <a href="/index.php?term=check&allowed_in_frame=0" class="crossreference">check</a> + <a href="/index.php?term=up&allowed_in_frame=0" class="crossreference">up</a>, on notion of a checklist of things to be examined. The verbal phrase <span class="foreign">check up (on)</span> is attested from 1889.</dd>
+
+<dt><a href="/index.php?term=cheddar&allowed_in_frame=0">cheddar</a> <a href="http://dictionary.reference.com/search?q=cheddar" class="dictionary" title="Look up cheddar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheddar at Dictionary.com" title="Look up cheddar at Dictionary.com" /></a></dt>
+<dd>1660s (but the cheese presumably was made long before that), from <span class="foreign">Cheddar</span>, village in Somerset, England, where it originally was made, from O.E. <span class="foreign">Ceodre</span> (c.880), probably from <span class="foreign">ceodor</span> "ravine" (there is a nearby gorge).</dd>
+
+<dt class="highlight"><a href="/index.php?term=cheek&allowed_in_frame=0">cheek (n.)</a> <a href="http://dictionary.reference.com/search?q=cheek" class="dictionary" title="Look up cheek at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheek at Dictionary.com" title="Look up cheek at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">ceace</span>, <span class="foreign">cece</span> "jaw, jawbone," also "the fleshy wall of the mouth." Perhaps from the root of O.E. <span class="foreign">ceowan</span> "chew" (see <a href="/index.php?term=chew&allowed_in_frame=0" class="crossreference">chew</a>), or from P.Gmc. <span class="foreign">*kaukon</span> (cf. M.L.G. <span class="foreign">kake</span> "jaw, jawbone," M.Du. <span class="foreign">kake</span> "jaw," Du. <span class="foreign">kaak</span>), not found outside West Germanic. Words for "cheek," "jaw," and "chin" tend to run together in IE languages (cf. PIE <span class="foreign">*genw-</span>, source of Gk. <span class="foreign">genus</span> "jaw, cheek," <span class="foreign">geneion</span> "chin," and English <a href="/index.php?term=chin&allowed_in_frame=0" class="crossreference">chin</a>); Aristotle considered the chin as the front of the "jaws" and the cheeks as the back of them. The other Old English word for "cheek" was <span class="foreign">ceafl</span> (see <a href="/index.php?term=jowl&allowed_in_frame=0" class="crossreference">jowl</a>).
+<blockquote>
+A thousand men he [Samson] slow eek with his hond,
+<BR>And had no wepen but an asses cheek.
+<BR>[Chaucer, "Monk's Tale"]
+</blockquote>
+Sense of "insolence" is from 1840, perhaps from a notion akin to that which led to <span class="foreign">jaw</span> "insolent speech," <span class="foreign">mouth off</span>, etc. To <span class="foreign">turn the other cheek</span> is an allusion to Matt. v:39 and Luke vi:29.</dd>
+
+<dt><a href="/index.php?term=cheeks&allowed_in_frame=0">cheeks (n.)</a> <a href="http://dictionary.reference.com/search?q=cheeks" class="dictionary" title="Look up cheeks at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheeks at Dictionary.com" title="Look up cheeks at Dictionary.com" /></a></dt>
+<dd>"the buttocks," c.1600; see <a href="/index.php?term=cheek&allowed_in_frame=0" class="crossreference">cheek</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=cheeky&allowed_in_frame=0">cheeky (adj.)</a> <a href="http://dictionary.reference.com/search?q=cheeky" class="dictionary" title="Look up cheeky at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheeky at Dictionary.com" title="Look up cheeky at Dictionary.com" /></a></dt>
+<dd class="highlight">1859, from <a href="/index.php?term=cheek&allowed_in_frame=0" class="crossreference">cheek</a> in its sense of "insolence" + <a href="/index.php?term=-y&allowed_in_frame=0" class="crossreference">-y</a> (2). Related: <span class="foreign">Cheekily</span>; <span class="foreign">cheekiness</span>.</dd>
+
+<dt><a href="/index.php?term=cheep&allowed_in_frame=0">cheep (v.)</a> <a href="http://dictionary.reference.com/search?q=cheep" class="dictionary" title="Look up cheep at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cheep at Dictionary.com" title="Look up cheep at Dictionary.com" /></a></dt>
+<dd>1510s, of imitative origin, originally Scottish. Related: <span class="foreign">Cheeped</span>; <span class="foreign">cheeping</span>. The noun is attested by 1774.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658083 -->
+<!-- Page was generated in 0.175940 seconds. -->
+ </body>
+</html>
+<!-- -->

@@ -1,0 +1,455 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>Online Etymology Dictionary</title>
+  <meta name="msApplication-ID" content="LongHairSoftwareLLC.EtymOnline" />
+  <meta name="msApplication-PackageFamilyName" content="LongHairSoftwareLLC.EtymOnline_p4n214xp2cs4e" />
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.etymonline.com/style.css" />
+  <script type="text/javascript" src="http://www.etymonline.com/resources/js/functions.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26425972-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> </head>
+ 
+ <body onload="focus_on_initial_element_if_any(0);">
+ 
+<div id="container">
+ <div id="navigation">
+  <div id="logo">
+   <a href="http://www.etymonline.com/index.php" title="The Online Etymology Dictionary">
+    <img src="http://www.etymonline.com/graphics/header.jpg"
+         width="450" height="160"
+         alt="The Online Etymology Dictionary"
+         title="The Online Etymology Dictionary" />
+   </a>
+  </div> <!-- LOGO -->
+
+  <form action="http://www.etymonline.com/index.php" method="get">
+  <input type="hidden" name="allowed_in_frame" value="0">
+  <div id="search">
+   Search:
+   <input type="text" name="search" value="" size="40" maxlength="255" class="initial_focus"/>
+   <select name="searchmode" size="1">
+    <option value="none" selected="selected">Search Mode</option>
+    <option value="nl">Natural Language</option>
+    <option value="term">Find single term</option>
+    <option value="or">Find any term</option>
+    <option value="phrase">Find exact phrase</option>
+   </select>
+   <input type="submit" value="OK" />
+  </div> <!-- SEARCH -->
+  </form>
+
+  <div id="browse">
+  <ul>
+   <li><a href="http://www.etymonline.com/index.php?l=a&allowed_in_frame=0">A</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=b&allowed_in_frame=0">B</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=c&allowed_in_frame=0">C</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=d&allowed_in_frame=0">D</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=e&allowed_in_frame=0">E</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=f&allowed_in_frame=0">F</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=g&allowed_in_frame=0">G</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=h&allowed_in_frame=0">H</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=i&allowed_in_frame=0">I</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=j&allowed_in_frame=0">J</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=k&allowed_in_frame=0">K</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=l&allowed_in_frame=0">L</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=m&allowed_in_frame=0">M</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=n&allowed_in_frame=0">N</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=o&allowed_in_frame=0">O</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=p&allowed_in_frame=0">P</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=q&allowed_in_frame=0">Q</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=r&allowed_in_frame=0">R</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=s&allowed_in_frame=0">S</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=t&allowed_in_frame=0">T</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=u&allowed_in_frame=0">U</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=v&allowed_in_frame=0">V</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=w&allowed_in_frame=0">W</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=x&allowed_in_frame=0">X</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=y&allowed_in_frame=0">Y</a></li>
+   <li><a href="http://www.etymonline.com/index.php?l=z&allowed_in_frame=0">Z</a></li>
+  </ul>
+  </div> <!-- BROWSE -->
+ </div> <!-- NAVIGATION -->
+
+  <div id="dictionary">
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+<dl>
+<dt class="highlight"><a href="/index.php?term=collusion&allowed_in_frame=0">collusion (n.)</a> <a href="http://dictionary.reference.com/search?q=collusion" class="dictionary" title="Look up collusion at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up collusion at Dictionary.com" title="Look up collusion at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., from O.Fr. <span class="foreign">collusion</span>, from L. <span class="foreign">collusionem</span> (nom. <span class="foreign">collusio</span>) "act of colluding," from <span class="foreign">colludere</span>, from <span class="foreign">com-</span> "together" (see <a href="/index.php?term=com-&allowed_in_frame=0" class="crossreference">com-</a>) + <span class="foreign">ludere</span> "to play," from <span class="foreign">ludus</span> "game" (see <a href="/index.php?term=ludicrous&allowed_in_frame=0" class="crossreference">ludicrous</a>). "The notion of fraud or underhandedness is essential to collusion" [Fowler].</dd>
+
+<dt><a href="/index.php?term=collusive&allowed_in_frame=0">collusive (adj.)</a> <a href="http://dictionary.reference.com/search?q=collusive" class="dictionary" title="Look up collusive at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up collusive at Dictionary.com" title="Look up collusive at Dictionary.com" /></a></dt>
+<dd>1670s, from L. <span class="foreign">collus-</span>, pp. stem of <span class="foreign">colludere</span> (see <a href="/index.php?term=collude&allowed_in_frame=0" class="crossreference">collude</a>) + <a href="/index.php?term=-ive&allowed_in_frame=0" class="crossreference">-ive</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=collywobbles&allowed_in_frame=0">collywobbles (n.)</a> <a href="http://dictionary.reference.com/search?q=collywobbles" class="dictionary" title="Look up collywobbles at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up collywobbles at Dictionary.com" title="Look up collywobbles at Dictionary.com" /></a></dt>
+<dd class="highlight">1823, fanciful formation from <span class="foreign">colic</span> and <span class="foreign">wobble.</span></dd>
+
+<dt><a href="/index.php?term=cologne&allowed_in_frame=0">cologne (n.)</a> <a href="http://dictionary.reference.com/search?q=cologne" class="dictionary" title="Look up cologne at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up cologne at Dictionary.com" title="Look up cologne at Dictionary.com" /></a></dt>
+<dd>1814, <span class="foreign">Cologne water</span>, loan-translation of Fr. <span class="foreign">eau de Cologne</span>, lit. "water from Cologne," from the city in Germany (Ger. <span class="foreign">K&ouml;ln</span>, from L. <span class="foreign">Colonia Agrippina</span>) where it was made, first by Italian chemist Johann Maria Farina, who had settled there in 1709.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Colombia&allowed_in_frame=0">Colombia</a> <a href="http://dictionary.reference.com/search?q=Colombia" class="dictionary" title="Look up Colombia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Colombia at Dictionary.com" title="Look up Colombia at Dictionary.com" /></a></dt>
+<dd class="highlight">South American nation, independent from 1819 as part of <span class="foreign">Gran Colombia</span> (after its breakup in 1850, as <span class="foreign">New Granada</span>, then <span class="foreign">Colombia</span> from 1863); named for It. explorer Christopher <a href="/index.php?term=Columbus&allowed_in_frame=0" class="crossreference">Columbus</a> (It. <span class="foreign">Colombo</span>, Port. <span class="foreign">Colom</span>, Sp.  <span class="foreign">Col&oacute;n</span>).</dd>
+
+<dt><a href="/index.php?term=colon&allowed_in_frame=0">colon (n.1)</a> <a href="http://dictionary.reference.com/search?q=colon" class="dictionary" title="Look up colon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colon at Dictionary.com" title="Look up colon at Dictionary.com" /></a></dt>
+<dd>punctuation mark, 1540s, from L. <span class="foreign">colon</span> "part of a poem," from Gk. <span class="foreign">kolon</span> (with a long initial <span class="foreign">-o-</span>) "part of a verse," lit. "limb," from PIE root <span class="foreign">*(s)kel-</span> "to bend, crooked" (see <a href="/index.php?term=scalene&allowed_in_frame=0" class="crossreference">scalene</a>). Meaning evolved from "independent clause" to punctuation mark that sets it off.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colon&allowed_in_frame=0">colon (n.2)</a> <a href="http://dictionary.reference.com/search?q=colon" class="dictionary" title="Look up colon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colon at Dictionary.com" title="Look up colon at Dictionary.com" /></a></dt>
+<dd class="highlight">"large intestine," late 14c., from Gk. <span class="foreign">kolon</span> (with a short initial <span class="foreign">-o-</span>) "large intestine, food, meat," of unknown origin.</dd>
+
+<dt><a href="/index.php?term=colonel&allowed_in_frame=0">colonel (n.)</a> <a href="http://dictionary.reference.com/search?q=colonel" class="dictionary" title="Look up colonel at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonel at Dictionary.com" title="Look up colonel at Dictionary.com" /></a></dt>
+<dd>1540s, <span class="foreign">coronell</span>, from M.Fr. <span class="foreign">coronel</span> (16c.), modified by dissimilation from It. <span class="foreign">colonnella</span> "commander of a column of soldiers at the head of a regiment," from <span class="foreign">compagna colonella</span> "little column company," from L. <span class="foreign">columna</span> "pillar" (see <a href="/index.php?term=hill&allowed_in_frame=0" class="crossreference">hill</a>). English spelling modified 1580s in learned writing to conform with the Italian form (via translations of Italian military manuals), and pronunciations with "r" and "l" coexisted 17c.-18c., but the earlier pronunciation prevailed. Sp. <span class="foreign">coronel</span>, from Italian, shows a similar evolution by dissimilation.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colonial&allowed_in_frame=0">colonial (adj.)</a> <a href="http://dictionary.reference.com/search?q=colonial" class="dictionary" title="Look up colonial at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonial at Dictionary.com" title="Look up colonial at Dictionary.com" /></a></dt>
+<dd class="highlight">1756, from L. <span class="foreign">colonia</span> (see <a href="/index.php?term=colony&allowed_in_frame=0" class="crossreference">colony</a>) + <a href="/index.php?term=-al&allowed_in_frame=0" class="crossreference">-al</a> (1), or directly from <span class="foreign">colony</span> on model of <span class="foreign">baronoinal</span>. Meaning "from or characteristic of America during colonial times" is from 1776. The noun meaning "inhabitant of a colony" is recorded from 1865.</dd>
+
+<dt><a href="/index.php?term=colonialism&allowed_in_frame=0">colonialism (n.)</a> <a href="http://dictionary.reference.com/search?q=colonialism" class="dictionary" title="Look up colonialism at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonialism at Dictionary.com" title="Look up colonialism at Dictionary.com" /></a></dt>
+<dd>1853, "ways or speech of colonial persons," from <a href="/index.php?term=colonial&allowed_in_frame=0" class="crossreference">colonial</a> + <a href="/index.php?term=-ism&allowed_in_frame=0" class="crossreference">-ism</a>. Meaning "the system of colonial rule" is from 1886.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colonialist&allowed_in_frame=0">colonialist (n.)</a> <a href="http://dictionary.reference.com/search?q=colonialist" class="dictionary" title="Look up colonialist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonialist at Dictionary.com" title="Look up colonialist at Dictionary.com" /></a></dt>
+<dd class="highlight">1813, from <a href="/index.php?term=colonial&allowed_in_frame=0" class="crossreference">colonial</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>; cf. <a href="/index.php?term=colonist&allowed_in_frame=0" class="crossreference">colonist</a>.</dd>
+
+<dt><a href="/index.php?term=colonialization&allowed_in_frame=0">colonialization (n.)</a> <a href="http://dictionary.reference.com/search?q=colonialization" class="dictionary" title="Look up colonialization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonialization at Dictionary.com" title="Look up colonialization at Dictionary.com" /></a></dt>
+<dd>1864 (implied in <span class="foreign">colonialize</span>); a nonce word.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colonic&allowed_in_frame=0">colonic (adj.)</a> <a href="http://dictionary.reference.com/search?q=colonic" class="dictionary" title="Look up colonic at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonic at Dictionary.com" title="Look up colonic at Dictionary.com" /></a></dt>
+<dd class="highlight">1906, from <a href="/index.php?term=colon&allowed_in_frame=0" class="crossreference">colon</a> (n.2) + adjectival ending <a href="/index.php?term=-ic&allowed_in_frame=0" class="crossreference">-ic</a>.</dd>
+
+<dt><a href="/index.php?term=colonisation&allowed_in_frame=0">colonisation (n.)</a> <a href="http://dictionary.reference.com/search?q=colonisation" class="dictionary" title="Look up colonisation at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonisation at Dictionary.com" title="Look up colonisation at Dictionary.com" /></a></dt>
+<dd>British English spelling of <a href="/index.php?term=colonization&allowed_in_frame=0" class="crossreference">colonization</a>; see also <a href="/index.php?term=-ize&allowed_in_frame=0" class="crossreference">-ize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colonist&allowed_in_frame=0">colonist (n.)</a> <a href="http://dictionary.reference.com/search?q=colonist" class="dictionary" title="Look up colonist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonist at Dictionary.com" title="Look up colonist at Dictionary.com" /></a></dt>
+<dd class="highlight">1701, "colonizer," from <a href="/index.php?term=colony&allowed_in_frame=0" class="crossreference">colony</a> + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+<dt><a href="/index.php?term=colonization&allowed_in_frame=0">colonization (n.)</a> <a href="http://dictionary.reference.com/search?q=colonization" class="dictionary" title="Look up colonization at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonization at Dictionary.com" title="Look up colonization at Dictionary.com" /></a></dt>
+<dd>1766, noun of action from <a href="/index.php?term=colonize&allowed_in_frame=0" class="crossreference">colonize</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colonize&allowed_in_frame=0">colonize (v.)</a> <a href="http://dictionary.reference.com/search?q=colonize" class="dictionary" title="Look up colonize at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonize at Dictionary.com" title="Look up colonize at Dictionary.com" /></a></dt>
+<dd class="highlight">1620s, "to settle with colonists," from stem of L. <span class="foreign">colonus</span> "tiller of the soil, farmer" (see <a href="/index.php?term=colony&allowed_in_frame=0" class="crossreference">colony</a>); in sense "to make another place into a national dependency" without regard for settlement there by 1790s (e.g. in reference to French activity in Egypt or British work in India), and probably directly from <a href="/index.php?term=colony&allowed_in_frame=0" class="crossreference">colony</a>.
+<blockquote>
+No principle ought ever to be tolerated or acted upon, that does not proceed on the basis of India being considered as the temporary residence of a great British Establishment, for the good government of the country, upon steady and uniform principles, and of a large British factory, for the beneficial management of its trade, upon rules applicable to the state and manners of the country. [Henry Dundas, Chairman of the East-India Company, letter, April 2, 1800]
+</blockquote>
+Related: <span class="foreign">Colonized</span>; <span class="foreign">colonizing</span>.
+</dd>
+
+<dt><a href="/index.php?term=colonnade&allowed_in_frame=0">colonnade (n.)</a> <a href="http://dictionary.reference.com/search?q=colonnade" class="dictionary" title="Look up colonnade at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonnade at Dictionary.com" title="Look up colonnade at Dictionary.com" /></a></dt>
+<dd>1718, from Fr. <span class="foreign">colonnade</span>, from It. <span class="foreign">colonnato</span>, from <span class="foreign">colonna</span> "column," from L. <span class="foreign">columna</span> "pillar" (see <a href="/index.php?term=hill&allowed_in_frame=0" class="crossreference">hill</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=colonoscopy&allowed_in_frame=0">colonoscopy (n.)</a> <a href="http://dictionary.reference.com/search?q=colonoscopy" class="dictionary" title="Look up colonoscopy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colonoscopy at Dictionary.com" title="Look up colonoscopy at Dictionary.com" /></a></dt>
+<dd class="highlight">by 1902 (earlier <span class="foreign">procto-colonoscopy</span>, 1896; <span class="foreign">colonoscope</span> attested from 1884), from <a href="/index.php?term=colon&allowed_in_frame=0" class="crossreference">colon</a> (n.2) + <span class="foreign">-oscopy</span> (see <a href="/index.php?term=-scope&allowed_in_frame=0" class="crossreference">-scope</a>).</dd>
+
+<dt><a href="/index.php?term=colony&allowed_in_frame=0">colony (n.)</a> <a href="http://dictionary.reference.com/search?q=colony" class="dictionary" title="Look up colony at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colony at Dictionary.com" title="Look up colony at Dictionary.com" /></a></dt>
+<dd>late 14c., "ancient Roman settlement outside Italy," from L. <span class="foreign">colonia</span> "settled land, farm, landed estate," from <span class="foreign">colonus</span> "husbandman, tenant farmer, settler in new land," from <span class="foreign">colere</span> "to inhabit, cultivate, frequent, practice, tend, guard, respect," from PIE root <span class="foreign">*kwel-</span> "move around" (source of L. <span class="foreign">-cola</span> "inhabitant;" see <a href="/index.php?term=cycle&allowed_in_frame=0" class="crossreference">cycle</a> (n.)). Also used by the Romans to translate Gk. <span class="foreign">apoikia</span> "people from home." Modern application dates from 1540s.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colophon&allowed_in_frame=0">colophon (n.)</a> <a href="http://dictionary.reference.com/search?q=colophon" class="dictionary" title="Look up colophon at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colophon at Dictionary.com" title="Look up colophon at Dictionary.com" /></a></dt>
+<dd class="highlight">1774, "publisher's inscription at the end of a book," from L. <span class="foreign">colophon</span>, from Gk. <span class="foreign">kolophon</span> "summit, final touch" (see <a href="/index.php?term=hill&allowed_in_frame=0" class="crossreference">hill</a>).</dd>
+
+<dt><a href="/index.php?term=color&allowed_in_frame=0">color (n.)</a> <a href="http://dictionary.reference.com/search?q=color" class="dictionary" title="Look up color at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up color at Dictionary.com" title="Look up color at Dictionary.com" /></a></dt>
+<dd>early 13c., "skin color, complexion," from O.Fr. <span class="foreign">color</span> "color, complexion, appearance" (Mod.Fr. <span class="foreign">couleur</span>), from L. <span class="foreign">color</span> "color of the skin; color in general, hue; appearance," from Old L. <span class="foreign">colos</span>, originally "a covering" (akin to <span class="foreign">celare</span> "to hide, conceal"), from PIE root <span class="foreign">*kel-</span> "to cover, conceal" (see <a href="/index.php?term=cell&allowed_in_frame=0" class="crossreference">cell</a>). For sense evolution, cf. Skt. <span class="foreign">varnah</span> "covering, color," related to <span class="foreign">vrnoti</span> "covers," and cf. <a href="/index.php?term=chroma&allowed_in_frame=0" class="crossreference">chroma</a>. Meaning "visible color, color of something" is attested in English from c.1300. As "color as a property of things," from late 14c. Old English words for "color" were <span class="foreign">hiw</span>, <span class="foreign">bleo</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=color&allowed_in_frame=0">color (v.)</a> <a href="http://dictionary.reference.com/search?q=color" class="dictionary" title="Look up color at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up color at Dictionary.com" title="Look up color at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c.; see <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (n.); earliest use is figurative. Related: <a href="/index.php?term=Colored&allowed_in_frame=0" class="crossreference">Colored</a>; <a href="/index.php?term=coloring&allowed_in_frame=0" class="crossreference">coloring</a>.</dd>
+
+<dt><a href="/index.php?term=color+blindness&allowed_in_frame=0">color blindness</a> <a href="http://dictionary.reference.com/search?q=color+blindness" class="dictionary" title="Look up color blindness at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up color blindness at Dictionary.com" title="Look up color blindness at Dictionary.com" /></a></dt>
+<dd>1844, replacing <span class="foreign">Daltonism</span> (after English chemist John Dalton, 1766-1844, who published a description of it in 1794); in figurative use, with reference to race or ethnicity, attested from 1866, Amer.Eng. Related: <span class="foreign">color blind</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Colorado&allowed_in_frame=0">Colorado</a> <a href="http://dictionary.reference.com/search?q=Colorado" class="dictionary" title="Look up Colorado at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Colorado at Dictionary.com" title="Look up Colorado at Dictionary.com" /></a></dt>
+<dd class="highlight">the U.S. state (organized as a territory 1861, admitted as a state 1876) is named for the river, Sp. <span class="foreign">Rio Colorado</span>, from <span class="foreign">colorado</span> "ruddy, reddish," lit. "colored," pp. of <span class="foreign">colorar</span> "to color, dye, paint," from L. <span class="foreign">colorare</span> (see <a href="/index.php?term=coloration&allowed_in_frame=0" class="crossreference">coloration</a>).</dd>
+
+<dt><a href="/index.php?term=coloration&allowed_in_frame=0">coloration (n.)</a> <a href="http://dictionary.reference.com/search?q=coloration" class="dictionary" title="Look up coloration at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coloration at Dictionary.com" title="Look up coloration at Dictionary.com" /></a></dt>
+<dd>1620s, from Fr. <span class="foreign">coloration</span> (16c.), from L.L. <span class="foreign">colorationem</span> (nom. <span class="foreign">coloratio</span>) "act or fact of coloring," noun of action from L. <span class="foreign">colorare</span> "to color, to get tanned," from <span class="foreign">color</span> (see <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (n.)).</dd>
+
+<dt class="highlight"><a href="/index.php?term=coloratura&allowed_in_frame=0">coloratura (n.)</a> <a href="http://dictionary.reference.com/search?q=coloratura" class="dictionary" title="Look up coloratura at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coloratura at Dictionary.com" title="Look up coloratura at Dictionary.com" /></a></dt>
+<dd class="highlight">"Ornamental passages, roulades, embellishments, etc., in vocal music" [Elson], 1740, from It. <span class="foreign">coloratura</span>, lit. "coloring," from L.L. <span class="foreign">coloratura</span>, from <span class="foreign">colorare</span> "to color," from <span class="foreign">color</span> (see <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (n.)).</dd>
+
+<dt><a href="/index.php?term=colorectal&allowed_in_frame=0">colorectal (adj.)</a> <a href="http://dictionary.reference.com/search?q=colorectal" class="dictionary" title="Look up colorectal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colorectal at Dictionary.com" title="Look up colorectal at Dictionary.com" /></a></dt>
+<dd>by 1918, from comb. form of <a href="/index.php?term=colon&allowed_in_frame=0" class="crossreference">colon</a> (n.2) + <a href="/index.php?term=rectal&allowed_in_frame=0" class="crossreference">rectal</a>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colored&allowed_in_frame=0">colored (adj.)</a> <a href="http://dictionary.reference.com/search?q=colored" class="dictionary" title="Look up colored at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colored at Dictionary.com" title="Look up colored at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., pp. adjective from <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (v.); in reference to "non-white skin," 1610s.</dd>
+
+<dt><a href="/index.php?term=colorful&allowed_in_frame=0">colorful (adj.)</a> <a href="http://dictionary.reference.com/search?q=colorful" class="dictionary" title="Look up colorful at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colorful at Dictionary.com" title="Look up colorful at Dictionary.com" /></a></dt>
+<dd>1889, in figurative sense of "interesting," from <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (n.) + <a href="/index.php?term=-ful&allowed_in_frame=0" class="crossreference">-ful</a>. Related: <span class="foreign">Colorfully</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=coloring&allowed_in_frame=0">coloring (n.)</a> <a href="http://dictionary.reference.com/search?q=coloring" class="dictionary" title="Look up coloring at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coloring at Dictionary.com" title="Look up coloring at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "action of applying color," from prp. of <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (v.). Figurative use by 1540s. Meaning "way something is colored" is early 15c. <span class="foreign">Coloring book</span> is from 1931.</dd>
+
+<dt><a href="/index.php?term=colorless&allowed_in_frame=0">colorless (adj.)</a> <a href="http://dictionary.reference.com/search?q=colorless" class="dictionary" title="Look up colorless at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colorless at Dictionary.com" title="Look up colorless at Dictionary.com" /></a></dt>
+<dd>late 14c., from <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (n.) + <a href="/index.php?term=-less&allowed_in_frame=0" class="crossreference">-less</a>. Figurative sense of "lacking vividness" is recorded from 1861. Related: <span class="foreign">Colorlessness</span>.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colors&allowed_in_frame=0">colors (n.)</a> <a href="http://dictionary.reference.com/search?q=colors" class="dictionary" title="Look up colors at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colors at Dictionary.com" title="Look up colors at Dictionary.com" /></a></dt>
+<dd class="highlight">"flag of a regiment or ship" 1580s, from <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (n.).</dd>
+
+<dt><a href="/index.php?term=colossal&allowed_in_frame=0">colossal (adj.)</a> <a href="http://dictionary.reference.com/search?q=colossal" class="dictionary" title="Look up colossal at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colossal at Dictionary.com" title="Look up colossal at Dictionary.com" /></a></dt>
+<dd>1712 (<span class="foreign">colossic</span> in the same sense is recorded from c.1600), from Fr. <span class="foreign">colossal</span>, from <span class="foreign">colosse</span>, from L. <span class="foreign">colossus</span>, from Gk. <span class="foreign">kolossos</span> (see <a href="/index.php?term=colossus&allowed_in_frame=0" class="crossreference">colossus</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=Colosseum&allowed_in_frame=0">Colosseum (n.)</a> <a href="http://dictionary.reference.com/search?q=Colosseum" class="dictionary" title="Look up Colosseum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Colosseum at Dictionary.com" title="Look up Colosseum at Dictionary.com" /></a></dt>
+<dd class="highlight">1560s, Medieval Latin name for the classical <span class="foreign">Amphitheatrum Flavium</span> (begun c.70 C.E.), noun use of neuter of adjective <span class="foreign">colosseus</span> "gigantic;" perhaps a reference to the <span class="foreign">colossal</span> statue of Nero that long stood nearby (see <a href="/index.php?term=colossus&allowed_in_frame=0" class="crossreference">colossus</a>).
+</dd>
+
+<dt><a href="/index.php?term=colossus&allowed_in_frame=0">colossus (n.)</a> <a href="http://dictionary.reference.com/search?q=colossus" class="dictionary" title="Look up colossus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colossus at Dictionary.com" title="Look up colossus at Dictionary.com" /></a></dt>
+<dd>"gigantic statue," late 14c., from L. <span class="foreign">colossus</span> "a statue larger than life," from Gk. <span class="foreign">kolossos</span> "gigantic statue," of unknown origin, used by Herodotus of giant Egyptian statues, and used by Romans of the bronze Apollo at the entrance to the harbor of Rhodes. Figurative sense of "any thing of awesome greatness or vastness" is from 1794.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colostomy&allowed_in_frame=0">colostomy (n.)</a> <a href="http://dictionary.reference.com/search?q=colostomy" class="dictionary" title="Look up colostomy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colostomy at Dictionary.com" title="Look up colostomy at Dictionary.com" /></a></dt>
+<dd class="highlight">1888, from <a href="/index.php?term=colon&allowed_in_frame=0" class="crossreference">colon</a> (n.2) +  Mod.L. <span class="foreign">-stoma</span> "opening, orifice," from Gk. <span class="foreign">stoma</span> "opening, mouth" (see <a href="/index.php?term=stoma&allowed_in_frame=0" class="crossreference">stoma</a>).</dd>
+
+<dt><a href="/index.php?term=colostrum&allowed_in_frame=0">colostrum (n.)</a> <a href="http://dictionary.reference.com/search?q=colostrum" class="dictionary" title="Look up colostrum at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colostrum at Dictionary.com" title="Look up colostrum at Dictionary.com" /></a></dt>
+<dd>1570s, from L. <span class="foreign">colostrum</span> "first milk from an animal," of unknown origin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=colour&allowed_in_frame=0">colour</a> <a href="http://dictionary.reference.com/search?q=colour" class="dictionary" title="Look up colour at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colour at Dictionary.com" title="Look up colour at Dictionary.com" /></a></dt>
+<dd class="highlight">British English spelling of <a href="/index.php?term=color&allowed_in_frame=0" class="crossreference">color</a> (q.v.); for ending see <a href="/index.php?term=-or&allowed_in_frame=0" class="crossreference">-or</a>. Related: <span class="foreign">Coloured</span>; <span class="foreign">colouring</span>; <span class="foreign">colourful</span>; <span class="foreign">colours</span>.</dd>
+
+<dt><a href="/index.php?term=colposcopy&allowed_in_frame=0">colposcopy (n.)</a> <a href="http://dictionary.reference.com/search?q=colposcopy" class="dictionary" title="Look up colposcopy at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colposcopy at Dictionary.com" title="Look up colposcopy at Dictionary.com" /></a></dt>
+<dd>1940, from <span class="foreign">colpo-</span>, Latinized comb. form of Gk. <span class="foreign">kolpos</span> "womb" (used from c.1900 in medical compounds in sense "vagina;" see <a href="/index.php?term=gulf&allowed_in_frame=0" class="crossreference">gulf</a> (n.)) + <span class="foreign">-oscopy</span> (see <a href="/index.php?term=-scope&allowed_in_frame=0" class="crossreference">-scope</a>).</dd>
+
+<dt class="highlight"><a href="/index.php?term=colt&allowed_in_frame=0">colt (n.)</a> <a href="http://dictionary.reference.com/search?q=colt" class="dictionary" title="Look up colt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up colt at Dictionary.com" title="Look up colt at Dictionary.com" /></a></dt>
+<dd class="highlight">O.E. <span class="foreign">colt</span> "colt," originally "young ass," in Biblical translations also used for "young camel," perhaps from P.Gmc. <span class="foreign">*kultaz</span> (cf. Swed. dial. <span class="foreign">kult</span> "young boar, piglet; boy," Dan. <span class="foreign">kuld</span> "offspring, brood") and akin to <a href="/index.php?term=child&allowed_in_frame=0" class="crossreference">child</a>. Applied to persons from early 13c.
+<blockquote>
+COLT'S TOOTH An old fellow who marries, or keeps a young girl, is &#383;aid to have a colt's tooth in his head. ["Classical Dictionary of the Vulgar Tongue," 1796]
+</blockquote></dd>
+
+<dt><a href="/index.php?term=Colt&allowed_in_frame=0">Colt (n.)</a> <a href="http://dictionary.reference.com/search?q=Colt" class="dictionary" title="Look up Colt at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Colt at Dictionary.com" title="Look up Colt at Dictionary.com" /></a></dt>
+<dd>type of revolver, 1838, originally the manufacture of U.S. gunsmith Samuel <span class="foreign">Colt</span> (1814-1862).</dd>
+
+<dt class="highlight"><a href="/index.php?term=coltish&allowed_in_frame=0">coltish (adj.)</a> <a href="http://dictionary.reference.com/search?q=coltish" class="dictionary" title="Look up coltish at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up coltish at Dictionary.com" title="Look up coltish at Dictionary.com" /></a></dt>
+<dd class="highlight">late 14c., "wild, frisky," also in early use "lustful, lewd," from <a href="/index.php?term=colt&allowed_in_frame=0" class="crossreference">colt</a> + <a href="/index.php?term=-ish&allowed_in_frame=0" class="crossreference">-ish</a>. Lit. sense of "pertaining to a colt" is recorded from 1540s.</dd>
+
+<dt><a href="/index.php?term=columbarium&allowed_in_frame=0">columbarium (n.)</a> <a href="http://dictionary.reference.com/search?q=columbarium" class="dictionary" title="Look up columbarium at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up columbarium at Dictionary.com" title="Look up columbarium at Dictionary.com" /></a></dt>
+<dd>"subterranean sepulchre in ancient Roman places with niches for urns holding remains," neuter of L. <span class="foreign">columbarius</span>, "dove-cote" (so called from resemblance), lit. "pertaining to doves;" from <span class="foreign">columba</span> "dove." Literal sense of "dove-cote" is attested in English from 1881.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Columbia&allowed_in_frame=0">Columbia</a> <a href="http://dictionary.reference.com/search?q=Columbia" class="dictionary" title="Look up Columbia at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Columbia at Dictionary.com" title="Look up Columbia at Dictionary.com" /></a></dt>
+<dd class="highlight">poetic name for United States of America, earlier for the British colonies there, 1730s, also the nation's female personification, from name of Christopher <a href="/index.php?term=Columbus&allowed_in_frame=0" class="crossreference">Columbus</a> (also see <a href="/index.php?term=Colombia&allowed_in_frame=0" class="crossreference">Colombia</a>) with Latin "country" ending <span class="foreign">-ia</span>. A popular name for places and institutions in the U.S. in the post-Revolutionary years, when former tributes to king and crown were out of fashion: e.g. <span class="foreign">Columbia</span> University (New York, U.S.) founded in 1754 as King's College; re-named 1784. Also District of <span class="foreign">Columbia</span> (1791, as Territory of <span class="foreign">Columbia</span>); "Hail, <span class="foreign">Columbia</span>" (Joseph Hopkinson, 1798), Barlow's <span class="foreign">"Columbiad"</span> (1809).</dd>
+
+<dt><a href="/index.php?term=columbine&allowed_in_frame=0">columbine (n.)</a> <a href="http://dictionary.reference.com/search?q=columbine" class="dictionary" title="Look up columbine at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up columbine at Dictionary.com" title="Look up columbine at Dictionary.com" /></a></dt>
+<dd>c.1300, from O.Fr. <span class="foreign">columbine</span> "columbine," or directly from M.L. <span class="foreign">columbina</span>, from L.L. <span class="foreign">columbina</span> "verbena," fem. of L. <span class="foreign">columbinus</span>, lit. "dove-like," from <span class="foreign">columba</span> "dove." The inverted flower supposedly resembles a cluster of five doves. Also a fem. proper name; in Italian comedy, the name of the mistress of Harlequin.</dd>
+
+<dt class="highlight"><a href="/index.php?term=Columbus&allowed_in_frame=0">Columbus</a> <a href="http://dictionary.reference.com/search?q=Columbus" class="dictionary" title="Look up Columbus at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up Columbus at Dictionary.com" title="Look up Columbus at Dictionary.com" /></a></dt>
+<dd class="highlight">his name is Latinized from his native It. <span class="foreign">Cristoforo Colombo,</span> in Sp. <span class="foreign">Christobal Colon.</span>
+<blockquote>
+America was discovered accidentally by a great seaman who was looking for something else, and most of the exploration for the next fifty years was done in the hope of getting through or around it. [S.E. Morison, "The Oxford History of the United States," 1965]
+</blockquote>
+</dd>
+
+<dt><a href="/index.php?term=column&allowed_in_frame=0">column (n.)</a> <a href="http://dictionary.reference.com/search?q=column" class="dictionary" title="Look up column at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up column at Dictionary.com" title="Look up column at Dictionary.com" /></a></dt>
+<dd>mid-15c., "vertical division of a page," also "a pillar, post," from O.Fr. <span class="foreign">colombe</span> (12c., Mod.Fr. <span class="foreign">colonne</span> "column, pillar"), from L. <span class="foreign">columna</span> "pillar," collateral form of <span class="foreign">columen</span> "top, summit," from PIE root <span class="foreign">*kel-</span> "to project" (see <a href="/index.php?term=hill&allowed_in_frame=0" class="crossreference">hill</a>). Sense of "matter written for a newspaper" dates from 1785.</dd>
+
+<dt class="highlight"><a href="/index.php?term=columnar&allowed_in_frame=0">columnar (adj.)</a> <a href="http://dictionary.reference.com/search?q=columnar" class="dictionary" title="Look up columnar at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up columnar at Dictionary.com" title="Look up columnar at Dictionary.com" /></a></dt>
+<dd class="highlight">1728, from L.L. <span class="foreign">columnaris</span> "rising in the form of a pillar," from <span class="foreign">columna</span> "column" (see <a href="/index.php?term=column&allowed_in_frame=0" class="crossreference">column</a>).</dd>
+
+<dt><a href="/index.php?term=columnist&allowed_in_frame=0">columnist (n.)</a> <a href="http://dictionary.reference.com/search?q=columnist" class="dictionary" title="Look up columnist at Dictionary.com"><img src="graphics/dictionary.gif" width="16" height="16" alt="Look up columnist at Dictionary.com" title="Look up columnist at Dictionary.com" /></a></dt>
+<dd>1920, from <a href="/index.php?term=column&allowed_in_frame=0" class="crossreference">column</a> in the newspaper sense + <a href="/index.php?term=-ist&allowed_in_frame=0" class="crossreference">-ist</a>.</dd>
+
+ </dl>
+<div class="paging">
+<ul>
+ <li><a href="/index.php?l=c&amp;p=0&allowed_in_frame=0">1</a></li>
+ <li><a href="/index.php?l=c&amp;p=1&allowed_in_frame=0">2</a></li>
+ <li><a href="/index.php?l=c&amp;p=2&allowed_in_frame=0">3</a></li>
+ <li><a href="/index.php?l=c&amp;p=3&allowed_in_frame=0">4</a></li>
+ <li><a href="/index.php?l=c&amp;p=4&allowed_in_frame=0">5</a></li>
+ <li><a href="/index.php?l=c&amp;p=5&allowed_in_frame=0">6</a></li>
+ <li><a href="/index.php?l=c&amp;p=6&allowed_in_frame=0">7</a></li>
+ <li><a href="/index.php?l=c&amp;p=7&allowed_in_frame=0">8</a></li>
+ <li><a href="/index.php?l=c&amp;p=8&allowed_in_frame=0">9</a></li>
+ <li><a href="/index.php?l=c&amp;p=9&allowed_in_frame=0">10</a></li>
+ <li><a href="/index.php?l=c&amp;p=10&allowed_in_frame=0">11</a></li>
+ <li><a href="/index.php?l=c&amp;p=11&allowed_in_frame=0">12</a></li>
+ <li><a href="/index.php?l=c&amp;p=12&allowed_in_frame=0">13</a></li>
+ <li><a href="/index.php?l=c&amp;p=13&allowed_in_frame=0">14</a></li>
+ <li><a href="/index.php?l=c&amp;p=14&allowed_in_frame=0">15</a></li>
+ <li><a href="/index.php?l=c&amp;p=15&allowed_in_frame=0">16</a></li>
+ <li><a href="/index.php?l=c&amp;p=16&allowed_in_frame=0">17</a></li>
+ <li><a href="/index.php?l=c&amp;p=17&allowed_in_frame=0">18</a></li>
+ <li><a href="/index.php?l=c&amp;p=18&allowed_in_frame=0">19</a></li>
+ <li><a href="/index.php?l=c&amp;p=19&allowed_in_frame=0">20</a></li>
+ <li><a href="/index.php?l=c&amp;p=20&allowed_in_frame=0">21</a></li>
+ <li><a href="/index.php?l=c&amp;p=21&allowed_in_frame=0">22</a></li>
+ <li><a href="/index.php?l=c&amp;p=22&allowed_in_frame=0">23</a></li>
+ <li><a href="/index.php?l=c&amp;p=23&allowed_in_frame=0">24</a></li>
+ <li><a href="/index.php?l=c&amp;p=24&allowed_in_frame=0">25</a></li>
+ <li><a href="/index.php?l=c&amp;p=25&allowed_in_frame=0">26</a></li>
+ <li><a href="/index.php?l=c&amp;p=26&allowed_in_frame=0">27</a></li>
+ <li><a href="/index.php?l=c&amp;p=27&allowed_in_frame=0">28</a></li>
+ <li><a href="/index.php?l=c&amp;p=28&allowed_in_frame=0">29</a></li>
+ <li><a href="/index.php?l=c&amp;p=29&allowed_in_frame=0">30</a></li>
+ <li><a href="/index.php?l=c&amp;p=30&allowed_in_frame=0">31</a></li>
+ <li><a href="/index.php?l=c&amp;p=31&allowed_in_frame=0">32</a></li>
+ <li><a href="/index.php?l=c&amp;p=32&allowed_in_frame=0">33</a></li>
+ <li><a href="/index.php?l=c&amp;p=33&allowed_in_frame=0">34</a></li>
+ <li><a href="/index.php?l=c&amp;p=34&allowed_in_frame=0">35</a></li>
+ <li><a href="/index.php?l=c&amp;p=35&allowed_in_frame=0">36</a></li>
+ <li><a href="/index.php?l=c&amp;p=36&allowed_in_frame=0">37</a></li>
+ <li><a href="/index.php?l=c&amp;p=37&allowed_in_frame=0">38</a></li>
+ <li><a href="/index.php?l=c&amp;p=38&allowed_in_frame=0">39</a></li>
+ <li><a class="current" href="/index.php?l=c&amp;p=39&allowed_in_frame=0">40</a></li>
+ <li><a href="/index.php?l=c&amp;p=40&allowed_in_frame=0">41</a></li>
+ <li><a href="/index.php?l=c&amp;p=41&allowed_in_frame=0">42</a></li>
+ <li><a href="/index.php?l=c&amp;p=42&allowed_in_frame=0">43</a></li>
+ <li><a href="/index.php?l=c&amp;p=43&allowed_in_frame=0">44</a></li>
+ <li><a href="/index.php?l=c&amp;p=44&allowed_in_frame=0">45</a></li>
+ <li><a href="/index.php?l=c&amp;p=45&allowed_in_frame=0">46</a></li>
+ <li><a href="/index.php?l=c&amp;p=46&allowed_in_frame=0">47</a></li>
+ <li><a href="/index.php?l=c&amp;p=47&allowed_in_frame=0">48</a></li>
+ <li><a href="/index.php?l=c&amp;p=48&allowed_in_frame=0">49</a></li>
+ <li><a href="/index.php?l=c&amp;p=49&allowed_in_frame=0">50</a></li>
+ <li><a href="/index.php?l=c&amp;p=50&allowed_in_frame=0">51</a></li>
+ <li><a href="/index.php?l=c&amp;p=51&allowed_in_frame=0">52</a></li>
+ <li><a href="/index.php?l=c&amp;p=52&allowed_in_frame=0">53</a></li>
+ <li><a href="/index.php?l=c&amp;p=53&allowed_in_frame=0">54</a></li>
+ <li><a href="/index.php?l=c&amp;p=54&allowed_in_frame=0">55</a></li>
+ <li><a href="/index.php?l=c&amp;p=55&allowed_in_frame=0">56</a></li>
+ <li><a href="/index.php?l=c&amp;p=56&allowed_in_frame=0">57</a></li>
+ <li><a href="/index.php?l=c&amp;p=57&allowed_in_frame=0">58</a></li>
+ <li><a href="/index.php?l=c&amp;p=58&allowed_in_frame=0">59</a></li>
+ <li><a href="/index.php?l=c&amp;p=59&allowed_in_frame=0">60</a></li>
+ <li><a href="/index.php?l=c&amp;p=60&allowed_in_frame=0">61</a></li>
+ <li><a href="/index.php?l=c&amp;p=61&allowed_in_frame=0">62</a></li>
+ <li><a href="/index.php?l=c&amp;p=62&allowed_in_frame=0">63</a></li>
+ <li><a href="/index.php?l=c&amp;p=63&allowed_in_frame=0">64</a></li>
+ <li><a href="/index.php?l=c&amp;p=64&allowed_in_frame=0">65</a></li>
+ <li><a href="/index.php?l=c&amp;p=65&allowed_in_frame=0">66</a></li>
+ <li><a href="/index.php?l=c&amp;p=66&allowed_in_frame=0">67</a></li>
+ <li><a href="/index.php?l=c&amp;p=67&allowed_in_frame=0">68</a></li>
+ <li><a href="/index.php?l=c&amp;p=68&allowed_in_frame=0">69</a></li>
+ <li><a href="/index.php?l=c&amp;p=69&allowed_in_frame=0">70</a></li>
+ <li><a href="/index.php?l=c&amp;p=70&allowed_in_frame=0">71</a></li>
+ <li><a href="/index.php?l=c&amp;p=71&allowed_in_frame=0">72</a></li>
+ <li><a href="/index.php?l=c&amp;p=72&allowed_in_frame=0">73</a></li>
+ <li><a href="/index.php?l=c&amp;p=73&allowed_in_frame=0">74</a></li>
+ <li><a href="/index.php?l=c&amp;p=74&allowed_in_frame=0">75</a></li>
+</ul>
+</div> <!-- PAGING -->
+
+ </div> <!-- DICTIONARY -->
+
+ <div id="google-adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7093273770345366";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "000000";
+google_color_bg = "FFFBEC";
+google_color_link = "300020";
+google_color_url = "800020";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </div> <!-- GOOGLE-ADSENSE -->
+
+ <div class="blank">&nbsp;</div>
+ <div id="footer">
+  <ul id="links">
+   <li><a href="http://www.etymonline.com/abbr.php?allowed_in_frame=0" title="Introduction and abbreviations">Introduction and abbreviations</a></li>
+   <li><a href="/columns/bio.htm" title="Who did this?">Who did this?</a></li>
+   <li><a href="http://www.etymonline.com/sources.php?allowed_in_frame=0" title="Sources">Sources</a></li>
+   <li><a href="http://www.etymonline.com/columns/links.htm" title="Links">Links</a></li>
+  </ul>
+  <ul id="credits">
+   <li>&copy; 2001-2012 <a href="mailto:byronic106@yahoo.com" title="E-mail Douglas Harper">Douglas Harper</a></li>
+   <li><a href="http://www.logobee.com" title="Logo design by LogoBee.com">Custom logo design</a> by LogoBee.com</li>
+   <li>Page design and coding by <a href="http://binrock.net/" title="Binary Rock">Dan McCormack</a></li>
+<li><a href="http://www.etymonline.com/working/sponsors.php" title="sponsored words">Sponsored Words</a></li>
+  </ul>
+  <div class="blank">&nbsp;</div>
+ </div> <!-- FOOTER -->
+</div> <!-- CONTAINER -->
+
+
+<!-- New site launched 20040911.1230 -->
+<!-- Counter: 447658104 -->
+<!-- Page was generated in 0.176657 seconds. -->
+ </body>
+</html>
+<!-- -->

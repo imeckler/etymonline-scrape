@@ -20,10 +20,10 @@ letterDownloads c = do
     fstPage <- simpleHttp $ "http://www.etymonline.com/index.php?l=" ++ [c]
     B.writeFile (dataDir ++ [c] ++ "0") fstPage
     let ts = parseTags $ B.unpack fstPage
-    let pgNums = filter (all isNumber) . map fromTagText . filter isTagText . (!! 1) $ partitions  (~== ("<ul>")) ts
+    let pgNums = filter (all isNumber) . map fromTagText . filter isTagText . (!! 1) $ partitions  (~== "<ul>") ts
     return $ map (downloadLetterPage c) pgNums
 
 main = do
     downloadActions <- concat <$> mapM letterDownloads ['a'..'z']
-    parallel_ $ downloadActions
+    parallel_ downloadActions
     stopGlobalPool
